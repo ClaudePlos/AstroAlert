@@ -1,0 +1,3802 @@
+{
+ "generated_at": "2026-08-30T17:39:09Z",
+ "site": {
+  "title": "AstroAlert – co ciekawego dzieje się w kosmosie",
+  "url": "https://claudeplos.github.io/AstroAlert"
+ },
+ "sources": [
+  {
+   "id": "sky",
+   "name": "Obliczenia astronomiczne",
+   "status": "ok",
+   "count": 117
+  },
+  {
+   "id": "launchlibrary",
+   "name": "Starty rakiet (The Space Devs)",
+   "status": "skipped",
+   "count": 0,
+   "error": "tryb offline"
+  },
+  {
+   "id": "swpc",
+   "name": "Pogoda kosmiczna (NOAA SWPC)",
+   "status": "skipped",
+   "count": 0,
+   "error": "tryb offline"
+  },
+  {
+   "id": "neows",
+   "name": "Planetoidy (NASA NeoWs)",
+   "status": "skipped",
+   "count": 0,
+   "error": "tryb offline"
+  }
+ ],
+ "apod": null,
+ "stats": {
+  "total": 117,
+  "upcoming": 115,
+  "new_today": 117,
+  "by_category": {
+   "sky": 115,
+   "launch": 0,
+   "spaceweather": 0,
+   "asteroid": 0,
+   "mission": 0
+  }
+ },
+ "categories": {
+  "sky": "Niebo nad nami",
+  "launch": "Starty rakiet",
+  "spaceweather": "Pogoda kosmiczna",
+  "asteroid": "Planetoidy",
+  "mission": "Misje kosmiczne"
+ },
+ "events": [
+  {
+   "id": "czesciowe-zacmienie-ksiezyca-2026-08-28-2ddc0a5d",
+   "title": "Częściowe zaćmienie Księżyca",
+   "starts_at": "2026-08-28T04:13:00Z",
+   "category": "sky",
+   "subcategory": "eclipse",
+   "importance": 5,
+   "summary": "Ziemia zasłania część tarczy Księżyca – widać ciemny, wyraźnie zakrzywiony brzeg cienia naszej planety.",
+   "tags": [
+    "zaćmienie",
+    "Księżyc"
+   ],
+   "links": [
+    {
+     "label": "Szczegóły i mapa widoczności (NASA)",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": "Ameryki, Europa Zachodnia, Afryka",
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pe-nia-ksiezyca-2026-08-28-fc1e4a49",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2026-08-28T04:20:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Wodnika. Odległość od Ziemi: 390 701 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2026-09-04-fda58aed",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2026-09-04T07:56:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Byka. Odległość od Ziemi: 370 590 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-marsa-2026-09-06-c966e645",
+   "title": "Zbliżenie Księżyca i Marsa",
+   "starts_at": "2026-09-06T19:35:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 3,0° od Marsa – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Bliźniąt. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Mars",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.95
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2026-09-08-33a98f04",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2026-09-08T18:49:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 46′ od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.77
+   }
+  },
+  {
+   "id": "now-2026-09-11-9d0c7d9e",
+   "title": "Nów",
+   "starts_at": "2026-09-11T03:28:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Lwa. Odległość od Ziemi: 376 639 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-wenus-2026-09-14-90027f43",
+   "title": "Zbliżenie Księżyca i Wenus",
+   "starts_at": "2026-09-14T11:35:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 30′ od Wenus – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Wagi. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Wenus",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.51
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2026-09-18-371117b4",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2026-09-18T20:45:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 404 638 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "rownonoc-jesienna-2026-09-23-74f9dde5",
+   "title": "Równonoc jesienna",
+   "starts_at": "2026-09-23T00:06:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 3,
+   "summary": "Słońce przechodzi przez punkt Wagi. Początek astronomicznej jesieni i sezonu na zorze polarne – w okolicach równonocy burze geomagnetyczne zdarzają się statystycznie częściej.",
+   "tags": [
+    "Słońce",
+    "pory roku"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "opozycja-neptuna-2026-09-26-956c2101",
+   "title": "Opozycja Neptuna",
+   "starts_at": "2026-09-26T01:21:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 3,
+   "summary": "Neptun znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 28,86 au (4 318 mln km, światło leci stamtąd 240 minut). Planeta jest w gwiazdozbiorze Ryb. Wyłącznie przez teleskop.",
+   "tags": [
+    "Neptun",
+    "opozycja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "distance_au": 28.862
+   }
+  },
+  {
+   "id": "pe-nia-ksiezyca-2026-09-26-16bc7967",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2026-09-26T16:53:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Ryb. Odległość od Ziemi: 379 866 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2026-10-03-d6c6b798",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2026-10-03T13:27:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 369 962 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "opozycja-saturna-2026-10-04-57c187e5",
+   "title": "Opozycja Saturna",
+   "starts_at": "2026-10-04T11:57:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 5,
+   "summary": "Saturn znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 8,46 au (1 265 mln km, światło leci stamtąd 70 minut). Planeta jest w gwiazdozbiorze Ryb. Nawet mały teleskop pokaże pierścienie.",
+   "tags": [
+    "Saturn",
+    "opozycja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "distance_au": 8.457
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-marsa-2026-10-05-a55f5669",
+   "title": "Zbliżenie Księżyca i Marsa",
+   "starts_at": "2026-10-05T06:16:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,1° od Marsa – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Mars",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.07
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2026-10-06-1901551c",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2026-10-06T10:30:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 8′ od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.13
+   }
+  },
+  {
+   "id": "maksimum-roju-drakonidy-2026-10-08-f4ad3161",
+   "title": "Maksimum roju Drakonidy",
+   "starts_at": "2026-10-08T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": "Rój nieprzewidywalny: zwykle słaby, ale kilka razy w historii dał prawdziwe deszcze meteorów. Radiant świeci wysoko już wczesnym wieczorem. W maksimum teoretycznie do 10 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Smoka. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Drakonidy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Drakonidy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 10,
+    "moon_illumination": 0.07
+   }
+  },
+  {
+   "id": "now-2026-10-10-7329a8f9",
+   "title": "Nów",
+   "starts_at": "2026-10-10T15:51:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Panny. Odległość od Ziemi: 387 640 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-wenus-2026-10-12-abe490c9",
+   "title": "Zbliżenie Księżyca i Wenus",
+   "starts_at": "2026-10-12T04:35:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 2,9° od Wenus – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Wagi. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Wenus",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.86
+   }
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-wschodnia-25-2026-10-12-1ea0162a",
+   "title": "Maksymalna elongacja Merkurego (wschodnia, 25°)",
+   "starts_at": "2026-10-12T09:54:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 25° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, zachodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 25.2
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2026-10-18-3148c105",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2026-10-18T16:12:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Strzelca. Odległość od Ziemi: 403 318 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-orionidy-2026-10-21-f7e48ccc",
+   "title": "Maksimum roju Orionidy",
+   "starts_at": "2026-10-21T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 4,
+   "summary": "Druga w roku porcja pyłu z komety Halleya, z szybkimi i jasnymi meteorami. W maksimum teoretycznie do 20 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Oriona. Niestety Księżyc będzie oświetlony w 73% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Orionidy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Orionidy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 20,
+    "moon_illumination": 0.73
+   }
+  },
+  {
+   "id": "pe-nia-ksiezyca-2026-10-26-c9e3d1a1",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2026-10-26T04:19:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Barana. Odległość od Ziemi: 369 304 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2026-11-01-70b2e74f",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2026-11-01T20:28:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Raka. Odległość od Ziemi: 371 940 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-marsa-2026-11-02-b0a1c7b3",
+   "title": "Zbliżenie Księżyca i Marsa",
+   "starts_at": "2026-11-02T13:39:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 59′ od Marsa – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Mars",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.99
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2026-11-02-d7b6fecd",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2026-11-02T22:46:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 31′ od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.51
+   }
+  },
+  {
+   "id": "maksimum-roju-taurydy-po-udniowe-2026-11-05-04e92976",
+   "title": "Maksimum roju Taurydy Południowe",
+   "starts_at": "2026-11-05T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": "Niewiele meteorów, ale za to wyjątkowo dużo bolidów – powolnych i bardzo jasnych kul ognia. W maksimum teoretycznie do 5 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Byka. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Taurydy Południowe"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Taurydy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 5,
+    "moon_illumination": 0.18
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-wenus-2026-11-07-39a20f70",
+   "title": "Zbliżenie Księżyca i Wenus",
+   "starts_at": "2026-11-07T10:46:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 56′ od Wenus – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Panny. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Wenus",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.94
+   }
+  },
+  {
+   "id": "now-2026-11-09-3149470f",
+   "title": "Nów",
+   "starts_at": "2026-11-09T07:02:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Wagi. Odległość od Ziemi: 397 601 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "koniunkcja-marsa-i-jowisza-2026-11-16-fb486a91",
+   "title": "Koniunkcja Marsa i Jowisza",
+   "starts_at": "2026-11-16T01:55:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 3,
+   "summary": "Dwie planety dzieli na niebie zaledwie 1,2° – to mniej niż szerokość palca wyciągniętej ręki. Zjawisko widoczne nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Odległość od Słońca na niebie: 88°.",
+   "tags": [
+    "Mars",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.19
+   }
+  },
+  {
+   "id": "maksimum-roju-leonidy-2026-11-17-cf3cab2e",
+   "title": "Maksimum roju Leonidy",
+   "starts_at": "2026-11-17T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": "Rój, który co ok. 33 lata potrafi wybuchnąć burzą meteorów z tysiącami zjawisk na godzinę. W zwykłych latach jest spokojny. W maksimum teoretycznie do 15 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Lwa. Księżyc oświetlony w 46% nieco rozjaśni niebo. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Leonidy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Leonidy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 15,
+    "moon_illumination": 0.46
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2026-11-17-2f759f98",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2026-11-17T11:49:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 397 837 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-zachodnia-20-2026-11-20-048e5128",
+   "title": "Maksymalna elongacja Merkurego (zachodnia, 20°)",
+   "starts_at": "2026-11-20T23:22:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 20° – to najlepszy w tym sezonie moment na obserwację tej planety nad ranem, tuż przed wschodem Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, wschodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 19.6
+   }
+  },
+  {
+   "id": "pe-nia-ksiezyca-2026-11-24-d0cbf7b8",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2026-11-24T15:02:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Byka. Odległość od Ziemi: 361 093 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "opozycja-urana-2026-11-25-c1fcb9f8",
+   "title": "Opozycja Urana",
+   "starts_at": "2026-11-25T22:57:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 3,
+   "summary": "Uran znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 18,43 au (2 757 mln km, światło leci stamtąd 153 minut). Planeta jest w gwiazdozbiorze Byka. Na granicy widoczności gołym okiem, łatwy przez lornetkę.",
+   "tags": [
+    "Uran",
+    "opozycja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "distance_au": 18.427
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2026-11-30-1d6ec6cc",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2026-11-30T08:23:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,1° od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.06
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2026-12-01-76e16313",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2026-12-01T06:06:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Lwa. Odległość od Ziemi: 376 806 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "now-2026-12-09-baa12ac5",
+   "title": "Nów",
+   "starts_at": "2026-12-09T00:51:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 404 346 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-geminidy-2026-12-14-0e0e3271",
+   "title": "Maksimum roju Geminidy",
+   "starts_at": "2026-12-14T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 5,
+   "summary": "Najbogatszy rój roku i jedyny duży pochodzący nie z komety, lecz z planetoidy 3200 Phaethon. Meteory są powolne i często kolorowe. W maksimum teoretycznie do 150 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Bliźniąt. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Geminidy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Geminidy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 150,
+    "moon_illumination": 0.21
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2026-12-17-77fddd49",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2026-12-17T05:48:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Wodnika. Odległość od Ziemi: 389 735 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "przesilenie-zimowe-2026-12-21-c6f11fe6",
+   "title": "Przesilenie zimowe",
+   "starts_at": "2026-12-21T20:46:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 3,
+   "summary": "Najkrótszy dzień roku na półkuli północnej. Od tego momentu dnia zaczyna przybywać – początek astronomicznej zimy.",
+   "tags": [
+    "Słońce",
+    "pory roku"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-ursydy-2026-12-22-d5993ff7",
+   "title": "Maksimum roju Ursydy",
+   "starts_at": "2026-12-22T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": "Skromny, ale wygodny rój – radiant jest okołobiegunowy, więc widać go przez całą noc. W maksimum teoretycznie do 10 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Małej Niedźwiedzicy. Niestety Księżyc będzie oświetlony w 94% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Ursydy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Ursydy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 10,
+    "moon_illumination": 0.94
+   }
+  },
+  {
+   "id": "superpe-nia-ksiezyca-2026-12-24-79755ee9",
+   "title": "Superpełnia Księżyca",
+   "starts_at": "2026-12-24T01:35:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 3,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 356 940 km. To superpełnia – tarcza jest o kilka procent większa i wyraźnie jaśniejsza niż zwykle. Najefektowniej wygląda tuż po wschodzie, nisko nad horyzontem.",
+   "tags": [
+    "Księżyc",
+    "pełnia",
+    "superpełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2026-12-27-c5153930",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2026-12-27T16:30:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,4° od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.36
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2026-12-30-e232a1bd",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2026-12-30T18:57:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Panny. Odległość od Ziemi: 384 193 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-kwadrantydy-2027-01-03-e0a592a8",
+   "title": "Maksimum roju Kwadrantydy",
+   "starts_at": "2027-01-03T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 5,
+   "summary": "Pierwszy duży rój roku, o bardzo wąskim maksimum – trwa zaledwie kilka godzin, więc trafienie w nie jest kwestią szczęścia. W maksimum teoretycznie do 110 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Wolarza. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Kwadrantydy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Kwadrantydy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 110,
+    "moon_illumination": 0.19
+   }
+  },
+  {
+   "id": "maksymalna-elongacja-wenus-zachodnia-47-2027-01-03-50796e5d",
+   "title": "Maksymalna elongacja Wenus (zachodnia, 47°)",
+   "starts_at": "2027-01-03T18:37:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 3,
+   "summary": "Wenus odsuwa się od Słońca na 47° – to najlepszy w tym sezonie moment na obserwację tej planety nad ranem, tuż przed wschodem Słońca. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Szukaj nisko nad horyzontem, wschodnim, w czasie zmierzchu.",
+   "tags": [
+    "Wenus",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 47.0
+   }
+  },
+  {
+   "id": "peryhelium-ziemi-2027-01-04-2bbff19d",
+   "title": "Peryhelium Ziemi",
+   "starts_at": "2027-01-04T00:30:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 2,
+   "summary": "Ziemia jest najbliżej Słońca w tym roku: 147,1 mln km. Różnica między peryhelium a aphelium to około 5 mln km – to nie ona odpowiada za pory roku, tylko nachylenie osi obrotu Ziemi.",
+   "tags": [
+    "Ziemia",
+    "Słońce"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "now-2027-01-07-f6df9e01",
+   "title": "Nów",
+   "starts_at": "2027-01-07T20:24:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Strzelca. Odległość od Ziemi: 406 180 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pierwsza-kwadra-2027-01-15-291767b9",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-01-15T20:43:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Ryb. Odległość od Ziemi: 381 405 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "superpe-nia-ksiezyca-2027-01-22-379f9944",
+   "title": "Superpełnia Księżyca",
+   "starts_at": "2027-01-22T12:19:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 3,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Raka. Odległość od Ziemi: 357 802 km. To superpełnia – tarcza jest o kilka procent większa i wyraźnie jaśniejsza niż zwykle. Najefektowniej wygląda tuż po wschodzie, nisko nad horyzontem.",
+   "tags": [
+    "Księżyc",
+    "pełnia",
+    "superpełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-01-23-ecf9be7e",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-01-23T23:23:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,4° od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.36
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2027-01-29-d7d1a895",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-01-29T10:53:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Wagi. Odległość od Ziemi: 392 678 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-wschodnia-18-2027-02-03-2feec102",
+   "title": "Maksymalna elongacja Merkurego (wschodnia, 18°)",
+   "starts_at": "2027-02-03T06:10:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 18° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, zachodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 18.3
+   }
+  },
+  {
+   "id": "now-2027-02-06-7773f593",
+   "title": "Nów",
+   "starts_at": "2027-02-06T15:57:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 402 545 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "obraczkowe-zacmienie-s-onca-2027-02-06-9e067b42",
+   "title": "Obrączkowe zaćmienie Słońca",
+   "starts_at": "2027-02-06T16:00:00Z",
+   "category": "sky",
+   "subcategory": "eclipse",
+   "importance": 5,
+   "summary": "Pierścień ognia nad Ameryką Południową. W Polsce zjawisko niewidoczne. UWAGA: Słońce wolno obserwować wyłącznie przez atestowane filtry słoneczne – zwykłe okulary przeciwsłoneczne czy klisza NIE chronią wzroku.",
+   "tags": [
+    "zaćmienie",
+    "Słońce"
+   ],
+   "links": [
+    {
+     "label": "Szczegóły i mapa widoczności (NASA)",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": "Chile, Argentyna, Atlantyk; częściowe: Ameryka Południowa, Afryka Zachodnia",
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "opozycja-jowisza-2027-02-11-54b06067",
+   "title": "Opozycja Jowisza",
+   "starts_at": "2027-02-11T00:11:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 5,
+   "summary": "Jowisz znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 4,36 au (652 mln km, światło leci stamtąd 36 minut). Planeta jest w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe.",
+   "tags": [
+    "Jowisz",
+    "opozycja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "distance_au": 4.361
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-02-14-da64d3a7",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-02-14T08:08:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Barana. Odległość od Ziemi: 374 844 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "opozycja-marsa-2027-02-19-e212130e",
+   "title": "Opozycja Marsa",
+   "starts_at": "2027-02-19T15:44:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 5,
+   "summary": "Mars znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 0,68 au (101 mln km, światło leci stamtąd 6 minut). Planeta jest w gwiazdozbiorze Lwa. Wyraźnie pomarańczowy punkt.",
+   "tags": [
+    "Mars",
+    "opozycja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "distance_au": 0.678
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-02-20-a8281786",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-02-20T04:54:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,1° od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.12
+   }
+  },
+  {
+   "id": "po-cieniowe-zacmienie-ksiezyca-2027-02-20-08a18a53",
+   "title": "Półcieniowe zaćmienie Księżyca",
+   "starts_at": "2027-02-20T23:13:00Z",
+   "category": "sky",
+   "subcategory": "eclipse",
+   "importance": 3,
+   "summary": "Księżyc wchodzi tylko w półcień Ziemi – tarcza lekko przygasa, efekt subtelny i najlepiej widoczny na zdjęciach porównawczych.",
+   "tags": [
+    "zaćmienie",
+    "Księżyc"
+   ],
+   "links": [
+    {
+     "label": "Szczegóły i mapa widoczności (NASA)",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": "Ameryki, Europa, Afryka",
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pe-nia-ksiezyca-2027-02-20-b0e76019",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2027-02-20T23:21:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Lwa. Odległość od Ziemi: 363 528 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2027-02-28-fd215026",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-02-28T05:14:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 400 069 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-wenus-2027-03-04-df294844",
+   "title": "Zbliżenie Księżyca i Wenus",
+   "starts_at": "2027-03-04T20:33:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 2,0° od Wenus – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Koziorożca. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Wenus",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.0
+   }
+  },
+  {
+   "id": "now-2027-03-08-758a952e",
+   "title": "Nów",
+   "starts_at": "2027-03-08T09:32:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Wodnika. Odległość od Ziemi: 394 402 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pierwsza-kwadra-2027-03-15-bfb21968",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-03-15T16:33:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Byka. Odległość od Ziemi: 370 985 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-zachodnia-28-2027-03-17-3b9ea58f",
+   "title": "Maksymalna elongacja Merkurego (zachodnia, 28°)",
+   "starts_at": "2027-03-17T06:37:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 28° – to najlepszy w tym sezonie moment na obserwację tej planety nad ranem, tuż przed wschodem Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, wschodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 27.6
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-03-19-8c17a8dd",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-03-19T09:27:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 54′ od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.91
+   }
+  },
+  {
+   "id": "rownonoc-wiosenna-2027-03-20-c24119f4",
+   "title": "Równonoc wiosenna",
+   "starts_at": "2027-03-20T20:22:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 3,
+   "summary": "Słońce przechodzi przez punkt Barana. Dzień i noc mają zbliżoną długość, na półkuli północnej zaczyna się astronomiczna wiosna.",
+   "tags": [
+    "Słońce",
+    "pory roku"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pe-nia-ksiezyca-2027-03-22-e7e9117a",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2027-03-22T10:41:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Panny. Odległość od Ziemi: 372 830 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2027-03-30-4dc1550b",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-03-30T00:52:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Strzelca. Odległość od Ziemi: 404 249 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-wenus-2027-04-04-bbeaac06",
+   "title": "Zbliżenie Księżyca i Wenus",
+   "starts_at": "2027-04-04T03:36:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 2,9° od Wenus – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Wodnika. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Wenus",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.92
+   }
+  },
+  {
+   "id": "now-2027-04-06-d445f87c",
+   "title": "Nów",
+   "starts_at": "2027-04-06T23:57:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Ryb. Odległość od Ziemi: 383 796 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pierwsza-kwadra-2027-04-13-6321563a",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-04-13T23:01:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 369 905 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-04-15-349f1858",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-04-15T14:24:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 56′ od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.93
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-marsa-2027-04-15-fe36f4ed",
+   "title": "Zbliżenie Księżyca i Marsa",
+   "starts_at": "2027-04-15T22:50:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 3,0° od Marsa – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Mars",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 3.0
+   }
+  },
+  {
+   "id": "pe-nia-ksiezyca-2027-04-20-11144d38",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2027-04-20T22:25:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Wagi. Odległość od Ziemi: 383 720 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-lirydy-2027-04-22-e7ff3c2c",
+   "title": "Maksimum roju Lirydy",
+   "starts_at": "2027-04-22T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": "Najstarszy udokumentowany rój meteorów – Chińczycy opisali go już w 687 r. p.n.e. Pochodzi z komety Thatcher. W maksimum teoretycznie do 18 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Lutni. Niestety Księżyc będzie oświetlony w 99% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Lirydy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Lirydy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 18,
+    "moon_illumination": 0.99
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2027-04-28-64651a85",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-04-28T20:16:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 404 090 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-eta-akwarydy-2027-05-06-a9f16119",
+   "title": "Maksimum roju Eta Akwarydy",
+   "starts_at": "2027-05-06T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 4,
+   "summary": "Pył zgubiony przez kometę Halleya. Meteory są bardzo szybkie (66 km/s) i często zostawiają świecące smugi. W maksimum teoretycznie do 50 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Wodnika. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Eta Akwarydy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Eta_Akwarydy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 50,
+    "moon_illumination": 0.0
+   }
+  },
+  {
+   "id": "now-2027-05-06-a48be81d",
+   "title": "Nów",
+   "starts_at": "2027-05-06T11:06:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Barana. Odległość od Ziemi: 372 994 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "koniunkcja-wenus-i-saturna-2027-05-07-4bf9f5d6",
+   "title": "Koniunkcja Wenus i Saturna",
+   "starts_at": "2027-05-07T18:19:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 4,
+   "summary": "Dwie planety dzieli na niebie zaledwie 36′ – to mniej niż szerokość palca wyciągniętej ręki. Zjawisko widoczne nad ranem, przed wschodem Słońca, w gwiazdozbiorze Ryb. Odległość od Słońca na niebie: 26°.",
+   "tags": [
+    "Wenus",
+    "Saturn",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 0.6
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-05-12-dbd377f2",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-05-12T21:52:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,2° od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.24
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-05-13-ad425b18",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-05-13T04:45:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Raka. Odległość od Ziemi: 371 352 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-marsa-2027-05-13-c3ab81c0",
+   "title": "Zbliżenie Księżyca i Marsa",
+   "starts_at": "2027-05-13T17:06:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 3,0° od Marsa – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Mars",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.99
+   }
+  },
+  {
+   "id": "pe-nia-ksiezyca-2027-05-20-fdd575d6",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2027-05-20T10:56:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Wagi. Odległość od Ziemi: 394 089 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-wschodnia-23-2027-05-28-ccb5ee30",
+   "title": "Maksymalna elongacja Merkurego (wschodnia, 23°)",
+   "starts_at": "2027-05-28T09:57:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 23° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, zachodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 22.9
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2027-05-28-9d753b78",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-05-28T13:59:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Wodnika. Odległość od Ziemi: 399 913 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "now-2027-06-04-019c4796",
+   "title": "Nów",
+   "starts_at": "2027-06-04T19:48:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Byka. Odległość od Ziemi: 363 959 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-06-09-d48021b6",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-06-09T09:35:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 1,7° od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 1.71
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-06-11-650f552b",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-06-11T10:54:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Lwa. Odległość od Ziemi: 375 065 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pe-nia-ksiezyca-2027-06-19-ff58fa91",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2027-06-19T00:41:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 402 026 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "przesilenie-letnie-2027-06-21-6d5d142a",
+   "title": "Przesilenie letnie",
+   "starts_at": "2027-06-21T14:04:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 3,
+   "summary": "Najdłuższy dzień roku na półkuli północnej – Słońce osiąga najwyższe położenie na niebie. Początek astronomicznego lata.",
+   "tags": [
+    "Słońce",
+    "pory roku"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2027-06-27-06e230b8",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-06-27T04:58:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Ryb. Odległość od Ziemi: 393 183 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "now-2027-07-04-c589c9b6",
+   "title": "Nów",
+   "starts_at": "2027-07-04T03:08:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 358 206 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "aphelium-ziemi-2027-07-05-b2df2e5e",
+   "title": "Aphelium Ziemi",
+   "starts_at": "2027-07-05T15:37:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 2,
+   "summary": "Ziemia jest najdalej od Słońca w tym roku: 152,1 mln km. Różnica między peryhelium a aphelium to około 5 mln km – to nie ona odpowiada za pory roku, tylko nachylenie osi obrotu Ziemi.",
+   "tags": [
+    "Ziemia",
+    "Słońce"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-07-07T01:33:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 2,2° od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.23
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-07-10-90ae02d0",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-07-10T18:36:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Panny. Odległość od Ziemi: 380 772 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-zachodnia-21-2027-07-15-10e48181",
+   "title": "Maksymalna elongacja Merkurego (zachodnia, 21°)",
+   "starts_at": "2027-07-15T19:17:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 21° – to najlepszy w tym sezonie moment na obserwację tej planety nad ranem, tuż przed wschodem Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, wschodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 20.7
+   }
+  },
+  {
+   "id": "pe-nia-w-apogeum-mikrope-nia-2027-07-18-8272f47a",
+   "title": "Pełnia w apogeum (mikropełnia)",
+   "starts_at": "2027-07-18T15:45:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Strzelca. Odległość od Ziemi: 405 994 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia",
+    "mikropełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2027-07-26-d5abb4c8",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-07-26T17:01:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Barana. Odległość od Ziemi: 385 675 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-delta-akwarydy-2027-07-30-9b498a42",
+   "title": "Maksimum roju Delta Akwarydy",
+   "starts_at": "2027-07-30T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 4,
+   "summary": "Łagodne maksimum rozciągnięte na kilka nocy, dobrze widoczne z południa Europy. W maksimum teoretycznie do 25 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Wodnika. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Delta Akwarydy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Delta_Akwarydy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 25,
+    "moon_illumination": 0.16
+   }
+  },
+  {
+   "id": "now-2027-08-02-b5c4805f",
+   "title": "Nów",
+   "starts_at": "2027-08-02T10:07:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Raka. Odległość od Ziemi: 356 729 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ca-kowite-zacmienie-s-onca-najd-uzsze-stulecia-2027-08-02-7b195975",
+   "title": "Całkowite zaćmienie Słońca – najdłuższe stulecia",
+   "starts_at": "2027-08-02T10:07:00Z",
+   "category": "sky",
+   "subcategory": "eclipse",
+   "importance": 5,
+   "summary": "Faza całkowita trwa aż 6 minut i 23 sekundy – to najdłuższe zaćmienie widoczne z lądu w XXI wieku aż do 2114 roku. Pas całkowitości biegnie przez południową Hiszpanię i północną Afrykę, m.in. przez Luksor. W Polsce zobaczymy fazę częściową. UWAGA: Słońce wolno obserwować wyłącznie przez atestowane filtry słoneczne – zwykłe okulary przeciwsłoneczne czy klisza NIE chronią wzroku.",
+   "tags": [
+    "zaćmienie",
+    "Słońce"
+   ],
+   "links": [
+    {
+     "label": "Szczegóły i mapa widoczności (NASA)",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": "Hiszpania, Maroko, Algieria, Libia, Egipt, Arabia Saudyjska; częściowe w Polsce",
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-jowisza-2027-08-03-7e443f1c",
+   "title": "Zbliżenie Księżyca i Jowisza",
+   "starts_at": "2027-08-03T20:29:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": "Księżyc przechodzi w odległości zaledwie 2,7° od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Lwa. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+   "tags": [
+    "Księżyc",
+    "Jowisz",
+    "koniunkcja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "separation_deg": 2.73
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-08-09-0b3af592",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-08-09T04:52:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Wagi. Odległość od Ziemi: 387 959 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksimum-roju-perseidy-2027-08-12-ad0467d4",
+   "title": "Maksimum roju Perseidy",
+   "starts_at": "2027-08-12T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 5,
+   "summary": "Najpopularniejszy rój roku – wpada w wakacje i w ciepłe noce. Źródłem jest kometa 109P/Swift-Tuttle. W maksimum teoretycznie do 100 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Perseusza. Niestety Księżyc będzie oświetlony w 77% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i dala od miejskich świateł.",
+   "tags": [
+    "meteory",
+    "Perseidy"
+   ],
+   "links": [
+    {
+     "label": "Kalendarz rojów IMO",
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": "O roju – Wikipedia",
+     "url": "https://pl.wikipedia.org/wiki/Perseidy"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "zhr": 100,
+    "moon_illumination": 0.77
+   }
+  },
+  {
+   "id": "po-cieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c",
+   "title": "Półcieniowe zaćmienie Księżyca",
+   "starts_at": "2027-08-17T07:14:00Z",
+   "category": "sky",
+   "subcategory": "eclipse",
+   "importance": 3,
+   "summary": "Delikatne przygaśnięcie tarczy Księżyca w półcieniu Ziemi.",
+   "tags": [
+    "zaćmienie",
+    "Księżyc"
+   ],
+   "links": [
+    {
+     "label": "Szczegóły i mapa widoczności (NASA)",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": "Pacyfik, Azja Wschodnia, Australia",
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pe-nia-w-apogeum-mikrope-nia-2027-08-17-bd1295b7",
+   "title": "Pełnia w apogeum (mikropełnia)",
+   "starts_at": "2027-08-17T07:33:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 405 116 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia",
+    "mikropełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2027-08-25-a6ea6395",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-08-25T02:35:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Byka. Odległość od Ziemi: 378 825 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "now-2027-08-31-94729d76",
+   "title": "Nów",
+   "starts_at": "2027-08-31T17:40:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Lwa. Odległość od Ziemi: 359 845 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pierwsza-kwadra-2027-09-07-4ea0ccc6",
+   "title": "Pierwsza kwadra",
+   "starts_at": "2027-09-07T18:31:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę pierwsza kwadra w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 395 565 km.",
+   "tags": [
+    "Księżyc",
+    "pierwsza kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "pe-nia-ksiezyca-2027-09-15-bf62ffef",
+   "title": "Pełnia Księżyca",
+   "starts_at": "2027-09-15T23:10:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę pełnia w gwiazdozbiorze Wodnika. Odległość od Ziemi: 399 495 km.",
+   "tags": [
+    "Księżyc",
+    "pełnia"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "rownonoc-jesienna-2027-09-23-34db459d",
+   "title": "Równonoc jesienna",
+   "starts_at": "2027-09-23T05:55:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 3,
+   "summary": "Słońce przechodzi przez punkt Wagi. Początek astronomicznej jesieni i sezonu na zorze polarne – w okolicach równonocy burze geomagnetyczne zdarzają się statystycznie częściej.",
+   "tags": [
+    "Słońce",
+    "pory roku"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "ostatnia-kwadra-2027-09-23-73372107",
+   "title": "Ostatnia kwadra",
+   "starts_at": "2027-09-23T10:26:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": "Księżyc wchodzi w fazę ostatnia kwadra w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 373 571 km.",
+   "tags": [
+    "Księżyc",
+    "ostatnia kwadra"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  },
+  {
+   "id": "maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e",
+   "title": "Maksymalna elongacja Merkurego (wschodnia, 26°)",
+   "starts_at": "2027-09-24T21:58:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": "Merkury odsuwa się od Słońca na 26° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj nisko nad horyzontem, zachodnim, w czasie zmierzchu.",
+   "tags": [
+    "Merkury",
+    "elongacja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "elongation_deg": 26.3
+   }
+  },
+  {
+   "id": "opozycja-neptuna-2027-09-28-290cdcaa",
+   "title": "Opozycja Neptuna",
+   "starts_at": "2027-09-28T14:01:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 3,
+   "summary": "Neptun znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 28,86 au (4 317 mln km, światło leci stamtąd 240 minut). Planeta jest w gwiazdozbiorze Ryb. Wyłącznie przez teleskop.",
+   "tags": [
+    "Neptun",
+    "opozycja"
+   ],
+   "links": [
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {
+    "distance_au": 28.856
+   }
+  },
+  {
+   "id": "now-2027-09-30-31d0d29e",
+   "title": "Nów",
+   "starts_at": "2027-09-30T02:34:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": "Księżyc wchodzi w fazę nów w gwiazdozbiorze Panny. Odległość od Ziemi: 367 087 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+   "tags": [
+    "Księżyc",
+    "nów"
+   ],
+   "links": [
+    {
+     "label": "Fazy Księżyca – kalendarz",
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": "Mapa nieba na dziś (Stellarium Web)",
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": "Kalendarium – In-The-Sky.org",
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": "obliczenia własne (efemerydy)",
+   "source_id": "sky",
+   "added_on": "2026-08-30",
+   "extra": {}
+  }
+ ]
+}

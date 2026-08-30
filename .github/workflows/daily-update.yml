@@ -1,0 +1,102 @@
+name: Codzienna aktualizacja wydarzeń
+
+on:
+  schedule:
+    # 04:20 UTC = 06:20 czasu polskiego latem, 05:20 zimą
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Horyzont czasowy w dniach"
+        required: false
+        default: "400"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: astroalert-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Zbierz dane i zapisz w repozytorium
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Testy (efemerydy i parsery źródeł)
+        run: python -m unittest discover -s tests -v
+
+      - name: Pobierz dane i zbuduj kalendarz
+        env:
+          # opcjonalny klucz z https://api.nasa.gov - bez niego działa DEMO_KEY
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+          SITE_URL: ${{ format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: python scripts/collect.py --days ${{ github.event.inputs.days || '400' }}
+
+      - name: Zapisz zmiany w repozytorium
+        id: commit
+        run: |
+          git config user.name "AstroAlert bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data feed.xml
+          if git diff --cached --quiet; then
+            echo "Brak zmian w danych."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          NEW=$(python -c "import json;d=json.load(open('data/events.json'));print(d['stats']['new_today'])")
+          TOTAL=$(python -c "import json;d=json.load(open('data/events.json'));print(d['stats']['upcoming'])")
+          git commit -m "Aktualizacja kalendarza: ${NEW} nowych wpisów, ${TOTAL} nadchodzących wydarzeń"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:${GITHUB_REF_NAME}; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push nieudany, ponawiam za $((2 ** attempt))s…"
+            sleep $((2 ** attempt))
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
+          done
+          exit 1
+
+      - name: Podsumowanie przebiegu
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, pathlib
+          doc = json.loads(pathlib.Path("data/events.json").read_text(encoding="utf-8"))
+          print("## AstroAlert – wynik zbierania\n")
+          print(f"Wygenerowano: `{doc['generated_at']}`\n")
+          print(f"- nadchodzących wydarzeń: **{doc['stats']['upcoming']}**")
+          print(f"- nowych dzisiaj: **{doc['stats']['new_today']}**\n")
+          print("| Źródło | Status | Wpisów |")
+          print("|---|---|---|")
+          for s in doc["sources"]:
+              mark = {"ok": "✅", "error": "⚠️", "skipped": "⏭️"}.get(s["status"], "?")
+              print(f"| {s['name']} | {mark} {s['status']} | {s['count']} |")
+          now = doc["generated_at"]
+          upcoming = [e for e in doc["events"]
+                      if e["importance"] >= 4 and e["starts_at"] >= now][:10]
+          if upcoming:
+              print("\n### Najciekawsze najbliższe wydarzenia\n")
+              for e in upcoming:
+                  print(f"- `{e['starts_at'][:16]}` – {e['title']}")
+          PY
+
+  deploy:
+    name: Opublikuj portal
+    needs: update
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml

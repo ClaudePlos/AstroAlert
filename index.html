@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AstroAlert – co ciekawego dzieje się w kosmosie</title>
+<meta name="description" content="Codziennie aktualizowany kalendarz wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje planet, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.">
+<meta property="og:title" content="AstroAlert – co ciekawego dzieje się w kosmosie">
+<meta property="og:description" content="Kalendarz zjawisk na niebie i wydarzeń kosmicznych, odświeżany automatycznie każdego dnia.">
+<meta property="og:type" content="website">
+<link rel="alternate" type="application/rss+xml" title="AstroAlert – kanał RSS" href="feed.xml">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔭</text></svg>">
+</head>
+<body>
+<div class="starfield" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">🔭</span>
+      <div>
+        <h1>AstroAlert</h1>
+        <p class="tagline">Co ciekawego dzieje się nad naszymi głowami</p>
+      </div>
+    </div>
+    <p class="updated">Aktualizacja: <time id="generated">…</time> · <a href="feed.xml">RSS</a></p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section id="hero" class="hero" hidden>
+    <article class="hero-event">
+      <p class="eyebrow">Najbliższe wielkie wydarzenie</p>
+      <h2 id="hero-title">—</h2>
+      <p id="hero-when" class="hero-when"></p>
+      <div id="hero-countdown" class="countdown" role="timer" aria-live="polite"></div>
+      <p id="hero-summary" class="hero-summary"></p>
+      <div id="hero-links" class="links"></div>
+    </article>
+    <aside id="apod" class="apod" hidden>
+      <p class="eyebrow">Zdjęcie dnia NASA</p>
+      <a id="apod-link" href="#" target="_blank" rel="noopener">
+        <img id="apod-img" alt="" loading="lazy">
+      </a>
+      <h3 id="apod-title"></h3>
+      <p id="apod-credit" class="credit"></p>
+    </aside>
+  </section>
+
+  <section class="controls" aria-label="Filtrowanie wydarzeń">
+    <div class="search-row">
+      <input id="search" type="search" placeholder="Szukaj: Perseidy, Saturn, zaćmienie, Falcon…"
+             aria-label="Szukaj wydarzeń" autocomplete="off">
+      <label class="toggle">
+        <input type="checkbox" id="only-big">
+        <span>Tylko najciekawsze</span>
+      </label>
+      <label class="toggle">
+        <input type="checkbox" id="show-past">
+        <span>Pokaż minione</span>
+      </label>
+    </div>
+    <div id="filters" class="chips" role="group" aria-label="Kategorie"></div>
+  </section>
+
+  <p id="status" class="status" role="status">Wczytywanie danych…</p>
+  <div id="timeline" class="timeline"></div>
+  <p id="empty" class="empty" hidden>Nic nie pasuje do tych filtrów. Spróbuj wyczyścić wyszukiwanie.</p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h2>Skąd pochodzą dane</h2>
+      <ul id="sources" class="sources"></ul>
+    </div>
+    <div>
+      <h2>O portalu</h2>
+      <p>
+        Zjawiska na niebie – fazy Księżyca, koniunkcje, opozycje, elongacje, równonoce –
+        wyliczamy sami z efemeryd, więc kalendarz działa nawet wtedy, gdy zewnętrzne API
+        milczą. Starty rakiet, pogodę kosmiczną i przeloty planetoid dociągamy z otwartych
+        źródeł raz na dobę.
+      </p>
+      <p>
+        Godziny podajemy w Twojej strefie czasowej (<span id="tz"></span>).
+        Kod i dane są otwarte – <a href="https://github.com/ClaudePlos/AstroAlert">zobacz repozytorium</a>.
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

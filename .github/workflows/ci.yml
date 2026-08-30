@@ -1,0 +1,33 @@
+name: Testy
+
+on:
+  push:
+    branches-ignore: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Testy jednostkowe i próbny przebieg
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Testy jednostkowe
+        run: python -m unittest discover -s tests -v
+
+      - name: Próbny przebieg bez sieci (same obliczenia astronomiczne)
+        run: python scripts/collect.py --offline --dry-run
+
+      - name: Walidacja plików danych
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          for path in pathlib.Path("data").rglob("*.json"):
+              json.loads(path.read_text(encoding="utf-8"))
+              print(f"ok: {path}")
+          PY
