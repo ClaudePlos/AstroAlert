@@ -30,13 +30,50 @@ G_SCALE = {
 }
 
 
-def _parse_kp_forecast(rows: list[list[str]]) -> list[tuple[datetime, float]]:
-    out = []
-    for row in rows[1:]:  # pierwszy wiersz to naglowki
+TIME_FORMATS = ("%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M", "%Y-%m-%dT%H:%M:%SZ")
+
+
+def _parse_time(value: str) -> datetime | None:
+    for fmt in TIME_FORMATS:
         try:
-            when = datetime.strptime(row[0], "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
-            out.append((when, float(row[1])))
-        except (ValueError, IndexError):
+            return datetime.strptime(value.strip(), fmt).replace(tzinfo=timezone.utc)
+        except (ValueError, AttributeError):
+            continue
+    return None
+
+
+def _row_values(row) -> tuple[str, str] | None:
+    """Wyciaga (czas, Kp) z wiersza niezaleznie od postaci odpowiedzi.
+
+    SWPC podaje ten produkt jako tablice tablic z wierszem naglowkow, ale
+    bywa serwowany takze jako lista obiektow - obslugujemy oba warianty,
+    zeby zmiana po stronie NOAA nie wygaszala calego zrodla.
+    """
+    if isinstance(row, dict):
+        time_key = next((k for k in ("time_tag", "model_prediction_time", "date") if k in row), None)
+        kp_key = next((k for k in ("kp", "kp_index", "estimated_kp", "k_index") if k in row), None)
+        if time_key and kp_key:
+            return str(row[time_key]), str(row[kp_key])
+        return None
+    if isinstance(row, (list, tuple)) and len(row) >= 2:
+        return str(row[0]), str(row[1])
+    return None
+
+
+def _parse_kp_forecast(rows) -> list[tuple[datetime, float]]:
+    if not isinstance(rows, list):
+        raise FetchError(f"SWPC: nieoczekiwana odpowiedź typu {type(rows).__name__}")
+    out = []
+    for row in rows:
+        values = _row_values(row)
+        if not values:
+            continue
+        when = _parse_time(values[0])          # wiersz naglowkowy odpadnie tutaj
+        if when is None:
+            continue
+        try:
+            out.append((when, float(values[1])))
+        except ValueError:
             continue
     return out
 
@@ -45,7 +82,8 @@ def collect(now: datetime) -> list[dict]:
     rows = get_json(KP_FORECAST)
     forecast = _parse_kp_forecast(rows)
     if not forecast:
-        raise FetchError("SWPC: pusta prognoza Kp")
+        shape = rows[:2] if isinstance(rows, list) else rows
+        raise FetchError(f"SWPC: nie rozpoznano formatu prognozy Kp, początek odpowiedzi: {str(shape)[:160]}")
 
     # grupujemy po dobie i bierzemy dzienne maksimum
     by_day: dict[str, tuple[float, datetime]] = {}

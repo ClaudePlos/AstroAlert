@@ -10,6 +10,19 @@ from lib.text import num
 FEED = "https://api.nasa.gov/neo/rest/v1/feed?start_date={start}&end_date={end}&api_key={key}"
 MOON_DISTANCE_KM = 384_400.0
 
+#: przelot uznajemy za "bliski" ponizej tylu odleglosci Ziemia-Ksiezyc
+CLOSE_LD = 5.0
+#: duze obiekty (>= 300 m) pokazujemy takze dalej, ale nie w nieskonczonosc
+BIG_OBJECT_MAX_LD = 20.0
+
+
+def _clean_name(name: str) -> str:
+    """Katalogowe nazwy bywaja w nawiasach: "(2012 DF61)" -> "2012 DF61"."""
+    name = (name or "").strip()
+    if name.startswith("(") and name.endswith(")"):
+        name = name[1:-1].strip()
+    return name
+
 
 def _size_note(dmin: float, dmax: float) -> str:
     avg = (dmin + dmax) / 2.0
@@ -39,8 +52,11 @@ def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dic
                 dmin, dmax = est["estimated_diameter_min"], est["estimated_diameter_max"]
                 hazardous = obj.get("is_potentially_hazardous_asteroid", False)
 
-                # filtrujemy szum: interesuja nas bliskie przeloty albo duze obiekty
-                if lunar > 5 and dmax < 300 and not hazardous:
+                # filtrujemy szum: albo naprawde blisko, albo duzy obiekt
+                # w rozsadnym zasiegu - inaczej lista tonie w skalach mijajacych
+                # Ziemie w odleglosci setek promieni ksiezycowych
+                big = dmax >= 300 or hazardous
+                if lunar > CLOSE_LD and not (big and lunar <= BIG_OBJECT_MAX_LD):
                     continue
 
                 speed = float(approach["relative_velocity"]["kilometers_per_second"])
@@ -59,7 +75,8 @@ def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dic
                 events.append(
                     {
                         "uid": f"neo-{obj.get('id')}-{approach.get('close_approach_date')}",
-                        "title": f"Bliski przelot planetoidy {obj['name'].strip('()')}",
+                        "title": ("Bliski przelot planetoidy " if lunar <= CLOSE_LD
+                                  else "Przelot planetoidy ") + _clean_name(obj.get("name")),
                         "starts_at": when.isoformat().replace("+00:00", "Z"),
                         "category": "asteroid",
                         "subcategory": "close-approach",

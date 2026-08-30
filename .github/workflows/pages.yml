@@ -26,7 +26,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # Bez jawnego "ref" checkout bierze commit sprzed przebiegu, a zadanie
+      # zbierające dane commituje dopiero w trakcie - portal publikowałby
+      # wtedy dane o jeden przebieg starsze.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Sprawdź, czy dane są poprawne
         run: python -c "import json; json.load(open('data/events.json'))"
