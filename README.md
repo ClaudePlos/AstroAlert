@@ -156,7 +156,7 @@ o nazwie `NASA_API_KEY`.
 python3 scripts/collect.py --offline     # tylko obliczenia astronomiczne, bez sieci
 python3 scripts/collect.py               # pełny przebieg
 python3 scripts/collect.py --dry-run     # bez zapisywania plików
-python3 -m unittest discover -s tests    # 63 testy
+python3 -m unittest discover -s tests    # 71 testów
 python3 -m http.server 8000              # podgląd portalu na http://localhost:8000
 ```
 
@@ -257,7 +257,7 @@ Wszystkie progi siedzą w stałych na górze modułów – nie trzeba szukać po
 | Czułość na koniunkcje | `PLANET_PAIRS_MAX_SEP`, `MOON_PAIR_MAX_SEP` w `sources/sky.py` | 4° i 3° |
 | Które starty są ważne | słownik `HIGHLIGHTS` w `sources/launches.py` | załoga, Księżyc, Mars, nowe rakiety |
 | Od jakiej burzy informować o zorzy | `if level < 5` w `sources/spaceweather.py` | Kp ≥ 5 (G1) |
-| Które planetoidy pokazywać | warunek filtrujący w `sources/neo.py` | bliżej niż 5 odl. Księżyca **lub** > 300 m |
+| Które planetoidy pokazywać | `CLOSE_LD`, `BIG_OBJECT_MAX_LD` w `sources/neo.py` | bliżej niż 5 odl. Księżyca; obiekty ≥ 300 m także do 20 odl. |
 | Nazwy i kolejność kategorii | `CATEGORY_LABELS` w `collect.py` | 5 kategorii |
 | Kolory i ikony kategorii | `CATEGORY_COLORS`, `CATEGORY_ICONS` w `assets/app.js` oraz zmienne `--cat-*` w `assets/style.css` | motyw nocnego nieba |
 
@@ -300,7 +300,7 @@ data/
   custom_events.json    Twoje własne wpisy
   static/               roje meteorów, zaćmienia
   archive/              wydarzenia starsze niż 60 dni, rocznikami
-tests/                  63 testy (efemerydy, parsery API, scalanie danych)
+tests/                  71 testów (efemerydy, parsery API, scalanie danych)
 ```
 
 Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego instalować.

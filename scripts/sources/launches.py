@@ -6,9 +6,11 @@ from datetime import datetime
 
 from lib.http import FetchError, get_json
 
+#: tryb "list" oszczedza transfer, ale gubi operatora, kosmodrom i opis misji,
+#: wiec pobieramy pelne rekordy - jedno zapytanie na dobe zmiesci sie w limitach
 ENDPOINTS = (
-    "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=30&mode=list&hide_recent_previous=true",
-    "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&mode=list&hide_recent_previous=true",
+    "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=30&hide_recent_previous=true",
+    "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
 )
 
 #: slowa kluczowe podbijajace wage startu
@@ -67,10 +69,11 @@ def collect(now: datetime, limit: int = 25) -> list[dict]:
         if not net:
             continue
         name = item.get("name") or "Start rakiety"
+        lsp = item.get("launch_service_provider")
         provider = _first(
-            (item.get("launch_service_provider") or {}).get("name"),
-            item.get("launch_service_provider") if isinstance(item.get("launch_service_provider"), str) else None,
-        ) or "nieznany operator"
+            lsp.get("name") if isinstance(lsp, dict) else None,
+            lsp if isinstance(lsp, str) else None,
+        )
         pad = item.get("pad") or {}
         location = _first(
             (pad.get("location") or {}).get("name") if isinstance(pad, dict) else None,
@@ -88,7 +91,10 @@ def collect(now: datetime, limit: int = 25) -> list[dict]:
         rocket = item.get("rocket") or {}
         rocket_name = (rocket.get("configuration") or {}).get("full_name") if isinstance(rocket, dict) else None
 
-        parts = [f"Start rakiety {rocket_name or ''}".strip() + f" firmy/agencji {provider}."]
+        rocket_txt = f"rakiety {rocket_name}" if rocket_name else "rakiety"
+        parts = [
+            f"Start {rocket_txt} – {provider}." if provider else f"Start {rocket_txt}."
+        ]
         if location:
             parts.append(f"Miejsce: {location}.")
         parts.append(f"Status terminu: {status_pl}.")
@@ -110,6 +116,7 @@ def collect(now: datetime, limit: int = 25) -> list[dict]:
         links.append({"label": "Kalendarz startów – Space Launch Now", "url": "https://spacelaunchnow.me/"})
         links = [l for l in links if l.get("url")]
 
+        tags = ["start rakiety"] + ([provider] if provider else []) + tags
         events.append(
             {
                 "uid": f"ll2-{item.get('id')}" if item.get("id") else None,
@@ -119,7 +126,7 @@ def collect(now: datetime, limit: int = 25) -> list[dict]:
                 "subcategory": "rocket",
                 "importance": score,
                 "summary": " ".join(parts),
-                "tags": ["start rakiety", provider] + tags,
+                "tags": tags,
                 "location": location,
                 "links": links,
                 "source": "The Space Devs (Launch Library 2)",

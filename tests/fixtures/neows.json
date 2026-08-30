@@ -6,13 +6,22 @@
         "name": "(2010 PK9)",
         "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3542519",
         "is_potentially_hazardous_asteroid": true,
-        "estimated_diameter": {"meters": {"estimated_diameter_min": 220.5, "estimated_diameter_max": 493.1}},
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 220.5,
+            "estimated_diameter_max": 493.1
+          }
+        },
         "close_approach_data": [
           {
             "close_approach_date": "2026-09-01",
             "close_approach_date_full": "2026-Sep-01 07:43",
-            "relative_velocity": {"kilometers_per_second": "12.4"},
-            "miss_distance": {"kilometers": "1450000.0"}
+            "relative_velocity": {
+              "kilometers_per_second": "12.4"
+            },
+            "miss_distance": {
+              "kilometers": "1450000.0"
+            }
           }
         ]
       },
@@ -21,13 +30,22 @@
         "name": "(2026 QQ1)",
         "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3999888",
         "is_potentially_hazardous_asteroid": false,
-        "estimated_diameter": {"meters": {"estimated_diameter_min": 8.2, "estimated_diameter_max": 18.4}},
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 8.2,
+            "estimated_diameter_max": 18.4
+          }
+        },
         "close_approach_data": [
           {
             "close_approach_date": "2026-09-02",
             "close_approach_date_full": "2026-Sep-02 21:05",
-            "relative_velocity": {"kilometers_per_second": "6.8"},
-            "miss_distance": {"kilometers": "260000.0"}
+            "relative_velocity": {
+              "kilometers_per_second": "6.8"
+            },
+            "miss_distance": {
+              "kilometers": "260000.0"
+            }
           }
         ]
       },
@@ -35,13 +53,70 @@
         "id": "3111222",
         "name": "(2019 AB)",
         "is_potentially_hazardous_asteroid": false,
-        "estimated_diameter": {"meters": {"estimated_diameter_min": 30.0, "estimated_diameter_max": 60.0}},
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 30.0,
+            "estimated_diameter_max": 60.0
+          }
+        },
         "close_approach_data": [
           {
             "close_approach_date": "2026-09-03",
             "close_approach_date_full": "2026-Sep-03 10:00",
-            "relative_velocity": {"kilometers_per_second": "5.0"},
-            "miss_distance": {"kilometers": "40000000.0"}
+            "relative_velocity": {
+              "kilometers_per_second": "5.0"
+            },
+            "miss_distance": {
+              "kilometers": "40000000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2485823",
+        "name": "485823 (2012 DF61)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2485823",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 201.0,
+            "estimated_diameter_max": 449.0
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-04",
+            "close_approach_date_full": "2026-Sep-04 17:12",
+            "relative_velocity": {
+              "kilometers_per_second": "11.0"
+            },
+            "miss_distance": {
+              "kilometers": "45890000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2777111",
+        "name": "(2020 XR)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2777111",
+        "is_potentially_hazardous_asteroid": true,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 310.0,
+            "estimated_diameter_max": 690.0
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-05",
+            "close_approach_date_full": "2026-Sep-05 03:30",
+            "relative_velocity": {
+              "kilometers_per_second": "9.2"
+            },
+            "miss_distance": {
+              "kilometers": "4612800.0"
+            }
           }
         ]
       }
