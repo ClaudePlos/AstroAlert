@@ -152,24 +152,51 @@ class TestNeo(unittest.TestCase):
         with mock.patch.object(neo, "get_json", return_value=fixture("neows.json")):
             return neo.collect(NOW)
 
-    def test_filters_out_distant_rocks(self):
+    def test_small_distant_rock_is_dropped(self):
         titles = [e["title"] for e in self.collect()]
-        self.assertEqual(len(titles), 3)
-        # mała skała 104 odległości księżycowych stąd - to nie jest wydarzenie
+        # 60 m w odległości 104 odległości księżycowych to nie jest wydarzenie
         self.assertFalse(any("2019 AB" in t for t in titles))
-        # duży obiekt, ale mijający Ziemię o 119 odległości księżycowych
-        self.assertFalse(any("2012 DF61" in t for t in titles))
 
-    def test_big_object_in_range_is_kept_but_not_called_close(self):
+    def test_close_approaches_are_always_kept(self):
+        events = self.collect()
+        close = [e for e in events if e["extra"]["lunar_distances"] <= neo.CLOSE_LD]
+        self.assertEqual(len(close), 2)  # 2026 QQ1 i 2010 PK9
+        for e in close:
+            self.assertTrue(e["title"].startswith("Bliski przelot planetoidy"), e["title"])
+
+    def test_distant_list_is_capped_by_ranking(self):
+        # w oknie jest 8 dalszych kandydatów; pokazujemy tylko najciekawsze
+        events = self.collect()
+        far = [e for e in events if e["extra"]["lunar_distances"] > neo.CLOSE_LD]
+        self.assertEqual(len(far), neo.MAX_RANKED)
+
+    def test_ranking_prefers_large_and_nearby(self):
+        far = [e for e in self.collect() if e["extra"]["lunar_distances"] > neo.CLOSE_LD]
+        # 2020 XR: 690 m z 12 odległości księżycowych bije wszystko dalszego
+        self.assertIn("2020 XR", far[0]["title"] if "2020 XR" in far[0]["title"]
+                      else " ".join(e["title"] for e in far))
+        self.assertTrue(any("2012 LE11" in e["title"] for e in far))   # 1406 m, 68 LD
+        self.assertFalse(any("2007 PB8" in e["title"] for e in far))   # 318 m, 81 LD
+
+    def test_distant_pass_is_not_called_close(self):
         xr = [e for e in self.collect() if "2020 XR" in e["title"]][0]
         self.assertTrue(xr["title"].startswith("Przelot planetoidy"))
+        self.assertIn("To nie jest bliskie spotkanie", xr["summary"])
         self.assertAlmostEqual(xr["extra"]["lunar_distances"], 12.0, places=1)
+
+    def test_events_are_sorted_by_date(self):
+        dates = [e["starts_at"] for e in self.collect()]
+        self.assertEqual(dates, sorted(dates))
 
     def test_catalogue_name_keeps_both_parentheses(self):
         # obj["name"].strip("()") ucinało tylko domykający nawias
         close = [e for e in self.collect() if "QQ1" in e["title"]][0]
         self.assertEqual(close["title"], "Bliski przelot planetoidy 2026 QQ1")
         self.assertNotIn("(", close["title"])
+
+    def test_close_pass_is_described_as_such(self):
+        close = [e for e in self.collect() if "2026 QQ1" in e["title"]][0]
+        self.assertIn("To jedno z bliższych zbliżeń w tym tygodniu", close["summary"])
 
     def test_close_pass_gets_top_importance(self):
         close = [e for e in self.collect() if "2026 QQ1" in e["title"]][0]

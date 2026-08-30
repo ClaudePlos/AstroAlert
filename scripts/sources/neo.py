@@ -12,8 +12,10 @@ MOON_DISTANCE_KM = 384_400.0
 
 #: przelot uznajemy za "bliski" ponizej tylu odleglosci Ziemia-Ksiezyc
 CLOSE_LD = 5.0
-#: duze obiekty (>= 300 m) pokazujemy takze dalej, ale nie w nieskonczonosc
-BIG_OBJECT_MAX_LD = 20.0
+#: ile najciekawszych dalszych przelotow pokazac poza tymi naprawde bliskimi
+MAX_RANKED = 5
+#: ponizej tej srednicy dalszy przelot nie jest juz ciekawy
+MIN_DIAMETER_M = 150.0
 
 
 def _clean_name(name: str) -> str:
@@ -52,30 +54,28 @@ def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dic
                 dmin, dmax = est["estimated_diameter_min"], est["estimated_diameter_max"]
                 hazardous = obj.get("is_potentially_hazardous_asteroid", False)
 
-                # filtrujemy szum: albo naprawde blisko, albo duzy obiekt
-                # w rozsadnym zasiegu - inaczej lista tonie w skalach mijajacych
-                # Ziemie w odleglosci setek promieni ksiezycowych
-                big = dmax >= 300 or hazardous
-                if lunar > CLOSE_LD and not (big and lunar <= BIG_OBJECT_MAX_LD):
-                    continue
+                if lunar > CLOSE_LD and dmax < MIN_DIAMETER_M:
+                    continue  # mala skala daleko od Ziemi to nie jest wydarzenie
 
                 speed = float(approach["relative_velocity"]["kilometers_per_second"])
                 when = datetime.strptime(
                     approach["close_approach_date_full"], "%Y-%b-%d %H:%M"
                 ).replace(tzinfo=timezone.utc)
 
-                importance = 2
+                close = lunar <= CLOSE_LD
                 if lunar < 1:
                     importance = 5
                 elif lunar < 3:
                     importance = 4
-                elif hazardous and dmax > 300:
+                elif close or dmax >= 500:
                     importance = 3
+                else:
+                    importance = 2
 
                 events.append(
                     {
                         "uid": f"neo-{obj.get('id')}-{approach.get('close_approach_date')}",
-                        "title": ("Bliski przelot planetoidy " if lunar <= CLOSE_LD
+                        "title": ("Bliski przelot planetoidy " if close
                                   else "Przelot planetoidy ") + _clean_name(obj.get("name")),
                         "starts_at": when.isoformat().replace("+00:00", "Z"),
                         "category": "asteroid",
@@ -86,6 +86,12 @@ def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dic
                             f"Ziemię w odległości {num(miss_km / 1e6, 2)} mln km, czyli {num(lunar, 1)} "
                             f"odległości Ziemia–Księżyc, z prędkością {num(speed, 1)} km/s. Dla skali: "
                             f"{_size_note(dmin, dmax)}. "
+                            + (
+                                "To jedno z bliższych zbliżeń w tym tygodniu. "
+                                if close else
+                                "To nie jest bliskie spotkanie – obiekt trafia do zestawienia "
+                                "jako jeden z największych mijających nas w tym tygodniu. "
+                            )
                             + (
                                 "NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak "
                                 "wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, "
@@ -113,4 +119,20 @@ def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dic
                         },
                     }
                 )
-    return events
+    return _select(events)
+
+
+def _select(events: list[dict]) -> list[dict]:
+    """Zostawia przeloty naprawde bliskie oraz kilka najciekawszych dalszych.
+
+    W typowym tygodniu katalog nie zawiera zadnego zblizenia ponizej pieciu
+    odleglosci ksiezycowych, za to kilkanascie duzych obiektow mija Ziemie
+    kilkadziesiat razy dalej. Sztywny prog dawalby wiec albo pusta kategorie,
+    albo kilkanascie prawie identycznych wpisow - dlatego dalsze przeloty
+    porzadkujemy wedlug tego, jak duzy jest obiekt w stosunku do dystansu.
+    """
+    close = [e for e in events if e["extra"]["lunar_distances"] <= CLOSE_LD]
+    far = [e for e in events if e["extra"]["lunar_distances"] > CLOSE_LD]
+    far.sort(key=lambda e: e["extra"]["diameter_m"][1] / max(e["extra"]["lunar_distances"], 1.0),
+             reverse=True)
+    return sorted(close + far[:MAX_RANKED], key=lambda e: e["starts_at"])
