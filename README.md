@@ -1,14 +1,21 @@
 # 🔭 AstroAlert
 
+## ▶ Portal działa pod adresem: **https://claudeplos.github.io/AstroAlert/**
+
 Portal o tym, **co ciekawego dzieje się w kosmosie** – kalendarz zjawisk na niebie
 i wydarzeń kosmicznych, który sam się aktualizuje raz na dobę i hostuje się na
 GitHub Pages. Zero serwera, zero bazy danych, zero kosztów.
 
 | | |
 |---|---|
-| **Portal** | `https://<twoja-nazwa>.github.io/AstroAlert` |
-| **Kanał RSS** | `/feed.xml` |
-| **Dane** | `data/events.json` (otwarte, do użycia w innych projektach) |
+| **Portal** | https://claudeplos.github.io/AstroAlert/ |
+| **Kanał RSS** | https://claudeplos.github.io/AstroAlert/feed.xml |
+| **Dane** | [`data/events.json`](data/events.json) – otwarte, do użycia w innych projektach |
+| **Podgląd lokalny** | `python3 -m http.server 8000` → http://localhost:8000 |
+
+Jeśli pracujesz na własnym forku, Twój adres to
+`https://<twoja-nazwa>.github.io/<nazwa-repo>/` – pojawi się po wykonaniu kroków
+z sekcji [Uruchomienie u siebie](#uruchomienie-u-siebie).
 
 ## Co się dzieje raz dziennie
 
