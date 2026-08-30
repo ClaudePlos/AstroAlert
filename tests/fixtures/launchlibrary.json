@@ -1,0 +1,35 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "id": "b1f1e0d2-0000-4a00-9000-000000000001",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/b1f1e0d2-0000-4a00-9000-000000000001/",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-09-14T18:22:00Z",
+      "window_start": "2026-09-14T18:22:00Z",
+      "status": {"id": 1, "abbrev": "Go", "name": "Go for Launch"},
+      "launch_service_provider": {"id": 121, "name": "SpaceX", "type": "Commercial"},
+      "rocket": {"id": 7001, "configuration": {"full_name": "Falcon 9 Block 5"}},
+      "mission": {
+        "id": 6001,
+        "name": "Crew-13",
+        "type": "Human Exploration",
+        "description": "Trzynasty operacyjny lot załogowy statku Crew Dragon na Międzynarodową Stację Kosmiczną."
+      },
+      "pad": {"id": 80, "name": "LC-39A", "location": {"id": 27, "name": "Kennedy Space Center, FL, USA"}},
+      "vid_urls": [{"url": "https://www.youtube.com/watch?v=example"}],
+      "info_urls": []
+    },
+    {
+      "id": "b1f1e0d2-0000-4a00-9000-000000000002",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/b1f1e0d2-0000-4a00-9000-000000000002/",
+      "name": "Falcon 9 Block 5 | Starlink Group 12-9",
+      "net": "2026-09-02T04:11:00Z",
+      "status": {"name": "To Be Confirmed"},
+      "launch_service_provider": {"name": "SpaceX"},
+      "rocket": {"configuration": {"full_name": "Falcon 9 Block 5"}},
+      "mission": null,
+      "pad": {"name": "SLC-40", "location": {"name": "Cape Canaveral SFS, FL, USA"}}
+    }
+  ]
+}
