@@ -60,8 +60,13 @@ def now_utc() -> datetime:
     return datetime.now(timezone.utc).replace(microsecond=0)
 
 
+#: jedyne polskie litery bez rozkladu NFKD - trzeba je zamienic recznie
+_TRANSLIT = str.maketrans({"ł": "l", "Ł": "L"})
+
+
 def slugify(text: str) -> str:
-    text = unicodedata.normalize("NFKD", text)
+    """Zamienia tytul na czesc identyfikatora w URL-u."""
+    text = unicodedata.normalize("NFKD", text.translate(_TRANSLIT))
     text = "".join(c for c in text if not unicodedata.combining(c))
     text = re.sub(r"[^a-zA-Z0-9]+", "-", text).strip("-").lower()
     return text[:60] or "wydarzenie"

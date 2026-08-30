@@ -145,6 +145,11 @@ class TestSlug(unittest.TestCase):
     def test_polish_characters_are_transliterated(self):
         self.assertEqual(collect.slugify("Zaćmienie Księżyca"), "zacmienie-ksiezyca")
 
+    def test_stroked_l_survives(self):
+        # "ł" nie ma rozkladu NFKD - bez wlasnej podmiany wypadaloby "pe-nia"
+        self.assertEqual(collect.slugify("Pełnia Księżyca"), "pelnia-ksiezyca")
+        self.assertEqual(collect.slugify("Żółw ŁÓDŹ"), "zolw-lodz")
+
     def test_empty_input_has_fallback(self):
         self.assertEqual(collect.slugify("***"), "wydarzenie")
 

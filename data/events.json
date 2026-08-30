@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T17:39:09Z",
+ "generated_at": "2026-08-30T17:51:04Z",
  "site": {
   "title": "AstroAlert – co ciekawego dzieje się w kosmosie",
   "url": "https://claudeplos.github.io/AstroAlert"
@@ -87,7 +87,7 @@
    "extra": {}
   },
   {
-   "id": "pe-nia-ksiezyca-2026-08-28-fc1e4a49",
+   "id": "pelnia-ksiezyca-2026-08-28-fc1e4a49",
    "title": "Pełnia Księżyca",
    "starts_at": "2026-08-28T04:20:00Z",
    "category": "sky",
@@ -366,7 +366,7 @@
    }
   },
   {
-   "id": "pe-nia-ksiezyca-2026-09-26-16bc7967",
+   "id": "pelnia-ksiezyca-2026-09-26-16bc7967",
    "title": "Pełnia Księżyca",
    "starts_at": "2026-09-26T16:53:00Z",
    "category": "sky",
@@ -725,7 +725,7 @@
    }
   },
   {
-   "id": "pe-nia-ksiezyca-2026-10-26-c9e3d1a1",
+   "id": "pelnia-ksiezyca-2026-10-26-c9e3d1a1",
    "title": "Pełnia Księżyca",
    "starts_at": "2026-10-26T04:19:00Z",
    "category": "sky",
@@ -851,7 +851,7 @@
    }
   },
   {
-   "id": "maksimum-roju-taurydy-po-udniowe-2026-11-05-04e92976",
+   "id": "maksimum-roju-taurydy-poludniowe-2026-11-05-04e92976",
    "title": "Maksimum roju Taurydy Południowe",
    "starts_at": "2026-11-05T02:00:00Z",
    "category": "sky",
@@ -1085,7 +1085,7 @@
    }
   },
   {
-   "id": "pe-nia-ksiezyca-2026-11-24-d0cbf7b8",
+   "id": "pelnia-ksiezyca-2026-11-24-d0cbf7b8",
    "title": "Pełnia Księżyca",
    "starts_at": "2026-11-24T15:02:00Z",
    "category": "sky",
@@ -1380,7 +1380,7 @@
    }
   },
   {
-   "id": "superpe-nia-ksiezyca-2026-12-24-79755ee9",
+   "id": "superpelnia-ksiezyca-2026-12-24-79755ee9",
    "title": "Superpełnia Księżyca",
    "starts_at": "2026-12-24T01:35:00Z",
    "category": "sky",
@@ -1637,7 +1637,7 @@
    "extra": {}
   },
   {
-   "id": "superpe-nia-ksiezyca-2027-01-22-379f9944",
+   "id": "superpelnia-ksiezyca-2027-01-22-379f9944",
    "title": "Superpełnia Księżyca",
    "starts_at": "2027-01-22T12:19:00Z",
    "category": "sky",
@@ -1795,7 +1795,7 @@
    "extra": {}
   },
   {
-   "id": "obraczkowe-zacmienie-s-onca-2027-02-06-9e067b42",
+   "id": "obraczkowe-zacmienie-slonca-2027-02-06-9e067b42",
    "title": "Obrączkowe zaćmienie Słońca",
    "starts_at": "2027-02-06T16:00:00Z",
    "category": "sky",
@@ -1950,7 +1950,7 @@
    }
   },
   {
-   "id": "po-cieniowe-zacmienie-ksiezyca-2027-02-20-08a18a53",
+   "id": "polcieniowe-zacmienie-ksiezyca-2027-02-20-08a18a53",
    "title": "Półcieniowe zaćmienie Księżyca",
    "starts_at": "2027-02-20T23:13:00Z",
    "category": "sky",
@@ -1982,7 +1982,7 @@
    "extra": {}
   },
   {
-   "id": "pe-nia-ksiezyca-2027-02-20-b0e76019",
+   "id": "pelnia-ksiezyca-2027-02-20-b0e76019",
    "title": "Pełnia Księżyca",
    "starts_at": "2027-02-20T23:21:00Z",
    "category": "sky",
@@ -2230,7 +2230,7 @@
    "extra": {}
   },
   {
-   "id": "pe-nia-ksiezyca-2027-03-22-e7e9117a",
+   "id": "pelnia-ksiezyca-2027-03-22-e7e9117a",
    "title": "Pełnia Księżyca",
    "starts_at": "2027-03-22T10:41:00Z",
    "category": "sky",
@@ -2451,7 +2451,7 @@
    }
   },
   {
-   "id": "pe-nia-ksiezyca-2027-04-20-11144d38",
+   "id": "pelnia-ksiezyca-2027-04-20-11144d38",
    "title": "Pełnia Księżyca",
    "starts_at": "2027-04-20T22:25:00Z",
    "category": "sky",
@@ -2750,7 +2750,7 @@
    }
   },
   {
-   "id": "pe-nia-ksiezyca-2027-05-20-fdd575d6",
+   "id": "pelnia-ksiezyca-2027-05-20-fdd575d6",
    "title": "Pełnia Księżyca",
    "starts_at": "2027-05-20T10:56:00Z",
    "category": "sky",
@@ -2939,7 +2939,7 @@
    "extra": {}
   },
   {
-   "id": "pe-nia-ksiezyca-2027-06-19-ff58fa91",
+   "id": "pelnia-ksiezyca-2027-06-19-ff58fa91",
    "title": "Pełnia Księżyca",
    "starts_at": "2027-06-19T00:41:00Z",
    "category": "sky",
@@ -3184,7 +3184,7 @@
    }
   },
   {
-   "id": "pe-nia-w-apogeum-mikrope-nia-2027-07-18-8272f47a",
+   "id": "pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a",
    "title": "Pełnia w apogeum (mikropełnia)",
    "starts_at": "2027-07-18T15:45:00Z",
    "category": "sky",
@@ -3320,7 +3320,7 @@
    "extra": {}
   },
   {
-   "id": "ca-kowite-zacmienie-s-onca-najd-uzsze-stulecia-2027-08-02-7b195975",
+   "id": "calkowite-zacmienie-slonca-najdluzsze-stulecia-2027-08-02-7b195975",
    "title": "Całkowite zaćmienie Słońca – najdłuższe stulecia",
    "starts_at": "2027-08-02T10:07:00Z",
    "category": "sky",
@@ -3454,7 +3454,7 @@
    }
   },
   {
-   "id": "po-cieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c",
+   "id": "polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c",
    "title": "Półcieniowe zaćmienie Księżyca",
    "starts_at": "2027-08-17T07:14:00Z",
    "category": "sky",
@@ -3486,7 +3486,7 @@
    "extra": {}
   },
   {
-   "id": "pe-nia-w-apogeum-mikrope-nia-2027-08-17-bd1295b7",
+   "id": "pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7",
    "title": "Pełnia w apogeum (mikropełnia)",
    "starts_at": "2027-08-17T07:33:00Z",
    "category": "sky",
@@ -3615,7 +3615,7 @@
    "extra": {}
   },
   {
-   "id": "pe-nia-ksiezyca-2027-09-15-bf62ffef",
+   "id": "pelnia-ksiezyca-2027-09-15-bf62ffef",
    "title": "Pełnia Księżyca",
    "starts_at": "2027-09-15T23:10:00Z",
    "category": "sky",
