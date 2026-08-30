@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T18:05:03Z",
+ "generated_at": "2026-08-30T18:15:57Z",
  "site": {
   "title": "AstroAlert – co ciekawego dzieje się w kosmosie",
   "url": "https://ClaudePlos.github.io/AstroAlert"
@@ -20,15 +20,14 @@
   {
    "id": "swpc",
    "name": "Pogoda kosmiczna (NOAA SWPC)",
-   "status": "error",
-   "count": 0,
-   "error": "KeyError: 0"
+   "status": "ok",
+   "count": 0
   },
   {
    "id": "neows",
    "name": "Planetoidy (NASA NeoWs)",
    "status": "ok",
-   "count": 16
+   "count": 0
   }
  ],
  "apod": {
@@ -41,14 +40,14 @@
   "link": "https://apod.nasa.gov/apod/ap260830.html"
  },
  "stats": {
-  "total": 158,
-  "upcoming": 155,
-  "new_today": 158,
+  "total": 142,
+  "upcoming": 140,
+  "new_today": 142,
   "by_category": {
    "sky": 115,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 15,
+   "asteroid": 0,
    "mission": 0
   }
  },
@@ -125,197 +124,16 @@
    "extra": {}
   },
   {
-   "id": "neo-2485823-2026-08-30",
-   "title": "Bliski przelot planetoidy 485823 (2012 DF61",
-   "starts_at": "2026-08-30T17:12:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 201–449 m minie Ziemię w odległości 45,89 mln km, czyli 119,4 odległości Ziemia–Księżyc, z prędkością 11,0 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2485823"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 45892005,
-    "lunar_distances": 119.39,
-    "diameter_m": [
-     201,
-     449
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3840877-2026-08-30",
-   "title": "Bliski przelot planetoidy 2019 GK5",
-   "starts_at": "2026-08-30T19:37:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 221–494 m minie Ziemię w odległości 26,51 mln km, czyli 69,0 odległości Ziemia–Księżyc, z prędkością 12,6 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3840877"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 26507432,
-    "lunar_distances": 68.96,
-    "diameter_m": [
-     221,
-     494
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3605759-2026-08-30",
-   "title": "Bliski przelot planetoidy 2012 LE11",
-   "starts_at": "2026-08-30T22:14:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 629–1 406 m minie Ziemię w odległości 26,06 mln km, czyli 67,8 odległości Ziemia–Księżyc, z prędkością 10,1 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3605759"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 26064307,
-    "lunar_distances": 67.81,
-    "diameter_m": [
-     629,
-     1406
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3638466-2026-08-30",
-   "title": "Bliski przelot planetoidy 2013 JR28",
-   "starts_at": "2026-08-30T23:24:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 121–272 m minie Ziemię w odległości 39,18 mln km, czyli 101,9 odległości Ziemia–Księżyc, z prędkością 14,7 km/s. Dla skali: wielkości niewielkiego wzgórza. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-   "tags": [
-    "planetoida",
-    "NEO",
-    "potencjalnie niebezpieczna"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3638466"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 39176126,
-    "lunar_distances": 101.92,
-    "diameter_m": [
-     121,
-     272
-    ],
-    "hazardous": true
-   }
-  },
-  {
-   "id": "neo-3381230-2026-08-31",
-   "title": "Bliski przelot planetoidy 2007 PB8",
-   "starts_at": "2026-08-31T01:25:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 142–318 m minie Ziemię w odległości 31,13 mln km, czyli 81,0 odległości Ziemia–Księżyc, z prędkością 11,8 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3381230"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 31128825,
-    "lunar_distances": 80.98,
-    "diameter_m": [
-     142,
-     318
-    ],
-    "hazardous": false
-   }
-  },
-  {
    "id": "ll2-9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
    "title": "Electron | Owl Around The World (StriX Launch 11)",
    "starts_at": "2026-08-31T12:05:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Rocket Lab"
    ],
    "links": [
     {
@@ -327,84 +145,12 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
    "extra": {
     "status": "potwierdzony"
-   }
-  },
-  {
-   "id": "neo-3545238-2026-08-31",
-   "title": "Bliski przelot planetoidy 2010 QN1",
-   "starts_at": "2026-08-31T15:54:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 224–501 m minie Ziemię w odległości 36,93 mln km, czyli 96,1 odległości Ziemia–Księżyc, z prędkością 16,5 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3545238"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 36930895,
-    "lunar_distances": 96.07,
-    "diameter_m": [
-     224,
-     501
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3134262-2026-08-31",
-   "title": "Bliski przelot planetoidy 2002 RT",
-   "starts_at": "2026-08-31T23:41:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 172–384 m minie Ziemię w odległości 47,23 mln km, czyli 122,9 odległości Ziemia–Księżyc, z prędkością 35,6 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3134262"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 47232115,
-    "lunar_distances": 122.87,
-    "diameter_m": [
-     172,
-     384
-    ],
-    "hazardous": false
    }
   },
   {
@@ -414,10 +160,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Pallas-1 – Galactic Energy. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: First test launch of Galactic Energy’s Pallas-1 rocket. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Galactic Energy"
    ],
    "links": [
     {
@@ -429,121 +175,12 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
    "extra": {
     "status": "potwierdzony"
-   }
-  },
-  {
-   "id": "neo-3842911-2026-09-01",
-   "title": "Bliski przelot planetoidy 2019 LL6",
-   "starts_at": "2026-09-01T12:48:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 202–451 m minie Ziemię w odległości 29,29 mln km, czyli 76,2 odległości Ziemia–Księżyc, z prędkością 13,7 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3842911"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 29285401,
-    "lunar_distances": 76.18,
-    "diameter_m": [
-     202,
-     451
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3459879-2026-09-01",
-   "title": "Bliski przelot planetoidy 2001 SL264",
-   "starts_at": "2026-09-01T13:25:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 253–565 m minie Ziemię w odległości 56,67 mln km, czyli 147,4 odległości Ziemia–Księżyc, z prędkością 1,7 km/s. Dla skali: wielkości niewielkiego wzgórza. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3459879"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 56674997,
-    "lunar_distances": 147.44,
-    "diameter_m": [
-     253,
-     565
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3556968-2026-09-01",
-   "title": "Bliski przelot planetoidy 2011 CT4",
-   "starts_at": "2026-09-01T19:58:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": "Planetoida o średnicy szacowanej na 207–463 m minie Ziemię w odległości 71,16 mln km, czyli 185,1 odległości Ziemia–Księżyc, z prędkością 22,2 km/s. Dla skali: wielkości niewielkiego wzgórza. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-   "tags": [
-    "planetoida",
-    "NEO",
-    "potencjalnie niebezpieczna"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3556968"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 71157632,
-    "lunar_distances": 185.11,
-    "diameter_m": [
-     207,
-     463
-    ],
-    "hazardous": true
    }
   },
   {
@@ -553,10 +190,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "SpaceX"
    ],
    "links": [
     {
@@ -568,85 +205,12 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Vandenberg SFB, CA, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
    "extra": {
     "status": "potwierdzony"
-   }
-  },
-  {
-   "id": "neo-2337075-2026-09-03",
-   "title": "Bliski przelot planetoidy 337075 (1998 QC1",
-   "starts_at": "2026-09-03T14:31:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": "Planetoida o średnicy szacowanej na 290–649 m minie Ziemię w odległości 50,66 mln km, czyli 131,8 odległości Ziemia–Księżyc, z prędkością 23,3 km/s. Dla skali: wielkości niewielkiego wzgórza. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-   "tags": [
-    "planetoida",
-    "NEO",
-    "potencjalnie niebezpieczna"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2337075"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 50661467,
-    "lunar_distances": 131.79,
-    "diameter_m": [
-     290,
-     649
-    ],
-    "hazardous": true
-   }
-  },
-  {
-   "id": "neo-3842887-2026-09-03",
-   "title": "Bliski przelot planetoidy 2019 LL5",
-   "starts_at": "2026-09-03T14:58:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 516–1 154 m minie Ziemię w odległości 56,28 mln km, czyli 146,4 odległości Ziemia–Księżyc, z prędkością 18,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3842887"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 56280081,
-    "lunar_distances": 146.41,
-    "diameter_m": [
-     516,
-     1154
-    ],
-    "hazardous": false
    }
   },
   {
@@ -656,10 +220,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: potwierdzony. Misja: GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Indian Space Research Organization"
    ],
    "links": [
     {
@@ -671,7 +235,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Satish Dhawan Space Centre, India",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -718,10 +282,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin do potwierdzenia. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Spectrum – Isar Aerospace. Miejsce: Andøya Spaceport. Status terminu: termin do potwierdzenia. Misja: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Isar Aerospace"
    ],
    "links": [
     {
@@ -733,121 +297,12 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Andøya Spaceport",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
    "extra": {
     "status": "termin do potwierdzenia"
-   }
-  },
-  {
-   "id": "neo-3330049-2026-09-05",
-   "title": "Bliski przelot planetoidy 2006 HC2",
-   "starts_at": "2026-09-05T07:07:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 118–263 m minie Ziemię w odległości 52,94 mln km, czyli 137,7 odległości Ziemia–Księżyc, z prędkością 21,7 km/s. Dla skali: wielkości niewielkiego wzgórza. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-   "tags": [
-    "planetoida",
-    "NEO",
-    "potencjalnie niebezpieczna"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3330049"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 52936208,
-    "lunar_distances": 137.71,
-    "diameter_m": [
-     118,
-     263
-    ],
-    "hazardous": true
-   }
-  },
-  {
-   "id": "neo-2186822-2026-09-06",
-   "title": "Bliski przelot planetoidy 186822 (2004 FE31",
-   "starts_at": "2026-09-06T09:27:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 732–1 637 m minie Ziemię w odległości 29,58 mln km, czyli 77,0 odległości Ziemia–Księżyc, z prędkością 11,3 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2186822"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 29580201,
-    "lunar_distances": 76.95,
-    "diameter_m": [
-     732,
-     1637
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "neo-3408592-2026-09-06",
-   "title": "Bliski przelot planetoidy 2008 GA4",
-   "starts_at": "2026-09-06T09:39:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 362–809 m minie Ziemię w odległości 28,24 mln km, czyli 73,5 odległości Ziemia–Księżyc, z prędkością 24,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3408592"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 28238905,
-    "lunar_distances": 73.46,
-    "diameter_m": [
-     362,
-     809
-    ],
-    "hazardous": false
    }
   },
   {
@@ -857,10 +312,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "SpaceX"
    ],
    "links": [
     {
@@ -872,48 +327,12 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Vandenberg SFB, CA, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
    "extra": {
     "status": "potwierdzony"
-   }
-  },
-  {
-   "id": "neo-2246138-2026-09-06",
-   "title": "Bliski przelot planetoidy 246138 (2007 OG3",
-   "starts_at": "2026-09-06T15:11:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": "Planetoida o średnicy szacowanej na 595–1 331 m minie Ziemię w odległości 19,04 mln km, czyli 49,5 odległości Ziemia–Księżyc, z prędkością 4,9 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-   "tags": [
-    "planetoida",
-    "NEO"
-   ],
-   "links": [
-    {
-     "label": "Karta obiektu w bazie JPL",
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2246138"
-    },
-    {
-     "label": "Najbliższe przeloty – CNEOS",
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": "NASA NeoWs / CNEOS",
-   "source_id": "neows",
-   "added_on": "2026-08-30",
-   "extra": {
-    "miss_distance_km": 19039681,
-    "lunar_distances": 49.53,
-    "diameter_m": [
-     595,
-     1331
-    ],
-    "hazardous": false
    }
   },
   {
@@ -985,10 +404,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: potwierdzony. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Russian Federal Space Agency (ROSCOSMOS)"
    ],
    "links": [
     {
@@ -1000,7 +419,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1047,10 +466,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin do potwierdzenia. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "China Aerospace Science and Technology Corporation"
    ],
    "links": [
     {
@@ -1062,7 +481,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Wenchang Space Launch Site, People's Republic of China",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1108,10 +527,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Vega-C – Avio S.p.A. Miejsce: Guiana Space Centre, French Guiana. Status terminu: potwierdzony. Misja: Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Avio S.p.A"
    ],
    "links": [
     {
@@ -1123,7 +542,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Guiana Space Centre, French Guiana",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1260,10 +679,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Rocket Lab"
    ],
    "links": [
     {
@@ -1275,7 +694,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1290,10 +709,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 5,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator",
+    "SpaceX",
     "załoga"
    ],
    "links": [
@@ -1306,7 +725,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Cape Canaveral SFS, FL, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1321,10 +740,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "SpaceX"
    ],
    "links": [
     {
@@ -1336,7 +755,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Cape Canaveral SFS, FL, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1351,10 +770,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "SpaceX"
    ],
    "links": [
     {
@@ -1366,7 +785,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Vandenberg SFB, CA, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1381,10 +800,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Long March 12A – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "China Aerospace Science and Technology Corporation"
    ],
    "links": [
     {
@@ -1396,7 +815,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1411,10 +830,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 5,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin wstępny. Misja: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator",
+    "SpaceX",
     "Starship"
    ],
    "links": [
@@ -1427,7 +846,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "SpaceX Starbase, TX, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1442,10 +861,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 4,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Vulcan VC6L – United Launch Alliance. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator",
+    "United Launch Alliance",
     "nowa rakieta"
    ],
    "links": [
@@ -1458,7 +877,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Cape Canaveral SFS, FL, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1473,10 +892,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Rocket Lab"
    ],
    "links": [
     {
@@ -1488,7 +907,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1503,10 +922,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: BlackSky Gen-3 Earth-imaging satellites Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Rocket Lab"
    ],
    "links": [
     {
@@ -1518,7 +937,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1533,10 +952,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: BlackSky Gen-3 Earth-imaging satellites Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Rocket Lab"
    ],
    "links": [
     {
@@ -1548,7 +967,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1563,10 +982,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Themis Demonstrator – European Space Agency. Miejsce: Esrange Space Center. Status terminu: termin wstępny. Misja: First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "European Space Agency"
    ],
    "links": [
     {
@@ -1578,7 +997,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Esrange Space Center",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1717,10 +1136,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 4,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Ariane 64 Block 2 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator",
+    "Arianespace",
     "nowa rakieta"
    ],
    "links": [
@@ -1733,7 +1152,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Guiana Space Centre, French Guiana",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1748,10 +1167,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety KSLV-2 Nuri – Korea Aerospace Research Institute. Miejsce: Naro Space Center, South Korea. Status terminu: potwierdzony. Misja: NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Korea Aerospace Research Institute"
    ],
    "links": [
     {
@@ -1763,7 +1182,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Naro Space Center, South Korea",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -1942,10 +1361,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 4,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: potwierdzony. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety H3-24 – Mitsubishi Heavy Industries. Miejsce: Tanegashima Space Center, Japan. Status terminu: potwierdzony. Misja: MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator",
+    "Mitsubishi Heavy Industries",
     "Księżyc"
    ],
    "links": [
@@ -1958,7 +1377,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Tanegashima Space Center, Japan",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -2044,10 +1463,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "Rocket Lab"
    ],
    "links": [
     {
@@ -2059,7 +1478,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
@@ -2074,10 +1493,10 @@
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
-   "summary": "Start rakiety firmy/agencji nieznany operator. Status terminu: termin wstępny. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+   "summary": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
    "tags": [
     "start rakiety",
-    "nieznany operator"
+    "SpaceX"
    ],
    "links": [
     {
@@ -2089,7 +1508,7 @@
      "url": "https://spacelaunchnow.me/"
     }
    ],
-   "location": null,
+   "location": "Cape Canaveral SFS, FL, USA",
    "source": "The Space Devs (Launch Library 2)",
    "source_id": "launchlibrary",
    "added_on": "2026-08-30",
