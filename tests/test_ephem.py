@@ -33,7 +33,7 @@ class TestEphem(unittest.TestCase):
 
     def test_earth_perihelion_in_early_january(self):
         events = sky.apsides(dn(2026, 1, 1), dn(2026, 12, 31))
-        peri = [e for e in events if "Peryhelium" in e["title"]]
+        peri = [e for e in events if "Peryhelium" in e["title"]["pl"]]
         self.assertEqual(len(peri), 1)
         self.assertEqual(peri[0]["starts_at"][:7], "2026-01")
         self.assertLessEqual(int(peri[0]["starts_at"][8:10]), 7)
@@ -49,7 +49,8 @@ class TestEphem(unittest.TestCase):
                                (1 - ephem.cosd(ephem.moon_phase_angle(d))) / 2, places=9)
 
     def test_synodic_month_between_new_moons(self):
-        news = [e for e in sky.moon_phases(dn(2026, 1, 1), dn(2026, 12, 31)) if e["title"] == "Nów"]
+        news = [e for e in sky.moon_phases(dn(2026, 1, 1), dn(2026, 12, 31))
+                if e["title"]["pl"] == "Nów"]
         self.assertGreaterEqual(len(news), 12)
         times = [datetime.fromisoformat(e["starts_at"].replace("Z", "+00:00")) for e in news]
         for a, b in zip(times, times[1:]):
@@ -58,7 +59,7 @@ class TestEphem(unittest.TestCase):
 
     def test_full_moon_is_opposite_the_sun(self):
         fulls = [e for e in sky.moon_phases(dn(2026, 1, 1), dn(2026, 6, 30))
-                 if "Pełnia" in e["title"] or "pełnia" in e["title"]]
+                 if "ełni" in e["title"]["pl"]]
         self.assertGreaterEqual(len(fulls), 5)
         for e in fulls:
             d = ephem.day_number(datetime.fromisoformat(e["starts_at"].replace("Z", "+00:00")))
@@ -68,26 +69,30 @@ class TestEphem(unittest.TestCase):
         # Merkury nigdy nie odsuwa sie od Slonca dalej niz ~28 st., Wenus ~47 st.
         for day in range(0, 400, 3):
             d = dn(2026, 1, 1) + day
-            self.assertLess(ephem.elongation("Merkury", d), 29.0)
-            self.assertLess(ephem.elongation("Wenus", d), 48.0)
+            self.assertLess(ephem.elongation("Mercury", d), 29.0)
+            self.assertLess(ephem.elongation("Venus", d), 48.0)
+
+    def test_polish_names_still_work_as_aliases(self):
+        d = dn(2026, 6, 1)
+        self.assertEqual(ephem.body("Wenus", d)["lon"], ephem.body("Venus", d)["lon"])
+        self.assertEqual(ephem.body("Księżyc", d)["lon"], ephem.body("Moon", d)["lon"])
 
     def test_outer_planets_reach_opposition(self):
         events = sky.oppositions(dn(2026, 1, 1), dn(2027, 1, 1))
-        names = {e["title"] for e in events}
-        self.assertTrue(any("Jowisza" in n for n in names), names)
-        self.assertTrue(any("Saturna" in n for n in names), names)
+        bodies = {e["extra"]["body"] for e in events}
+        self.assertIn("Jupiter", bodies)
+        self.assertIn("Saturn", bodies)
         for e in events:
             d = ephem.day_number(datetime.fromisoformat(e["starts_at"].replace("Z", "+00:00")))
+            body = e["extra"]["body"]
             # w opozycji roznica dlugosci ekliptycznych planety i Slonca wynosi 180 st.
-            delta = ephem.rev180(
-                ephem.body(e["tags"][0], d)["lon"] - ephem.sun(d)["lon"] - 180.0
-            )
-            self.assertAlmostEqual(delta, 0.0, delta=0.01, msg=e["title"])
-            self.assertGreater(ephem.elongation(e["tags"][0], d), 172.0)
+            delta = ephem.rev180(ephem.body(body, d)["lon"] - ephem.sun(d)["lon"] - 180.0)
+            self.assertAlmostEqual(delta, 0.0, delta=0.01, msg=body)
+            self.assertGreater(ephem.elongation(body, d), 172.0)
 
     def test_seasons_land_on_expected_dates(self):
         events = sky.seasons(dn(2026, 1, 1), dn(2026, 12, 31))
-        got = {e["title"]: e["starts_at"][:10] for e in events}
+        got = {e["title"]["pl"]: e["starts_at"][:10] for e in events}
         self.assertEqual(len(got), 4)
         expected = {
             "Równonoc wiosenna": "2026-03-20",
@@ -101,8 +106,8 @@ class TestEphem(unittest.TestCase):
         # Pozycje kontrolne (dlugosc ekliptyczna) wg efemeryd JPL Horizons,
         # 2026-08-30 12:00 UTC. Tolerancja 0.3 st. - tyle wynosi bledy metody.
         d = dn(2026, 8, 30, 12)
-        for name, expected in (("Słońce", 157.1), ("Wenus", 202.0), ("Mars", 102.4),
-                               ("Jowisz", 133.4), ("Saturn", 13.7), ("Neptun", 3.7)):
+        for name, expected in (("Sun", 157.1), ("Venus", 202.0), ("Mars", 102.4),
+                               ("Jupiter", 133.4), ("Saturn", 13.7), ("Neptune", 3.7)):
             self.assertAlmostEqual(ephem.body(name, d)["lon"], expected, delta=0.3, msg=name)
 
     def test_conjunction_separation_is_a_real_minimum(self):
@@ -110,7 +115,7 @@ class TestEphem(unittest.TestCase):
         self.assertTrue(events)
         for e in events:
             d = ephem.day_number(datetime.fromisoformat(e["starts_at"].replace("Z", "+00:00")))
-            a, b = e["tags"][0], e["tags"][1]
+            a, b = e["extra"]["bodies"]
             sep = ephem.separation(ephem.body(a, d), ephem.body(b, d))
             self.assertLessEqual(sep, 4.01)
             # separacja rosnie po obu stronach - to faktycznie moment najwiekszego zblizenia
@@ -125,21 +130,30 @@ class TestSkyCollect(unittest.TestCase):
         events = sky.collect(datetime(2026, 8, 30, tzinfo=timezone.utc), days_ahead=365)
         self.assertGreater(len(events), 60)
         for e in events:
-            self.assertTrue(e["title"])
-            self.assertTrue(e["summary"])
+            for lang in ("pl", "en"):
+                self.assertTrue(e["title"][lang], e["title"])
+                self.assertTrue(e["summary"][lang], e["summary"])
             self.assertIn(e["category"], {"sky"})
             self.assertTrue(1 <= e["importance"] <= 5)
             self.assertTrue(e["links"])
             datetime.fromisoformat(e["starts_at"].replace("Z", "+00:00"))
+
+    def test_both_languages_differ(self):
+        # gdyby ktorys tekst zostal wygenerowany tylko raz, obie wersje bylyby
+        # identyczne - to najprostszy sygnal, ze tlumaczenie gdzies wypadlo
+        events = sky.collect(datetime(2026, 8, 30, tzinfo=timezone.utc), days_ahead=365)
+        identical = [e for e in events if e["summary"]["pl"] == e["summary"]["en"]]
+        self.assertEqual(identical, [])
 
     def test_static_datasets_show_up(self):
         events = sky.collect(datetime(2026, 8, 30, tzinfo=timezone.utc), days_ahead=365)
         subs = {e["subcategory"] for e in events}
         self.assertIn("meteors", subs)
         self.assertIn("eclipse", subs)
-        perseids = [e for e in events if "Perseidy" in e["title"]]
+        perseids = [e for e in events if "Perseidy" in e["title"]["pl"]]
         self.assertEqual(len(perseids), 1)
-        self.assertIn("ZHR", perseids[0]["summary"])
+        self.assertIn("ZHR", perseids[0]["summary"]["pl"])
+        self.assertIn("Perseids", perseids[0]["title"]["en"])
 
 
 if __name__ == "__main__":

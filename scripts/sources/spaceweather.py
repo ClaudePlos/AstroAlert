@@ -5,29 +5,14 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 
 from lib.http import FetchError, get_json
-from lib.text import num
+from lib.i18n import render
+from lib.text import fmt
 
 KP_FORECAST = "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json"
 ALERTS = "https://services.swpc.noaa.gov/products/alerts.json"
 
-#: skala burz geomagnetycznych NOAA
-G_SCALE = {
-    5: ("G1", "słaba burza geomagnetyczna", 3,
-        "Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy."),
-    6: ("G2", "umiarkowana burza geomagnetyczna", 4,
-        "Zorzę widać zwykle z południowej Skandynawii i Szkocji, a przy sprzyjających warunkach "
-        "jako łuna nad północnym horyzontem z północy Polski."),
-    7: ("G3", "silna burza geomagnetyczna", 5,
-        "Realna szansa na zorzę polarną z terenu Polski – szukaj czystego nieba i ciemnego miejsca "
-        "z odsłoniętym północnym horyzontem. Aparat na statywie zarejestruje ją nawet wtedy, gdy "
-        "gołym okiem widać tylko szarą łunę."),
-    8: ("G4", "bardzo silna burza geomagnetyczna", 5,
-        "Zorza polarna może być widoczna z całej Polski, także wysoko nad horyzontem. Takie burze "
-        "zdarzają się kilka razy w cyklu słonecznym – warto rzucić wszystko i wyjść na dwór."),
-    9: ("G5", "ekstremalna burza geomagnetyczna", 5,
-        "Zjawisko klasy tych z października 1989 czy maja 2024 – zorza widoczna nawet z południa "
-        "Europy, możliwe zakłócenia w sieciach energetycznych, GPS i łączności radiowej."),
-}
+#: skala burz geomagnetycznych NOAA: indeks Kp -> (kod, waga)
+G_SCALE = {5: ("G1", 3), 6: ("G2", 4), 7: ("G3", 5), 8: ("G4", 5), 9: ("G5", 5)}
 
 
 TIME_FORMATS = ("%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M", "%Y-%m-%dT%H:%M:%SZ")
@@ -99,29 +84,29 @@ def collect(now: datetime) -> list[dict]:
         level = int(kp)
         if level < 5:
             continue
-        code, label, importance, advice = G_SCALE[min(level, 9)]
+        code, importance = G_SCALE[min(level, 9)]
         events.append(
             {
-                "title": f"Burza geomagnetyczna {code} – szansa na zorzę polarną",
+                "title": render("sw.title", code=code),
                 "starts_at": when.isoformat().replace("+00:00", "Z"),
                 "category": "spaceweather",
                 "subcategory": "aurora",
                 "importance": importance,
-                "summary": (
-                    f"NOAA prognozuje na ten dzień indeks Kp = {num(kp, 0)}, czyli {label} ({code}). "
-                    f"{advice} Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i "
-                    f"potrafią się zmienić z godziny na godzinę."
-                ),
-                "tags": ["zorza polarna", "pogoda kosmiczna", code],
+                "summary": render("sw.summary", kp=fmt(kp, 0), code=code,
+                                  label=render(f"sw.{code}.label"),
+                                  advice=render(f"sw.{code}.advice")),
+                "tags": [render("tag.aurora"), render("tag.spaceweather"),
+                         {"pl": code, "en": code}],
                 "links": [
-                    {"label": "Prognoza zorzy NOAA (30 min)",
+                    {"label": render("link.aurora"),
                      "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"},
-                    {"label": "Aktualny indeks Kp",
+                    {"label": render("link.kp"),
                      "url": "https://www.swpc.noaa.gov/products/planetary-k-index"},
-                    {"label": "SpaceWeatherLive – zorze na żywo",
-                     "url": "https://www.spaceweatherlive.com/pl.html"},
+                    {"label": render("link.spaceweatherlive"),
+                     "url": {"pl": "https://www.spaceweatherlive.com/pl.html",
+                             "en": "https://www.spaceweatherlive.com/en.html"}},
                 ],
-                "source": "NOAA Space Weather Prediction Center",
+                "source": render("attribution.swpc"),
                 "source_id": "swpc",
                 "extra": {"kp": kp},
                 "ephemeral": True,  # prognoza krotkoterminowa - nie archiwizujemy jej na stale

@@ -44,8 +44,10 @@ class TestNormalize(unittest.TestCase):
         self.assertIsNone(collect.normalize(raw(starts="kiedyś"), TODAY))
 
     def test_links_without_url_are_removed(self):
-        ev = collect.normalize(raw(links=[{"label": "brak"}, {"label": "ok", "url": "https://a.pl"}]), TODAY)
+        ev = collect.normalize(
+            raw(links=[{"label": "brak"}, {"label": "ok", "url": "https://a.pl"}]), TODAY)
         self.assertEqual(len(ev["links"]), 1)
+        self.assertEqual(ev["links"][0]["label"], {"pl": "ok", "en": "ok"})
 
 
 class TestMerge(unittest.TestCase):
@@ -79,7 +81,7 @@ class TestMerge(unittest.TestCase):
     def test_working_source_replaces_its_old_events(self):
         old = [collect.normalize(raw(title="Stary wpis", source="sky"), "2026-08-01")]
         merged = collect.merge(old, [raw(title="Nowy wpis")], [{"id": "sky", "status": "ok"}], TODAY)
-        self.assertEqual([e["title"] for e in merged], ["Nowy wpis"])
+        self.assertEqual([e["title"]["pl"] for e in merged], ["Nowy wpis"])
 
     def test_ephemeral_forecasts_are_not_resurrected(self):
         old = [collect.normalize(raw(title="Burza G3", source="swpc", ephemeral=True), "2026-08-01")]
@@ -90,7 +92,7 @@ class TestMerge(unittest.TestCase):
         events = [raw(title="B", starts="2026-12-01T00:00:00Z"),
                   raw(title="A", starts="2026-09-01T00:00:00Z")]
         merged = collect.merge([], events, [{"id": "sky", "status": "ok"}], TODAY)
-        self.assertEqual([e["title"] for e in merged], ["A", "B"])
+        self.assertEqual([e["title"]["pl"] for e in merged], ["A", "B"])
 
 
 class TestPrune(unittest.TestCase):
@@ -101,7 +103,7 @@ class TestPrune(unittest.TestCase):
         keep, archived = collect.prune(events, NOW)
         self.assertEqual(len(keep), 1)
         self.assertEqual(len(archived), 1)
-        self.assertEqual(keep[0]["title"], "Nadchodzące")
+        self.assertEqual(keep[0]["title"]["pl"], "Nadchodzące")
 
     def test_recent_past_events_stay_visible(self):
         yesterday = (NOW - timedelta(days=1)).isoformat().replace("+00:00", "Z")
@@ -117,9 +119,9 @@ class TestPrune(unittest.TestCase):
 
 
 class TestFeed(unittest.TestCase):
-    def build(self):
+    def build(self, lang="pl"):
         events = [collect.normalize(raw(title="Zaćmienie Słońca & Księżyca"), TODAY)]
-        return collect.build_feed(events, NOW)
+        return collect.build_feed(events, NOW, lang)
 
     def test_feed_is_valid_xml(self):
         root = ET.fromstring(self.build())
@@ -136,9 +138,16 @@ class TestFeed(unittest.TestCase):
     def test_newest_entries_come_first(self):
         events = [collect.normalize(raw(title="Stare"), "2026-01-01"),
                   collect.normalize(raw(title="Nowe", starts="2026-10-01T00:00:00Z"), "2026-08-30")]
-        root = ET.fromstring(collect.build_feed(events, NOW))
+        root = ET.fromstring(collect.build_feed(events, NOW, "pl"))
         titles = [i.find("title").text for i in root.findall("./channel/item")]
         self.assertEqual(titles, ["Nowe", "Stare"])
+
+    def test_feed_exists_for_every_language(self):
+        events = [collect.normalize(raw(title={"pl": "Nów", "en": "New Moon"}), TODAY)]
+        for lang, expected in (("pl", "Nów"), ("en", "New Moon")):
+            root = ET.fromstring(collect.build_feed(events, NOW, lang))
+            self.assertEqual(root.find("./channel/item/title").text, expected)
+            self.assertIn(lang, root.find("./channel/language").text)
 
 
 class TestSlug(unittest.TestCase):
@@ -183,3 +192,19 @@ class TestRescheduleDetection(unittest.TestCase):
         old = [collect.normalize(raw(source="sky"), "2026-08-01")]
         merged = collect.merge(old, [raw(source="sky")], [{"id": "sky", "status": "ok"}], TODAY)
         self.assertNotIn("rescheduled_from", merged[0])
+
+
+class TestIdentity(unittest.TestCase):
+    """Identyfikator wpisu musi przetrwać ponowne znormalizowanie."""
+
+    def test_normalized_event_keeps_its_id(self):
+        first = collect.normalize(raw(uid="ll2-7", source="launchlibrary"), TODAY)
+        again = collect.normalize(first, "2026-09-05")
+        self.assertEqual(again["id"], first["id"])
+        self.assertEqual(again["added_on"], TODAY)
+
+    def test_id_ignores_translations(self):
+        # dodanie kolejnego jezyka nie moze zmienic adresu wpisu
+        one = collect.normalize(raw(title={"pl": "Nów", "en": "New Moon"}), TODAY)
+        two = collect.normalize(raw(title={"pl": "Nów", "en": "Neumond"}), TODAY)
+        self.assertEqual(one["id"], two["id"])

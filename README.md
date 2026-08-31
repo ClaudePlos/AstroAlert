@@ -9,7 +9,8 @@ GitHub Pages. Zero serwera, zero bazy danych, zero kosztów.
 | | |
 |---|---|
 | **Portal** | https://claudeplos.github.io/AstroAlert/ |
-| **Kanał RSS** | https://claudeplos.github.io/AstroAlert/feed.xml |
+| **English version** | https://claudeplos.github.io/AstroAlert/?lang=en |
+| **Kanał RSS** | [polski](https://claudeplos.github.io/AstroAlert/feed.xml) · [English](https://claudeplos.github.io/AstroAlert/feed.en.xml) |
 | **Dane** | [`data/events.json`](data/events.json) – otwarte, do użycia w innych projektach |
 | **Podgląd lokalny** | `python3 -m http.server 8000` → http://localhost:8000 |
 
@@ -140,6 +141,63 @@ tylko konkretne daty, ale i niezmienniki fizyczne: długość miesiąca
 synodycznego (29,53 dnia), maksymalną elongację Merkurego (< 29°) i Wenus
 (< 48°) czy zakres odległości Księżyca (352 000–407 000 km).
 
+## Dwie wersje językowe
+
+Portal działa po polsku i po angielsku. Wersję wybiera przełącznik **PL / EN**
+w nagłówku, a przy pierwszej wizycie decyduje język przeglądarki; wybór zapisuje
+się w `localStorage` i w adresie (`?lang=en`), więc da się wysłać komuś link
+od razu w jego języku.
+
+**Tłumaczenia nie powstają w przeglądarce ani w żadnym API.** Kolektor uruchamia
+się raz na dobę, więc taniej jest wygenerować obie wersje od razu: każde pole
+tekstowe wpisu jest obiektem `{"pl": "…", "en": "…"}`. Dzięki temu portal nie
+potrzebuje usługi tłumaczącej, a teksty są pisane ręcznie, nie maszynowo.
+
+### Gdzie leżą teksty
+
+| Warstwa | Plik |
+|---|---|
+| Opisy wydarzeń, nazwy planet, gwiazdozbiorów, etykiety odnośników | [`data/locales/pl.json`](data/locales/pl.json), [`data/locales/en.json`](data/locales/en.json) |
+| Roje meteorów i zaćmienia | `data/static/*.json` – pola `name`, `description`, `visibility` są obiektami z kluczami języków |
+| Interfejs portalu (nagłówki, filtry, stopka) | słownik `UI` w [`assets/app.js`](assets/app.js) |
+
+W kodzie źródeł nie ma już ani jednego zdania – zostaje sama astronomia:
+
+```python
+render("moon.summary", phase=render("moon.phase.full"),
+       zodiac=_zodiac(m["lon"]), dist=fmt(dist, 0))
+# -> {"pl": "Księżyc wchodzi w fazę pełni w gwiazdozbiorze Wodnika…",
+#     "en": "The Moon reaches full phase in Aquarius…"}
+```
+
+Parametry mogą być zwykłymi wartościami albo obiektami `{"pl": …, "en": …}` –
+te drugie rozwijają się osobno dla każdego języka, co pozwala odmieniać nazwy
+(*koniunkcja **Marsa** i **Jowisza*** kontra *conjunction of **Mars** and **Jupiter***).
+Liczby też: `fmt()` zwraca `1 234,57` po polsku i `1,234.57` po angielsku.
+
+Daty, nazwy miesięcy i odliczanie („za 3 dni" / „in 3 days") formatuje `Intl`
+w przeglądarce, więc odmiana liczebników nie wymaga własnych reguł.
+
+### Dodanie kolejnego języka
+
+1. Dopisz kod języka do `LANGS` w [`scripts/lib/i18n.py`](scripts/lib/i18n.py).
+2. Skopiuj `data/locales/pl.json` na `data/locales/<kod>.json` i przetłumacz wartości.
+3. Uzupełnij pola językowe w `data/static/*.json`.
+4. Dodaj sekcję do słownika `UI` w `assets/app.js` i wpis w `LOCALES` (kod BCP 47).
+
+Testy w [`tests/test_i18n.py`](tests/test_i18n.py) pilnują reszty: sprawdzają, czy
+katalogi mają identyczne klucze, czy pola `{w nawiasach}` się nie rozjechały, czy
+żaden klucz wołany z kodu nie zniknął i czy słownik interfejsu obejmuje wszystkie
+języki. Kanał RSS powstaje osobno dla każdego języka (`feed.xml`, `feed.en.xml`).
+
+### Czego nie tłumaczymy
+
+Opisy misji z Launch Library i tytuły zdjęć NASA przychodzą z API wyłącznie po
+angielsku i zostają w oryginale także w polskiej wersji – tłumaczenie ich
+wymagałoby zewnętrznej usługi, a portal ma działać bez żadnych kluczy API.
+Nazwy własne (rakiety, kosmodromy, oznaczenia katalogowe planetoid) są wspólne
+dla obu wersji.
+
 ## Uruchomienie u siebie
 
 1. Zrób forka lub sklonuj repozytorium.
@@ -163,7 +221,7 @@ o nazwie `NASA_API_KEY`.
 python3 scripts/collect.py --offline     # tylko obliczenia astronomiczne, bez sieci
 python3 scripts/collect.py               # pełny przebieg
 python3 scripts/collect.py --dry-run     # bez zapisywania plików
-python3 -m unittest discover -s tests    # 71 testów
+python3 -m unittest discover -s tests    # 99 testów
 python3 -m http.server 8000              # podgląd portalu na http://localhost:8000
 ```
 
@@ -181,27 +239,32 @@ i scalaniem zajmuje się `collect.py`.
 from datetime import datetime
 
 from lib.http import get_json          # klient z ponowieniami i timeoutem
-from lib.text import num               # liczby po polsku: "8,46", "370 590"
+from lib.i18n import literal, render    # teksty w obu językach naraz
+from lib.text import fmt                # liczby: "8,46" po polsku, "8.46" po angielsku
 
 
 def collect(now: datetime) -> list[dict]:
     data = get_json("https://przyklad.pl/api/wydarzenia.json")
     return [
         {
-            "title": item["name"],
+            "title": literal(item["name"]),     # nazwa własna – ta sama w obu wersjach
             "starts_at": item["date"],          # ISO 8601, zawsze UTC
             "category": "mission",              # sky | launch | spaceweather | asteroid | mission
             "importance": 4,                    # 1–5, od tego zależy filtr i hero
-            "summary": "Opis po polsku, 2–4 zdania.",
-            "tags": ["ESA"],
-            "links": [{"label": "Źródło", "url": item["url"]}],
-            "source": "Nazwa źródła",           # pokazywana w stopce portalu
+            "summary": render("moje.opis", cel=literal(item["target"])),
+            "tags": [render("tag.probe")],
+            "links": [{"label": render("link.launch_details"), "url": item["url"]}],
+            "source": render("attribution.moje-zrodlo"),
             "source_id": "moje-zrodlo",         # stały identyfikator techniczny
             "uid": f"moje-{item['id']}",        # opcjonalnie: stabilne ID wpisu
         }
         for item in data["results"]
     ]
 ```
+
+Klucze `moje.opis`, `attribution.moje-zrodlo` dopisujesz do
+`data/locales/pl.json` i `data/locales/en.json` – test parzystości kluczy
+przypomni, jeśli któryś zostanie tylko w jednym pliku.
 
 Następnie zarejestruj je w `scripts/collect.py`, w funkcji `gather()`:
 
@@ -232,16 +295,26 @@ premierę misji, wykład, zlot obserwatorów:
 ```json
 [
   {
-    "title": "Start misji Ariel (ESA)",
+    "title": {
+      "pl": "Start misji Ariel (ESA)",
+      "en": "Launch of ESA's Ariel mission"
+    },
     "starts_at": "2029-06-15T12:00:00Z",
     "category": "mission",
     "importance": 5,
-    "summary": "Teleskop kosmiczny ESA, który zbada atmosfery tysiąca egzoplanet.",
-    "tags": ["ESA", "egzoplanety"],
-    "links": [{"label": "Strona misji", "url": "https://arielmission.space/"}]
+    "summary": {
+      "pl": "Teleskop kosmiczny ESA, który zbada atmosfery tysiąca egzoplanet.",
+      "en": "An ESA space telescope that will survey the atmospheres of a thousand exoplanets."
+    },
+    "tags": [{"pl": "ESA", "en": "ESA"}],
+    "links": [{"label": {"pl": "Strona misji", "en": "Mission website"},
+               "url": "https://arielmission.space/"}]
   }
 ]
 ```
+
+Pola tekstowe wolno też podać zwykłym napisem – wtedy ten sam tekst trafi do
+wszystkich wersji językowych, co bywa wygodne przy szybkim wpisie.
 
 Wpisy przetrwają kolejne aktualizacje – automat ich nie nadpisuje.
 
@@ -264,7 +337,7 @@ Wszystkie progi siedzą w stałych na górze modułów – nie trzeba szukać po
 | Czułość na koniunkcje | `PLANET_PAIRS_MAX_SEP`, `MOON_PAIR_MAX_SEP` w `sources/sky.py` | 4° i 3° |
 | Które starty są ważne | słownik `HIGHLIGHTS` w `sources/launches.py` | załoga, Księżyc, Mars, nowe rakiety |
 | Od jakiej burzy informować o zorzy | `if level < 5` w `sources/spaceweather.py` | Kp ≥ 5 (G1) |
-| Które planetoidy pokazywać | `CLOSE_LD`, `BIG_OBJECT_MAX_LD` w `sources/neo.py` | bliżej niż 5 odl. Księżyca; obiekty ≥ 300 m także do 20 odl. |
+| Które planetoidy pokazywać | `CLOSE_LD`, `MAX_RANKED`, `MIN_DIAMETER_M` w `sources/neo.py` | wszystkie bliżej niż 5 odl. Księżyca + 5 największych dalszych |
 | Nazwy i kolejność kategorii | `CATEGORY_LABELS` w `collect.py` | 5 kategorii |
 | Kolory i ikony kategorii | `CATEGORY_COLORS`, `CATEGORY_ICONS` w `assets/app.js` oraz zmienne `--cat-*` w `assets/style.css` | motyw nocnego nieba |
 
@@ -290,7 +363,7 @@ wiedzieć, że:
 ## Struktura repozytorium
 
 ```
-index.html              portal (statyczny)
+index.html              portal (statyczny, dwujęzyczny)
 assets/                 style.css, app.js
 scripts/
   collect.py            orkiestrator: zbiera, scala, zapisuje, generuje RSS
@@ -301,13 +374,14 @@ scripts/
     spaceweather.py     burze geomagnetyczne i zorze
     neo.py              bliskie przeloty planetoid
     apod.py             zdjęcie dnia
-  lib/                  klient HTTP z ponowieniami, formatowanie liczb
+  lib/                  klient HTTP, katalog tłumaczeń, formatowanie liczb
 data/
   events.json           wynik – to czyta portal
+  locales/              teksty portalu: pl.json, en.json
   custom_events.json    Twoje własne wpisy
   static/               roje meteorów, zaćmienia
   archive/              wydarzenia starsze niż 60 dni, rocznikami
-tests/                  71 testów (efemerydy, parsery API, scalanie danych)
+tests/                  99 testów (efemerydy, parsery API, scalanie, katalog tłumaczeń)
 ```
 
 Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego instalować.
@@ -317,20 +391,22 @@ Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego in
 ```jsonc
 {
   "generated_at": "2026-08-30T04:20:11Z",
+  "languages": ["pl", "en"],
   "sources":  [ { "id": "swpc", "name": "…", "status": "ok", "count": 3 } ],
   "apod":     { "title": "…", "image": "…", "credit": "…" },
   "stats":    { "total": 132, "upcoming": 128, "new_today": 4 },
   "events": [
     {
       "id": "opozycja-saturna-2026-10-04-1a2b3c4d",
-      "title": "Opozycja Saturna",
+      "title": { "pl": "Opozycja Saturna", "en": "Saturn at opposition" },
       "starts_at": "2026-10-04T11:57:00Z",   // zawsze UTC, portal przelicza na czas lokalny
       "category": "sky",                      // sky | launch | spaceweather | asteroid | mission
       "importance": 5,                        // 1–5, portal filtruje po tym „tylko najciekawsze"
-      "summary": "…",
-      "tags": ["Saturn", "opozycja"],
-      "links": [ { "label": "…", "url": "…" } ],
-      "source": "obliczenia własne (efemerydy)",
+      "summary": { "pl": "…", "en": "…" },   // każde pole tekstowe ma wersje językowe
+      "tags": [ { "pl": "Saturn", "en": "Saturn" } ],
+      "links": [ { "label": { "pl": "…", "en": "…" }, "url": "…" } ],
+      "extra": { "body": "Saturn" },          // identyfikatory maszynowe, bez tłumaczeń
+      "source": { "pl": "…", "en": "…" },
       "added_on": "2026-08-30"                // stąd plakietka „nowy wpis"
     }
   ]

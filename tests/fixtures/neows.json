@@ -119,6 +119,174 @@
             }
           }
         ]
+      },
+      {
+        "id": "390000",
+        "name": "(2019 GK5)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 221,
+            "estimated_diameter_max": 494
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "26500000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "390001",
+        "name": "(2012 LE11)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 629,
+            "estimated_diameter_max": 1406
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "26100000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "390002",
+        "name": "(2008 GA4)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 362,
+            "estimated_diameter_max": 809
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "28300000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "390003",
+        "name": "(2019 LL6)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 202,
+            "estimated_diameter_max": 451
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "29300000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "390004",
+        "name": "(2007 PB8)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 142,
+            "estimated_diameter_max": 318
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "31100000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "390005",
+        "name": "(2002 RT)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 172,
+            "estimated_diameter_max": 384
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "47200000.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "390006",
+        "name": "(2019 LL5)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+        "is_potentially_hazardous_asteroid": false,
+        "estimated_diameter": {
+          "meters": {
+            "estimated_diameter_min": 516,
+            "estimated_diameter_max": 1154
+          }
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-09-06",
+            "close_approach_date_full": "2026-Sep-06 12:00",
+            "relative_velocity": {
+              "kilometers_per_second": "10.0"
+            },
+            "miss_distance": {
+              "kilometers": "56300000.0"
+            }
+          }
+        ]
       }
     ]
   }
