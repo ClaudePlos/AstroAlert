@@ -2,9 +2,8 @@
 
 from __future__ import annotations
 
-from datetime import datetime
-
 from lib.http import get_json
+from lib.i18n import literal, render
 
 URL = "https://api.nasa.gov/planetary/apod?api_key={key}&thumbs=true"
 
@@ -21,7 +20,9 @@ def collect(api_key: str = "DEMO_KEY") -> dict | None:
         "date": data.get("date"),
         "image": image,
         "hdimage": data.get("hdurl"),
-        "credit": data.get("copyright", "NASA/domena publiczna").strip(),
+        # autor bywa podany w API, inaczej wpisujemy neutralne źródło
+        "credit": literal(data["copyright"].strip()) if data.get("copyright")
+                  else render("apod.credit_default"),
         "explanation": data.get("explanation"),
         "link": f"https://apod.nasa.gov/apod/ap{(data.get('date') or '')[2:].replace('-', '')}.html",
     }

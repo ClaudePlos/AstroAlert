@@ -5,7 +5,8 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 
 from lib.http import get_json
-from lib.text import num
+from lib.i18n import literal, render
+from lib.text import fmt
 
 FEED = "https://api.nasa.gov/neo/rest/v1/feed?start_date={start}&end_date={end}&api_key={key}"
 MOON_DISTANCE_KM = 384_400.0
@@ -26,17 +27,20 @@ def _clean_name(name: str) -> str:
     return name
 
 
-def _size_note(dmin: float, dmax: float) -> str:
+def _size_note(dmin: float, dmax: float) -> dict:
+    """Porownanie rozmiaru do czegos wyobrazalnego."""
     avg = (dmin + dmax) / 2.0
     if avg < 20:
-        return "obiekt tej wielkości spłonąłby w atmosferze jako jasny bolid"
-    if avg < 60:
-        return "rozmiarami przypomina obiekt tunguski z 1908 roku"
-    if avg < 150:
-        return "wielkości sporego bloku mieszkalnego"
-    if avg < 500:
-        return "wielkości niewielkiego wzgórza"
-    return "obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi"
+        key = "neo.size.tiny"
+    elif avg < 60:
+        key = "neo.size.tunguska"
+    elif avg < 150:
+        key = "neo.size.building"
+    elif avg < 500:
+        key = "neo.size.hill"
+    else:
+        key = "neo.size.major"
+    return render(key)
 
 
 def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dict]:
@@ -75,41 +79,27 @@ def collect(now: datetime, api_key: str = "DEMO_KEY", days: int = 7) -> list[dic
                 events.append(
                     {
                         "uid": f"neo-{obj.get('id')}-{approach.get('close_approach_date')}",
-                        "title": ("Bliski przelot planetoidy " if close
-                                  else "Przelot planetoidy ") + _clean_name(obj.get("name")),
+                        "title": render("neo.title.close" if close else "neo.title.far",
+                                        name=literal(_clean_name(obj.get("name")))),
                         "starts_at": when.isoformat().replace("+00:00", "Z"),
                         "category": "asteroid",
                         "subcategory": "close-approach",
                         "importance": importance,
-                        "summary": (
-                            f"Planetoida o średnicy szacowanej na {num(dmin, 0)}–{num(dmax, 0)} m minie "
-                            f"Ziemię w odległości {num(miss_km / 1e6, 2)} mln km, czyli {num(lunar, 1)} "
-                            f"odległości Ziemia–Księżyc, z prędkością {num(speed, 1)} km/s. Dla skali: "
-                            f"{_size_note(dmin, dmax)}. "
-                            + (
-                                "To jedno z bliższych zbliżeń w tym tygodniu. "
-                                if close else
-                                "To nie jest bliskie spotkanie – obiekt trafia do zestawienia "
-                                "jako jeden z największych mijających nas w tym tygodniu. "
-                            )
-                            + (
-                                "NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak "
-                                "wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, "
-                                "które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża "
-                                "nam w przewidywalnej przyszłości."
-                                if hazardous else
-                                "Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się "
-                                "regularnie i są rutynowo śledzone."
-                            )
+                        "summary": render(
+                            "neo.summary", dmin=fmt(dmin, 0), dmax=fmt(dmax, 0),
+                            mln=fmt(miss_km / 1e6, 2), ld=fmt(lunar, 1), speed=fmt(speed, 1),
+                            size=_size_note(dmin, dmax),
+                            context=render("neo.context.close" if close else "neo.context.far"),
+                            hazard=render("neo.hazard.yes" if hazardous else "neo.hazard.no"),
                         ),
-                        "tags": ["planetoida", "NEO"] + (["potencjalnie niebezpieczna"] if hazardous else []),
+                        "tags": [render("tag.asteroid"), render("tag.neo")]
+                                + ([render("tag.pha")] if hazardous else []),
                         "links": [
-                            {"label": "Karta obiektu w bazie JPL",
+                            {"label": render("link.jpl"),
                              "url": obj.get("nasa_jpl_url", "https://cneos.jpl.nasa.gov/ca/")},
-                            {"label": "Najbliższe przeloty – CNEOS",
-                             "url": "https://cneos.jpl.nasa.gov/ca/"},
+                            {"label": render("link.cneos"), "url": "https://cneos.jpl.nasa.gov/ca/"},
                         ],
-                        "source": "NASA NeoWs / CNEOS",
+                        "source": render("attribution.neows"),
                         "source_id": "neows",
                         "extra": {
                             "miss_distance_km": round(miss_km),

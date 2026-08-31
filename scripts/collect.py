@@ -27,16 +27,19 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
+from lib.i18n import LANGS, literal, pick, render, t  # noqa: E402
 from sources import apod, launches, neo, sky, spaceweather  # noqa: E402
 
 DATA = ROOT / "data"
 EVENTS_FILE = DATA / "events.json"
 ARCHIVE_DIR = DATA / "archive"
 CUSTOM_FILE = DATA / "custom_events.json"
-FEED_FILE = ROOT / "feed.xml"
 
 SITE_URL = os.environ.get("SITE_URL", "https://claudeplos.github.io/AstroAlert")
-SITE_TITLE = "AstroAlert – co ciekawego dzieje się w kosmosie"
+
+#: kanal RSS dla jezyka domyslnego zostaje pod stara nazwa, zeby nie zerwac
+#: subskrypcji; kolejne jezyki dostaja wlasny plik
+FEED_FILES = {LANGS[0]: "feed.xml", **{lang: f"feed.{lang}.xml" for lang in LANGS[1:]}}
 
 #: jak dlugo trzymamy minione wydarzenia w glownym pliku
 KEEP_PAST_DAYS = 60
@@ -44,13 +47,25 @@ KEEP_PAST_DAYS = 60
 #: o ile musi przesunac sie termin, zeby uznac to za realna zmiane, a nie szum
 RESCHEDULE_THRESHOLD = timedelta(minutes=10)
 
-CATEGORY_LABELS = {
-    "sky": "Niebo nad nami",
-    "launch": "Starty rakiet",
-    "spaceweather": "Pogoda kosmiczna",
-    "asteroid": "Planetoidy",
-    "mission": "Misje kosmiczne",
-}
+CATEGORIES = ("sky", "launch", "spaceweather", "asteroid", "mission")
+
+
+def category_labels() -> dict:
+    """Nazwy kategorii we wszystkich jezykach: {"sky": {"pl": …, "en": …}}."""
+    return {key: render(f"category.{key}") for key in CATEGORIES}
+
+
+def text(value, default: str = "") -> dict:
+    """Sprowadza pole tekstowe do postaci wielojezycznej.
+
+    Zrodla generuja teksty od razu w kazdym jezyku, ale wpisy redakcyjne
+    w data/custom_events.json wolno pisac zwyklym napisem - wtedy ten sam
+    tekst trafia do wszystkich wersji jezykowych.
+    """
+    if isinstance(value, dict) and set(value) & set(LANGS):
+        return {lang: str(value.get(lang, value.get(LANGS[0], default))).strip()
+                for lang in LANGS}
+    return literal(str(value).strip() if value else default)
 
 
 # --- narzedzia --------------------------------------------------------------
@@ -73,12 +88,16 @@ def slugify(text: str) -> str:
 
 
 def event_id(ev: dict) -> str:
+    if ev.get("id"):
+        return ev["id"]  # wpis juz znormalizowany - tozsamosc sie nie zmienia
     if ev.get("uid"):
         return slugify(ev["uid"])
     day = (ev.get("starts_at") or "")[:10]
-    base = f"{ev.get('source_id', 'x')}|{ev.get('title', '')}|{day}"
+    # identyfikator liczymy z jezyka domyslnego, zeby nie zmienil sie przy
+    # dodaniu kolejnego tlumaczenia
+    base = f"{ev.get('source_id', 'x')}|{pick(ev.get('title', ''), LANGS[0])}|{day}"
     digest = hashlib.sha1(base.encode("utf-8")).hexdigest()[:8]
-    return f"{slugify(ev.get('title', ''))}-{day}-{digest}"
+    return f"{slugify(pick(ev.get('title', ''), LANGS[0]))}-{day}-{digest}"
 
 
 def parse_dt(value: str) -> datetime | None:
@@ -117,7 +136,9 @@ def gather(now: datetime, days: int, offline: bool, nasa_key: str) -> tuple[list
     report: list[dict] = []
     events: list[dict] = []
 
-    def run(source_id: str, name: str, fn):
+    def run(source_id: str, fn):
+        name = render(f"source.{source_id}")
+        label = name[LANGS[0]]
         if offline and source_id != "sky":
             report.append({"id": source_id, "name": name, "status": "skipped",
                            "count": 0, "error": "tryb offline"})
@@ -126,17 +147,17 @@ def gather(now: datetime, days: int, offline: bool, nasa_key: str) -> tuple[list
             got = fn() or []
             events.extend(got)
             report.append({"id": source_id, "name": name, "status": "ok", "count": len(got)})
-            print(f"  [ok]   {name}: {len(got)} wpisów")
+            print(f"  [ok]   {label}: {len(got)} wpisów")
         except Exception as exc:  # zrodlo nie moze wywrocic calego przebiegu
             report.append({"id": source_id, "name": name, "status": "error",
                            "count": 0, "error": f"{type(exc).__name__}: {exc}"[:300]})
-            print(f"  [błąd] {name}: {exc}", file=sys.stderr)
+            print(f"  [błąd] {label}: {exc}", file=sys.stderr)
 
     print("Zbieranie danych…")
-    run("sky", "Obliczenia astronomiczne", lambda: sky.collect(now, days_ahead=days))
-    run("launchlibrary", "Starty rakiet (The Space Devs)", lambda: launches.collect(now))
-    run("swpc", "Pogoda kosmiczna (NOAA SWPC)", lambda: spaceweather.collect(now))
-    run("neows", "Planetoidy (NASA NeoWs)", lambda: neo.collect(now, api_key=nasa_key))
+    run("sky", lambda: sky.collect(now, days_ahead=days))
+    run("launchlibrary", lambda: launches.collect(now))
+    run("swpc", lambda: spaceweather.collect(now))
+    run("neows", lambda: neo.collect(now, api_key=nasa_key))
 
     picture = None
     if not offline:
@@ -148,13 +169,14 @@ def gather(now: datetime, days: int, offline: bool, nasa_key: str) -> tuple[list
 
     custom = load_json(CUSTOM_FILE, [])
     for ev in custom:
-        ev.setdefault("source", "wpis redakcyjny")
+        ev.setdefault("source", render("attribution.custom"))
         ev.setdefault("source_id", "custom")
         ev.setdefault("category", "mission")
         ev.setdefault("importance", 3)
     if custom:
         events.extend(custom)
-        report.append({"id": "custom", "name": "Wpisy własne", "status": "ok", "count": len(custom)})
+        report.append({"id": "custom", "name": render("source.custom"),
+                       "status": "ok", "count": len(custom)})
 
     return events, report, picture
 
@@ -165,16 +187,17 @@ def normalize(ev: dict, today: str) -> dict | None:
         return None
     out = {
         "id": event_id(ev),
-        "title": (ev.get("title") or "Wydarzenie").strip(),
+        "title": text(ev.get("title"), "Wydarzenie"),
         "starts_at": starts.isoformat().replace("+00:00", "Z"),
         "category": ev.get("category", "sky"),
         "subcategory": ev.get("subcategory"),
         "importance": max(1, min(5, int(ev.get("importance", 3)))),
-        "summary": (ev.get("summary") or "").strip(),
-        "tags": [t for t in (ev.get("tags") or []) if t][:6],
-        "links": [l for l in (ev.get("links") or []) if l.get("url")][:5],
-        "location": ev.get("location"),
-        "source": ev.get("source", "AstroAlert"),
+        "summary": text(ev.get("summary")),
+        "tags": [text(t) for t in (ev.get("tags") or []) if t][:6],
+        "links": [{"label": text(l.get("label")), "url": l["url"]}
+                  for l in (ev.get("links") or []) if l.get("url")][:5],
+        "location": text(ev["location"]) if ev.get("location") else None,
+        "source": text(ev.get("source"), "AstroAlert"),
         "source_id": ev.get("source_id", "sky"),
         "added_on": ev.get("added_on") or today,
         "extra": ev.get("extra") or {},
@@ -213,7 +236,12 @@ def merge(previous: list[dict], fresh: list[dict], report: list[dict], today: st
         if not ev.get("id"):
             continue
         if ev.get("source_id") in failed and not ev.get("ephemeral"):
-            merged[ev["id"]] = ev  # ratujemy dane z niedostepnego zrodla
+            # ratujemy dane z niedostepnego zrodla; normalize() zachowuje date
+            # dodania, a przy okazji podnosi wpisy zapisane w starszym formacie
+            # do postaci wielojezycznej, zeby plik byl jednorodny
+            rescued = normalize(ev, today)
+            if rescued:
+                merged[rescued["id"]] = rescued
 
     for raw in fresh:
         ev = normalize(raw, today)
@@ -268,36 +296,39 @@ def escape(text: str) -> str:
     )
 
 
-def build_feed(events: list[dict], generated: datetime) -> str:
-    recent = sorted(events, key=lambda e: (e.get("added_on", ""), e["starts_at"]), reverse=True)[:40]
+def build_feed(events: list[dict], generated: datetime, lang: str) -> str:
+    """Kanal RSS w jednym jezyku - kazda wersja dostaje wlasny plik."""
+    labels = category_labels()
+    recent = sorted(events, key=lambda e: (e.get("added_on", ""), e["starts_at"]),
+                    reverse=True)[:40]
     items = []
     for ev in recent:
         start = parse_dt(ev["starts_at"])
         when = start.strftime("%d.%m.%Y, %H:%M UTC") if start else ""
         links = "".join(
-            f'<p><a href="{escape(l["url"])}">{escape(l["label"])}</a></p>' for l in ev.get("links", [])
+            f'<p><a href="{escape(pick(l["url"], lang))}">{escape(pick(l["label"], lang))}</a></p>'
+            for l in ev.get("links", [])
         )
-        body = f"<p><strong>{escape(when)}</strong></p><p>{escape(ev['summary'])}</p>{links}"
+        body = (f"<p><strong>{escape(when)}</strong></p>"
+                f"<p>{escape(pick(ev['summary'], lang))}</p>{links}")
         pub = parse_dt(ev.get("added_on", "") + "T09:00:00Z") or generated
         items.append(
             "  <item>\n"
-            f"    <title>{escape(ev['title'])}</title>\n"
-            f"    <link>{SITE_URL}/#{escape(ev['id'])}</link>\n"
+            f"    <title>{escape(pick(ev['title'], lang))}</title>\n"
+            f"    <link>{SITE_URL}/?lang={lang}#{escape(ev['id'])}</link>\n"
             f"    <guid isPermaLink=\"false\">{escape(ev['id'])}</guid>\n"
             f"    <pubDate>{pub.strftime('%a, %d %b %Y %H:%M:%S +0000')}</pubDate>\n"
-            f"    <category>{escape(CATEGORY_LABELS.get(ev['category'], ev['category']))}</category>\n"
+            f"    <category>{escape(pick(labels.get(ev['category'], {}), lang) or ev['category'])}</category>\n"
             f"    <description>{escape(body)}</description>\n"
             "  </item>"
         )
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0"><channel>\n'
-        f"  <title>{escape(SITE_TITLE)}</title>\n"
-        f"  <link>{SITE_URL}</link>\n"
-        "  <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych "
-        "i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne "
-        "i bliskie przeloty planetoid.</description>\n"
-        "  <language>pl-PL</language>\n"
+        f"  <title>{escape(t('site.title', lang))}</title>\n"
+        f"  <link>{SITE_URL}/?lang={lang}</link>\n"
+        f"  <description>{escape(t('site.description', lang))}</description>\n"
+        f"  <language>{'pl-PL' if lang == 'pl' else 'en-GB'}</language>\n"
         f"  <lastBuildDate>{generated.strftime('%a, %d %b %Y %H:%M:%S +0000')}</lastBuildDate>\n"
         + "\n".join(items)
         + "\n</channel></rss>\n"
@@ -332,7 +363,8 @@ def main() -> int:
     upcoming = [e for e in events if (parse_dt(e["starts_at"]) or now) >= now]
     doc = {
         "generated_at": now.isoformat().replace("+00:00", "Z"),
-        "site": {"title": SITE_TITLE, "url": SITE_URL},
+        "site": {"title": render("site.title"), "url": SITE_URL},
+        "languages": list(LANGS),
         "sources": report,
         "apod": picture,
         "stats": {
@@ -340,10 +372,10 @@ def main() -> int:
             "upcoming": len(upcoming),
             "new_today": sum(1 for e in events if e.get("added_on") == today),
             "by_category": {
-                key: sum(1 for e in upcoming if e["category"] == key) for key in CATEGORY_LABELS
+                key: sum(1 for e in upcoming if e["category"] == key) for key in CATEGORIES
             },
         },
-        "categories": CATEGORY_LABELS,
+        "categories": category_labels(),
         "events": events,
     }
 
@@ -358,8 +390,11 @@ def main() -> int:
 
     write_json(EVENTS_FILE, doc)
     update_archive(archived)
-    FEED_FILE.write_text(build_feed(events, now), encoding="utf-8")
-    print(f"Zapisano {EVENTS_FILE.relative_to(ROOT)} i {FEED_FILE.relative_to(ROOT)}")
+    feeds = []
+    for lang, filename in FEED_FILES.items():
+        (ROOT / filename).write_text(build_feed(events, now, lang), encoding="utf-8")
+        feeds.append(filename)
+    print(f"Zapisano {EVENTS_FILE.relative_to(ROOT)} oraz kanały: {', '.join(feeds)}")
 
     if all(r["status"] != "ok" for r in report):
         print("Żadne źródło nie odpowiedziało!", file=sys.stderr)

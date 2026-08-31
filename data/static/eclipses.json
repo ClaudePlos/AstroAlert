@@ -1,52 +1,266 @@
 [
-  {"utc": "2026-02-17T12:12:00Z", "kind": "solar-annular", "title": "Obrączkowe zaćmienie Słońca",
-   "visibility": "Antarktyda (faza obrączkowa), częściowe: Ameryka Południowa, Afryka Południowa",
-   "description": "Księżyc znajduje się zbyt daleko od Ziemi, by zakryć Słońce w całości – wokół czarnej tarczy zostaje jasny pierścień („pierścień ognia”). Pas obrączkowy przechodzi przez Antarktydę."},
-  {"utc": "2026-03-03T11:34:00Z", "kind": "lunar-total", "title": "Całkowite zaćmienie Księżyca",
-   "visibility": "Azja Wschodnia, Australia, Pacyfik, Ameryka Północna",
-   "description": "Księżyc w całości wchodzi w cień Ziemi i przybiera miedzianoczerwoną barwę – to światło wszystkich ziemskich wschodów i zachodów Słońca naraz. Zaćmienia Księżyca są całkowicie bezpieczne dla oczu i widoczne gołym okiem."},
-  {"utc": "2026-08-12T17:46:00Z", "kind": "solar-total", "title": "Całkowite zaćmienie Słońca nad Europą",
-   "visibility": "Grenlandia, Islandia, północna Hiszpania; częściowe w całej Europie, także w Polsce",
-   "importance": 5,
-   "description": "Najważniejsze zaćmienie tej dekady dla Europy – pas całkowitości przechodzi przez Islandię i północną Hiszpanię, a w Polsce Słońce zostanie zakryte częściowo, nisko nad zachodnim horyzontem. Pierwsze całkowite zaćmienie widoczne z Europy kontynentalnej od 1999 roku."},
-  {"utc": "2026-08-28T04:13:00Z", "kind": "lunar-partial", "title": "Częściowe zaćmienie Księżyca",
-   "visibility": "Ameryki, Europa Zachodnia, Afryka",
-   "description": "Ziemia zasłania część tarczy Księżyca – widać ciemny, wyraźnie zakrzywiony brzeg cienia naszej planety."},
-  {"utc": "2027-02-06T16:00:00Z", "kind": "solar-annular", "title": "Obrączkowe zaćmienie Słońca",
-   "visibility": "Chile, Argentyna, Atlantyk; częściowe: Ameryka Południowa, Afryka Zachodnia",
-   "description": "Pierścień ognia nad Ameryką Południową. W Polsce zjawisko niewidoczne."},
-  {"utc": "2027-02-20T23:13:00Z", "kind": "lunar-penumbral", "title": "Półcieniowe zaćmienie Księżyca",
-   "visibility": "Ameryki, Europa, Afryka", "importance": 3,
-   "description": "Księżyc wchodzi tylko w półcień Ziemi – tarcza lekko przygasa, efekt subtelny i najlepiej widoczny na zdjęciach porównawczych."},
-  {"utc": "2027-08-02T10:07:00Z", "kind": "solar-total", "title": "Całkowite zaćmienie Słońca – najdłuższe stulecia",
-   "visibility": "Hiszpania, Maroko, Algieria, Libia, Egipt, Arabia Saudyjska; częściowe w Polsce",
-   "importance": 5,
-   "description": "Faza całkowita trwa aż 6 minut i 23 sekundy – to najdłuższe zaćmienie widoczne z lądu w XXI wieku aż do 2114 roku. Pas całkowitości biegnie przez południową Hiszpanię i północną Afrykę, m.in. przez Luksor. W Polsce zobaczymy fazę częściową."},
-  {"utc": "2027-08-17T07:14:00Z", "kind": "lunar-penumbral", "title": "Półcieniowe zaćmienie Księżyca",
-   "visibility": "Pacyfik, Azja Wschodnia, Australia", "importance": 3,
-   "description": "Delikatne przygaśnięcie tarczy Księżyca w półcieniu Ziemi."},
-  {"utc": "2028-01-12T04:13:00Z", "kind": "solar-annular", "title": "Obrączkowe zaćmienie Słońca",
-   "visibility": "Ameryka Południowa, Atlantyk, Hiszpania, Portugalia (o zachodzie Słońca)",
-   "description": "Pierścień ognia kończy swoją drogę nad Półwyspem Iberyjskim tuż przed zachodem Słońca."},
-  {"utc": "2028-07-06T18:20:00Z", "kind": "lunar-partial", "title": "Częściowe zaćmienie Księżyca",
-   "visibility": "Europa, Afryka, Azja, Australia",
-   "description": "Znaczna część tarczy Księżyca zanurza się w cieniu Ziemi."},
-  {"utc": "2028-07-22T02:56:00Z", "kind": "solar-total", "title": "Całkowite zaćmienie Słońca nad Sydney",
-   "visibility": "Australia (m.in. Sydney), Nowa Zelandia",
-   "description": "Pas całkowitości przechodzi bezpośrednio nad kilkumilionowym Sydney – rzadka sytuacja, gdy zaćmienie trafia w wielkie miasto."},
-  {"utc": "2028-12-31T16:52:00Z", "kind": "lunar-total", "title": "Całkowite zaćmienie Księżyca w sylwestra",
-   "visibility": "Europa, Afryka, Azja – także z Polski", "importance": 5,
-   "description": "Sylwestrowa „krwawa” pełnia widoczna w całości z Polski. Zaćmienia Księżyca ogląda się bez żadnego sprzętu i bez ryzyka dla wzroku."},
-  {"utc": "2029-06-26T03:23:00Z", "kind": "lunar-total", "title": "Całkowite zaćmienie Księżyca",
-   "visibility": "Ameryki, Europa, Afryka – także z Polski", "importance": 4,
-   "description": "Długie zaćmienie całkowite z Księżycem głęboko w cieniu Ziemi."},
-  {"utc": "2029-12-20T22:43:00Z", "kind": "lunar-total", "title": "Całkowite zaćmienie Księżyca",
-   "visibility": "Ameryki, Europa, Afryka, Azja – także z Polski", "importance": 4,
-   "description": "Ostatnie z serii trzech całkowitych zaćmień Księżyca tej dekady widocznych z Polski."},
-  {"utc": "2030-06-01T06:29:00Z", "kind": "solar-annular", "title": "Obrączkowe zaćmienie Słońca",
-   "visibility": "Algieria, Grecja, Turcja, Rosja, Japonia; częściowe w Polsce", "importance": 4,
-   "description": "Pas obrączkowy przechodzi przez Europę Południowo-Wschodnią, a w Polsce zobaczymy wyraźną fazę częściową."},
-  {"utc": "2030-11-25T06:51:00Z", "kind": "solar-total", "title": "Całkowite zaćmienie Słońca",
-   "visibility": "Afryka Południowa, Ocean Indyjski, Australia",
-   "description": "Pas całkowitości startuje w Botswanie i kończy się w południowej Australii."}
+ {
+  "utc": "2026-02-17T12:12:00Z",
+  "kind": "solar-annular",
+  "title": {
+   "pl": "Obrączkowe zaćmienie Słońca",
+   "en": "Annular solar eclipse"
+  },
+  "visibility": {
+   "pl": "Antarktyda (faza obrączkowa), częściowe: Ameryka Południowa, Afryka Południowa",
+   "en": "Antarctica (annular phase); partial across South America and southern Africa"
+  },
+  "description": {
+   "pl": "Księżyc znajduje się zbyt daleko od Ziemi, by zakryć Słońce w całości – wokół czarnej tarczy zostaje jasny pierścień („pierścień ognia”). Pas obrączkowy przechodzi przez Antarktydę.",
+   "en": "The Moon is too far from Earth to cover the Sun completely, leaving a bright ring around the black disc – the famous “ring of fire”. The annular path crosses Antarctica."
+  }
+ },
+ {
+  "utc": "2026-03-03T11:34:00Z",
+  "kind": "lunar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Księżyca",
+   "en": "Total lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Azja Wschodnia, Australia, Pacyfik, Ameryka Północna",
+   "en": "East Asia, Australia, the Pacific and North America"
+  },
+  "description": {
+   "pl": "Księżyc w całości wchodzi w cień Ziemi i przybiera miedzianoczerwoną barwę – to światło wszystkich ziemskich wschodów i zachodów Słońca naraz. Zaćmienia Księżyca są całkowicie bezpieczne dla oczu i widoczne gołym okiem.",
+   "en": "The Moon passes fully into Earth's shadow and turns a coppery red – the combined light of every sunrise and sunset on Earth at once. Lunar eclipses are completely safe to watch with the naked eye."
+  }
+ },
+ {
+  "utc": "2026-08-12T17:46:00Z",
+  "kind": "solar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Słońca nad Europą",
+   "en": "Total solar eclipse over Europe"
+  },
+  "visibility": {
+   "pl": "Grenlandia, Islandia, północna Hiszpania; częściowe w całej Europie, także w Polsce",
+   "en": "Greenland, Iceland and northern Spain; partial across the whole of Europe"
+  },
+  "description": {
+   "pl": "Najważniejsze zaćmienie tej dekady dla Europy – pas całkowitości przechodzi przez Islandię i północną Hiszpanię, a w Polsce Słońce zostanie zakryte częściowo, nisko nad zachodnim horyzontem. Pierwsze całkowite zaćmienie widoczne z Europy kontynentalnej od 1999 roku.",
+   "en": "The most important eclipse of the decade for Europe – the path of totality crosses Iceland and northern Spain, while the rest of the continent sees a partial eclipse low above the western horizon. The first total eclipse visible from mainland Europe since 1999."
+  },
+  "importance": 5
+ },
+ {
+  "utc": "2026-08-28T04:13:00Z",
+  "kind": "lunar-partial",
+  "title": {
+   "pl": "Częściowe zaćmienie Księżyca",
+   "en": "Partial lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Ameryki, Europa Zachodnia, Afryka",
+   "en": "The Americas, western Europe and Africa"
+  },
+  "description": {
+   "pl": "Ziemia zasłania część tarczy Księżyca – widać ciemny, wyraźnie zakrzywiony brzeg cienia naszej planety.",
+   "en": "Earth covers part of the lunar disc, showing the dark, distinctly curved edge of our planet's shadow."
+  }
+ },
+ {
+  "utc": "2027-02-06T16:00:00Z",
+  "kind": "solar-annular",
+  "title": {
+   "pl": "Obrączkowe zaćmienie Słońca",
+   "en": "Annular solar eclipse"
+  },
+  "visibility": {
+   "pl": "Chile, Argentyna, Atlantyk; częściowe: Ameryka Południowa, Afryka Zachodnia",
+   "en": "Chile, Argentina and the Atlantic; partial across South America and West Africa"
+  },
+  "description": {
+   "pl": "Pierścień ognia nad Ameryką Południową. W Polsce zjawisko niewidoczne.",
+   "en": "A ring of fire over South America. The eclipse is not visible from Europe."
+  }
+ },
+ {
+  "utc": "2027-02-20T23:13:00Z",
+  "kind": "lunar-penumbral",
+  "title": {
+   "pl": "Półcieniowe zaćmienie Księżyca",
+   "en": "Penumbral lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Ameryki, Europa, Afryka",
+   "en": "The Americas, Europe and Africa"
+  },
+  "description": {
+   "pl": "Księżyc wchodzi tylko w półcień Ziemi – tarcza lekko przygasa, efekt subtelny i najlepiej widoczny na zdjęciach porównawczych.",
+   "en": "The Moon enters only Earth's penumbra – the disc dims slightly, a subtle effect best caught in before-and-after photographs."
+  },
+  "importance": 3
+ },
+ {
+  "utc": "2027-08-02T10:07:00Z",
+  "kind": "solar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Słońca – najdłuższe stulecia",
+   "en": "Total solar eclipse – the longest of the century"
+  },
+  "visibility": {
+   "pl": "Hiszpania, Maroko, Algieria, Libia, Egipt, Arabia Saudyjska; częściowe w Polsce",
+   "en": "Spain, Morocco, Algeria, Libya, Egypt and Saudi Arabia; partial across Europe"
+  },
+  "description": {
+   "pl": "Faza całkowita trwa aż 6 minut i 23 sekundy – to najdłuższe zaćmienie widoczne z lądu w XXI wieku aż do 2114 roku. Pas całkowitości biegnie przez południową Hiszpanię i północną Afrykę, m.in. przez Luksor. W Polsce zobaczymy fazę częściową.",
+   "en": "Totality lasts 6 minutes and 23 seconds – the longest eclipse visible from land in the 21st century and indeed until 2114. The path runs across southern Spain and North Africa, passing over Luxor among other places."
+  },
+  "importance": 5
+ },
+ {
+  "utc": "2027-08-17T07:14:00Z",
+  "kind": "lunar-penumbral",
+  "title": {
+   "pl": "Półcieniowe zaćmienie Księżyca",
+   "en": "Penumbral lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Pacyfik, Azja Wschodnia, Australia",
+   "en": "The Pacific, East Asia and Australia"
+  },
+  "description": {
+   "pl": "Delikatne przygaśnięcie tarczy Księżyca w półcieniu Ziemi.",
+   "en": "A gentle dimming of the lunar disc as it grazes Earth's penumbra."
+  },
+  "importance": 3
+ },
+ {
+  "utc": "2028-01-12T04:13:00Z",
+  "kind": "solar-annular",
+  "title": {
+   "pl": "Obrączkowe zaćmienie Słońca",
+   "en": "Annular solar eclipse"
+  },
+  "visibility": {
+   "pl": "Ameryka Południowa, Atlantyk, Hiszpania, Portugalia (o zachodzie Słońca)",
+   "en": "South America, the Atlantic, Spain and Portugal (at sunset)"
+  },
+  "description": {
+   "pl": "Pierścień ognia kończy swoją drogę nad Półwyspem Iberyjskim tuż przed zachodem Słońca.",
+   "en": "The ring of fire ends its journey over the Iberian Peninsula just before sunset."
+  }
+ },
+ {
+  "utc": "2028-07-06T18:20:00Z",
+  "kind": "lunar-partial",
+  "title": {
+   "pl": "Częściowe zaćmienie Księżyca",
+   "en": "Partial lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Europa, Afryka, Azja, Australia",
+   "en": "Europe, Africa, Asia and Australia"
+  },
+  "description": {
+   "pl": "Znaczna część tarczy Księżyca zanurza się w cieniu Ziemi.",
+   "en": "A large part of the lunar disc sinks into Earth's shadow."
+  }
+ },
+ {
+  "utc": "2028-07-22T02:56:00Z",
+  "kind": "solar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Słońca nad Sydney",
+   "en": "Total solar eclipse over Sydney"
+  },
+  "visibility": {
+   "pl": "Australia (m.in. Sydney), Nowa Zelandia",
+   "en": "Australia (including Sydney) and New Zealand"
+  },
+  "description": {
+   "pl": "Pas całkowitości przechodzi bezpośrednio nad kilkumilionowym Sydney – rzadka sytuacja, gdy zaćmienie trafia w wielkie miasto.",
+   "en": "The path of totality passes directly over Sydney and its five million people – a rare case of an eclipse landing on a major city."
+  }
+ },
+ {
+  "utc": "2028-12-31T16:52:00Z",
+  "kind": "lunar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Księżyca w sylwestra",
+   "en": "Total lunar eclipse on New Year's Eve"
+  },
+  "visibility": {
+   "pl": "Europa, Afryka, Azja – także z Polski",
+   "en": "Europe, Africa and Asia"
+  },
+  "description": {
+   "pl": "Sylwestrowa „krwawa” pełnia widoczna w całości z Polski. Zaćmienia Księżyca ogląda się bez żadnego sprzętu i bez ryzyka dla wzroku.",
+   "en": "A “blood moon” to see in the new year, visible in full from all of Europe. Lunar eclipses need no equipment and pose no risk to your eyes."
+  },
+  "importance": 5
+ },
+ {
+  "utc": "2029-06-26T03:23:00Z",
+  "kind": "lunar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Księżyca",
+   "en": "Total lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Ameryki, Europa, Afryka – także z Polski",
+   "en": "The Americas, Europe and Africa"
+  },
+  "description": {
+   "pl": "Długie zaćmienie całkowite z Księżycem głęboko w cieniu Ziemi.",
+   "en": "A long total eclipse with the Moon deep inside Earth's shadow."
+  },
+  "importance": 4
+ },
+ {
+  "utc": "2029-12-20T22:43:00Z",
+  "kind": "lunar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Księżyca",
+   "en": "Total lunar eclipse"
+  },
+  "visibility": {
+   "pl": "Ameryki, Europa, Afryka, Azja – także z Polski",
+   "en": "The Americas, Europe, Africa and Asia"
+  },
+  "description": {
+   "pl": "Ostatnie z serii trzech całkowitych zaćmień Księżyca tej dekady widocznych z Polski.",
+   "en": "The last of three total lunar eclipses of the decade visible from Europe."
+  },
+  "importance": 4
+ },
+ {
+  "utc": "2030-06-01T06:29:00Z",
+  "kind": "solar-annular",
+  "title": {
+   "pl": "Obrączkowe zaćmienie Słońca",
+   "en": "Annular solar eclipse"
+  },
+  "visibility": {
+   "pl": "Algieria, Grecja, Turcja, Rosja, Japonia; częściowe w Polsce",
+   "en": "Algeria, Greece, Turkey, Russia and Japan; partial across Europe"
+  },
+  "description": {
+   "pl": "Pas obrączkowy przechodzi przez Europę Południowo-Wschodnią, a w Polsce zobaczymy wyraźną fazę częściową.",
+   "en": "The annular path crosses south-eastern Europe, with a pronounced partial phase visible farther north."
+  },
+  "importance": 4
+ },
+ {
+  "utc": "2030-11-25T06:51:00Z",
+  "kind": "solar-total",
+  "title": {
+   "pl": "Całkowite zaćmienie Słońca",
+   "en": "Total solar eclipse"
+  },
+  "visibility": {
+   "pl": "Afryka Południowa, Ocean Indyjski, Australia",
+   "en": "Southern Africa, the Indian Ocean and Australia"
+  },
+  "description": {
+   "pl": "Pas całkowitości startuje w Botswanie i kończy się w południowej Australii.",
+   "en": "The path of totality begins in Botswana and ends in southern Australia."
+  }
+ }
 ]

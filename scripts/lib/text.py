@@ -5,14 +5,28 @@ from __future__ import annotations
 NBSP = " "
 
 
-def num(value: float, digits: int = 1) -> str:
-    """Liczba w zapisie polskim: przecinek dziesietny, spacja co tysiac.
+def num(value: float, digits: int = 1, lang: str = "pl") -> str:
+    """Liczba w konwencji danego jezyka.
 
-    Jako separatora tysiecy uzywamy spacji niedzielacej, zeby liczba nie
-    zlamala sie w polowie na koncu wiersza.
+    Polski: przecinek dziesietny i spacja co tysiac. Angielski: kropka
+    dziesietna i przecinek co tysiac. Jako separatora tysiecy w polskim
+    uzywamy spacji niedzielacej, zeby liczba nie zlamala sie na koncu wiersza.
     """
     text = f"{value:,.{digits}f}"
-    return text.replace(",", NBSP).replace(".", ",")
+    if lang == "pl":
+        return text.replace(",", NBSP).replace(".", ",")
+    return text
+
+
+def fmt(value: float, digits: int = 1) -> dict:
+    """Liczba przygotowana dla wszystkich jezykow naraz.
+
+    Zwraca slownik, ktory katalog komunikatow rozwinie osobno dla kazdej
+    wersji jezykowej - inaczej angielski tekst dostalby polskie separatory.
+    """
+    from lib.i18n import LANGS
+
+    return {lang: num(value, digits, lang) for lang in LANGS}
 
 
 def upper_first(text: str) -> str:

@@ -65,6 +65,24 @@ a:hover { color: #a9c3ff; }
 .brand h1 { margin: 0; font-size: 30px; letter-spacing: -0.5px; }
 .tagline { margin: 2px 0 0; color: var(--muted); font-size: 15px; }
 .updated { margin: 0; color: var(--muted); font-size: 13px; }
+.header-side { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+@media (max-width: 560px) { .header-side { align-items: flex-start; } }
+
+.lang-switch { display: inline-flex; border: 1px solid var(--card-border); border-radius: 999px; overflow: hidden; }
+.lang-switch button {
+  padding: 5px 13px;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.lang-switch button:hover { color: var(--text); }
+.lang-switch button[aria-pressed="true"] { background: rgba(122, 162, 255, 0.22); color: var(--text); }
 
 /* --- hero --------------------------------------------------------------- */
 

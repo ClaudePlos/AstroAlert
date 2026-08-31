@@ -1,35 +1,233 @@
 [
-  {"name": "Kwadrantydy", "peak_month": 1, "peak_day": 3, "zhr": 110, "radiant": "Wolarza",
-   "description": "Pierwszy duży rój roku, o bardzo wąskim maksimum – trwa zaledwie kilka godzin, więc trafienie w nie jest kwestią szczęścia.",
-   "url": "https://pl.wikipedia.org/wiki/Kwadrantydy"},
-  {"name": "Lirydy", "peak_month": 4, "peak_day": 22, "zhr": 18, "radiant": "Lutni",
-   "description": "Najstarszy udokumentowany rój meteorów – Chińczycy opisali go już w 687 r. p.n.e. Pochodzi z komety Thatcher.",
-   "url": "https://pl.wikipedia.org/wiki/Lirydy"},
-  {"name": "Eta Akwarydy", "peak_month": 5, "peak_day": 6, "zhr": 50, "radiant": "Wodnika",
-   "description": "Pył zgubiony przez kometę Halleya. Meteory są bardzo szybkie (66 km/s) i często zostawiają świecące smugi.",
-   "url": "https://pl.wikipedia.org/wiki/Eta_Akwarydy"},
-  {"name": "Delta Akwarydy", "peak_month": 7, "peak_day": 30, "zhr": 25, "radiant": "Wodnika",
-   "description": "Łagodne maksimum rozciągnięte na kilka nocy, dobrze widoczne z południa Europy.",
-   "url": "https://pl.wikipedia.org/wiki/Delta_Akwarydy"},
-  {"name": "Perseidy", "peak_month": 8, "peak_day": 12, "zhr": 100, "radiant": "Perseusza",
-   "description": "Najpopularniejszy rój roku – wpada w wakacje i w ciepłe noce. Źródłem jest kometa 109P/Swift-Tuttle.",
-   "url": "https://pl.wikipedia.org/wiki/Perseidy"},
-  {"name": "Drakonidy", "peak_month": 10, "peak_day": 8, "zhr": 10, "radiant": "Smoka",
-   "description": "Rój nieprzewidywalny: zwykle słaby, ale kilka razy w historii dał prawdziwe deszcze meteorów. Radiant świeci wysoko już wczesnym wieczorem.",
-   "url": "https://pl.wikipedia.org/wiki/Drakonidy"},
-  {"name": "Orionidy", "peak_month": 10, "peak_day": 21, "zhr": 20, "radiant": "Oriona",
-   "description": "Druga w roku porcja pyłu z komety Halleya, z szybkimi i jasnymi meteorami.",
-   "url": "https://pl.wikipedia.org/wiki/Orionidy"},
-  {"name": "Taurydy Południowe", "peak_month": 11, "peak_day": 5, "zhr": 5, "radiant": "Byka",
-   "description": "Niewiele meteorów, ale za to wyjątkowo dużo bolidów – powolnych i bardzo jasnych kul ognia.",
-   "url": "https://pl.wikipedia.org/wiki/Taurydy"},
-  {"name": "Leonidy", "peak_month": 11, "peak_day": 17, "zhr": 15, "radiant": "Lwa",
-   "description": "Rój, który co ok. 33 lata potrafi wybuchnąć burzą meteorów z tysiącami zjawisk na godzinę. W zwykłych latach jest spokojny.",
-   "url": "https://pl.wikipedia.org/wiki/Leonidy"},
-  {"name": "Geminidy", "peak_month": 12, "peak_day": 14, "zhr": 150, "radiant": "Bliźniąt",
-   "description": "Najbogatszy rój roku i jedyny duży pochodzący nie z komety, lecz z planetoidy 3200 Phaethon. Meteory są powolne i często kolorowe.",
-   "url": "https://pl.wikipedia.org/wiki/Geminidy"},
-  {"name": "Ursydy", "peak_month": 12, "peak_day": 22, "zhr": 10, "radiant": "Małej Niedźwiedzicy",
-   "description": "Skromny, ale wygodny rój – radiant jest okołobiegunowy, więc widać go przez całą noc.",
-   "url": "https://pl.wikipedia.org/wiki/Ursydy"}
+ {
+  "name": {
+   "pl": "Kwadrantydy",
+   "en": "Quadrantids"
+  },
+  "peak_month": 1,
+  "peak_day": 3,
+  "zhr": 110,
+  "radiant": {
+   "pl": "Wolarza",
+   "en": "Boötes"
+  },
+  "description": {
+   "pl": "Pierwszy duży rój roku, o bardzo wąskim maksimum – trwa zaledwie kilka godzin, więc trafienie w nie jest kwestią szczęścia.",
+   "en": "The first major shower of the year, with a very narrow maximum lasting only a few hours – catching it is largely a matter of luck."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Kwadrantydy",
+   "en": "https://en.wikipedia.org/wiki/Quadrantids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Lirydy",
+   "en": "Lyrids"
+  },
+  "peak_month": 4,
+  "peak_day": 22,
+  "zhr": 18,
+  "radiant": {
+   "pl": "Lutni",
+   "en": "Lyra"
+  },
+  "description": {
+   "pl": "Najstarszy udokumentowany rój meteorów – Chińczycy opisali go już w 687 r. p.n.e. Pochodzi z komety Thatcher.",
+   "en": "The oldest recorded meteor shower – Chinese astronomers described it as early as 687 BC. Its parent is comet Thatcher."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Lirydy",
+   "en": "https://en.wikipedia.org/wiki/Lyrids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Eta Akwarydy",
+   "en": "Eta Aquariids"
+  },
+  "peak_month": 5,
+  "peak_day": 6,
+  "zhr": 50,
+  "radiant": {
+   "pl": "Wodnika",
+   "en": "Aquarius"
+  },
+  "description": {
+   "pl": "Pył zgubiony przez kometę Halleya. Meteory są bardzo szybkie (66 km/s) i często zostawiają świecące smugi.",
+   "en": "Dust shed by Halley's Comet. The meteors are very fast (66 km/s) and often leave glowing trains."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Eta_Akwarydy",
+   "en": "https://en.wikipedia.org/wiki/Eta_Aquariids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Delta Akwarydy",
+   "en": "Delta Aquariids"
+  },
+  "peak_month": 7,
+  "peak_day": 30,
+  "zhr": 25,
+  "radiant": {
+   "pl": "Wodnika",
+   "en": "Aquarius"
+  },
+  "description": {
+   "pl": "Łagodne maksimum rozciągnięte na kilka nocy, dobrze widoczne z południa Europy.",
+   "en": "A gentle maximum spread over several nights, best seen from southern latitudes."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Delta_Akwarydy",
+   "en": "https://en.wikipedia.org/wiki/Southern_delta_Aquariids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Perseidy",
+   "en": "Perseids"
+  },
+  "peak_month": 8,
+  "peak_day": 12,
+  "zhr": 100,
+  "radiant": {
+   "pl": "Perseusza",
+   "en": "Perseus"
+  },
+  "description": {
+   "pl": "Najpopularniejszy rój roku – wpada w wakacje i w ciepłe noce. Źródłem jest kometa 109P/Swift-Tuttle.",
+   "en": "The most popular shower of the year – it falls in the holiday season and on warm nights. Its source is comet 109P/Swift-Tuttle."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Perseidy",
+   "en": "https://en.wikipedia.org/wiki/Perseids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Drakonidy",
+   "en": "Draconids"
+  },
+  "peak_month": 10,
+  "peak_day": 8,
+  "zhr": 10,
+  "radiant": {
+   "pl": "Smoka",
+   "en": "Draco"
+  },
+  "description": {
+   "pl": "Rój nieprzewidywalny: zwykle słaby, ale kilka razy w historii dał prawdziwe deszcze meteorów. Radiant świeci wysoko już wczesnym wieczorem.",
+   "en": "An unpredictable shower: usually weak, but a few times in history it has produced genuine meteor storms. The radiant is already high in the early evening."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Drakonidy",
+   "en": "https://en.wikipedia.org/wiki/Draconids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Orionidy",
+   "en": "Orionids"
+  },
+  "peak_month": 10,
+  "peak_day": 21,
+  "zhr": 20,
+  "radiant": {
+   "pl": "Oriona",
+   "en": "Orion"
+  },
+  "description": {
+   "pl": "Druga w roku porcja pyłu z komety Halleya, z szybkimi i jasnymi meteorami.",
+   "en": "The year's second helping of dust from Halley's Comet, with fast, bright meteors."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Orionidy",
+   "en": "https://en.wikipedia.org/wiki/Orionids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Taurydy Południowe",
+   "en": "Southern Taurids"
+  },
+  "peak_month": 11,
+  "peak_day": 5,
+  "zhr": 5,
+  "radiant": {
+   "pl": "Byka",
+   "en": "Taurus"
+  },
+  "description": {
+   "pl": "Niewiele meteorów, ale za to wyjątkowo dużo bolidów – powolnych i bardzo jasnych kul ognia.",
+   "en": "Few meteors, but an unusual share of fireballs – slow, very bright and worth the wait."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Taurydy",
+   "en": "https://en.wikipedia.org/wiki/Taurids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Leonidy",
+   "en": "Leonids"
+  },
+  "peak_month": 11,
+  "peak_day": 17,
+  "zhr": 15,
+  "radiant": {
+   "pl": "Lwa",
+   "en": "Leo"
+  },
+  "description": {
+   "pl": "Rój, który co ok. 33 lata potrafi wybuchnąć burzą meteorów z tysiącami zjawisk na godzinę. W zwykłych latach jest spokojny.",
+   "en": "A shower that roughly every 33 years erupts into a storm with thousands of meteors an hour. In ordinary years it is quiet."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Leonidy",
+   "en": "https://en.wikipedia.org/wiki/Leonids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Geminidy",
+   "en": "Geminids"
+  },
+  "peak_month": 12,
+  "peak_day": 14,
+  "zhr": 150,
+  "radiant": {
+   "pl": "Bliźniąt",
+   "en": "Gemini"
+  },
+  "description": {
+   "pl": "Najbogatszy rój roku i jedyny duży pochodzący nie z komety, lecz z planetoidy 3200 Phaethon. Meteory są powolne i często kolorowe.",
+   "en": "The richest shower of the year and the only major one born not from a comet but from asteroid 3200 Phaethon. Its meteors are slow and often colourful."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Geminidy",
+   "en": "https://en.wikipedia.org/wiki/Geminids"
+  }
+ },
+ {
+  "name": {
+   "pl": "Ursydy",
+   "en": "Ursids"
+  },
+  "peak_month": 12,
+  "peak_day": 22,
+  "zhr": 10,
+  "radiant": {
+   "pl": "Małej Niedźwiedzicy",
+   "en": "Ursa Minor"
+  },
+  "description": {
+   "pl": "Skromny, ale wygodny rój – radiant jest okołobiegunowy, więc widać go przez całą noc.",
+   "en": "A modest but convenient shower – the radiant is circumpolar, so it is up all night."
+  },
+  "url": {
+   "pl": "https://pl.wikipedia.org/wiki/Ursydy",
+   "en": "https://en.wikipedia.org/wiki/Ursids"
+  }
+ }
 ]

@@ -105,7 +105,7 @@ def sun(d: float) -> dict:
     v = atan2d(y, x)
     lon = rev(v + w)
     return {
-        "name": "Słońce",
+        "name": "Sun",
         "lon": lon,
         "lat": 0.0,
         "dist_au": r,
@@ -174,7 +174,7 @@ def moon(d: float) -> dict:
 
     lon = rev(lon)
     return {
-        "name": "Księżyc",
+        "name": "Moon",
         "lon": lon,
         "lat": lat,
         "dist_km": r * EARTH_RADIUS_KM,
@@ -187,27 +187,29 @@ def moon(d: float) -> dict:
 
 # --- planety ----------------------------------------------------------------
 
+#: identyfikatory cial sa neutralne jezykowo - nazwy do wyswietlenia
+#: pochodza z katalogu komunikatow (data/locales/)
 _ELEMENTS = {
     # nazwa: (N, i, w, a, e, M) jako pary (wyraz stały, wspolczynnik * d)
-    "Merkury": ((48.3313, 3.24587e-5), (7.0047, 5.00e-8), (29.1241, 1.01444e-5),
+    "Mercury": ((48.3313, 3.24587e-5), (7.0047, 5.00e-8), (29.1241, 1.01444e-5),
                 (0.387098, 0.0), (0.205635, 5.59e-10), (168.6562, 4.0923344368)),
-    "Wenus": ((76.6799, 2.46590e-5), (3.3946, 2.75e-8), (54.8910, 1.38374e-5),
+    "Venus": ((76.6799, 2.46590e-5), (3.3946, 2.75e-8), (54.8910, 1.38374e-5),
               (0.723330, 0.0), (0.006773, -1.302e-9), (48.0052, 1.6021302244)),
     "Mars": ((49.5574, 2.11081e-5), (1.8497, -1.78e-8), (286.5016, 2.92961e-5),
              (1.523688, 0.0), (0.093405, 2.516e-9), (18.6021, 0.5240207766)),
-    "Jowisz": ((100.4542, 2.76854e-5), (1.3030, -1.557e-7), (273.8777, 1.64505e-5),
+    "Jupiter": ((100.4542, 2.76854e-5), (1.3030, -1.557e-7), (273.8777, 1.64505e-5),
                (5.20256, 0.0), (0.048498, 4.469e-9), (19.8950, 0.0830853001)),
     "Saturn": ((113.6634, 2.38980e-5), (2.4886, -1.081e-7), (339.3939, 2.97661e-5),
                (9.55475, 0.0), (0.055546, -9.499e-9), (316.9670, 0.0334442282)),
-    "Uran": ((74.0005, 1.3978e-5), (0.7733, 1.9e-8), (96.6612, 3.0565e-5),
+    "Uranus": ((74.0005, 1.3978e-5), (0.7733, 1.9e-8), (96.6612, 3.0565e-5),
              (19.18171, -1.55e-8), (0.047318, 7.45e-9), (142.5905, 0.011725806)),
-    "Neptun": ((131.7806, 3.0173e-5), (1.7700, -2.55e-7), (272.8461, -6.027e-6),
+    "Neptune": ((131.7806, 3.0173e-5), (1.7700, -2.55e-7), (272.8461, -6.027e-6),
                (30.05826, 3.313e-8), (0.008606, 2.15e-9), (260.2471, 0.005995147)),
 }
 
 PLANETS = tuple(_ELEMENTS.keys())
 #: planety realnie widoczne golym okiem - tylko dla nich generujemy wpisy
-NAKED_EYE = ("Merkury", "Wenus", "Mars", "Jowisz", "Saturn")
+NAKED_EYE = ("Mercury", "Venus", "Mars", "Jupiter", "Saturn")
 
 
 def _heliocentric(name: str, d: float) -> tuple[float, float, float, float]:
@@ -236,12 +238,12 @@ def _heliocentric(name: str, d: float) -> tuple[float, float, float, float]:
 
 def _giant_perturbations(name: str, d: float, lon: float, lat: float) -> tuple[float, float]:
     """Perturbacje Jowisza/Saturna/Urana (Meeus, wersja skrocona)."""
-    if name not in ("Jowisz", "Saturn", "Uran"):
+    if name not in ("Jupiter", "Saturn", "Uranus"):
         return lon, lat
     Mj = rev(19.8950 + 0.0830853001 * d)
     Ms = rev(316.9670 + 0.0334442282 * d)
     Mu = rev(142.5905 + 0.011725806 * d)
-    if name == "Jowisz":
+    if name == "Jupiter":
         lon += (
             -0.332 * sind(2 * Mj - 5 * Ms - 67.6)
             - 0.056 * sind(2 * Mj - 2 * Ms + 21)
@@ -296,16 +298,20 @@ def planet(name: str, d: float) -> dict:
     }
 
 
-#: aliasy bez polskich znakow, zeby modul dalo sie wolac takze z ASCII
-ALIASES = {"Slonce": "Słońce", "Ksiezyc": "Księżyc", "Sun": "Słońce", "Moon": "Księżyc"}
+#: polskie nazwy przyjmowane jako aliasy - ulatwiaja prace w konsoli
+ALIASES = {
+    "Słońce": "Sun", "Slonce": "Sun", "Księżyc": "Moon", "Ksiezyc": "Moon",
+    "Merkury": "Mercury", "Wenus": "Venus", "Jowisz": "Jupiter",
+    "Uran": "Uranus", "Neptun": "Neptune",
+}
 
 
 def body(name: str, d: float) -> dict:
     """Pozycja geocentryczna dowolnego ciala po nazwie."""
     name = ALIASES.get(name, name)
-    if name == "Słońce":
+    if name == "Sun":
         return sun(d)
-    if name == "Księżyc":
+    if name == "Moon":
         return moon(d)
     return planet(name, d)
 
@@ -354,20 +360,14 @@ def equatorial(b: dict, d: float) -> tuple[float, float]:
     return ra, dec
 
 
-#: nazwy gwiazdozbiorow zodiakalnych w dopelniaczu ("w gwiazdozbiorze ...")
-ZODIAC = (
-    "Ryb", "Barana", "Byka", "Bliźniąt", "Raka", "Lwa",
-    "Panny", "Wagi", "Skorpiona", "Strzelca", "Koziorożca", "Wodnika",
-)
-
-
-def zodiac_area(lon: float) -> str:
-    """Przyblizony obszar nieba - znak zodiaku, w ktorym lezy dana dlugosc.
+def zodiac_index(lon: float) -> int:
+    """Numer sektora zodiaku (0-11), w ktorym lezy dana dlugosc ekliptyczna.
 
     To uproszczenie: dzielimy ekliptyke na 12 rownych sektorow po 30 stopni,
-    a nie uzywamy rzeczywistych granic gwiazdozbiorow IAU.
+    a nie uzywamy rzeczywistych granic gwiazdozbiorow IAU. Nazwy sektorow
+    trzyma katalog komunikatow, bo roznia sie miedzy jezykami.
     """
-    return ZODIAC[int(rev(lon) // 30) % 12]
+    return int(rev(lon) // 30) % 12
 
 
 # --- numeryka: zera i ekstrema ---------------------------------------------

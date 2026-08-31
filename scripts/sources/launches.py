@@ -5,6 +5,7 @@ from __future__ import annotations
 from datetime import datetime
 
 from lib.http import FetchError, get_json
+from lib.i18n import join, literal, render
 
 #: tryb "list" oszczedza transfer, ale gubi operatora, kosmodrom i opis misji,
 #: wiec pobieramy pelne rekordy - jedno zapytanie na dobe zmiesci sie w limitach
@@ -13,41 +14,41 @@ ENDPOINTS = (
     "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
 )
 
-#: slowa kluczowe podbijajace wage startu
+#: slowa kluczowe podbijajace wage startu -> (klucz tagu, waga)
 HIGHLIGHTS = {
-    "crew": ("załoga", 5), "starship": ("Starship", 5), "artemis": ("Artemis", 5),
-    "europa": ("sonda", 5), "james webb": ("teleskop", 5), "vulcan": ("nowa rakieta", 4),
-    "new glenn": ("nowa rakieta", 4), "ariane 6": ("nowa rakieta", 4),
-    "axiom": ("załoga", 4), "dragon": ("Dragon", 4), "soyuz ms": ("załoga", 4),
-    "starliner": ("załoga", 5), "lunar": ("Księżyc", 4), "moon": ("Księżyc", 4),
-    "mars": ("Mars", 5), "telescope": ("teleskop", 4), "rover": ("łazik", 5),
+    "crew": ("tag.crew", 5), "starship": ("tag.new_rocket", 5),
+    "artemis": ("tag.moon", 5), "europa": ("tag.probe", 5),
+    "james webb": ("tag.telescope", 5), "vulcan": ("tag.new_rocket", 4),
+    "new glenn": ("tag.new_rocket", 4), "ariane 6": ("tag.new_rocket", 4),
+    "axiom": ("tag.crew", 4), "dragon": ("tag.crew", 4), "soyuz ms": ("tag.crew", 4),
+    "starliner": ("tag.crew", 5), "lunar": ("tag.moon", 4), "moon": ("tag.moon", 4),
+    "mars": ("tag.mars", 5), "telescope": ("tag.telescope", 4), "rover": ("tag.rover", 5),
 }
 
-STATUS_PL = {
-    "Go": "potwierdzony", "TBD": "termin wstępny", "TBC": "termin do potwierdzenia",
-    "Hold": "wstrzymany", "Success": "zakończony sukcesem", "Failure": "nieudany",
-    "Go for Launch": "potwierdzony", "To Be Determined": "termin wstępny",
-    "To Be Confirmed": "termin do potwierdzenia",
+STATUS_KEYS = {
+    "Go": "go", "Go for Launch": "go", "TBD": "tbd", "To Be Determined": "tbd",
+    "TBC": "tbc", "To Be Confirmed": "tbc", "Hold": "hold",
+    "Success": "success", "Failure": "failure",
 }
 
 
-def _score(name: str, mission_type: str) -> tuple[int, list[str]]:
+def _score(name: str, mission_type: str) -> tuple[int, list[dict]]:
     text = f"{name} {mission_type}".lower()
-    score, tags = 2, []
-    for key, (tag, weight) in HIGHLIGHTS.items():
-        if key in text:
+    score, keys = 2, []
+    for needle, (tag_key, weight) in HIGHLIGHTS.items():
+        if needle in text:
             score = max(score, weight)
-            if tag not in tags:
-                tags.append(tag)
+            if tag_key not in keys:
+                keys.append(tag_key)
     if "starlink" in text:
         score = 1  # rutynowe, kilkadziesiat razy w roku
-    return score, tags
+    return score, [render(k) for k in keys]
 
 
 def _first(*values):
-    for v in values:
-        if v:
-            return v
+    for value in values:
+        if value:
+            return value
     return None
 
 
@@ -68,12 +69,10 @@ def collect(now: datetime, limit: int = 25) -> list[dict]:
         net = item.get("net") or item.get("window_start")
         if not net:
             continue
-        name = item.get("name") or "Start rakiety"
+
         lsp = item.get("launch_service_provider")
-        provider = _first(
-            lsp.get("name") if isinstance(lsp, dict) else None,
-            lsp if isinstance(lsp, str) else None,
-        )
+        provider = _first(lsp.get("name") if isinstance(lsp, dict) else None,
+                          lsp if isinstance(lsp, str) else None)
         pad = item.get("pad") or {}
         location = _first(
             (pad.get("location") or {}).get("name") if isinstance(pad, dict) else None,
@@ -85,53 +84,60 @@ def collect(now: datetime, limit: int = 25) -> list[dict]:
         mission_type = (mission.get("type") if isinstance(mission, dict) else None) or ""
         status = item.get("status") or {}
         status_name = status.get("name") if isinstance(status, dict) else str(status)
-        status_pl = STATUS_PL.get(status_name, status_name or "nieznany")
-
-        score, tags = _score(name, mission_type)
         rocket = item.get("rocket") or {}
-        rocket_name = (rocket.get("configuration") or {}).get("full_name") if isinstance(rocket, dict) else None
+        rocket_name = (rocket.get("configuration") or {}).get("full_name") \
+            if isinstance(rocket, dict) else None
 
-        rocket_txt = f"rakiety {rocket_name}" if rocket_name else "rakiety"
-        parts = [
-            f"Start {rocket_txt} – {provider}." if provider else f"Start {rocket_txt}."
-        ]
+        name = item.get("name") or "Launch"
+        score, extra_tags = _score(name, mission_type)
+
+        # opis budujemy ze zdan - kazde w obu jezykach naraz
+        if rocket_name and provider:
+            parts = [render("launch.sentence.rocket_provider",
+                            rocket=literal(rocket_name), provider=literal(provider))]
+        elif rocket_name:
+            parts = [render("launch.sentence.rocket", rocket=literal(rocket_name))]
+        elif provider:
+            parts = [render("launch.sentence.provider", provider=literal(provider))]
+        else:
+            parts = [render("launch.sentence.generic")]
+
         if location:
-            parts.append(f"Miejsce: {location}.")
-        parts.append(f"Status terminu: {status_pl}.")
+            parts.append(render("launch.place", place=literal(location)))
+        parts.append(render("launch.status",
+                            status=render(f"launch.status.{STATUS_KEYS.get(status_name, 'unknown')}")))
+        # opisy misji przychodza z API tylko po angielsku - zostawiamy je bez zmian
         if mission_desc:
-            parts.append(f"Misja: {mission_desc.strip()}")
+            parts.append(render("launch.mission", description=literal(mission_desc.strip())))
         elif mission_type:
-            parts.append(f"Typ misji: {mission_type}.")
-        parts.append(
-            "Terminy startów zmieniają się często – przed obserwacją transmisji warto "
-            "sprawdzić aktualny status."
-        )
+            parts.append(render("launch.mission_type", type=literal(mission_type)))
+        parts.append(render("launch.note"))
 
-        links = [{"label": "Szczegóły misji", "url": item.get("url", "").replace("ll.thespacedevs.com", "thespacedevs.com")}]
-        for key, label in (("vid_urls", "Transmisja na żywo"), ("info_urls", "Informacje")):
-            for u in (item.get(key) or [])[:1]:
-                url = u.get("url") if isinstance(u, dict) else u
+        links = [{"label": render("link.launch_details"),
+                  "url": item.get("url", "").replace("ll.thespacedevs.com", "thespacedevs.com")}]
+        for key, label_key in (("vid_urls", "link.webcast"), ("info_urls", "link.launch_info")):
+            for entry in (item.get(key) or [])[:1]:
+                url = entry.get("url") if isinstance(entry, dict) else entry
                 if url:
-                    links.append({"label": label, "url": url})
-        links.append({"label": "Kalendarz startów – Space Launch Now", "url": "https://spacelaunchnow.me/"})
-        links = [l for l in links if l.get("url")]
+                    links.append({"label": render(label_key), "url": url})
+        links.append({"label": render("link.launch_calendar"), "url": "https://spacelaunchnow.me/"})
 
-        tags = ["start rakiety"] + ([provider] if provider else []) + tags
+        tags = [render("tag.launch")] + ([literal(provider)] if provider else []) + extra_tags
         events.append(
             {
                 "uid": f"ll2-{item.get('id')}" if item.get("id") else None,
-                "title": name,
+                "title": literal(name),
                 "starts_at": net.replace("+00:00", "Z"),
                 "category": "launch",
                 "subcategory": "rocket",
                 "importance": score,
-                "summary": " ".join(parts),
+                "summary": join(*parts),
                 "tags": tags,
-                "location": location,
-                "links": links,
-                "source": "The Space Devs (Launch Library 2)",
+                "location": literal(location) if location else None,
+                "links": [l for l in links if l.get("url")],
+                "source": render("attribution.launchlibrary"),
                 "source_id": "launchlibrary",
-                "extra": {"status": status_pl},
+                "extra": {"status": status_name},
             }
         )
     return events

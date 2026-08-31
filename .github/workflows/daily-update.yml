@@ -48,7 +48,7 @@ jobs:
         run: |
           git config user.name "AstroAlert bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data feed.xml
+          git add data feed.xml feed.*.xml
           if git diff --cached --quiet; then
             echo "Brak zmian w danych."
             echo "changed=false" >> "$GITHUB_OUTPUT"
