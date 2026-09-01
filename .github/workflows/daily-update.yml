@@ -1,9 +1,19 @@
-name: Codzienna aktualizacja wydarzeń
+name: Aktualizacja wydarzeń
 
 on:
   schedule:
-    # 04:20 UTC = 06:20 czasu polskiego latem, 05:20 zimą
-    - cron: "20 4 * * *"
+    # Zdarzenie "schedule" trafia u GitHuba do wspólnej kolejki i jest
+    # realizowane najlepszym staraniem: bywa opóźnione o godziny, a przy
+    # dużym obciążeniu pojedyncze uruchomienia są pomijane. Dlatego zamiast
+    # jednego terminu mamy trzy, rozrzucone po dobie i na nietypowych
+    # minutach (w pełnych godzinach kolejka jest najdłuższa). Kolektor jest
+    # idempotentny - jeśli dane się nie zmieniły, nie powstaje commit - więc
+    # nadmiarowy przebieg nic nie kosztuje, a pominięty termin nadrabia
+    # kolejny. Przy okazji częściej łapiemy zmiany terminów startów rakiet
+    # i świeże prognozy zórz.
+    - cron: "37 5 * * *"    # 07:37 czasu polskiego latem
+    - cron: "43 11 * * *"   # 13:43
+    - cron: "13 18 * * *"   # 20:13
   workflow_dispatch:
     inputs:
       days:

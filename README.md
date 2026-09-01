@@ -3,7 +3,7 @@
 ## ▶ Portal działa pod adresem: **https://claudeplos.github.io/AstroAlert/**
 
 Portal o tym, **co ciekawego dzieje się w kosmosie** – kalendarz zjawisk na niebie
-i wydarzeń kosmicznych, który sam się aktualizuje raz na dobę i hostuje się na
+i wydarzeń kosmicznych, który sam się aktualizuje kilka razy dziennie i hostuje się na
 GitHub Pages. Zero serwera, zero bazy danych, zero kosztów.
 
 | | |
@@ -18,9 +18,9 @@ Jeśli pracujesz na własnym forku, Twój adres to
 `https://<twoja-nazwa>.github.io/<nazwa-repo>/` – pojawi się po wykonaniu kroków
 z sekcji [Uruchomienie u siebie](#uruchomienie-u-siebie).
 
-## Co się dzieje raz dziennie
+## Co się dzieje w tle
 
-Codziennie o **04:20 UTC** (06:20 czasu polskiego latem) workflow
+Trzy razy na dobę – o **05:37**, **11:43** i **18:13 UTC** – workflow
 [`daily-update.yml`](.github/workflows/daily-update.yml):
 
 1. uruchamia testy,
@@ -54,7 +54,25 @@ Codziennie o **04:20 UTC** (06:20 czasu polskiego latem) workflow
 
 Portal nie ma backendu: przeglądarka pobiera jeden statyczny plik
 `data/events.json` i renderuje go po swojej stronie. Cała „inteligencja"
-dzieje się raz na dobę w GitHub Actions.
+dzieje się w GitHub Actions, kilka razy na dobę.
+
+### Dlaczego trzy terminy, a nie jeden
+
+Zdarzenie `schedule` u GitHuba trafia do wspólnej kolejki i jest realizowane
+**najlepszym staraniem**: potrafi wystartować z kilkugodzinnym opóźnieniem,
+a przy dużym obciążeniu pojedyncze uruchomienie zostaje pominięte w całości.
+Nie da się tego wymusić – i nie jest to awaria repozytorium.
+
+Zamiast walczyć z kolejką, po prostu pytamy o dane trzy razy dziennie, na
+nietypowych minutach (w pełnych godzinach kolejka jest najdłuższa). Kolektor
+jest idempotentny: gdy dane się nie zmieniły, commit w ogóle nie powstaje.
+Nadmiarowy przebieg nic więc nie kosztuje, a pominięty termin nadrabia
+kolejny. Efekt uboczny jest korzystny – szybciej łapiemy przesunięte starty
+rakiet i świeże prognozy zórz.
+
+Jeśli aktualizacja jest naprawdę pilna, **Actions → Aktualizacja wydarzeń →
+Run workflow** uruchamia ją natychmiast; ten przycisk działa zawsze, bo nie
+przechodzi przez kolejkę harmonogramu.
 
 ### Co dokładnie robi scalanie
 
@@ -204,7 +222,7 @@ dla obu wersji.
 2. **Settings → Pages → Source: GitHub Actions**.
 3. **Settings → Actions → General → Workflow permissions: Read and write permissions**
    (bot musi móc zapisywać zaktualizowane dane).
-4. Zakładka **Actions → Codzienna aktualizacja wydarzeń → Run workflow** – pierwszy
+4. Zakładka **Actions → Aktualizacja wydarzeń → Run workflow** – pierwszy
    przebieg zaraz po włączeniu, bez czekania na harmonogram.
 
 ### Opcjonalnie: własny klucz NASA
@@ -330,7 +348,7 @@ Wszystkie progi siedzą w stałych na górze modułów – nie trzeba szukać po
 
 | Co chcesz zmienić | Gdzie | Domyślnie |
 |---|---|---|
-| Godzina codziennej aktualizacji | `cron` w `.github/workflows/daily-update.yml` | `20 4 * * *` (04:20 UTC) |
+| Godziny aktualizacji | wpisy `cron` w `.github/workflows/daily-update.yml` | 05:37, 11:43 i 18:13 UTC |
 | Jak daleko w przyszłość liczyć | `--days` w tym samym workflow | 400 dni |
 | Jak długo trzymać minione wydarzenia | `KEEP_PAST_DAYS` w `collect.py` | 60 dni |
 | Próg „termin przesunięty" | `RESCHEDULE_THRESHOLD` w `collect.py` | 10 minut |
@@ -423,7 +441,8 @@ Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego in
 | Stopka: „NASA NeoWs – chwilowo niedostępne" | wyczerpany limit `DEMO_KEY` (50/dobę, wspólny dla całego IP). Dodaj sekret `NASA_API_KEY` |
 | Stopka: „Starty rakiet – chwilowo niedostępne" | Launch Library ma limit ~15 zapytań/godzinę na IP; przy jednym przebiegu na dobę zwykle mija samo. Poprzednie wpisy zostają widoczne |
 | Brak startów rakiet mimo działającego źródła | rutynowe Starlinki mają wagę 1 – odznacz **„tylko najciekawsze"** |
-| Codzienny commit się nie pojawia | to normalne, gdy dane się nie zmieniły – workflow wtedy nie commituje (widać w logu „Brak zmian w danych") |
+| Commit z aktualizacją się nie pojawia | to normalne, gdy dane się nie zmieniły – workflow wtedy nie commituje (widać w logu „Brak zmian w danych") |
+| Przebieg wystartował kilka godzin po wyznaczonej godzinie albo wcale | tak działa `schedule` u GitHuba – kolejka jest wspólna i realizowana najlepszym staraniem. Dlatego terminy są trzy; jeśli potrzebujesz danych natychmiast, użyj **Run workflow** |
 | Zmiany w danych są, ale portal pokazuje stare | cache przeglądarki; strona dopisuje znacznik czasu do zapytania, więc wystarczy odświeżenie |
 | Godziny nie zgadzają się o 1–2 h | dane są w UTC, portal przelicza na strefę lokalną – porównuj z tym, co pokazuje strona, nie z surowym JSON-em |
 
