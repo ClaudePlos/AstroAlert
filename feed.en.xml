@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 02 Sep 2026 09:50:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 15:17:21 +0000</lastBuildDate>
   <item>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
@@ -14,6 +14,14 @@
     <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
 
 Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Long March 2D/YZ-3 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4</link>
+    <guid isPermaLink="false">ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4</guid>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 09:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 2D/YZ-3, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 337075 (1998 QC1) passes by</title>
@@ -320,13 +328,5 @@ Classified mission for the United States Space Force. It is possibly a batch of 
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;12.05.2027, 21:52 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon passes just 1.2° from Jupiter – the pair is visible in the evening, after sunset, in Cancer. Binoculars will show its four Galilean moons. A striking naked-eye sight and a rewarding subject for a short telephoto lens.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Conjunction of Venus and Saturn</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#koniunkcja-wenus-i-saturna-2027-05-07-4bf9f5d6</link>
-    <guid isPermaLink="false">koniunkcja-wenus-i-saturna-2027-05-07-4bf9f5d6</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;07.05.2027, 18:19 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Only 36′ separates the two planets – less than the width of a finger at arm's length. Visible in the morning, before sunrise, in Pisces. Angular distance from the Sun: 26°.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
