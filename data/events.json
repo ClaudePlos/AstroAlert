@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T15:17:21Z",
+ "generated_at": "2026-09-02T20:59:35Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -832,16 +832,16 @@
   {
    "id": "ll2-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
    "title": {
-    "pl": "Falcon 9 Block 5 | USSF-xxx (\"R-2\")",
-    "en": "Falcon 9 Block 5 | USSF-xxx (\"R-2\")"
+    "pl": "Falcon 9 Block 5 | USSF-153",
+    "en": "Falcon 9 Block 5 | USSF-153"
    },
    "starts_at": "2026-09-10T15:37:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin do potwierdzenia. Misja: Note: Actual USSF launch mission number to be confirmed.\r\n\r\nClassified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be confirmed. Mission: Note: Actual USSF launch mission number to be confirmed.\r\n\r\nClassified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: USSF-153 is a classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: USSF-153 is a classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -880,7 +880,7 @@
    "source_id": "launchlibrary",
    "added_on": "2026-09-01",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    }
   },
   {
