@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T20:59:35Z",
+ "generated_at": "2026-09-03T10:02:20Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 115
+   "count": 116
   },
   {
    "id": "launchlibrary",
@@ -62,11 +62,11 @@
   "link": "https://apod.nasa.gov/apod/ap260902.html"
  },
  "stats": {
-  "total": 145,
-  "upcoming": 145,
-  "new_today": 3,
+  "total": 146,
+  "upcoming": 146,
+  "new_today": 2,
   "by_category": {
-   "sky": 115,
+   "sky": 116,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 5,
@@ -96,67 +96,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-2337075-2026-09-03",
-   "title": {
-    "pl": "Przelot planetoidy 337075 (1998 QC1)",
-    "en": "Asteroid 337075 (1998 QC1) passes by"
-   },
-   "starts_at": "2026-09-03T14:31:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 290–649 m minie Ziemię w odległości 50,66 mln km, czyli 131,8 odległości Ziemia–Księżyc, z prędkością 23,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 290–649 m will pass Earth at 50.66 million km, or 131.8 times the Earth–Moon distance, travelling at 23.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2337075"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-02",
-   "extra": {
-    "miss_distance_km": 50661467,
-    "lunar_distances": 131.79,
-    "diameter_m": [
-     290,
-     649
-    ],
-    "hazardous": true
-   }
-  },
   {
    "id": "neo-3842887-2026-09-03",
    "title": {
@@ -881,6 +820,63 @@
    "added_on": "2026-09-01",
    "extra": {
     "status": "Go for Launch"
+   }
+  },
+  {
+   "id": "neo-3666543-2026-09-10",
+   "title": {
+    "pl": "Przelot planetoidy 2014 FV32",
+    "en": "Asteroid 2014 FV32 passes by"
+   },
+   "starts_at": "2026-09-10T17:28:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 80–179 m minie Ziemię w odległości 12,28 mln km, czyli 32,0 odległości Ziemia–Księżyc, z prędkością 10,6 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 80–179 m will pass Earth at 12.28 million km, or 32.0 times the Earth–Moon distance, travelling at 10.6 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666543"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-03",
+   "extra": {
+    "miss_distance_km": 12283851,
+    "lunar_distances": 31.96,
+    "diameter_m": [
+     80,
+     179
+    ],
+    "hazardous": false
    }
   },
   {
@@ -8338,6 +8334,62 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
+   "extra": {}
+  },
+  {
+   "id": "pierwsza-kwadra-2027-10-07-d9662c4c",
+   "title": {
+    "pl": "Pierwsza kwadra",
+    "en": "First Quarter"
+   },
+   "starts_at": "2027-10-07T11:50:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Strzelca. Odległość od Ziemi: 401 830 km.",
+    "en": "The Moon reaches first quarter in Sagittarius. Distance from Earth: 401,830 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Pierwsza kwadra",
+     "en": "First Quarter"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-09-03",
    "extra": {}
   }
  ]

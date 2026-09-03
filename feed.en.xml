@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 02 Sep 2026 20:59:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 10:02:20 +0000</lastBuildDate>
+  <item>
+    <title>First Quarter</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-10-07-d9662c4c</link>
+    <guid isPermaLink="false">pierwsza-kwadra-2027-10-07-d9662c4c</guid>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.10.2027, 11:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Sagittarius. Distance from Earth: 401,830 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2014 FV32 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3666543-2026-09-10</link>
+    <guid isPermaLink="false">neo-3666543-2026-09-10</guid>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;10.09.2026, 17:28 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 80–179 m will pass Earth at 12.28 million km, or 32.0 times the Earth–Moon distance, travelling at 10.6 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666543&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
@@ -22,14 +38,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 09:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 2D/YZ-3, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 337075 (1998 QC1) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2337075-2026-09-03</link>
-    <guid isPermaLink="false">neo-2337075-2026-09-03</guid>
-    <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;03.09.2026, 14:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 290–649 m will pass Earth at 50.66 million km, or 131.8 times the Earth–Moon distance, travelling at 23.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2337075&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-153</title>
@@ -318,13 +326,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;13.05.2027, 04:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Cancer. Distance from Earth: 371,352 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>The Moon meets Jupiter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-05-12-dbd377f2</link>
-    <guid isPermaLink="false">zblizenie-ksiezyca-i-jowisza-2027-05-12-dbd377f2</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;12.05.2027, 21:52 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon passes just 1.2° from Jupiter – the pair is visible in the evening, after sunset, in Cancer. Binoculars will show its four Galilean moons. A striking naked-eye sight and a rewarding subject for a short telephoto lens.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

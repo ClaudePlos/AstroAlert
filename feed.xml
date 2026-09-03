@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 02 Sep 2026 20:59:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 10:02:20 +0000</lastBuildDate>
+  <item>
+    <title>Pierwsza kwadra</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pierwsza-kwadra-2027-10-07-d9662c4c</link>
+    <guid isPermaLink="false">pierwsza-kwadra-2027-10-07-d9662c4c</guid>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Niebo nad nami</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.10.2027, 11:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Strzelca. Odległość od Ziemi: 401 830 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Przelot planetoidy 2014 FV32</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3666543-2026-09-10</link>
+    <guid isPermaLink="false">neo-3666543-2026-09-10</guid>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;10.09.2026, 17:28 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 80–179 m minie Ziemię w odległości 12,28 mln km, czyli 32,0 odległości Ziemia–Księżyc, z prędkością 10,6 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666543&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
@@ -22,14 +38,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 09:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 2D/YZ-3 – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Przelot planetoidy 337075 (1998 QC1)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2337075-2026-09-03</link>
-    <guid isPermaLink="false">neo-2337075-2026-09-03</guid>
-    <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;03.09.2026, 14:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 290–649 m minie Ziemię w odległości 50,66 mln km, czyli 131,8 odległości Ziemia–Księżyc, z prędkością 23,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2337075&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-153</title>
@@ -318,13 +326,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;13.05.2027, 04:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Raka. Odległość od Ziemi: 371 352 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Zbliżenie Księżyca i Jowisza</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#zblizenie-ksiezyca-i-jowisza-2027-05-12-dbd377f2</link>
-    <guid isPermaLink="false">zblizenie-ksiezyca-i-jowisza-2027-05-12-dbd377f2</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;12.05.2027, 21:52 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc przechodzi w odległości zaledwie 1,2° od Jowisza – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
