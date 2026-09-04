@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T09:52:33Z",
+ "generated_at": "2026-09-04T15:05:53Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -158,7 +158,7 @@
     "pl": "Spectrum | Onward and Upward",
     "en": "Spectrum | Onward and Upward"
    },
-   "starts_at": "2026-09-04T20:00:00Z",
+   "starts_at": "2026-09-05T20:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -204,7 +204,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Confirmed"
-   }
+   },
+   "rescheduled_from": "2026-09-04T20:00:00Z",
+   "updated_on": "2026-09-04"
   },
   {
    "id": "neo-2186822-2026-09-06",
