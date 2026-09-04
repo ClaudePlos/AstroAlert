@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T20:58:48Z",
+ "generated_at": "2026-09-04T09:52:33Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 116
+   "count": 117
   },
   {
    "id": "launchlibrary",
@@ -50,26 +50,26 @@
   }
  ],
  "apod": {
-  "title": "The Eclipse and the Stork",
-  "date": "2026-09-03",
-  "image": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg",
+  "title": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
+  "date": "2026-09-04",
+  "image": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg",
   "credit": {
-   "pl": "Włodzimierz Bubak\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)",
-   "en": "Włodzimierz Bubak\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)"
+   "pl": "NASA / domena publiczna",
+   "en": "NASA / public domain"
   },
-  "explanation": "How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new \"morning\" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lives, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260903.html"
+  "explanation": "Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on Maunakea, Hawai‘i. The galaxy pair, known as NGC 7253 and Arp 278, was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi Project Hōkūlani internship program.  The name translates to \"The Twin Spirits Pulling Together Creating Life\". That's both culturally and astronomically appropriate for galaxy collisions that trigger a cosmic maelstrom of star formation from galactic reservoirs of elemental building blocks of life. These merging galaxies are found within a region of Pegasus identified as the Hawaiian navigational constellation Ka Lupe o Kawelo.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260904.html"
  },
  "stats": {
-  "total": 146,
-  "upcoming": 145,
-  "new_today": 2,
+  "total": 147,
+  "upcoming": 146,
+  "new_today": 3,
   "by_category": {
    "sky": 116,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -96,117 +96,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-3842887-2026-09-03",
-   "title": {
-    "pl": "Przelot planetoidy 2019 LL5",
-    "en": "Asteroid 2019 LL5 passes by"
-   },
-   "starts_at": "2026-09-03T14:58:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 516–1 154 m minie Ziemię w odległości 56,28 mln km, czyli 146,4 odległości Ziemia–Księżyc, z prędkością 18,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 516–1,154 m will pass Earth at 56.28 million km, or 146.4 times the Earth–Moon distance, travelling at 18.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3842887"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-08-31",
-   "extra": {
-    "miss_distance_km": 56280081,
-    "lunar_distances": 146.41,
-    "diameter_m": [
-     516,
-     1154
-    ],
-    "hazardous": false
-   }
-  },
-  {
-   "id": "ll2-17d0ec68-f466-4916-9dc5-16123eda6484",
-   "title": {
-    "pl": "GSLV Mk II | GISAT-1A (EOS-05)",
-    "en": "GSLV Mk II | GISAT-1A (EOS-05)"
-   },
-   "starts_at": "2026-09-03T21:25:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: potwierdzony. Misja: GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: confirmed. Mission: GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Indian Space Research Organization",
-     "en": "Indian Space Research Organization"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/17d0ec68-f466-4916-9dc5-16123eda6484/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Satish Dhawan Space Centre, India",
-    "en": "Satish Dhawan Space Centre, India"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   }
-  },
   {
    "id": "ostatnia-kwadra-2026-09-04-fda58aed",
    "title": {
@@ -987,6 +876,67 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Confirmed"
+   }
+  },
+  {
+   "id": "neo-2465824-2026-09-11",
+   "title": {
+    "pl": "Przelot planetoidy 465824 (2010 FR)",
+    "en": "Asteroid 465824 (2010 FR) passes by"
+   },
+   "starts_at": "2026-09-11T22:28:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 122–273 m minie Ziemię w odległości 7,76 mln km, czyli 20,2 odległości Ziemia–Księżyc, z prędkością 11,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 122–273 m will pass Earth at 7.76 million km, or 20.2 times the Earth–Moon distance, travelling at 11.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2465824"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-04",
+   "extra": {
+    "miss_distance_km": 7757384,
+    "lunar_distances": 20.18,
+    "diameter_m": [
+     122,
+     273
+    ],
+    "hazardous": true
    }
   },
   {
@@ -2896,6 +2846,60 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-02",
+   "extra": {
+    "status": "To Be Determined"
+   }
+  },
+  {
+   "id": "ll2-67213393-7983-4c06-8b44-b8c785a5ed79",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
+    "en": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/67213393-7983-4c06-8b44-b8c785a5ed79/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-04",
    "extra": {
     "status": "To Be Determined"
    }
@@ -8391,6 +8395,75 @@
    "source_id": "sky",
    "added_on": "2026-09-03",
    "extra": {}
+  },
+  {
+   "id": "maksimum-roju-drakonidy-2027-10-08-cabb7baa",
+   "title": {
+    "pl": "Maksimum roju Drakonidy",
+    "en": "Draconids meteor shower peak"
+   },
+   "starts_at": "2027-10-08T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": {
+    "pl": "Rój nieprzewidywalny: zwykle słaby, ale kilka razy w historii dał prawdziwe deszcze meteorów. Radiant świeci wysoko już wczesnym wieczorem. W maksimum teoretycznie do 10 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Smoka. Księżyc oświetlony w 56% nieco rozjaśni niebo. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.",
+    "en": "An unpredictable shower: usually weak, but a few times in history it has produced genuine meteor storms. The radiant is already high in the early evening. At maximum, up to 10 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Draco. A Moon 56% illuminated will brighten the sky a little. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights."
+   },
+   "tags": [
+    {
+     "pl": "meteory",
+     "en": "meteors"
+    },
+    {
+     "pl": "Drakonidy",
+     "en": "Draconids"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Kalendarz rojów IMO",
+      "en": "IMO meteor shower calendar"
+     },
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": {
+      "pl": "O roju – Wikipedia",
+      "en": "About the shower – Wikipedia"
+     },
+     "url": {
+      "pl": "https://pl.wikipedia.org/wiki/Drakonidy",
+      "en": "https://en.wikipedia.org/wiki/Draconids"
+     }
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-09-04",
+   "extra": {
+    "zhr": 10,
+    "moon_illumination": 0.56
+   }
   }
  ]
 }
