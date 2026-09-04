@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T15:05:53Z",
+ "generated_at": "2026-09-04T20:43:29Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -204,9 +204,7 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Confirmed"
-   },
-   "rescheduled_from": "2026-09-04T20:00:00Z",
-   "updated_on": "2026-09-04"
+   }
   },
   {
    "id": "neo-2186822-2026-09-06",
@@ -942,6 +940,62 @@
    }
   },
   {
+   "id": "ll2-ad358a4d-c541-409b-9366-9c2f2da4aeb9",
+   "title": {
+    "pl": "Falcon 9 Block 5 | O3b mPower 11-13",
+    "en": "Falcon 9 Block 5 | O3b mPower 11-13"
+   },
+   "starts_at": "2026-09-13T18:50:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin do potwierdzenia. Misja: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be confirmed. Mission: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/ad358a4d-c541-409b-9366-9c2f2da4aeb9/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Confirmed"
+   },
+   "rescheduled_from": "2026-09-30T00:00:00Z",
+   "updated_on": "2026-09-04"
+  },
+  {
    "id": "zblizenie-ksiezyca-i-wenus-2026-09-14-90027f43",
    "title": {
     "pl": "Zbliżenie Księżyca i Wenus",
@@ -1356,60 +1410,6 @@
       "en": "Mission details"
      },
      "url": "https://thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Cape Canaveral SFS, FL, USA",
-    "en": "Cape Canaveral SFS, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   }
-  },
-  {
-   "id": "ll2-ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-   "title": {
-    "pl": "Falcon 9 Block 5 | O3b mPower 11-13",
-    "en": "Falcon 9 Block 5 | O3b mPower 11-13"
-   },
-   "starts_at": "2026-09-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/ad358a4d-c541-409b-9366-9c2f2da4aeb9/"
     },
     {
      "label": {
