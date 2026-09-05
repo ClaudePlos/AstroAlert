@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T09:15:36Z",
+ "generated_at": "2026-09-05T13:59:51Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -163,8 +163,8 @@
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Spectrum – Isar Aerospace. Miejsce: Andøya Spaceport. Status terminu: termin do potwierdzenia. Misja: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Spectrum, operated by Isar Aerospace. Site: Andøya Spaceport. Schedule status: date to be confirmed. Mission: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Spectrum – Isar Aerospace. Miejsce: Andøya Spaceport. Status terminu: potwierdzony. Misja: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Spectrum, operated by Isar Aerospace. Site: Andøya Spaceport. Schedule status: confirmed. Mission: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -203,7 +203,7 @@
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    }
   },
   {
@@ -422,7 +422,7 @@
    "source_id": "neows",
    "added_on": "2026-08-31",
    "extra": {
-    "miss_distance_km": 19039681,
+    "miss_distance_km": 19039680,
     "lunar_distances": 49.53,
     "diameter_m": [
      595,
@@ -873,7 +873,7 @@
    "source_id": "neows",
    "added_on": "2026-09-04",
    "extra": {
-    "miss_distance_km": 7757384,
+    "miss_distance_km": 7757385,
     "lunar_distances": 20.18,
     "diameter_m": [
      122,
@@ -934,7 +934,7 @@
    "source_id": "neows",
    "added_on": "2026-09-05",
    "extra": {
-    "miss_distance_km": 19854157,
+    "miss_distance_km": 19854159,
     "lunar_distances": 51.65,
     "diameter_m": [
      192,
