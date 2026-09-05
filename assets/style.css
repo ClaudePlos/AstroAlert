@@ -134,6 +134,38 @@ a:hover { color: #a9c3ff; }
 /* --- filtry ------------------------------------------------------------- */
 
 .controls { margin-bottom: 22px; }
+
+.views { display: flex; gap: 4px; margin-bottom: 14px; border-bottom: 1px solid var(--card-border); }
+.views button {
+  padding: 10px 18px 12px;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.views button:hover { color: var(--text); }
+.views button[aria-selected="true"] { color: var(--text); border-bottom-color: var(--accent); }
+.views .count { font-weight: 400; opacity: 0.6; font-size: 13px; margin-left: 6px; }
+
+.poland-note {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  margin: 0 0 10px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: rgba(122, 162, 255, 0.10);
+  border: 1px solid rgba(122, 162, 255, 0.22);
+  font-size: 14px;
+  color: #cfd8ff;
+}
+.poland-note .when { color: var(--accent-warm); white-space: nowrap; }
 .search-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 12px; }
 
 #search {

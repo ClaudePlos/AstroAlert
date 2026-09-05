@@ -429,7 +429,9 @@ def meteor_showers(d0: float, d1: float) -> list[dict]:
                         _link("link.imo", "https://www.imo.net/resources/calendar/"),
                         _link("link.shower_info", sh.get("url")),
                     ),
-                    "extra": {"zhr": sh["zhr"], "moon_illumination": round(illum, 2)},
+                    "extra": {"zhr": sh["zhr"], "moon_illumination": round(illum, 2),
+                              "radiant_ra": sh.get("radiant_ra"),
+                              "radiant_dec": sh.get("radiant_dec")},
                 }
             )
     return events
@@ -461,6 +463,7 @@ def eclipses(d0: float, d1: float) -> list[dict]:
                     *extra_link,
                 ),
                 "location": ec.get("visibility"),
+                "extra": {"poland": bool(ec.get("poland"))},
             }
         )
     return events

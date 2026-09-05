@@ -27,6 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
+import poland  # noqa: E402
 from lib.i18n import LANGS, literal, pick, render, t  # noqa: E402
 from sources import apod, launches, neo, sky, spaceweather  # noqa: E402
 
@@ -187,6 +188,8 @@ def normalize(ev: dict, today: str) -> dict | None:
         return None
     out = {
         "id": event_id(ev),
+        # "poland" celowo nie jest przepisywane: ocena widocznosci powstaje
+        # od nowa w kazdym przebiegu, wiec zmiana progow dziala wstecz
         "title": text(ev.get("title"), "Wydarzenie"),
         "starts_at": starts.isoformat().replace("+00:00", "Z"),
         "category": ev.get("category", "sky"),
@@ -356,6 +359,7 @@ def main() -> int:
 
     events = merge(previous, fresh, report, today)
     events, archived = prune(events, now)
+    poland.annotate(events)
 
     if picture is None and isinstance(prev_doc, dict):
         picture = prev_doc.get("apod")
@@ -370,6 +374,8 @@ def main() -> int:
         "stats": {
             "total": len(events),
             "upcoming": len(upcoming),
+            "poland": sum(1 for e in upcoming
+                          if e.get("poland", {}).get("visible") and e["importance"] >= 3),
             "new_today": sum(1 for e in events if e.get("added_on") == today),
             "by_category": {
                 key: sum(1 for e in upcoming if e["category"] == key) for key in CATEGORIES

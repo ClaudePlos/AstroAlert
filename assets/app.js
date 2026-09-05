@@ -23,6 +23,11 @@
       showPast: "Pokaż minione",
       loading: "Wczytywanie danych…",
       empty: "Nic nie pasuje do tych filtrów. Spróbuj wyczyścić wyszukiwanie.",
+      viewAll: "Wszystkie wydarzenia",
+      viewPoland: "🇵🇱 Widoczne z Polski",
+      viewPolandHint: "Najciekawsze zjawiska, które da się obserwować z Polski " +
+        "– widoczność liczona dla środka kraju",
+      bestTime: "najwyżej o {time}",
       sourcesHeading: "Skąd pochodzą dane",
       aboutHeading: "O portalu",
       about: "Zjawiska na niebie – fazy Księżyca, koniunkcje, opozycje, elongacje, " +
@@ -51,6 +56,11 @@
       showPast: "Show past events",
       loading: "Loading data…",
       empty: "Nothing matches these filters. Try clearing the search box.",
+      viewAll: "All events",
+      viewPoland: "🇵🇱 Visible from Poland",
+      viewPolandHint: "The best events observable from Poland " +
+        "– visibility computed for the centre of the country",
+      bestTime: "highest at {time}",
       sourcesHeading: "Where the data comes from",
       aboutHeading: "About",
       about: "Sky events – lunar phases, conjunctions, oppositions, elongations and " +
@@ -82,7 +92,8 @@
   const el = (id) => document.getElementById(id);
   const state = {
     doc: null, events: [], categories: {}, languages: [DEFAULT_LANG],
-    lang: DEFAULT_LANG, active: new Set(), query: "", onlyBig: false, showPast: false,
+    lang: DEFAULT_LANG, view: "all", active: new Set(), query: "", onlyBig: false,
+    showPast: false,
     today: new Date().toISOString().slice(0, 10), countdownTimer: null,
   };
 
@@ -180,6 +191,16 @@
     const place = ev.location
       ? `<span class="tag">📍 ${escapeHtml(pickText(ev.location))}</span>` : "";
 
+    // notatkę o widoczności pokazujemy tylko w zakładce krajowej - w widoku
+    // ogólnym powtarzałaby się przy prawie każdym wpisie
+    let polandNote = "";
+    if (state.view === "poland" && ev.poland && ev.poland.note) {
+      const when = ev.poland.best_time
+        ? `<span class="when">${escapeHtml(fill(T.bestTime,
+            { time: formatTime(parse(ev.poland.best_time)) }))}</span>` : "";
+      polandNote = `<p class="poland-note"><span>${escapeHtml(pickText(ev.poland.note))}</span>${when}</p>`;
+    }
+
     return `<article class="event${past ? " past" : ""}" id="${escapeHtml(ev.id)}" ` +
       `style="--cat:${CATEGORY_COLORS[ev.category] || "var(--accent)"}">
       <div class="date-badge">
@@ -191,13 +212,19 @@
         <h3>${escapeHtml(pickText(ev.title))}</h3>
         <div class="meta">${badges}</div>
         <p>${escapeHtml(pickText(ev.summary))}</p>
+        ${polandNote}
         <div class="meta">${tags}${place}</div>
         <div class="links">${linksHtml(ev.links)}</div>
       </div>
     </article>`;
   }
 
+  /** Czy wpis należy do zakładki "Widoczne z Polski"? */
+  const isPolish = (ev) => Boolean(ev.poland && ev.poland.visible) && ev.importance >= 3;
+
+  /** @param ignoreCategory - do liczenia etykiet przy filtrach kategorii */
   function matches(ev, now, ignoreCategory) {
+    if (state.view === "poland" && !isPolish(ev)) return false;
     if (!state.showPast && parse(ev.starts_at) < now - 6 * 3600000) return false;
     if (state.onlyBig && ev.importance < 4) return false;
     if (!ignoreCategory && state.active.size && !state.active.has(ev.category)) return false;
@@ -240,6 +267,7 @@
     }
     el("timeline").innerHTML = html;
     el("status").hidden = true;
+    renderViews();
   }
 
   /* --- pozostałe sekcje -------------------------------------------------- */
@@ -278,6 +306,25 @@
     ).join("");
   }
 
+  function renderViews() {
+    const T = ui();
+    const now = new Date();
+    const counts = {
+      all: state.events.filter((ev) => state.showPast
+        || parse(ev.starts_at) >= now - 6 * 3600000).length,
+      poland: state.events.filter((ev) => isPolish(ev)
+        && (state.showPast || parse(ev.starts_at) >= now - 6 * 3600000)).length,
+    };
+    el("views").innerHTML = [
+      ["all", T.viewAll, ""],
+      ["poland", T.viewPoland, T.viewPolandHint],
+    ].map(([key, label, hint]) =>
+      `<button type="button" role="tab" data-view="${key}" ` +
+      `aria-selected="${state.view === key}" title="${escapeHtml(hint)}">` +
+      `${escapeHtml(label)}<span class="count">${counts[key]}</span></button>`
+    ).join("");
+  }
+
   function renderFilters() {
     el("filters").innerHTML = Object.entries(state.categories).map(([key, label]) =>
       `<button class="chip" data-cat="${key}" aria-pressed="${state.active.has(key)}">
@@ -287,9 +334,13 @@
 
   function renderHero() {
     const now = new Date();
+    // kafel idzie za zakładką: w widoku krajowym zapowiada zjawisko,
+    // które faktycznie da się zobaczyć z Polski
     const next = state.events
-      .filter((ev) => parse(ev.starts_at) > now && ev.importance >= 4)
+      .filter((ev) => parse(ev.starts_at) > now && ev.importance >= 4
+        && (state.view !== "poland" || isPolish(ev)))
       .sort((a, b) => a.starts_at.localeCompare(b.starts_at))[0];
+    el("hero").hidden = !next;
     if (!next) return;
 
     el("hero").hidden = false;
@@ -338,6 +389,7 @@
   function renderAll() {
     renderChrome();
     renderLangSwitch();
+    renderViews();
     renderFilters();
     renderHero();
     renderApod();
@@ -371,6 +423,17 @@
       chip.setAttribute("aria-pressed", String(on));
       renderTimeline();
     });
+    el("views").addEventListener("click", (e) => {
+      const button = e.target.closest("button[data-view]");
+      if (!button || button.dataset.view === state.view) return;
+      state.view = button.dataset.view;
+      renderHero();
+      const url = new URL(location.href);
+      state.view === "all" ? url.searchParams.delete("view")
+        : url.searchParams.set("view", state.view);
+      history.replaceState(null, "", url);
+      renderTimeline();
+    });
     el("lang-switch").addEventListener("click", (e) => {
       const button = e.target.closest("button[data-lang]");
       if (button && button.dataset.lang !== state.lang) setLang(button.dataset.lang);
@@ -389,6 +452,9 @@
       state.categories = doc.categories || {};
       state.languages = doc.languages || [DEFAULT_LANG];
       state.lang = initialLang(state.languages);
+      if (new URLSearchParams(location.search).get("view") === "poland") {
+        state.view = "poland";
+      }
 
       bind();
       renderAll();
