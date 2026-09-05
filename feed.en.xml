@@ -4,7 +4,20 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 05 Sep 2026 13:59:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 20:17:18 +0000</lastBuildDate>
+  <item>
+    <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
+    <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
+    <pubDate>Sat, 05 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;19.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Soyuz 2.1a Fregat-M, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Vostochny Cosmodrome, Siberia, Russian Federation. Schedule status: date to be determined. Mission: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
+
+* MKA Kinosputnik
+* KOEN, KA MT-LAB
+* NPO Kaisant 6U cubesat with a Germes modem
+* NPO Kaisant 16U cubesat with Gonets modems Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Asteroid 474158 (1999 FA) passes by</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2474158-2026-09-12</link>
@@ -318,13 +331,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;28.05.2027, 13:59 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Aquarius. Distance from Earth: 399,913 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Greatest eastern elongation of Mercury (23°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-wschodnia-23-2027-05-28-ccb5ee30</link>
-    <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-23-2027-05-28-ccb5ee30</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.05.2027, 09:57 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mercury stands 23° from the Sun – the best chance this season to catch the planet in the evening, just after sunset. The hardest planet to catch – it never strays far from the Sun. Look for it low above the western horizon during twilight.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

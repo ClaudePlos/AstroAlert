@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T13:59:51Z",
+ "generated_at": "2026-09-05T20:17:18Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -64,7 +64,7 @@
  "stats": {
   "total": 147,
   "upcoming": 146,
-  "new_today": 1,
+  "new_today": 2,
   "by_category": {
    "sky": 116,
    "launch": 25,
@@ -151,60 +151,6 @@
    "source_id": "sky",
    "added_on": "2026-08-31",
    "extra": {}
-  },
-  {
-   "id": "ll2-1b23eb18-e06e-4058-9b42-e95ca0980511",
-   "title": {
-    "pl": "Spectrum | Onward and Upward",
-    "en": "Spectrum | Onward and Upward"
-   },
-   "starts_at": "2026-09-05T20:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Spectrum – Isar Aerospace. Miejsce: Andøya Spaceport. Status terminu: potwierdzony. Misja: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Spectrum, operated by Isar Aerospace. Site: Andøya Spaceport. Schedule status: confirmed. Mission: Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment) Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Isar Aerospace",
-     "en": "Isar Aerospace"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/1b23eb18-e06e-4058-9b42-e95ca0980511/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Andøya Spaceport",
-    "en": "Andøya Spaceport"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   }
   },
   {
    "id": "neo-2186822-2026-09-06",
@@ -3449,6 +3395,60 @@
    "source_id": "sky",
    "added_on": "2026-08-31",
    "extra": {}
+  },
+  {
+   "id": "ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+   "title": {
+    "pl": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
+    "en": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others"
+   },
+   "starts_at": "2026-11-19T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Soyuz 2.1a Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: termin wstępny. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Soyuz 2.1a Fregat-M, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Vostochny Cosmodrome, Siberia, Russian Federation. Schedule status: date to be determined. Mission: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
+     "en": "Russian Federal Space Agency (ROSCOSMOS)"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vostochny Cosmodrome, Siberia, Russian Federation",
+    "en": "Vostochny Cosmodrome, Siberia, Russian Federation"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-05",
+   "extra": {
+    "status": "To Be Determined"
+   }
   },
   {
    "id": "maksymalna-elongacja-merkurego-zachodnia-20-2026-11-20-048e5128",

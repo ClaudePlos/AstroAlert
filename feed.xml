@@ -4,7 +4,20 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Sat, 05 Sep 2026 13:59:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 20:17:18 +0000</lastBuildDate>
+  <item>
+    <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
+    <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
+    <pubDate>Sat, 05 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;19.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1a Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: termin wstępny. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
+
+* MKA Kinosputnik
+* KOEN, KA MT-LAB
+* NPO Kaisant 6U cubesat with a Germes modem
+* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 474158 (1999 FA)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2474158-2026-09-12</link>
@@ -318,13 +331,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;28.05.2027, 13:59 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Wodnika. Odległość od Ziemi: 399 913 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Maksymalna elongacja Merkurego (wschodnia, 23°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#maksymalna-elongacja-merkurego-wschodnia-23-2027-05-28-ccb5ee30</link>
-    <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-23-2027-05-28-ccb5ee30</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.05.2027, 09:57 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Merkury odsuwa się od Słońca na 23° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj jej nisko nad zachodnim horyzontem, w czasie zmierzchu.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
