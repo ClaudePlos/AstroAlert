@@ -13,7 +13,8 @@
   "description": {
    "pl": "Księżyc znajduje się zbyt daleko od Ziemi, by zakryć Słońce w całości – wokół czarnej tarczy zostaje jasny pierścień („pierścień ognia”). Pas obrączkowy przechodzi przez Antarktydę.",
    "en": "The Moon is too far from Earth to cover the Sun completely, leaving a bright ring around the black disc – the famous “ring of fire”. The annular path crosses Antarctica."
-  }
+  },
+  "poland": false
  },
  {
   "utc": "2026-03-03T11:34:00Z",
@@ -29,7 +30,8 @@
   "description": {
    "pl": "Księżyc w całości wchodzi w cień Ziemi i przybiera miedzianoczerwoną barwę – to światło wszystkich ziemskich wschodów i zachodów Słońca naraz. Zaćmienia Księżyca są całkowicie bezpieczne dla oczu i widoczne gołym okiem.",
    "en": "The Moon passes fully into Earth's shadow and turns a coppery red – the combined light of every sunrise and sunset on Earth at once. Lunar eclipses are completely safe to watch with the naked eye."
-  }
+  },
+  "poland": false
  },
  {
   "utc": "2026-08-12T17:46:00Z",
@@ -46,7 +48,8 @@
    "pl": "Najważniejsze zaćmienie tej dekady dla Europy – pas całkowitości przechodzi przez Islandię i północną Hiszpanię, a w Polsce Słońce zostanie zakryte częściowo, nisko nad zachodnim horyzontem. Pierwsze całkowite zaćmienie widoczne z Europy kontynentalnej od 1999 roku.",
    "en": "The most important eclipse of the decade for Europe – the path of totality crosses Iceland and northern Spain, while the rest of the continent sees a partial eclipse low above the western horizon. The first total eclipse visible from mainland Europe since 1999."
   },
-  "importance": 5
+  "importance": 5,
+  "poland": true
  },
  {
   "utc": "2026-08-28T04:13:00Z",
@@ -62,7 +65,8 @@
   "description": {
    "pl": "Ziemia zasłania część tarczy Księżyca – widać ciemny, wyraźnie zakrzywiony brzeg cienia naszej planety.",
    "en": "Earth covers part of the lunar disc, showing the dark, distinctly curved edge of our planet's shadow."
-  }
+  },
+  "poland": false
  },
  {
   "utc": "2027-02-06T16:00:00Z",
@@ -78,7 +82,8 @@
   "description": {
    "pl": "Pierścień ognia nad Ameryką Południową. W Polsce zjawisko niewidoczne.",
    "en": "A ring of fire over South America. The eclipse is not visible from Europe."
-  }
+  },
+  "poland": false
  },
  {
   "utc": "2027-02-20T23:13:00Z",
@@ -95,7 +100,8 @@
    "pl": "Księżyc wchodzi tylko w półcień Ziemi – tarcza lekko przygasa, efekt subtelny i najlepiej widoczny na zdjęciach porównawczych.",
    "en": "The Moon enters only Earth's penumbra – the disc dims slightly, a subtle effect best caught in before-and-after photographs."
   },
-  "importance": 3
+  "importance": 3,
+  "poland": true
  },
  {
   "utc": "2027-08-02T10:07:00Z",
@@ -112,7 +118,8 @@
    "pl": "Faza całkowita trwa aż 6 minut i 23 sekundy – to najdłuższe zaćmienie widoczne z lądu w XXI wieku aż do 2114 roku. Pas całkowitości biegnie przez południową Hiszpanię i północną Afrykę, m.in. przez Luksor. W Polsce zobaczymy fazę częściową.",
    "en": "Totality lasts 6 minutes and 23 seconds – the longest eclipse visible from land in the 21st century and indeed until 2114. The path runs across southern Spain and North Africa, passing over Luxor among other places."
   },
-  "importance": 5
+  "importance": 5,
+  "poland": true
  },
  {
   "utc": "2027-08-17T07:14:00Z",
@@ -129,7 +136,8 @@
    "pl": "Delikatne przygaśnięcie tarczy Księżyca w półcieniu Ziemi.",
    "en": "A gentle dimming of the lunar disc as it grazes Earth's penumbra."
   },
-  "importance": 3
+  "importance": 3,
+  "poland": false
  },
  {
   "utc": "2028-01-12T04:13:00Z",
@@ -145,7 +153,8 @@
   "description": {
    "pl": "Pierścień ognia kończy swoją drogę nad Półwyspem Iberyjskim tuż przed zachodem Słońca.",
    "en": "The ring of fire ends its journey over the Iberian Peninsula just before sunset."
-  }
+  },
+  "poland": false
  },
  {
   "utc": "2028-07-06T18:20:00Z",
@@ -161,7 +170,8 @@
   "description": {
    "pl": "Znaczna część tarczy Księżyca zanurza się w cieniu Ziemi.",
    "en": "A large part of the lunar disc sinks into Earth's shadow."
-  }
+  },
+  "poland": true
  },
  {
   "utc": "2028-07-22T02:56:00Z",
@@ -177,7 +187,8 @@
   "description": {
    "pl": "Pas całkowitości przechodzi bezpośrednio nad kilkumilionowym Sydney – rzadka sytuacja, gdy zaćmienie trafia w wielkie miasto.",
    "en": "The path of totality passes directly over Sydney and its five million people – a rare case of an eclipse landing on a major city."
-  }
+  },
+  "poland": false
  },
  {
   "utc": "2028-12-31T16:52:00Z",
@@ -194,7 +205,8 @@
    "pl": "Sylwestrowa „krwawa” pełnia widoczna w całości z Polski. Zaćmienia Księżyca ogląda się bez żadnego sprzętu i bez ryzyka dla wzroku.",
    "en": "A “blood moon” to see in the new year, visible in full from all of Europe. Lunar eclipses need no equipment and pose no risk to your eyes."
   },
-  "importance": 5
+  "importance": 5,
+  "poland": true
  },
  {
   "utc": "2029-06-26T03:23:00Z",
@@ -211,7 +223,8 @@
    "pl": "Długie zaćmienie całkowite z Księżycem głęboko w cieniu Ziemi.",
    "en": "A long total eclipse with the Moon deep inside Earth's shadow."
   },
-  "importance": 4
+  "importance": 4,
+  "poland": true
  },
  {
   "utc": "2029-12-20T22:43:00Z",
@@ -228,7 +241,8 @@
    "pl": "Ostatnie z serii trzech całkowitych zaćmień Księżyca tej dekady widocznych z Polski.",
    "en": "The last of three total lunar eclipses of the decade visible from Europe."
   },
-  "importance": 4
+  "importance": 4,
+  "poland": true
  },
  {
   "utc": "2030-06-01T06:29:00Z",
@@ -245,7 +259,8 @@
    "pl": "Pas obrączkowy przechodzi przez Europę Południowo-Wschodnią, a w Polsce zobaczymy wyraźną fazę częściową.",
    "en": "The annular path crosses south-eastern Europe, with a pronounced partial phase visible farther north."
   },
-  "importance": 4
+  "importance": 4,
+  "poland": true
  },
  {
   "utc": "2030-11-25T06:51:00Z",
@@ -261,6 +276,7 @@
   "description": {
    "pl": "Pas całkowitości startuje w Botswanie i kończy się w południowej Australii.",
    "en": "The path of totality begins in Botswana and ends in southern Australia."
-  }
+  },
+  "poland": false
  }
 ]

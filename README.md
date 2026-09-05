@@ -10,6 +10,7 @@ GitHub Pages. Zero serwera, zero bazy danych, zero kosztów.
 |---|---|
 | **Portal** | https://claudeplos.github.io/AstroAlert/ |
 | **English version** | https://claudeplos.github.io/AstroAlert/?lang=en |
+| **Widoczne z Polski** | https://claudeplos.github.io/AstroAlert/?view=poland |
 | **Kanał RSS** | [polski](https://claudeplos.github.io/AstroAlert/feed.xml) · [English](https://claudeplos.github.io/AstroAlert/feed.en.xml) |
 | **Dane** | [`data/events.json`](data/events.json) – otwarte, do użycia w innych projektach |
 | **Podgląd lokalny** | `python3 -m http.server 8000` → http://localhost:8000 |
@@ -216,6 +217,60 @@ wymagałoby zewnętrznej usługi, a portal ma działać bez żadnych kluczy API.
 Nazwy własne (rakiety, kosmodromy, oznaczenia katalogowe planetoid) są wspólne
 dla obu wersji.
 
+## Zakładka „Widoczne z Polski"
+
+Obok pełnej listy portal ma drugi widok: **zjawiska, które faktycznie da się
+zobaczyć z Polski**. To nie jest ręczna selekcja ani filtr po słowach
+kluczowych – widoczność jest liczona.
+
+Dla każdego zjawiska sprawdzamy, jak wysoko obiekt wznosi się nad horyzontem
+w chwili, gdy niebo jest już dostatecznie ciemne. Potrzebny do tego jest
+rachunek horyzontalny: z pozycji ekliptycznej przechodzimy na współrzędne
+równikowe, liczymy miejscowy czas gwiazdowy dla środka Polski (52,0°N, 19,5°E),
+a z kąta godzinnego – wysokość nad horyzontem. Noc skanujemy co dziesięć minut
+i zapamiętujemy najlepszy moment.
+
+Poprawność łatwo sprawdzić, bo wysokość Słońca w południe zależy wyłącznie od
+szerokości geograficznej i deklinacji:
+
+| Data | AstroAlert | Geometria |
+|---|---|---|
+| Równonoc | 37,9° | 90 − 52 = 38,0° |
+| Przesilenie letnie | 61,4° | 90 − 52 + 23,4 = 61,4° |
+| Przesilenie zimowe | 14,6° | 90 − 52 − 23,4 = 14,6° |
+
+### Co z tego wynika w praktyce
+
+Najlepiej widać to na elongacjach Merkurego – zjawisku, które najczęściej
+kończy się rozczarowaniem, bo almanachy podają je bez kontekstu obserwacyjnego:
+
+| Termin | Elongacja | Ocena |
+|---|---|---|
+| 12.10.2026 | 25° na wschód (wieczorem) | **odrzucone** – jesienią ekliptyka układa się płasko nad zachodnim horyzontem |
+| 20.11.2026 | 20° na zachód (rano) | **13,6° nad horyzontem** – ta sama geometria działa rano na naszą korzyść |
+| 17.03.2027 | 28° na zachód (rano) | 3,6° – formalnie widoczne, ale nisko |
+
+Większa elongacja nie znaczy więc lepsza widoczność; decyduje kąt, pod jakim
+ekliptyka wychodzi z horyzontu o danej porze roku.
+
+### Kryteria per kategoria
+
+| Kategoria | Kryterium |
+|---|---|
+| Planety, Księżyc, koniunkcje, opozycje, elongacje | policzona wysokość nad horyzontem przy ciemnym niebie |
+| Roje meteorów | wysokość radiantu (współrzędne w `data/static/meteor_showers.json`) |
+| Zaćmienia | pole `poland` w `data/static/eclipses.json` – redagowane ręcznie |
+| Zorze polarne | Kp ≥ 6, czyli burza zdolna zejść nad nasze szerokości |
+| Starty rakiet | polski wątek w misji (ładunek, firma, astronauta) |
+| Planetoidy | nigdy – bez teleskopu i tak nic nie widać |
+
+Jasne planety mają łagodniejsze progi niż reszta: Wenus o jasności −4 mag widać
+w zmierzchu tuż nad horyzontem, a słabszy obiekt w tych samych warunkach nie.
+
+Zakładka pokazuje wpisy o wadze co najmniej 3 – ma być przeglądem tego, co
+warto zobaczyć, a nie kompletem. Adres `?view=poland` prowadzi do niej wprost,
+więc da się wysłać komuś sam widok krajowy.
+
 ## Uruchomienie u siebie
 
 1. Zrób forka lub sklonuj repozytorium.
@@ -239,7 +294,7 @@ o nazwie `NASA_API_KEY`.
 python3 scripts/collect.py --offline     # tylko obliczenia astronomiczne, bez sieci
 python3 scripts/collect.py               # pełny przebieg
 python3 scripts/collect.py --dry-run     # bez zapisywania plików
-python3 -m unittest discover -s tests    # 99 testów
+python3 -m unittest discover -s tests    # 118 testów
 python3 -m http.server 8000              # podgląd portalu na http://localhost:8000
 ```
 
@@ -356,6 +411,9 @@ Wszystkie progi siedzą w stałych na górze modułów – nie trzeba szukać po
 | Które starty są ważne | słownik `HIGHLIGHTS` w `sources/launches.py` | załoga, Księżyc, Mars, nowe rakiety |
 | Od jakiej burzy informować o zorzy | `if level < 5` w `sources/spaceweather.py` | Kp ≥ 5 (G1) |
 | Które planetoidy pokazywać | `CLOSE_LD`, `MAX_RANKED`, `MIN_DIAMETER_M` w `sources/neo.py` | wszystkie bliżej niż 5 odl. Księżyca + 5 największych dalszych |
+| Punkt odniesienia dla widoczności | `POLAND_LAT`, `POLAND_LON` w `ephem.py` | 52,0°N, 19,5°E (środek kraju) |
+| Progi widoczności | `TWILIGHT_LIMIT`, `MIN_ALTITUDE` w `poland.py` | Wenus i Merkury: Słońce < −2°, obiekt > 2°; reszta: < −12° i > 10° |
+| Od jakiej burzy zorza trafia do zakładki krajowej | `AURORA_KP` w `poland.py` | Kp ≥ 6 |
 | Nazwy i kolejność kategorii | `CATEGORY_LABELS` w `collect.py` | 5 kategorii |
 | Kolory i ikony kategorii | `CATEGORY_COLORS`, `CATEGORY_ICONS` w `assets/app.js` oraz zmienne `--cat-*` w `assets/style.css` | motyw nocnego nieba |
 
@@ -385,7 +443,8 @@ index.html              portal (statyczny, dwujęzyczny)
 assets/                 style.css, app.js
 scripts/
   collect.py            orkiestrator: zbiera, scala, zapisuje, generuje RSS
-  ephem.py              efemerydy: Słońce, Księżyc, planety
+  ephem.py              efemerydy: Słońce, Księżyc, planety, rachunek horyzontalny
+  poland.py             ocena widoczności zjawisk z Polski
   sources/
     sky.py              zjawiska liczone lokalnie
     launches.py         starty rakiet
@@ -399,7 +458,7 @@ data/
   custom_events.json    Twoje własne wpisy
   static/               roje meteorów, zaćmienia
   archive/              wydarzenia starsze niż 60 dni, rocznikami
-tests/                  99 testów (efemerydy, parsery API, scalanie, katalog tłumaczeń)
+tests/                  118 testów (efemerydy, horyzont, parsery API, scalanie, tłumaczenia)
 ```
 
 Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego instalować.
@@ -410,6 +469,7 @@ Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego in
 {
   "generated_at": "2026-08-30T04:20:11Z",
   "languages": ["pl", "en"],
+  "stats": { "poland": 34 },                  // ile wpisów trafia do zakładki krajowej
   "sources":  [ { "id": "swpc", "name": "…", "status": "ok", "count": 3 } ],
   "apod":     { "title": "…", "image": "…", "credit": "…" },
   "stats":    { "total": 132, "upcoming": 128, "new_today": 4 },
@@ -424,6 +484,12 @@ Cały kod używa wyłącznie biblioteki standardowej Pythona – nie ma czego in
       "tags": [ { "pl": "Saturn", "en": "Saturn" } ],
       "links": [ { "label": { "pl": "…", "en": "…" }, "url": "…" } ],
       "extra": { "body": "Saturn" },          // identyfikatory maszynowe, bez tłumaczeń
+      "poland": {                             // ocena widoczności z Polski
+        "visible": true,
+        "max_altitude": 39.8,                 // stopni nad horyzontem
+        "best_time": "2026-10-04T22:30:00Z",  // kiedy najwyżej, przy ciemnym niebie
+        "note": { "pl": "…", "en": "…" }
+      },
       "source": { "pl": "…", "en": "…" },
       "added_on": "2026-08-30"                // stąd plakietka „nowy wpis"
     }

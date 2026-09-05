@@ -18,7 +18,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Kwadrantydy",
    "en": "https://en.wikipedia.org/wiki/Quadrantids"
-  }
+  },
+  "radiant_ra": 15.33,
+  "radiant_dec": 49
  },
  {
   "name": {
@@ -39,7 +41,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Lirydy",
    "en": "https://en.wikipedia.org/wiki/Lyrids"
-  }
+  },
+  "radiant_ra": 18.13,
+  "radiant_dec": 34
  },
  {
   "name": {
@@ -60,7 +64,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Eta_Akwarydy",
    "en": "https://en.wikipedia.org/wiki/Eta_Aquariids"
-  }
+  },
+  "radiant_ra": 22.53,
+  "radiant_dec": -1
  },
  {
   "name": {
@@ -81,7 +87,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Delta_Akwarydy",
    "en": "https://en.wikipedia.org/wiki/Southern_delta_Aquariids"
-  }
+  },
+  "radiant_ra": 22.67,
+  "radiant_dec": -16
  },
  {
   "name": {
@@ -102,7 +110,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Perseidy",
    "en": "https://en.wikipedia.org/wiki/Perseids"
-  }
+  },
+  "radiant_ra": 3.22,
+  "radiant_dec": 58
  },
  {
   "name": {
@@ -123,7 +133,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Drakonidy",
    "en": "https://en.wikipedia.org/wiki/Draconids"
-  }
+  },
+  "radiant_ra": 17.47,
+  "radiant_dec": 54
  },
  {
   "name": {
@@ -144,7 +156,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Orionidy",
    "en": "https://en.wikipedia.org/wiki/Orionids"
-  }
+  },
+  "radiant_ra": 6.35,
+  "radiant_dec": 16
  },
  {
   "name": {
@@ -165,7 +179,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Taurydy",
    "en": "https://en.wikipedia.org/wiki/Taurids"
-  }
+  },
+  "radiant_ra": 3.53,
+  "radiant_dec": 14
  },
  {
   "name": {
@@ -186,7 +202,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Leonidy",
    "en": "https://en.wikipedia.org/wiki/Leonids"
-  }
+  },
+  "radiant_ra": 10.28,
+  "radiant_dec": 21
  },
  {
   "name": {
@@ -207,7 +225,9 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Geminidy",
    "en": "https://en.wikipedia.org/wiki/Geminids"
-  }
+  },
+  "radiant_ra": 7.55,
+  "radiant_dec": 32
  },
  {
   "name": {
@@ -228,6 +248,8 @@
   "url": {
    "pl": "https://pl.wikipedia.org/wiki/Ursydy",
    "en": "https://en.wikipedia.org/wiki/Ursids"
-  }
+  },
+  "radiant_ra": 14.6,
+  "radiant_dec": 76
  }
 ]

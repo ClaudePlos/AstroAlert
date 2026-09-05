@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
   <title>AstroAlert – what's happening in space</title>
-  <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
+  <link>https://claudeplos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 05 Sep 2026 20:17:18 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 21:22:32 +0000</lastBuildDate>
   <item>
     <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
     <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
     <pubDate>Sat, 05 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
@@ -20,7 +20,7 @@
   </item>
   <item>
     <title>Asteroid 474158 (1999 FA) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2474158-2026-09-12</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#neo-2474158-2026-09-12</link>
     <guid isPermaLink="false">neo-2474158-2026-09-12</guid>
     <pubDate>Sat, 05 Sep 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
@@ -28,7 +28,7 @@
   </item>
   <item>
     <title>Draconids meteor shower peak</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-drakonidy-2027-10-08-cabb7baa</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#maksimum-roju-drakonidy-2027-10-08-cabb7baa</link>
     <guid isPermaLink="false">maksimum-roju-drakonidy-2027-10-08-cabb7baa</guid>
     <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -36,7 +36,7 @@
   </item>
   <item>
     <title>Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-67213393-7983-4c06-8b44-b8c785a5ed79</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ll2-67213393-7983-4c06-8b44-b8c785a5ed79</link>
     <guid isPermaLink="false">ll2-67213393-7983-4c06-8b44-b8c785a5ed79</guid>
     <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
@@ -44,7 +44,7 @@
   </item>
   <item>
     <title>Asteroid 465824 (2010 FR) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2465824-2026-09-11</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#neo-2465824-2026-09-11</link>
     <guid isPermaLink="false">neo-2465824-2026-09-11</guid>
     <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
@@ -52,7 +52,7 @@
   </item>
   <item>
     <title>First Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-10-07-d9662c4c</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-10-07-d9662c4c</link>
     <guid isPermaLink="false">pierwsza-kwadra-2027-10-07-d9662c4c</guid>
     <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -60,7 +60,7 @@
   </item>
   <item>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
     <guid isPermaLink="false">ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</guid>
     <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
@@ -70,7 +70,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Long March 2D/YZ-3 | Unknown Payload</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4</link>
     <guid isPermaLink="false">ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4</guid>
     <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
@@ -78,7 +78,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-153</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-3e0456da-14b1-4ac3-b59e-35fefb1d1530</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ll2-3e0456da-14b1-4ac3-b59e-35fefb1d1530</link>
     <guid isPermaLink="false">ll2-3e0456da-14b1-4ac3-b59e-35fefb1d1530</guid>
     <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
@@ -86,7 +86,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-09-30-31d0d29e</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#now-2027-09-30-31d0d29e</link>
     <guid isPermaLink="false">now-2027-09-30-31d0d29e</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -94,7 +94,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Neptune at opposition</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#opozycja-neptuna-2027-09-28-290cdcaa</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#opozycja-neptuna-2027-09-28-290cdcaa</link>
     <guid isPermaLink="false">opozycja-neptuna-2027-09-28-290cdcaa</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -102,7 +102,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Greatest eastern elongation of Mercury (26°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</link>
     <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -110,7 +110,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-09-23-73372107</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-09-23-73372107</link>
     <guid isPermaLink="false">ostatnia-kwadra-2027-09-23-73372107</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>September equinox</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#rownonoc-jesienna-2027-09-23-34db459d</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#rownonoc-jesienna-2027-09-23-34db459d</link>
     <guid isPermaLink="false">rownonoc-jesienna-2027-09-23-34db459d</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -126,7 +126,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Full Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-09-15-bf62ffef</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-09-15-bf62ffef</link>
     <guid isPermaLink="false">pelnia-ksiezyca-2027-09-15-bf62ffef</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -134,7 +134,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>First Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-09-07-4ea0ccc6</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-09-07-4ea0ccc6</link>
     <guid isPermaLink="false">pierwsza-kwadra-2027-09-07-4ea0ccc6</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -142,7 +142,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-08-31-94729d76</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#now-2027-08-31-94729d76</link>
     <guid isPermaLink="false">now-2027-08-31-94729d76</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -150,7 +150,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-08-25-a6ea6395</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-08-25-a6ea6395</link>
     <guid isPermaLink="false">ostatnia-kwadra-2027-08-25-a6ea6395</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -158,7 +158,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Micromoon – full Moon at apogee</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</link>
     <guid isPermaLink="false">pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -166,7 +166,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Penumbral lunar eclipse</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</link>
     <guid isPermaLink="false">polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -174,7 +174,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Perseids meteor shower peak</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-perseidy-2027-08-12-ad0467d4</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#maksimum-roju-perseidy-2027-08-12-ad0467d4</link>
     <guid isPermaLink="false">maksimum-roju-perseidy-2027-08-12-ad0467d4</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -182,7 +182,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>First Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-08-09-0b3af592</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-08-09-0b3af592</link>
     <guid isPermaLink="false">pierwsza-kwadra-2027-08-09-0b3af592</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -190,7 +190,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>The Moon meets Jupiter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-08-03-7e443f1c</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-08-03-7e443f1c</link>
     <guid isPermaLink="false">zblizenie-ksiezyca-i-jowisza-2027-08-03-7e443f1c</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -198,7 +198,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-08-02-b5c4805f</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#now-2027-08-02-b5c4805f</link>
     <guid isPermaLink="false">now-2027-08-02-b5c4805f</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -206,7 +206,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Total solar eclipse – the longest of the century</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#calkowite-zacmienie-slonca-najdluzsze-stulecia-2027-08-02-7b195975</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#calkowite-zacmienie-slonca-najdluzsze-stulecia-2027-08-02-7b195975</link>
     <guid isPermaLink="false">calkowite-zacmienie-slonca-najdluzsze-stulecia-2027-08-02-7b195975</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -214,7 +214,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Delta Aquariids meteor shower peak</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-delta-akwarydy-2027-07-30-9b498a42</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#maksimum-roju-delta-akwarydy-2027-07-30-9b498a42</link>
     <guid isPermaLink="false">maksimum-roju-delta-akwarydy-2027-07-30-9b498a42</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -222,7 +222,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-07-26-d5abb4c8</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-07-26-d5abb4c8</link>
     <guid isPermaLink="false">ostatnia-kwadra-2027-07-26-d5abb4c8</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -230,7 +230,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Micromoon – full Moon at apogee</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</link>
     <guid isPermaLink="false">pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -238,7 +238,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Greatest western elongation of Mercury (21°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-zachodnia-21-2027-07-15-10e48181</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-zachodnia-21-2027-07-15-10e48181</link>
     <guid isPermaLink="false">maksymalna-elongacja-merkurego-zachodnia-21-2027-07-15-10e48181</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -246,7 +246,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>First Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-07-10-90ae02d0</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-07-10-90ae02d0</link>
     <guid isPermaLink="false">pierwsza-kwadra-2027-07-10-90ae02d0</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -254,7 +254,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>The Moon meets Jupiter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90</link>
     <guid isPermaLink="false">zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -262,7 +262,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Earth at aphelion</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#aphelium-ziemi-2027-07-05-b2df2e5e</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#aphelium-ziemi-2027-07-05-b2df2e5e</link>
     <guid isPermaLink="false">aphelium-ziemi-2027-07-05-b2df2e5e</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -270,7 +270,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-07-04-c589c9b6</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#now-2027-07-04-c589c9b6</link>
     <guid isPermaLink="false">now-2027-07-04-c589c9b6</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -278,7 +278,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-06-27-06e230b8</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-06-27-06e230b8</link>
     <guid isPermaLink="false">ostatnia-kwadra-2027-06-27-06e230b8</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -286,7 +286,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>June solstice</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#przesilenie-letnie-2027-06-21-6d5d142a</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#przesilenie-letnie-2027-06-21-6d5d142a</link>
     <guid isPermaLink="false">przesilenie-letnie-2027-06-21-6d5d142a</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -294,7 +294,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Full Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-06-19-ff58fa91</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-06-19-ff58fa91</link>
     <guid isPermaLink="false">pelnia-ksiezyca-2027-06-19-ff58fa91</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -302,7 +302,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>First Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-06-11-650f552b</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-06-11-650f552b</link>
     <guid isPermaLink="false">pierwsza-kwadra-2027-06-11-650f552b</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -310,7 +310,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>The Moon meets Jupiter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-06-09-d48021b6</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-06-09-d48021b6</link>
     <guid isPermaLink="false">zblizenie-ksiezyca-i-jowisza-2027-06-09-d48021b6</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -318,7 +318,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-06-04-019c4796</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#now-2027-06-04-019c4796</link>
     <guid isPermaLink="false">now-2027-06-04-019c4796</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
@@ -326,7 +326,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
   </item>
   <item>
     <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-05-28-9d753b78</link>
+    <link>https://claudeplos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-05-28-9d753b78</link>
     <guid isPermaLink="false">ostatnia-kwadra-2027-05-28-9d753b78</guid>
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>

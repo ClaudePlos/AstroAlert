@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-05T20:17:18Z",
+ "generated_at": "2026-09-05T21:22:32Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
    "en": "AstroAlert – what's happening in space"
   },
-  "url": "https://ClaudePlos.github.io/AstroAlert"
+  "url": "https://claudeplos.github.io/AstroAlert"
  },
  "languages": [
   "pl",
@@ -27,8 +27,9 @@
     "pl": "Starty rakiet (The Space Devs)",
     "en": "Rocket launches (The Space Devs)"
    },
-   "status": "ok",
-   "count": 25
+   "status": "skipped",
+   "count": 0,
+   "error": "tryb offline"
   },
   {
    "id": "swpc",
@@ -36,8 +37,9 @@
     "pl": "Pogoda kosmiczna (NOAA SWPC)",
     "en": "Space weather (NOAA SWPC)"
    },
-   "status": "ok",
-   "count": 0
+   "status": "skipped",
+   "count": 0,
+   "error": "tryb offline"
   },
   {
    "id": "neows",
@@ -45,8 +47,9 @@
     "pl": "Planetoidy (NASA NeoWs)",
     "en": "Asteroids (NASA NeoWs)"
    },
-   "status": "ok",
-   "count": 5
+   "status": "skipped",
+   "count": 0,
+   "error": "tryb offline"
   }
  ],
  "apod": {
@@ -64,6 +67,7 @@
  "stats": {
   "total": 147,
   "upcoming": 146,
+  "poland": 34,
   "new_today": 2,
   "by_category": {
    "sky": 116,
@@ -150,7 +154,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 59° nad polskim horyzontem.",
+     "en": "The Moon climbs 59° above the Polish horizon."
+    },
+    "max_altitude": 59.0,
+    "best_time": "2026-09-05T03:20:00Z"
+   }
   },
   {
    "id": "neo-2186822-2026-09-06",
@@ -207,6 +220,9 @@
      1637
     ],
     "hazardous": false
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -264,6 +280,9 @@
      809
     ],
     "hazardous": false
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -318,6 +337,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -375,6 +397,9 @@
      1331
     ],
     "hazardous": false
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -434,6 +459,15 @@
      "Moon",
      "Mars"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 40° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 40° above the horizon."
+    },
+    "max_altitude": 40.2,
+    "best_time": "2026-09-07T03:20:00Z"
    }
   },
   {
@@ -493,6 +527,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 18° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 18° above the horizon."
+    },
+    "max_altitude": 18.3,
+    "best_time": "2026-09-09T03:30:00Z"
    }
   },
   {
@@ -547,6 +590,9 @@
    "added_on": "2026-09-02",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -601,6 +647,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -655,6 +704,9 @@
    "added_on": "2026-09-01",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -711,7 +763,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "ll2-63063b9d-ade9-4448-8717-6f910aa81188",
@@ -765,6 +824,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Confirmed"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -826,6 +888,9 @@
      273
     ],
     "hazardous": true
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -887,6 +952,9 @@
      429
     ],
     "hazardous": true
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -941,6 +1009,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Confirmed"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1000,6 +1071,9 @@
      "Moon",
      "Venus"
     ]
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1054,6 +1128,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1110,7 +1187,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 9° nad polskim horyzontem.",
+     "en": "The Moon climbs 9° above the Polish horizon."
+    },
+    "max_altitude": 9.2,
+    "best_time": "2026-09-18T17:30:00Z"
+   }
   },
   {
    "id": "rownonoc-jesienna-2026-09-23-74f9dde5",
@@ -1159,7 +1245,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "opozycja-neptuna-2026-09-26-956c2101",
@@ -1211,6 +1304,15 @@
    "extra": {
     "distance_au": 28.862,
     "body": "Neptune"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 38° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 38° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 37.9,
+    "best_time": "2026-09-26T22:30:00Z"
    }
   },
   {
@@ -1267,7 +1369,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 44° nad polskim horyzontem.",
+     "en": "The Moon climbs 44° above the Polish horizon."
+    },
+    "max_altitude": 44.0,
+    "best_time": "2026-09-26T22:40:00Z"
+   }
   },
   {
    "id": "ll2-599ba2df-7483-4b2f-a083-2b5ddc06e069",
@@ -1321,6 +1432,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1379,6 +1493,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1433,6 +1550,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1487,6 +1607,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1545,6 +1668,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1603,6 +1729,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1657,6 +1786,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1711,6 +1843,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1765,6 +1900,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1819,6 +1957,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1875,7 +2016,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 62° nad polskim horyzontem.",
+     "en": "The Moon climbs 62° above the Polish horizon."
+    },
+    "max_altitude": 61.9,
+    "best_time": "2026-10-04T04:10:00Z"
+   }
   },
   {
    "id": "opozycja-saturna-2026-10-04-57c187e5",
@@ -1927,6 +2077,15 @@
    "extra": {
     "distance_au": 8.457,
     "body": "Saturn"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 40° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 40° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 39.9,
+    "best_time": "2026-10-04T22:30:00Z"
    }
   },
   {
@@ -1986,6 +2145,15 @@
      "Moon",
      "Mars"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 43° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 43° above the horizon."
+    },
+    "max_altitude": 43.3,
+    "best_time": "2026-10-06T04:10:00Z"
    }
   },
   {
@@ -2045,6 +2213,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 32° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 32° above the horizon."
+    },
+    "max_altitude": 32.0,
+    "best_time": "2026-10-07T04:10:00Z"
    }
   },
   {
@@ -2103,6 +2280,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2157,6 +2337,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2225,7 +2408,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 10,
-    "moon_illumination": 0.07
+    "moon_illumination": 0.07,
+    "radiant_ra": 17.47,
+    "radiant_dec": 54
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 69° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 69° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 69.2,
+    "best_time": "2026-10-08T17:20:00Z"
    }
   },
   {
@@ -2282,7 +2476,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-wenus-2026-10-12-abe490c9",
@@ -2341,6 +2542,9 @@
      "Moon",
      "Venus"
     ]
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2393,6 +2597,9 @@
    "extra": {
     "elongation_deg": 25.2,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2449,7 +2656,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 15° nad polskim horyzontem.",
+     "en": "The Moon climbs 15° above the Polish horizon."
+    },
+    "max_altitude": 15.3,
+    "best_time": "2026-10-18T17:00:00Z"
+   }
   },
   {
    "id": "ll2-69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -2507,6 +2723,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2575,7 +2794,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 20,
-    "moon_illumination": 0.73
+    "moon_illumination": 0.73,
+    "radiant_ra": 6.35,
+    "radiant_dec": 16
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 54° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 54° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 54.0,
+    "best_time": "2026-10-22T03:00:00Z"
    }
   },
   {
@@ -2632,7 +2862,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 59° nad polskim horyzontem.",
+     "en": "The Moon climbs 59° above the Polish horizon."
+    },
+    "max_altitude": 58.9,
+    "best_time": "2026-10-26T23:00:00Z"
+   }
   },
   {
    "id": "ll2-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
@@ -2686,6 +2925,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2740,6 +2982,9 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2798,6 +3043,9 @@
    "added_on": "2026-09-02",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2852,6 +3100,9 @@
    "added_on": "2026-09-04",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2908,7 +3159,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 57° nad polskim horyzontem.",
+     "en": "The Moon climbs 57° above the Polish horizon."
+    },
+    "max_altitude": 56.6,
+    "best_time": "2026-11-02T04:50:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-marsa-2026-11-02-b0a1c7b3",
@@ -2967,6 +3227,15 @@
      "Moon",
      "Mars"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 50° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 50° above the horizon."
+    },
+    "max_altitude": 50.3,
+    "best_time": "2026-11-03T05:00:00Z"
    }
   },
   {
@@ -3026,6 +3295,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 50° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 50° above the horizon."
+    },
+    "max_altitude": 50.3,
+    "best_time": "2026-11-03T05:00:00Z"
    }
   },
   {
@@ -3094,7 +3372,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 5,
-    "moon_illumination": 0.18
+    "moon_illumination": 0.18,
+    "radiant_ra": 3.53,
+    "radiant_dec": 14
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 52° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 52° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 52.0,
+    "best_time": "2026-11-05T23:10:00Z"
    }
   },
   {
@@ -3154,6 +3443,9 @@
      "Moon",
      "Venus"
     ]
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -3210,7 +3502,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "koniunkcja-marsa-i-jowisza-2026-11-16-fb486a91",
@@ -3269,6 +3568,15 @@
      "Mars",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 52° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 52° above the horizon."
+    },
+    "max_altitude": 52.5,
+    "best_time": "2026-11-17T04:40:00Z"
    }
   },
   {
@@ -3337,7 +3645,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 15,
-    "moon_illumination": 0.46
+    "moon_illumination": 0.46,
+    "radiant_ra": 10.28,
+    "radiant_dec": 21
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 58° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 58° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 58.5,
+    "best_time": "2026-11-18T04:40:00Z"
    }
   },
   {
@@ -3394,7 +3713,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 28° nad polskim horyzontem.",
+     "en": "The Moon climbs 28° above the Polish horizon."
+    },
+    "max_altitude": 27.5,
+    "best_time": "2026-11-17T17:10:00Z"
+   }
   },
   {
    "id": "ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
@@ -3448,6 +3776,9 @@
    "added_on": "2026-09-05",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -3500,6 +3831,15 @@
    "extra": {
     "elongation_deg": 19.6,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 14° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 14° above the horizon during twilight."
+    },
+    "max_altitude": 13.6,
+    "best_time": "2026-11-21T06:00:00Z"
    }
   },
   {
@@ -3556,7 +3896,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 64° nad polskim horyzontem.",
+     "en": "The Moon climbs 64° above the Polish horizon."
+    },
+    "max_altitude": 64.5,
+    "best_time": "2026-11-24T22:50:00Z"
+   }
   },
   {
    "id": "opozycja-urana-2026-11-25-c1fcb9f8",
@@ -3608,6 +3957,15 @@
    "extra": {
     "distance_au": 18.427,
     "body": "Uranus"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 59° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 59° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 58.7,
+    "best_time": "2026-11-25T22:30:00Z"
    }
   },
   {
@@ -3667,6 +4025,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 46° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 46° above the horizon."
+    },
+    "max_altitude": 46.5,
+    "best_time": "2026-12-01T04:30:00Z"
    }
   },
   {
@@ -3723,7 +4090,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 40° nad polskim horyzontem.",
+     "en": "The Moon climbs 40° above the Polish horizon."
+    },
+    "max_altitude": 40.3,
+    "best_time": "2026-12-02T05:10:00Z"
+   }
   },
   {
    "id": "now-2026-12-09-baa12ac5",
@@ -3779,7 +4155,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "maksimum-roju-geminidy-2026-12-14-0e0e3271",
@@ -3847,7 +4230,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 150,
-    "moon_illumination": 0.21
+    "moon_illumination": 0.21,
+    "radiant_ra": 7.55,
+    "radiant_dec": 32
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 70° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 70° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 70.0,
+    "best_time": "2026-12-15T00:40:00Z"
    }
   },
   {
@@ -3904,7 +4298,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 43° nad polskim horyzontem.",
+     "en": "The Moon climbs 43° above the Polish horizon."
+    },
+    "max_altitude": 43.2,
+    "best_time": "2026-12-17T17:10:00Z"
+   }
   },
   {
    "id": "przesilenie-zimowe-2026-12-21-c6f11fe6",
@@ -3953,7 +4356,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "maksimum-roju-ursydy-2026-12-22-d5993ff7",
@@ -4021,7 +4431,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 10,
-    "moon_illumination": 0.94
+    "moon_illumination": 0.94,
+    "radiant_ra": 14.6,
+    "radiant_dec": 76
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 64° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 64° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 63.7,
+    "best_time": "2026-12-23T05:20:00Z"
    }
   },
   {
@@ -4082,7 +4503,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 63° nad polskim horyzontem.",
+     "en": "The Moon climbs 63° above the Polish horizon."
+    },
+    "max_altitude": 63.4,
+    "best_time": "2026-12-24T23:40:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2026-12-27-c5153930",
@@ -4141,6 +4571,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 48° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 48° above the horizon."
+    },
+    "max_altitude": 48.3,
+    "best_time": "2026-12-28T02:30:00Z"
    }
   },
   {
@@ -4197,7 +4636,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 30° nad polskim horyzontem.",
+     "en": "The Moon climbs 30° above the Polish horizon."
+    },
+    "max_altitude": 29.7,
+    "best_time": "2026-12-31T04:40:00Z"
+   }
   },
   {
    "id": "maksimum-roju-kwadrantydy-2027-01-03-e0a592a8",
@@ -4265,7 +4713,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 110,
-    "moon_illumination": 0.19
+    "moon_illumination": 0.19,
+    "radiant_ra": 15.33,
+    "radiant_dec": 49
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 73° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 73° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 72.8,
+    "best_time": "2027-01-04T05:20:00Z"
    }
   },
   {
@@ -4318,6 +4777,15 @@
    "extra": {
     "elongation_deg": 47.0,
     "body": "Venus"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 21° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 21° above the horizon during twilight."
+    },
+    "max_altitude": 21.1,
+    "best_time": "2027-01-04T06:40:00Z"
    }
   },
   {
@@ -4367,7 +4835,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "now-2027-01-07-f6df9e01",
@@ -4423,7 +4898,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "pierwsza-kwadra-2027-01-15-291767b9",
@@ -4479,7 +4961,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 53° nad polskim horyzontem.",
+     "en": "The Moon climbs 53° above the Polish horizon."
+    },
+    "max_altitude": 53.0,
+    "best_time": "2027-01-15T16:40:00Z"
+   }
   },
   {
    "id": "superpelnia-ksiezyca-2027-01-22-379f9944",
@@ -4539,7 +5030,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 57° nad polskim horyzontem.",
+     "en": "The Moon climbs 57° above the Polish horizon."
+    },
+    "max_altitude": 56.8,
+    "best_time": "2027-01-22T23:20:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2027-01-23-ecf9be7e",
@@ -4598,6 +5098,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 51° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 51° above the horizon."
+    },
+    "max_altitude": 51.0,
+    "best_time": "2027-01-24T00:20:00Z"
    }
   },
   {
@@ -4654,7 +5163,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 16° nad polskim horyzontem.",
+     "en": "The Moon climbs 16° above the Polish horizon."
+    },
+    "max_altitude": 16.3,
+    "best_time": "2027-01-30T04:50:00Z"
+   }
   },
   {
    "id": "maksymalna-elongacja-merkurego-wschodnia-18-2027-02-03-2feec102",
@@ -4706,6 +5224,15 @@
    "extra": {
     "elongation_deg": 18.3,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 12° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 12° above the horizon during twilight."
+    },
+    "max_altitude": 12.0,
+    "best_time": "2027-02-03T15:50:00Z"
    }
   },
   {
@@ -4762,7 +5289,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "obraczkowe-zacmienie-slonca-2027-02-06-9e067b42",
@@ -4821,7 +5355,12 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {
+    "poland": false
+   },
+   "poland": {
+    "visible": false
+   }
   },
   {
    "id": "opozycja-jowisza-2027-02-11-54b06067",
@@ -4873,6 +5412,15 @@
    "extra": {
     "distance_au": 4.361,
     "body": "Jupiter"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 53° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 53° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 53.2,
+    "best_time": "2027-02-11T22:50:00Z"
    }
   },
   {
@@ -4929,7 +5477,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 64° nad polskim horyzontem.",
+     "en": "The Moon climbs 64° above the Polish horizon."
+    },
+    "max_altitude": 64.1,
+    "best_time": "2027-02-14T17:10:00Z"
+   }
   },
   {
    "id": "opozycja-marsa-2027-02-19-e212130e",
@@ -4981,6 +5538,15 @@
    "extra": {
     "distance_au": 0.678,
     "body": "Mars"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 53° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 53° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 53.4,
+    "best_time": "2027-02-19T23:00:00Z"
    }
   },
   {
@@ -5040,6 +5606,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 48° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 48° above the horizon."
+    },
+    "max_altitude": 47.5,
+    "best_time": "2027-02-20T23:00:00Z"
    }
   },
   {
@@ -5099,7 +5674,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {
+    "poland": true
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Zjawisko widoczne z Polski.",
+     "en": "The eclipse is visible from Poland."
+    }
+   }
   },
   {
    "id": "pelnia-ksiezyca-2027-02-20-b0e76019",
@@ -5155,7 +5739,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 48° nad polskim horyzontem.",
+     "en": "The Moon climbs 48° above the Polish horizon."
+    },
+    "max_altitude": 47.5,
+    "best_time": "2027-02-20T23:00:00Z"
+   }
   },
   {
    "id": "ostatnia-kwadra-2027-02-28-fd215026",
@@ -5211,7 +5804,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 10° nad polskim horyzontem.",
+     "en": "The Moon climbs 10° above the Polish horizon."
+    },
+    "max_altitude": 10.2,
+    "best_time": "2027-03-01T04:50:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-wenus-2027-03-04-df294844",
@@ -5270,6 +5872,9 @@
      "Moon",
      "Venus"
     ]
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -5326,7 +5931,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "pierwsza-kwadra-2027-03-15-bfb21968",
@@ -5382,7 +5994,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 65° nad polskim horyzontem.",
+     "en": "The Moon climbs 65° above the Polish horizon."
+    },
+    "max_altitude": 65.3,
+    "best_time": "2027-03-15T17:20:00Z"
+   }
   },
   {
    "id": "maksymalna-elongacja-merkurego-zachodnia-28-2027-03-17-3b9ea58f",
@@ -5434,6 +6055,15 @@
    "extra": {
     "elongation_deg": 27.6,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 4° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 4° above the horizon during twilight."
+    },
+    "max_altitude": 3.6,
+    "best_time": "2027-03-18T04:40:00Z"
    }
   },
   {
@@ -5493,6 +6123,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 50° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 50° above the horizon."
+    },
+    "max_altitude": 50.0,
+    "best_time": "2027-03-19T20:50:00Z"
    }
   },
   {
@@ -5542,7 +6181,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "pelnia-ksiezyca-2027-03-22-e7e9117a",
@@ -5598,7 +6244,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 31° nad polskim horyzontem.",
+     "en": "The Moon climbs 31° above the Polish horizon."
+    },
+    "max_altitude": 30.7,
+    "best_time": "2027-03-22T23:10:00Z"
+   }
   },
   {
    "id": "ostatnia-kwadra-2027-03-30-4dc1550b",
@@ -5654,7 +6309,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 9° nad polskim horyzontem.",
+     "en": "The Moon climbs 9° above the Polish horizon."
+    },
+    "max_altitude": 9.3,
+    "best_time": "2027-03-31T03:40:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-wenus-2027-04-04-bbeaac06",
@@ -5713,6 +6377,9 @@
      "Moon",
      "Venus"
     ]
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -5769,7 +6436,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "pierwsza-kwadra-2027-04-13-6321563a",
@@ -5825,7 +6499,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 58° nad polskim horyzontem.",
+     "en": "The Moon climbs 58° above the Polish horizon."
+    },
+    "max_altitude": 57.6,
+    "best_time": "2027-04-13T18:20:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2027-04-15-349f1858",
@@ -5884,6 +6567,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 52° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 52° above the horizon."
+    },
+    "max_altitude": 51.6,
+    "best_time": "2027-04-15T18:50:00Z"
    }
   },
   {
@@ -5943,6 +6635,15 @@
      "Moon",
      "Mars"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 52° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 52° above the horizon."
+    },
+    "max_altitude": 51.6,
+    "best_time": "2027-04-15T18:50:00Z"
    }
   },
   {
@@ -5999,7 +6700,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 22° nad polskim horyzontem.",
+     "en": "The Moon climbs 22° above the Polish horizon."
+    },
+    "max_altitude": 21.5,
+    "best_time": "2027-04-20T22:40:00Z"
+   }
   },
   {
    "id": "maksimum-roju-lirydy-2027-04-22-e7ff3c2c",
@@ -6067,7 +6777,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 18,
-    "moon_illumination": 0.99
+    "moon_illumination": 0.99,
+    "radiant_ra": 18.13,
+    "radiant_dec": 34
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 70° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 70° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 70.2,
+    "best_time": "2027-04-23T02:00:00Z"
    }
   },
   {
@@ -6124,7 +6845,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 12° nad polskim horyzontem.",
+     "en": "The Moon climbs 12° above the Polish horizon."
+    },
+    "max_altitude": 12.0,
+    "best_time": "2027-04-29T02:30:00Z"
+   }
   },
   {
    "id": "maksimum-roju-eta-akwarydy-2027-05-06-a9f16119",
@@ -6192,7 +6922,12 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 50,
-    "moon_illumination": 0.0
+    "moon_illumination": 0.0,
+    "radiant_ra": 22.53,
+    "radiant_dec": -1
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -6249,7 +6984,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "koniunkcja-wenus-i-saturna-2027-05-07-4bf9f5d6",
@@ -6308,6 +7050,15 @@
      "Venus",
      "Saturn"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 4° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 4° above the horizon."
+    },
+    "max_altitude": 3.7,
+    "best_time": "2027-05-08T02:50:00Z"
    }
   },
   {
@@ -6367,6 +7118,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 43° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 43° above the horizon."
+    },
+    "max_altitude": 43.1,
+    "best_time": "2027-05-12T19:10:00Z"
    }
   },
   {
@@ -6423,7 +7183,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 43° nad polskim horyzontem.",
+     "en": "The Moon climbs 43° above the Polish horizon."
+    },
+    "max_altitude": 42.7,
+    "best_time": "2027-05-13T19:10:00Z"
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-marsa-2027-05-13-c3ab81c0",
@@ -6482,6 +7251,15 @@
      "Moon",
      "Mars"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 43° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 43° above the horizon."
+    },
+    "max_altitude": 42.7,
+    "best_time": "2027-05-13T19:10:00Z"
    }
   },
   {
@@ -6538,7 +7316,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 12° nad polskim horyzontem.",
+     "en": "The Moon climbs 12° above the Polish horizon."
+    },
+    "max_altitude": 12.1,
+    "best_time": "2027-05-20T23:00:00Z"
+   }
   },
   {
    "id": "maksymalna-elongacja-merkurego-wschodnia-23-2027-05-28-ccb5ee30",
@@ -6590,6 +7377,15 @@
    "extra": {
     "elongation_deg": 22.9,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 14° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 14° above the horizon during twilight."
+    },
+    "max_altitude": 13.7,
+    "best_time": "2027-05-28T19:00:00Z"
    }
   },
   {
@@ -6646,7 +7442,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 18° nad polskim horyzontem.",
+     "en": "The Moon climbs 18° above the Polish horizon."
+    },
+    "max_altitude": 18.3,
+    "best_time": "2027-05-29T01:40:00Z"
+   }
   },
   {
    "id": "now-2027-06-04-019c4796",
@@ -6702,7 +7507,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2027-06-09-d48021b6",
@@ -6761,6 +7573,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 24° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 24° above the horizon."
+    },
+    "max_altitude": 24.1,
+    "best_time": "2027-06-09T19:50:00Z"
    }
   },
   {
@@ -6817,7 +7638,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 26° nad polskim horyzontem.",
+     "en": "The Moon climbs 26° above the Polish horizon."
+    },
+    "max_altitude": 25.8,
+    "best_time": "2027-06-11T19:50:00Z"
+   }
   },
   {
    "id": "pelnia-ksiezyca-2027-06-19-ff58fa91",
@@ -6873,7 +7703,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 12° nad polskim horyzontem.",
+     "en": "The Moon climbs 12° above the Polish horizon."
+    },
+    "max_altitude": 12.1,
+    "best_time": "2027-06-19T23:30:00Z"
+   }
   },
   {
    "id": "przesilenie-letnie-2027-06-21-6d5d142a",
@@ -6922,7 +7761,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "ostatnia-kwadra-2027-06-27-06e230b8",
@@ -6978,7 +7824,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 30° nad polskim horyzontem.",
+     "en": "The Moon climbs 30° above the Polish horizon."
+    },
+    "max_altitude": 29.6,
+    "best_time": "2027-06-28T01:30:00Z"
+   }
   },
   {
    "id": "now-2027-07-04-c589c9b6",
@@ -7034,7 +7889,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "aphelium-ziemi-2027-07-05-b2df2e5e",
@@ -7083,7 +7945,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90",
@@ -7142,6 +8011,15 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 9° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 9° above the horizon."
+    },
+    "max_altitude": 9.2,
+    "best_time": "2027-07-07T19:50:00Z"
    }
   },
   {
@@ -7198,7 +8076,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 13° nad polskim horyzontem.",
+     "en": "The Moon climbs 13° above the Polish horizon."
+    },
+    "max_altitude": 13.2,
+    "best_time": "2027-07-10T19:50:00Z"
+   }
   },
   {
    "id": "maksymalna-elongacja-merkurego-zachodnia-21-2027-07-15-10e48181",
@@ -7250,6 +8137,15 @@
    "extra": {
     "elongation_deg": 20.7,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 9° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 9° above the horizon during twilight."
+    },
+    "max_altitude": 9.1,
+    "best_time": "2027-07-16T02:30:00Z"
    }
   },
   {
@@ -7310,7 +8206,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 17° nad polskim horyzontem.",
+     "en": "The Moon climbs 17° above the Polish horizon."
+    },
+    "max_altitude": 16.8,
+    "best_time": "2027-07-18T23:10:00Z"
+   }
   },
   {
    "id": "ostatnia-kwadra-2027-07-26-d5abb4c8",
@@ -7366,7 +8271,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 46° nad polskim horyzontem.",
+     "en": "The Moon climbs 46° above the Polish horizon."
+    },
+    "max_altitude": 46.3,
+    "best_time": "2027-07-27T02:10:00Z"
+   }
   },
   {
    "id": "maksimum-roju-delta-akwarydy-2027-07-30-9b498a42",
@@ -7434,7 +8348,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 25,
-    "moon_illumination": 0.16
+    "moon_illumination": 0.16,
+    "radiant_ra": 22.67,
+    "radiant_dec": -16
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 22° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 22° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 22.0,
+    "best_time": "2027-07-31T00:50:00Z"
    }
   },
   {
@@ -7491,7 +8416,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "calkowite-zacmienie-slonca-najdluzsze-stulecia-2027-08-02-7b195975",
@@ -7550,7 +8482,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {
+    "poland": true
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Zjawisko widoczne z Polski.",
+     "en": "The eclipse is visible from Poland."
+    }
+   }
   },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2027-08-03-7e443f1c",
@@ -7609,6 +8550,9 @@
      "Moon",
      "Jupiter"
     ]
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -7665,7 +8609,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 9° nad polskim horyzontem.",
+     "en": "The Moon climbs 9° above the Polish horizon."
+    },
+    "max_altitude": 9.4,
+    "best_time": "2027-08-09T19:00:00Z"
+   }
   },
   {
    "id": "maksimum-roju-perseidy-2027-08-12-ad0467d4",
@@ -7733,7 +8686,18 @@
    "added_on": "2026-08-31",
    "extra": {
     "zhr": 100,
-    "moon_illumination": 0.77
+    "moon_illumination": 0.77,
+    "radiant_ra": 3.22,
+    "radiant_dec": 58
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 67° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 67° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 66.7,
+    "best_time": "2027-08-13T01:50:00Z"
    }
   },
   {
@@ -7793,7 +8757,12 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {
+    "poland": false
+   },
+   "poland": {
+    "visible": false
+   }
   },
   {
    "id": "pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7",
@@ -7853,7 +8822,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 29° nad polskim horyzontem.",
+     "en": "The Moon climbs 29° above the Polish horizon."
+    },
+    "max_altitude": 29.1,
+    "best_time": "2027-08-17T23:10:00Z"
+   }
   },
   {
    "id": "ostatnia-kwadra-2027-08-25-a6ea6395",
@@ -7909,7 +8887,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 55° nad polskim horyzontem.",
+     "en": "The Moon climbs 55° above the Polish horizon."
+    },
+    "max_altitude": 54.6,
+    "best_time": "2027-08-26T03:00:00Z"
+   }
   },
   {
    "id": "now-2027-08-31-94729d76",
@@ -7965,7 +8952,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "pierwsza-kwadra-2027-09-07-4ea0ccc6",
@@ -8021,7 +9015,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 9° nad polskim horyzontem.",
+     "en": "The Moon climbs 9° above the Polish horizon."
+    },
+    "max_altitude": 9.1,
+    "best_time": "2027-09-07T18:00:00Z"
+   }
   },
   {
    "id": "pelnia-ksiezyca-2027-09-15-bf62ffef",
@@ -8077,7 +9080,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 38° nad polskim horyzontem.",
+     "en": "The Moon climbs 38° above the Polish horizon."
+    },
+    "max_altitude": 38.5,
+    "best_time": "2027-09-15T22:30:00Z"
+   }
   },
   {
    "id": "rownonoc-jesienna-2027-09-23-34db459d",
@@ -8126,7 +9138,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
+   }
   },
   {
    "id": "ostatnia-kwadra-2027-09-23-73372107",
@@ -8182,7 +9201,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 60° nad polskim horyzontem.",
+     "en": "The Moon climbs 60° above the Polish horizon."
+    },
+    "max_altitude": 60.2,
+    "best_time": "2027-09-24T03:50:00Z"
+   }
   },
   {
    "id": "maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e",
@@ -8234,6 +9262,9 @@
    "extra": {
     "elongation_deg": 26.3,
     "body": "Mercury"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -8286,6 +9317,15 @@
    "extra": {
     "distance_au": 28.856,
     "body": "Neptune"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 39° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 39° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 38.7,
+    "best_time": "2027-09-28T22:30:00Z"
    }
   },
   {
@@ -8342,7 +9382,14 @@
    },
    "source_id": "sky",
    "added_on": "2026-08-31",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
+   }
   },
   {
    "id": "pierwsza-kwadra-2027-10-07-d9662c4c",
@@ -8398,7 +9445,16 @@
    },
    "source_id": "sky",
    "added_on": "2026-09-03",
-   "extra": {}
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 14° nad polskim horyzontem.",
+     "en": "The Moon climbs 14° above the Polish horizon."
+    },
+    "max_altitude": 14.4,
+    "best_time": "2027-10-07T17:10:00Z"
+   }
   },
   {
    "id": "maksimum-roju-drakonidy-2027-10-08-cabb7baa",
@@ -8466,7 +9522,18 @@
    "added_on": "2026-09-04",
    "extra": {
     "zhr": 10,
-    "moon_illumination": 0.56
+    "moon_illumination": 0.56,
+    "radiant_ra": 17.47,
+    "radiant_dec": 54
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 69° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 69° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 69.3,
+    "best_time": "2027-10-08T17:20:00Z"
    }
   }
  ]

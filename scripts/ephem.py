@@ -406,3 +406,62 @@ def find_extremum(f, lo: float, hi: float, tol: float = 1e-4) -> tuple[float, fl
             fd = f(dd)
     x = (a + b) / 2.0
     return x, f(x)
+
+# --- obserwator na powierzchni Ziemi ----------------------------------------
+
+#: srodek geograficzny Polski (okolice Piatku) - punkt odniesienia dla
+#: oceny widocznosci zjawisk; roznice miedzy Szczecinem a Rzeszowem sa
+#: dla wysokosci nad horyzontem rzedu pojedynczych stopni
+POLAND_LAT = 52.0
+POLAND_LON = 19.5
+
+
+def gmst_hours(d: float) -> float:
+    """Sredni czas gwiazdowy Greenwich (godziny).
+
+    Wedlug metody Schlytera: GMST0 = srednia dlugosc Slonca + 180 stopni,
+    liczona dla poczatku doby, po czym doliczamy uplyw czasu uniwersalnego.
+    """
+    day_start = math.floor(d)
+    gmst0 = rev(sun(day_start)["L"] + 180.0) / 15.0
+    ut_hours = (d - day_start) * 24.0
+    return (gmst0 + ut_hours * 1.0027379) % 24.0
+
+
+def lst_hours(d: float, lon: float = POLAND_LON) -> float:
+    """Miejscowy czas gwiazdowy (godziny). Dlugosc dodatnia na wschod."""
+    return (gmst_hours(d) + lon / 15.0) % 24.0
+
+
+def altitude_of(ra: float, dec: float, d: float, lat: float = POLAND_LAT,
+                lon: float = POLAND_LON) -> float:
+    """Wysokosc nad horyzontem punktu o zadanych wspolrzednych rownikowych.
+
+    Przydatne dla obiektow spoza ukladu efemeryd - np. radiantow rojow
+    meteorow, ktore maja stale polozenie na sferze niebieskiej.
+    """
+    ha = (lst_hours(d, lon) - ra) * 15.0
+    sin_alt = sind(lat) * sind(dec) + cosd(lat) * cosd(dec) * cosd(ha)
+    return math.asin(max(-1.0, min(1.0, sin_alt))) * _R2D
+
+
+def horizontal(name: str, d: float, lat: float = POLAND_LAT,
+               lon: float = POLAND_LON) -> tuple[float, float]:
+    """Wysokosc i azymut ciala nad horyzontem (stopnie).
+
+    Azymut liczony od polnocy przez wschod. Bez poprawki na refrakcje
+    i paralaksę - dla oceny "czy widac" nie ma to znaczenia.
+    """
+    ra, dec = equatorial(body(name, d), d)
+    ha = (lst_hours(d, lon) - ra) * 15.0  # kat godzinny w stopniach
+    sin_alt = sind(lat) * sind(dec) + cosd(lat) * cosd(dec) * cosd(ha)
+    alt = math.asin(max(-1.0, min(1.0, sin_alt))) * _R2D
+    az = rev(atan2d(-cosd(dec) * sind(ha),
+                    sind(dec) * cosd(lat) - cosd(dec) * sind(lat) * cosd(ha)))
+    return alt, az
+
+
+def altitude(name: str, d: float, lat: float = POLAND_LAT,
+             lon: float = POLAND_LON) -> float:
+    """Wysokosc ciala nad horyzontem (stopnie, ujemna gdy pod horyzontem)."""
+    return horizontal(name, d, lat, lon)[0]
