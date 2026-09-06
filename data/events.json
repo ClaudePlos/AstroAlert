@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T09:37:00Z",
+ "generated_at": "2026-09-06T14:23:57Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 147,
-  "upcoming": 145,
+  "upcoming": 144,
   "poland": 34,
   "new_today": 0,
   "by_category": {
    "sky": 116,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 3,
    "mission": 0
   }
  },
@@ -288,7 +288,7 @@
     "pl": "Falcon 9 Block 5 | Starlink Group 15-24",
     "en": "Falcon 9 Block 5 | Starlink Group 15-24"
    },
-   "starts_at": "2026-09-06T14:26:28Z",
+   "starts_at": "2026-09-06T14:26:54Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
@@ -335,8 +335,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-09-06T10:59:00Z",
-   "updated_on": "2026-09-06",
    "poland": {
     "visible": false
    }
