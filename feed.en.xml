@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 06 Sep 2026 14:23:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 20:21:55 +0000</lastBuildDate>
+  <item>
+    <title>Soyuz 2.1b | Progress MS-36 (97P)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-8dd5de11-831b-445f-86f0-bffefe0550d9</link>
+    <guid isPermaLink="false">ll2-8dd5de11-831b-445f-86f0-bffefe0550d9</guid>
+    <pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 05:03 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: date to be confirmed. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
@@ -323,13 +331,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;04.06.2027, 19:48 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Taurus. Distance from Earth: 363,959 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-05-28-9d753b78</link>
-    <guid isPermaLink="false">ostatnia-kwadra-2027-05-28-9d753b78</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.05.2027, 13:59 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Aquarius. Distance from Earth: 399,913 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

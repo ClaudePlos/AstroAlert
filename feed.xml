@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Sun, 06 Sep 2026 14:23:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 20:21:55 +0000</lastBuildDate>
+  <item>
+    <title>Soyuz 2.1b | Progress MS-36 (97P)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-8dd5de11-831b-445f-86f0-bffefe0550d9</link>
+    <guid isPermaLink="false">ll2-8dd5de11-831b-445f-86f0-bffefe0550d9</guid>
+    <pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 05:03 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: termin do potwierdzenia. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
@@ -323,13 +331,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;04.06.2027, 19:48 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Byka. Odległość od Ziemi: 363 959 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Ostatnia kwadra</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ostatnia-kwadra-2027-05-28-9d753b78</link>
-    <guid isPermaLink="false">ostatnia-kwadra-2027-05-28-9d753b78</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.05.2027, 13:59 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Wodnika. Odległość od Ziemi: 399 913 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

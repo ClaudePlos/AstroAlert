@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T14:23:57Z",
+ "generated_at": "2026-09-06T20:21:55Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 147,
-  "upcoming": 144,
+  "upcoming": 142,
   "poland": 34,
-  "new_today": 0,
+  "new_today": 1,
   "by_category": {
-   "sky": 116,
+   "sky": 115,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 3,
+   "asteroid": 2,
    "mission": 0
   }
  },
@@ -277,63 +277,6 @@
      809
     ],
     "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-24",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-24"
-   },
-   "starts_at": "2026-09-06T14:26:54Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/153ef8ef-b12b-43f4-a4bf-05b225c0cd37/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -3837,6 +3780,63 @@
     },
     "max_altitude": 13.6,
     "best_time": "2026-11-21T06:00:00Z"
+   }
+  },
+  {
+   "id": "ll2-8dd5de11-831b-445f-86f0-bffefe0550d9",
+   "title": {
+    "pl": "Soyuz 2.1b | Progress MS-36 (97P)",
+    "en": "Soyuz 2.1b | Progress MS-36 (97P)"
+   },
+   "starts_at": "2026-11-24T05:03:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: termin do potwierdzenia. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: date to be confirmed. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
+     "en": "Russian Federal Space Agency (ROSCOSMOS)"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Baikonur Cosmodrome, Republic of Kazakhstan",
+    "en": "Baikonur Cosmodrome, Republic of Kazakhstan"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-06",
+   "extra": {
+    "status": "To Be Confirmed"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
