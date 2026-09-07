@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T20:21:55Z",
+ "generated_at": "2026-09-07T10:40:24Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "id": "neows",
@@ -50,27 +50,27 @@
   }
  ],
  "apod": {
-  "title": "Pluto in Enhanced Color",
-  "date": "2026-09-06",
-  "image": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg",
+  "title": "The Pelican Nebula in Gas, Dust, and Stars",
+  "date": "2026-09-07",
+  "image": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg",
   "credit": {
-   "pl": "NASA / domena publiczna",
-   "en": "NASA / public domain"
+   "pl": "Mark Killion",
+   "en": "Mark Killion"
   },
-  "explanation": "Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.",
-  "link": "https://apod.nasa.gov/apod/ap260906.html"
+  "explanation": "The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the upper right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican Nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260907.html"
  },
  "stats": {
-  "total": 147,
-  "upcoming": 142,
+  "total": 148,
+  "upcoming": 146,
   "poland": 34,
-  "new_today": 1,
+  "new_today": 4,
   "by_category": {
    "sky": 115,
    "launch": 25,
-   "spaceweather": 0,
-   "asteroid": 2,
+   "spaceweather": 1,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -160,186 +160,6 @@
     },
     "max_altitude": 59.0,
     "best_time": "2026-09-05T03:20:00Z"
-   }
-  },
-  {
-   "id": "neo-2186822-2026-09-06",
-   "title": {
-    "pl": "Przelot planetoidy 186822 (2004 FE31)",
-    "en": "Asteroid 186822 (2004 FE31) passes by"
-   },
-   "starts_at": "2026-09-06T09:27:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 732–1 637 m minie Ziemię w odległości 29,58 mln km, czyli 77,0 odległości Ziemia–Księżyc, z prędkością 11,3 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 732–1,637 m will pass Earth at 29.58 million km, or 77.0 times the Earth–Moon distance, travelling at 11.3 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2186822"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-08-31",
-   "extra": {
-    "miss_distance_km": 29580201,
-    "lunar_distances": 76.95,
-    "diameter_m": [
-     732,
-     1637
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3408592-2026-09-06",
-   "title": {
-    "pl": "Przelot planetoidy 2008 GA4",
-    "en": "Asteroid 2008 GA4 passes by"
-   },
-   "starts_at": "2026-09-06T09:39:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 362–809 m minie Ziemię w odległości 28,24 mln km, czyli 73,5 odległości Ziemia–Księżyc, z prędkością 24,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 362–809 m will pass Earth at 28.24 million km, or 73.5 times the Earth–Moon distance, travelling at 24.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3408592"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-08-31",
-   "extra": {
-    "miss_distance_km": 28238905,
-    "lunar_distances": 73.46,
-    "diameter_m": [
-     362,
-     809
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-2246138-2026-09-06",
-   "title": {
-    "pl": "Przelot planetoidy 246138 (2007 OG3)",
-    "en": "Asteroid 246138 (2007 OG3) passes by"
-   },
-   "starts_at": "2026-09-06T15:11:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 595–1 331 m minie Ziemię w odległości 19,04 mln km, czyli 49,5 odległości Ziemia–Księżyc, z prędkością 4,9 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 595–1,331 m will pass Earth at 19.04 million km, or 49.5 times the Earth–Moon distance, travelling at 4.9 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2246138"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-08-31",
-   "extra": {
-    "miss_distance_km": 19039680,
-    "lunar_distances": 49.53,
-    "diameter_m": [
-     595,
-     1331
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -476,6 +296,75 @@
     },
     "max_altitude": 18.3,
     "best_time": "2026-09-09T03:30:00Z"
+   }
+  },
+  {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-09-09T06:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-09-07",
+   "extra": {
+    "kp": 5.0
+   },
+   "ephemeral": true,
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -644,6 +533,66 @@
    "added_on": "2026-09-01",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3666543-2026-09-10",
+   "title": {
+    "pl": "Przelot planetoidy 2014 FV32",
+    "en": "Asteroid 2014 FV32 passes by"
+   },
+   "starts_at": "2026-09-10T17:28:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 80–179 m minie Ziemię w odległości 12,28 mln km, czyli 32,0 odległości Ziemia–Księżyc, z prędkością 10,6 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 80–179 m will pass Earth at 12.28 million km, or 32.0 times the Earth–Moon distance, travelling at 10.6 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666543"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-07",
+   "extra": {
+    "miss_distance_km": 12283851,
+    "lunar_distances": 31.96,
+    "diameter_m": [
+     80,
+     179
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -821,13 +770,73 @@
    "source_id": "neows",
    "added_on": "2026-09-04",
    "extra": {
-    "miss_distance_km": 7757385,
+    "miss_distance_km": 7757386,
     "lunar_distances": 20.18,
     "diameter_m": [
      122,
      273
     ],
     "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3684730-2026-09-12",
+   "title": {
+    "pl": "Przelot planetoidy 2014 QE365",
+    "en": "Asteroid 2014 QE365 passes by"
+   },
+   "starts_at": "2026-09-12T13:32:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 154–344 m minie Ziemię w odległości 37,73 mln km, czyli 98,2 odległości Ziemia–Księżyc, z prędkością 13,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 154–344 m will pass Earth at 37.73 million km, or 98.2 times the Earth–Moon distance, travelling at 13.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3684730"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-07",
+   "extra": {
+    "miss_distance_km": 37731239,
+    "lunar_distances": 98.16,
+    "diameter_m": [
+     154,
+     344
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -949,6 +958,66 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Confirmed"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3612846-2026-09-14",
+   "title": {
+    "pl": "Przelot planetoidy 2012 UD34",
+    "en": "Asteroid 2012 UD34 passes by"
+   },
+   "starts_at": "2026-09-14T00:32:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 318–711 m minie Ziemię w odległości 68,42 mln km, czyli 178,0 odległości Ziemia–Księżyc, z prędkością 1,4 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 318–711 m will pass Earth at 68.42 million km, or 178.0 times the Earth–Moon distance, travelling at 1.4 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3612846"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-07",
+   "extra": {
+    "miss_distance_km": 68422839,
+    "lunar_distances": 178.0,
+    "diameter_m": [
+     318,
+     711
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
