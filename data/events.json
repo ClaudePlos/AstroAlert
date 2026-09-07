@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T10:40:24Z",
+ "generated_at": "2026-09-07T16:39:35Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -368,63 +368,6 @@
    }
   },
   {
-   "id": "ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-   "title": {
-    "pl": "Long March 2D/YZ-3 | Unknown Payload",
-    "en": "Long March 2D/YZ-3 | Unknown Payload"
-   },
-   "starts_at": "2026-09-09T09:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 2D/YZ-3 – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 2D/YZ-3, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-02",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-d793ba47-faf5-4bab-a386-39a9ccc49c90",
    "title": {
     "pl": "Soyuz 2.1b | Progress MS-35 (96P)",
@@ -477,6 +420,65 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
+   "title": {
+    "pl": "Long March 2D/YZ-3 | Unknown Payload",
+    "en": "Long March 2D/YZ-3 | Unknown Payload"
+   },
+   "starts_at": "2026-09-10T09:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 2D/YZ-3 – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 2D/YZ-3, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-02",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-09-09T09:00:00Z",
+   "updated_on": "2026-09-07",
    "poland": {
     "visible": false
    }
