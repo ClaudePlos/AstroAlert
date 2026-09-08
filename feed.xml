@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Tue, 08 Sep 2026 15:18:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 21:06:10 +0000</lastBuildDate>
   <item>
     <title>Falcon 9 Block 5 | Starlink Group 15-27</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8</link>
@@ -12,6 +12,14 @@
     <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;20.09.2026, 01:47 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d1471f9d-e9d0-4146-8e97-90863e48bfc8/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Long March 12 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-898f7df0-b6ce-4a5c-80b4-67e81842124e</link>
+    <guid isPermaLink="false">ll2-898f7df0-b6ce-4a5c-80b4-67e81842124e</guid>
+    <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;17.09.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/898f7df0-b6ce-4a5c-80b4-67e81842124e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 429584 (2011 EU29)</title>
@@ -43,20 +51,7 @@
     <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521</guid>
     <pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
     <category>Pogoda kosmiczna</category>
-    <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
-    <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
-    <pubDate>Sat, 05 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;19.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1a Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: termin wstępny. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
-
-* MKA Kinosputnik
-* KOEN, KA MT-LAB
-* NPO Kaisant 6U cubesat with a Germes modem
-* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 474158 (1999 FA)</title>

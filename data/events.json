@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T15:18:47Z",
+ "generated_at": "2026-09-08T21:06:10Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,11 +63,11 @@
  },
  "stats": {
   "total": 147,
-  "upcoming": 146,
+  "upcoming": 145,
   "poland": 34,
-  "new_today": 2,
+  "new_today": 3,
   "by_category": {
-   "sky": 115,
+   "sky": 114,
    "launch": 25,
    "spaceweather": 1,
    "asteroid": 5,
@@ -244,8 +244,8 @@
    "subcategory": "aurora",
    "importance": 3,
    "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
    },
    "tags": [
     {
@@ -295,68 +295,9 @@
    "source_id": "swpc",
    "added_on": "2026-09-07",
    "extra": {
-    "kp": 5.0
+    "kp": 5.67
    },
    "ephemeral": true,
-   "rescheduled_from": "2026-09-09T06:00:00Z",
-   "updated_on": "2026-09-08",
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-d793ba47-faf5-4bab-a386-39a9ccc49c90",
-   "title": {
-    "pl": "Soyuz 2.1b | Progress MS-35 (96P)",
-    "en": "Soyuz 2.1b | Progress MS-35 (96P)"
-   },
-   "starts_at": "2026-09-09T16:15:03Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: potwierdzony. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: confirmed. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
-     "en": "Russian Federal Space Agency (ROSCOSMOS)"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/d793ba47-faf5-4bab-a386-39a9ccc49c90/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Baikonur Cosmodrome, Republic of Kazakhstan",
-    "en": "Baikonur Cosmodrome, Republic of Kazakhstan"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
    "poland": {
     "visible": false
    }
@@ -963,6 +904,69 @@
    }
   },
   {
+   "id": "ll2-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+   "title": {
+    "pl": "Starship | Flight 14",
+    "en": "Starship | Flight 14"
+   },
+   "starts_at": "2026-09-15T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 5,
+   "summary": {
+    "pl": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin wstępny. Misja: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Starship V3, operated by SpaceX. Site: SpaceX Starbase, TX, USA. Schedule status: date to be determined. Mission: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/7d1afb26-6f9c-429b-9ccf-29012fd1e519/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "SpaceX Starbase, TX, USA",
+    "en": "SpaceX Starbase, TX, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-09-30T00:00:00Z",
+   "updated_on": "2026-09-08",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
    "title": {
     "pl": "Vega-C | Sentinel-3C & FLEX",
@@ -1078,6 +1082,122 @@
      652
     ],
     "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-d793ba47-faf5-4bab-a386-39a9ccc49c90",
+   "title": {
+    "pl": "Soyuz 2.1b | Progress MS-35 (96P)",
+    "en": "Soyuz 2.1b | Progress MS-35 (96P)"
+   },
+   "starts_at": "2026-09-16T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: termin wstępny. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: date to be determined. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
+     "en": "Russian Federal Space Agency (ROSCOSMOS)"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d793ba47-faf5-4bab-a386-39a9ccc49c90/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Baikonur Cosmodrome, Republic of Kazakhstan",
+    "en": "Baikonur Cosmodrome, Republic of Kazakhstan"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-09-09T16:15:03Z",
+   "updated_on": "2026-09-08",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-898f7df0-b6ce-4a5c-80b4-67e81842124e",
+   "title": {
+    "pl": "Long March 12 | Unknown Payload",
+    "en": "Long March 12 | Unknown Payload"
+   },
+   "starts_at": "2026-09-17T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/898f7df0-b6ce-4a5c-80b4-67e81842124e/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Wenchang Space Launch Site, People's Republic of China",
+    "en": "Wenchang Space Launch Site, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-08",
+   "extra": {
+    "status": "To Be Confirmed"
    },
    "poland": {
     "visible": false
@@ -1605,67 +1725,6 @@
    "location": {
     "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
     "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-   "title": {
-    "pl": "Starship | Flight 14",
-    "en": "Starship | Flight 14"
-   },
-   "starts_at": "2026-09-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 5,
-   "summary": {
-    "pl": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin wstępny. Misja: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Starship V3, operated by SpaceX. Site: SpaceX Starbase, TX, USA. Schedule status: date to be determined. Mission: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    },
-    {
-     "pl": "nowa rakieta",
-     "en": "new rocket"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/7d1afb26-6f9c-429b-9ccf-29012fd1e519/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "SpaceX Starbase, TX, USA",
-    "en": "SpaceX Starbase, TX, USA"
    },
    "source": {
     "pl": "The Space Devs (Launch Library 2)",
@@ -3729,63 +3788,6 @@
     },
     "max_altitude": 27.5,
     "best_time": "2026-11-17T17:10:00Z"
-   }
-  },
-  {
-   "id": "ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-   "title": {
-    "pl": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
-    "en": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others"
-   },
-   "starts_at": "2026-11-19T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Soyuz 2.1a Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: termin wstępny. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Soyuz 2.1a Fregat-M, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Vostochny Cosmodrome, Siberia, Russian Federation. Schedule status: date to be determined. Mission: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
-     "en": "Russian Federal Space Agency (ROSCOSMOS)"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vostochny Cosmodrome, Siberia, Russian Federation",
-    "en": "Vostochny Cosmodrome, Siberia, Russian Federation"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-05",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {

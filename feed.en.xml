@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 08 Sep 2026 15:18:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 21:06:10 +0000</lastBuildDate>
   <item>
     <title>Falcon 9 Block 5 | Starlink Group 15-27</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8</link>
@@ -12,6 +12,14 @@
     <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;20.09.2026, 01:47 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d1471f9d-e9d0-4146-8e97-90863e48bfc8/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Long March 12 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-898f7df0-b6ce-4a5c-80b4-67e81842124e</link>
+    <guid isPermaLink="false">ll2-898f7df0-b6ce-4a5c-80b4-67e81842124e</guid>
+    <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;17.09.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/898f7df0-b6ce-4a5c-80b4-67e81842124e/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 429584 (2011 EU29) passes by</title>
@@ -43,20 +51,7 @@
     <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521</guid>
     <pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
     <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
-    <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
-    <pubDate>Sat, 05 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;19.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Soyuz 2.1a Fregat-M, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Vostochny Cosmodrome, Siberia, Russian Federation. Schedule status: date to be determined. Mission: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
-
-* MKA Kinosputnik
-* KOEN, KA MT-LAB
-* NPO Kaisant 6U cubesat with a Germes modem
-* NPO Kaisant 16U cubesat with Gonets modems Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 474158 (1999 FA) passes by</title>
