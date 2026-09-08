@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T21:28:39Z",
+ "generated_at": "2026-09-08T10:01:33Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 117
+   "count": 116
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   {
    "id": "neows",
@@ -50,22 +50,22 @@
   }
  ],
  "apod": {
-  "title": "The Pelican Nebula in Gas, Dust, and Stars",
-  "date": "2026-09-07",
-  "image": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg",
+  "title": "Hubble: Decagon Around Saturn's South Pole",
+  "date": "2026-09-08",
+  "image": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
   "credit": {
-   "pl": "Mark Killion",
-   "en": "Mark Killion"
+   "pl": "NASA / domena publiczna",
+   "en": "NASA / public domain"
   },
-  "explanation": "The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the upper right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican Nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260907.html"
+  "explanation": "Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260908.html"
  },
  "stats": {
   "total": 148,
   "upcoming": 146,
   "poland": 34,
-  "new_today": 4,
+  "new_today": 2,
   "by_category": {
    "sky": 115,
    "launch": 25,
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "ostatnia-kwadra-2026-09-04-fda58aed",
-   "title": {
-    "pl": "Ostatnia kwadra",
-    "en": "Last Quarter"
-   },
-   "starts_at": "2026-09-04T07:56:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 1,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Byka. Odległość od Ziemi: 370 590 km.",
-    "en": "The Moon reaches last quarter in Taurus. Distance from Earth: 370,590 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Ostatnia kwadra",
-     "en": "Last Quarter"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 59° nad polskim horyzontem.",
-     "en": "The Moon climbs 59° above the Polish horizon."
-    },
-    "max_altitude": 59.0,
-    "best_time": "2026-09-05T03:20:00Z"
-   }
-  },
   {
    "id": "zblizenie-ksiezyca-i-marsa-2026-09-06-c966e645",
    "title": {
@@ -228,6 +163,75 @@
     },
     "max_altitude": 40.2,
     "best_time": "2026-09-07T03:20:00Z"
+   }
+  },
+  {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-08-d547d8da",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-09-08T06:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-09-08",
+   "extra": {
+    "kp": 5.0
+   },
+   "ephemeral": true,
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -783,66 +787,6 @@
    }
   },
   {
-   "id": "neo-3684730-2026-09-12",
-   "title": {
-    "pl": "Przelot planetoidy 2014 QE365",
-    "en": "Asteroid 2014 QE365 passes by"
-   },
-   "starts_at": "2026-09-12T13:32:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 154–344 m minie Ziemię w odległości 37,73 mln km, czyli 98,2 odległości Ziemia–Księżyc, z prędkością 13,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 154–344 m will pass Earth at 37.73 million km, or 98.2 times the Earth–Moon distance, travelling at 13.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3684730"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-07",
-   "extra": {
-    "miss_distance_km": 37731239,
-    "lunar_distances": 98.16,
-    "diameter_m": [
-     154,
-     344
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-2474158-2026-09-12",
    "title": {
     "pl": "Przelot planetoidy 474158 (1999 FA)",
@@ -894,7 +838,7 @@
    "source_id": "neows",
    "added_on": "2026-09-05",
    "extra": {
-    "miss_distance_km": 19854159,
+    "miss_distance_km": 19854160,
     "lunar_distances": 51.65,
     "diameter_m": [
      192,
@@ -1137,6 +1081,70 @@
    "added_on": "2026-08-31",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-2429584-2026-09-15",
+   "title": {
+    "pl": "Przelot planetoidy 429584 (2011 EU29)",
+    "en": "Asteroid 429584 (2011 EU29) passes by"
+   },
+   "starts_at": "2026-09-15T02:11:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 291–652 m minie Ziemię w odległości 20,16 mln km, czyli 52,4 odległości Ziemia–Księżyc, z prędkością 21,0 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 291–652 m will pass Earth at 20.16 million km, or 52.4 times the Earth–Moon distance, travelling at 21.0 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2429584"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-08",
+   "extra": {
+    "miss_distance_km": 20160861,
+    "lunar_distances": 52.45,
+    "diameter_m": [
+     291,
+     652
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
