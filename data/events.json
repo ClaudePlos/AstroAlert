@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T10:01:33Z",
+ "generated_at": "2026-09-08T15:18:47Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 2
+   "count": 1
   },
   {
    "id": "neows",
@@ -62,7 +62,7 @@
   "link": "https://apod.nasa.gov/apod/ap260908.html"
  },
  "stats": {
-  "total": 148,
+  "total": 147,
   "upcoming": 146,
   "poland": 34,
   "new_today": 2,
@@ -166,75 +166,6 @@
    }
   },
   {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-08-d547d8da",
-   "title": {
-    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
-    "en": "G1 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-09-08T06:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 3,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G1",
-     "en": "G1"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-09-08",
-   "extra": {
-    "kp": 5.0
-   },
-   "ephemeral": true,
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "zblizenie-ksiezyca-i-jowisza-2026-09-08-33a98f04",
    "title": {
     "pl": "Zbliżenie Księżyca i Jowisza",
@@ -308,7 +239,7 @@
     "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
     "en": "G1 geomagnetic storm – chance of aurora"
    },
-   "starts_at": "2026-09-09T06:00:00Z",
+   "starts_at": "2026-09-09T03:00:00Z",
    "category": "spaceweather",
    "subcategory": "aurora",
    "importance": 3,
@@ -367,6 +298,8 @@
     "kp": 5.0
    },
    "ephemeral": true,
+   "rescheduled_from": "2026-09-09T06:00:00Z",
+   "updated_on": "2026-09-08",
    "poland": {
     "visible": false
    }
@@ -1213,6 +1146,63 @@
     },
     "max_altitude": 9.2,
     "best_time": "2026-09-18T17:30:00Z"
+   }
+  },
+  {
+   "id": "ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-27",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-27"
+   },
+   "starts_at": "2026-09-20T01:47:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d1471f9d-e9d0-4146-8e97-90863e48bfc8/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-08",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -3857,63 +3847,6 @@
     },
     "max_altitude": 13.6,
     "best_time": "2026-11-21T06:00:00Z"
-   }
-  },
-  {
-   "id": "ll2-8dd5de11-831b-445f-86f0-bffefe0550d9",
-   "title": {
-    "pl": "Soyuz 2.1b | Progress MS-36 (97P)",
-    "en": "Soyuz 2.1b | Progress MS-36 (97P)"
-   },
-   "starts_at": "2026-11-24T05:03:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: termin do potwierdzenia. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: date to be confirmed. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
-     "en": "Russian Federal Space Agency (ROSCOSMOS)"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Baikonur Cosmodrome, Republic of Kazakhstan",
-    "en": "Baikonur Cosmodrome, Republic of Kazakhstan"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-06",
-   "extra": {
-    "status": "To Be Confirmed"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
