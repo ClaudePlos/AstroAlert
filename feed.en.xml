@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 09 Sep 2026 15:17:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 20:54:01 +0000</lastBuildDate>
   <item>
     <title>Conjunction of Mercury and Venus</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#koniunkcja-merkurego-i-wenus-2027-10-11-419a7573</link>
@@ -20,6 +20,14 @@
     <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
     <description>&lt;p&gt;&lt;strong&gt;16.09.2026, 22:34 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 267–597 m will pass Earth at 13.28 million km, or 34.6 times the Earth–Moon distance, travelling at 18.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3382866&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon 9 Block 5 | USSF-259</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-17c71937-dd80-406f-bb47-0c9ee9a24276</link>
+    <guid isPermaLink="false">ll2-17c71937-dd80-406f-bb47-0c9ee9a24276</guid>
+    <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;16.09.2026, 01:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: USSF-259 is a classified mission for the United States Space Force. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/17c71937-dd80-406f-bb47-0c9ee9a24276/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Gravity-1 | Unknown Payload</title>
@@ -100,16 +108,6 @@
     <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;07.10.2027, 11:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Sagittarius. Distance from Earth: 401,830 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
-    <guid isPermaLink="false">ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</guid>
-    <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
-
-Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Long March 2D/YZ-3 | Unknown Payload</title>

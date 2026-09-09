@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T15:17:32Z",
+ "generated_at": "2026-09-09T20:54:01Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 148,
   "upcoming": 146,
   "poland": 34,
-  "new_today": 4,
+  "new_today": 5,
   "by_category": {
    "sky": 115,
    "launch": 25,
@@ -673,13 +673,13 @@
     "pl": "Falcon 9 Block 5 | O3b mPower 11-13",
     "en": "Falcon 9 Block 5 | O3b mPower 11-13"
    },
-   "starts_at": "2026-09-13T18:50:00Z",
+   "starts_at": "2026-09-13T18:49:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin do potwierdzenia. Misja: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be confirmed. Mission: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: potwierdzony. Misja: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: 3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -718,7 +718,7 @@
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -1026,18 +1026,75 @@
    }
   },
   {
+   "id": "ll2-17c71937-dd80-406f-bb47-0c9ee9a24276",
+   "title": {
+    "pl": "Falcon 9 Block 5 | USSF-259",
+    "en": "Falcon 9 Block 5 | USSF-259"
+   },
+   "starts_at": "2026-09-16T01:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: USSF-259 is a classified mission for the United States Space Force. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: USSF-259 is a classified mission for the United States Space Force. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/17c71937-dd80-406f-bb47-0c9ee9a24276/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-09",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-d793ba47-faf5-4bab-a386-39a9ccc49c90",
    "title": {
     "pl": "Soyuz 2.1b | Progress MS-35 (96P)",
     "en": "Soyuz 2.1b | Progress MS-35 (96P)"
    },
-   "starts_at": "2026-09-16T00:00:00Z",
+   "starts_at": "2026-09-16T13:33:53Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: termin wstępny. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: date to be determined. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: potwierdzony. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: confirmed. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1076,8 +1133,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
    "extra": {
-    "status": "To Be Determined"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-09-16T00:00:00Z",
+   "updated_on": "2026-09-09",
    "poland": {
     "visible": false
    }
@@ -1195,8 +1254,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-09-17T00:00:00Z",
-   "updated_on": "2026-09-09",
    "poland": {
     "visible": false
    }
@@ -1790,8 +1847,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-09-11T16:00:00Z",
-   "updated_on": "2026-09-09",
    "poland": {
     "visible": false
    }
@@ -3103,67 +3158,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
-    "en": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35"
-   },
-   "starts_at": "2026-10-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    },
-    {
-     "pl": "załoga",
-     "en": "crewed"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Cape Canaveral SFS, FL, USA",
-    "en": "Cape Canaveral SFS, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-02",
    "extra": {
     "status": "To Be Determined"
    },
