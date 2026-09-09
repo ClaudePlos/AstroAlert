@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T21:06:10Z",
+ "generated_at": "2026-09-09T10:02:48Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 116
+   "count": 117
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 1
+   "count": 0
   },
   {
    "id": "neows",
@@ -50,26 +50,26 @@
   }
  ],
  "apod": {
-  "title": "Hubble: Decagon Around Saturn's South Pole",
-  "date": "2026-09-08",
-  "image": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
+  "title": "Witness XZ Andromedae Wink",
+  "date": "2026-09-09",
+  "image": "",
+  "hdimage": null,
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260908.html"
+  "explanation": "Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and brighten as the cooler star eclipses its hotter, brighter companion. Analysis of several XZ Andromedae light curves indicates there may be two other stars orbiting the system. This particular light curve was created with Citizen Astronomy, an open-source software for differential photometry. The software takes the difference in brightness between a target and comparison star and traces its behavior over time. This technique reduces most variations from the instrument and Earth’s atmosphere. In addition to eclipsing binaries, this analysis is useful for studying transiting exoplanets, accreting black holes, supernovae, and many more time-varying astronomical phenomena. Astrophotographers: try it out on your own data!",
+  "link": "https://apod.nasa.gov/apod/ap260909.html"
  },
  "stats": {
   "total": 147,
   "upcoming": 145,
   "poland": 34,
-  "new_today": 3,
+  "new_today": 2,
   "by_category": {
-   "sky": 114,
+   "sky": 115,
    "launch": 25,
-   "spaceweather": 1,
+   "spaceweather": 0,
    "asteroid": 5,
    "mission": 0
   }
@@ -231,75 +231,6 @@
     },
     "max_altitude": 18.3,
     "best_time": "2026-09-09T03:30:00Z"
-   }
-  },
-  {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521",
-   "title": {
-    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
-    "en": "G1 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-09-09T03:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 3,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G1",
-     "en": "G1"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-09-07",
-   "extra": {
-    "kp": 5.67
-   },
-   "ephemeral": true,
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -648,7 +579,7 @@
    "source_id": "neows",
    "added_on": "2026-09-04",
    "extra": {
-    "miss_distance_km": 7757386,
+    "miss_distance_km": 7757385,
     "lunar_distances": 20.18,
     "diameter_m": [
      122,
@@ -782,66 +713,6 @@
    }
   },
   {
-   "id": "neo-3612846-2026-09-14",
-   "title": {
-    "pl": "Przelot planetoidy 2012 UD34",
-    "en": "Asteroid 2012 UD34 passes by"
-   },
-   "starts_at": "2026-09-14T00:32:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 318–711 m minie Ziemię w odległości 68,42 mln km, czyli 178,0 odległości Ziemia–Księżyc, z prędkością 1,4 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 318–711 m will pass Earth at 68.42 million km, or 178.0 times the Earth–Moon distance, travelling at 1.4 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3612846"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-07",
-   "extra": {
-    "miss_distance_km": 68422839,
-    "lunar_distances": 178.0,
-    "diameter_m": [
-     318,
-     711
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "zblizenie-ksiezyca-i-wenus-2026-09-14-90027f43",
    "title": {
     "pl": "Zbliżenie Księżyca i Wenus",
@@ -960,8 +831,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-09-30T00:00:00Z",
-   "updated_on": "2026-09-08",
    "poland": {
     "visible": false
    }
@@ -1140,8 +1009,66 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-09-09T16:15:03Z",
-   "updated_on": "2026-09-08",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3382866-2026-09-16",
+   "title": {
+    "pl": "Przelot planetoidy 2007 QE3",
+    "en": "Asteroid 2007 QE3 passes by"
+   },
+   "starts_at": "2026-09-16T22:34:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 267–597 m minie Ziemię w odległości 13,28 mln km, czyli 34,6 odległości Ziemia–Księżyc, z prędkością 18,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 267–597 m will pass Earth at 13.28 million km, or 34.6 times the Earth–Moon distance, travelling at 18.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3382866"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-09",
+   "extra": {
+    "miss_distance_km": 13284379,
+    "lunar_distances": 34.56,
+    "diameter_m": [
+     267,
+     597
+    ],
+    "hazardous": false
+   },
    "poland": {
     "visible": false
    }
@@ -9543,6 +9470,68 @@
     },
     "max_altitude": 69.3,
     "best_time": "2027-10-08T17:20:00Z"
+   }
+  },
+  {
+   "id": "koniunkcja-merkurego-i-wenus-2027-10-11-419a7573",
+   "title": {
+    "pl": "Koniunkcja Merkurego i Wenus",
+    "en": "Conjunction of Mercury and Venus"
+   },
+   "starts_at": "2027-10-11T14:03:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 3,
+   "summary": {
+    "pl": "Dwie planety dzieli na niebie zaledwie 3,8° – to mniej niż szerokość palca wyciągniętej ręki. Zjawisko widoczne wieczorem, po zachodzie Słońca, w gwiazdozbiorze Wagi. Odległość od Słońca na niebie: 16°.",
+    "en": "Only 3.8° separates the two planets – less than the width of a finger at arm's length. Visible in the evening, after sunset, in Libra. Angular distance from the Sun: 16°."
+   },
+   "tags": [
+    {
+     "pl": "Merkury",
+     "en": "Mercury"
+    },
+    {
+     "pl": "Wenus",
+     "en": "Venus"
+    },
+    {
+     "pl": "koniunkcja",
+     "en": "conjunction"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-09-09",
+   "extra": {
+    "separation_deg": 3.78,
+    "bodies": [
+     "Mercury",
+     "Venus"
+    ]
+   },
+   "poland": {
+    "visible": false
    }
   }
  ]
