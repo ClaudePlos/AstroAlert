@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T10:02:48Z",
+ "generated_at": "2026-09-09T15:17:32Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "id": "neows",
@@ -62,14 +62,14 @@
   "link": "https://apod.nasa.gov/apod/ap260909.html"
  },
  "stats": {
-  "total": 147,
-  "upcoming": 145,
+  "total": 148,
+  "upcoming": 146,
   "poland": 34,
-  "new_today": 2,
+  "new_today": 4,
   "by_category": {
    "sky": 115,
    "launch": 25,
-   "spaceweather": 0,
+   "spaceweather": 1,
    "asteroid": 5,
    "mission": 0
   }
@@ -231,6 +231,75 @@
     },
     "max_altitude": 18.3,
     "best_time": "2026-09-09T03:30:00Z"
+   }
+  },
+  {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-09-09T21:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-09-09",
+   "extra": {
+    "kp": 5.67
+   },
+   "ephemeral": true,
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -468,63 +537,6 @@
      "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
      "en": "Moonless nights over Poland – the best chance of a truly dark sky."
     }
-   }
-  },
-  {
-   "id": "ll2-63063b9d-ade9-4448-8717-6f910aa81188",
-   "title": {
-    "pl": "Long March 8A | Unknown Payload",
-    "en": "Long March 8A | Unknown Payload"
-   },
-   "starts_at": "2026-09-11T16:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/63063b9d-ade9-4448-8717-6f910aa81188/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Wenchang Space Launch Site, People's Republic of China",
-    "en": "Wenchang Space Launch Site, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Confirmed"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -957,6 +969,63 @@
    }
   },
   {
+   "id": "ll2-767f7827-53d8-4621-803b-f456a1e6b512",
+   "title": {
+    "pl": "Gravity-1 | Unknown Payload",
+    "en": "Gravity-1 | Unknown Payload"
+   },
+   "starts_at": "2026-09-15T21:55:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Gravity-1 – Orienspace Technology. Miejsce: Haiyang Oriental Spaceport. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Gravity-1, operated by Orienspace Technology. Site: Haiyang Oriental Spaceport. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Orienspace Technology",
+     "en": "Orienspace Technology"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/767f7827-53d8-4621-803b-f456a1e6b512/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Haiyang Oriental Spaceport",
+    "en": "Haiyang Oriental Spaceport"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-09",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-d793ba47-faf5-4bab-a386-39a9ccc49c90",
    "title": {
     "pl": "Soyuz 2.1b | Progress MS-35 (96P)",
@@ -1079,13 +1148,13 @@
     "pl": "Long March 12 | Unknown Payload",
     "en": "Long March 12 | Unknown Payload"
    },
-   "starts_at": "2026-09-17T00:00:00Z",
+   "starts_at": "2026-09-17T00:30:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1124,8 +1193,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-09-08",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-09-17T00:00:00Z",
+   "updated_on": "2026-09-09",
    "poland": {
     "visible": false
    }
@@ -1662,6 +1733,65 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-63063b9d-ade9-4448-8717-6f910aa81188",
+   "title": {
+    "pl": "Long March 8A | Unknown Payload",
+    "en": "Long March 8A | Unknown Payload"
+   },
+   "starts_at": "2026-09-30T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin wstępny. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be determined. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/63063b9d-ade9-4448-8717-6f910aa81188/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Wenchang Space Launch Site, People's Republic of China",
+    "en": "Wenchang Space Launch Site, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-09-11T16:00:00Z",
+   "updated_on": "2026-09-09",
    "poland": {
     "visible": false
    }
@@ -3034,63 +3164,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-02",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-67213393-7983-4c06-8b44-b8c785a5ed79",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
-    "en": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)"
-   },
-   "starts_at": "2026-10-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/67213393-7983-4c06-8b44-b8c785a5ed79/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-04",
    "extra": {
     "status": "To Be Determined"
    },

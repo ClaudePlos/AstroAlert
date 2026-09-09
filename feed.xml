@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 09 Sep 2026 10:02:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 15:17:32 +0000</lastBuildDate>
   <item>
     <title>Koniunkcja Merkurego i Wenus</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#koniunkcja-merkurego-i-wenus-2027-10-11-419a7573</link>
@@ -22,6 +22,22 @@
     <description>&lt;p&gt;&lt;strong&gt;16.09.2026, 22:34 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 267–597 m minie Ziemię w odległości 13,28 mln km, czyli 34,6 odległości Ziemia–Księżyc, z prędkością 18,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3382866&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
+    <title>Gravity-1 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-767f7827-53d8-4621-803b-f456a1e6b512</link>
+    <guid isPermaLink="false">ll2-767f7827-53d8-4621-803b-f456a1e6b512</guid>
+    <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;15.09.2026, 21:55 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Gravity-1 – Orienspace Technology. Miejsce: Haiyang Oriental Spaceport. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/767f7827-53d8-4621-803b-f456a1e6b512/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Burza geomagnetyczna G1 – szansa na zorzę polarną</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521</guid>
+    <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Pogoda kosmiczna</category>
+    <description>&lt;p&gt;&lt;strong&gt;09.09.2026, 21:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
     <title>Falcon 9 Block 5 | Starlink Group 15-27</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8</link>
     <guid isPermaLink="false">ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8</guid>
@@ -35,7 +51,7 @@
     <guid isPermaLink="false">ll2-898f7df0-b6ce-4a5c-80b4-67e81842124e</guid>
     <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.09.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/898f7df0-b6ce-4a5c-80b4-67e81842124e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;17.09.2026, 00:30 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/898f7df0-b6ce-4a5c-80b4-67e81842124e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 429584 (2011 EU29)</title>
@@ -68,14 +84,6 @@
     <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;08.10.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rój nieprzewidywalny: zwykle słaby, ale kilka razy w historii dał prawdziwe deszcze meteorów. Radiant świeci wysoko już wczesnym wieczorem. W maksimum teoretycznie do 10 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Smoka. Księżyc oświetlony w 56% nieco rozjaśni niebo. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;Kalendarz rojów IMO&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pl.wikipedia.org/wiki/Drakonidy&quot;&gt;O roju – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-67213393-7983-4c06-8b44-b8c785a5ed79</link>
-    <guid isPermaLink="false">ll2-67213393-7983-4c06-8b44-b8c785a5ed79</guid>
-    <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/67213393-7983-4c06-8b44-b8c785a5ed79/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 465824 (2010 FR)</title>
@@ -318,13 +326,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;27.06.2027, 04:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Ryb. Odległość od Ziemi: 393 183 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Przesilenie letnie</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#przesilenie-letnie-2027-06-21-6d5d142a</link>
-    <guid isPermaLink="false">przesilenie-letnie-2027-06-21-6d5d142a</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;21.06.2027, 14:04 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Najdłuższy dzień roku na półkuli północnej – Słońce osiąga najwyższe położenie na niebie. Początek astronomicznego lata.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
