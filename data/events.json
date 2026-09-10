@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T20:54:01Z",
+ "generated_at": "2026-09-10T09:58:51Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 117
+   "count": 116
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 1
+   "count": 0
   },
   {
    "id": "neows",
@@ -50,26 +50,26 @@
   }
  ],
  "apod": {
-  "title": "Witness XZ Andromedae Wink",
-  "date": "2026-09-09",
-  "image": "",
-  "hdimage": null,
+  "title": "LDN 1295: The Giraffe Nebula",
+  "date": "2026-09-10",
+  "image": "https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg",
   "credit": {
-   "pl": "NASA / domena publiczna",
-   "en": "NASA / public domain"
+   "pl": "Alessandro Merga\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)",
+   "en": "Alessandro Merga\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)"
   },
-  "explanation": "Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and brighten as the cooler star eclipses its hotter, brighter companion. Analysis of several XZ Andromedae light curves indicates there may be two other stars orbiting the system. This particular light curve was created with Citizen Astronomy, an open-source software for differential photometry. The software takes the difference in brightness between a target and comparison star and traces its behavior over time. This technique reduces most variations from the instrument and Earth’s atmosphere. In addition to eclipsing binaries, this analysis is useful for studying transiting exoplanets, accreting black holes, supernovae, and many more time-varying astronomical phenomena. Astrophotographers: try it out on your own data!",
-  "link": "https://apod.nasa.gov/apod/ap260909.html"
+  "explanation": "What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260910.html"
  },
  "stats": {
-  "total": 148,
-  "upcoming": 146,
+  "total": 146,
+  "upcoming": 145,
   "poland": 34,
-  "new_today": 5,
+  "new_today": 1,
   "by_category": {
    "sky": 115,
    "launch": 25,
-   "spaceweather": 1,
+   "spaceweather": 0,
    "asteroid": 5,
    "mission": 0
   }
@@ -97,74 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "zblizenie-ksiezyca-i-marsa-2026-09-06-c966e645",
-   "title": {
-    "pl": "Zbliżenie Księżyca i Marsa",
-    "en": "The Moon meets Mars"
-   },
-   "starts_at": "2026-09-06T19:35:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc przechodzi w odległości zaledwie 3,0° od Marsa – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Bliźniąt. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
-    "en": "The Moon passes just 3.0° from Mars – the pair is visible in the morning, before sunrise, in Gemini. A distinctly orange point of light. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Mars",
-     "en": "Mars"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 2.95,
-    "bodies": [
-     "Moon",
-     "Mars"
-    ]
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Parę widać z Polski – maksymalnie 40° nad horyzontem.",
-     "en": "The pair is observable from Poland, up to 40° above the horizon."
-    },
-    "max_altitude": 40.2,
-    "best_time": "2026-09-07T03:20:00Z"
-   }
-  },
   {
    "id": "zblizenie-ksiezyca-i-jowisza-2026-09-08-33a98f04",
    "title": {
@@ -234,138 +166,12 @@
    }
   },
   {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-09-03e20521",
-   "title": {
-    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
-    "en": "G1 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-09-09T21:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 3,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G1",
-     "en": "G1"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-09-09",
-   "extra": {
-    "kp": 5.67
-   },
-   "ephemeral": true,
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-   "title": {
-    "pl": "Long March 2D/YZ-3 | Unknown Payload",
-    "en": "Long March 2D/YZ-3 | Unknown Payload"
-   },
-   "starts_at": "2026-09-10T09:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 2D/YZ-3 – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 2D/YZ-3, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-02",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
    "title": {
     "pl": "Falcon 9 Block 5 | USSF-153",
     "en": "Falcon 9 Block 5 | USSF-153"
    },
-   "starts_at": "2026-09-10T15:37:00Z",
+   "starts_at": "2026-09-10T15:42:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -591,7 +397,7 @@
    "source_id": "neows",
    "added_on": "2026-09-04",
    "extra": {
-    "miss_distance_km": 7757385,
+    "miss_distance_km": 7757386,
     "lunar_distances": 20.18,
     "diameter_m": [
      122,
@@ -655,7 +461,7 @@
    "source_id": "neows",
    "added_on": "2026-09-05",
    "extra": {
-    "miss_distance_km": 19854160,
+    "miss_distance_km": 19854157,
     "lunar_distances": 51.65,
     "diameter_m": [
      192,
@@ -956,7 +762,7 @@
    "source_id": "neows",
    "added_on": "2026-09-08",
    "extra": {
-    "miss_distance_km": 20160861,
+    "miss_distance_km": 20160859,
     "lunar_distances": 52.45,
     "diameter_m": [
      291,
@@ -1135,8 +941,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-09-16T00:00:00Z",
-   "updated_on": "2026-09-09",
    "poland": {
     "visible": false
    }
@@ -3158,6 +2962,67 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
+    "en": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "załoga",
+     "en": "crewed"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-10",
    "extra": {
     "status": "To Be Determined"
    },
