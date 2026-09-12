@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T20:55:20Z",
+ "generated_at": "2026-09-12T09:32:16Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 117
+   "count": 116
   },
   {
    "id": "launchlibrary",
@@ -50,22 +50,22 @@
   }
  ],
  "apod": {
-  "title": "M83: The Southern Pinwheel",
-  "date": "2026-09-11",
-  "image": "https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/M83_Final2_1x.jpg",
+  "title": "Apollo 11: Catching Some Sun",
+  "date": "2026-09-12",
+  "image": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg",
   "credit": {
-   "pl": "Aldo Zanetti",
-   "en": "Aldo Zanetti"
+   "pl": "NASA / domena publiczna",
+   "en": "NASA / public domain"
   },
-  "explanation": "Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260911.html"
+  "explanation": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260912.html"
  },
  "stats": {
-  "total": 147,
+  "total": 146,
   "upcoming": 145,
   "poland": 34,
-  "new_today": 5,
+  "new_today": 1,
   "by_category": {
    "sky": 115,
    "launch": 25,
@@ -97,74 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "zblizenie-ksiezyca-i-jowisza-2026-09-08-33a98f04",
-   "title": {
-    "pl": "Zbliżenie Księżyca i Jowisza",
-    "en": "The Moon meets Jupiter"
-   },
-   "starts_at": "2026-09-08T18:49:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc przechodzi w odległości zaledwie 46′ od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
-    "en": "The Moon passes just 46′ from Jupiter – the pair is visible in the morning, before sunrise, in Cancer. Binoculars will show its four Galilean moons. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Jowisz",
-     "en": "Jupiter"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 0.77,
-    "bodies": [
-     "Moon",
-     "Jupiter"
-    ]
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Parę widać z Polski – maksymalnie 18° nad horyzontem.",
-     "en": "The pair is observable from Poland, up to 18° above the horizon."
-    },
-    "max_altitude": 18.3,
-    "best_time": "2026-09-09T03:30:00Z"
-   }
-  },
   {
    "id": "now-2026-09-11-9d0c7d9e",
    "title": {
@@ -229,18 +161,18 @@
    }
   },
   {
-   "id": "neo-2465824-2026-09-11",
+   "id": "neo-2474158-2026-09-12",
    "title": {
-    "pl": "Przelot planetoidy 465824 (2010 FR)",
-    "en": "Asteroid 465824 (2010 FR) passes by"
+    "pl": "Przelot planetoidy 474158 (1999 FA)",
+    "en": "Asteroid 474158 (1999 FA) passes by"
    },
-   "starts_at": "2026-09-11T22:28:00Z",
+   "starts_at": "2026-09-12T17:35:00Z",
    "category": "asteroid",
    "subcategory": "close-approach",
    "importance": 2,
    "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 122–273 m minie Ziemię w odległości 7,76 mln km, czyli 20,2 odległości Ziemia–Księżyc, z prędkością 11,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 122–273 m will pass Earth at 7.76 million km, or 20.2 times the Earth–Moon distance, travelling at 11.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+    "pl": "Planetoida o średnicy szacowanej na 192–429 m minie Ziemię w odległości 19,85 mln km, czyli 51,6 odległości Ziemia–Księżyc, z prędkością 6,5 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 192–429 m will pass Earth at 19.85 million km, or 51.6 times the Earth–Moon distance, travelling at 6.5 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
    },
    "tags": [
     {
@@ -262,7 +194,7 @@
       "pl": "Karta obiektu w bazie JPL",
       "en": "Object record in the JPL database"
      },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2465824"
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2474158"
     },
     {
      "label": {
@@ -278,13 +210,13 @@
     "en": "NASA NeoWs / CNEOS"
    },
    "source_id": "neows",
-   "added_on": "2026-09-04",
+   "added_on": "2026-09-12",
    "extra": {
-    "miss_distance_km": 7757386,
-    "lunar_distances": 20.18,
+    "miss_distance_km": 19854160,
+    "lunar_distances": 51.65,
     "diameter_m": [
-     122,
-     273
+     192,
+     429
     ],
     "hazardous": true
    },
@@ -991,8 +923,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-09-18T00:00:00Z",
-   "updated_on": "2026-09-11",
    "poland": {
     "visible": false
    }
