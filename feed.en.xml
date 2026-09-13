@@ -4,7 +4,17 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 13 Sep 2026 15:02:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 20:46:00 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
+    <guid isPermaLink="false">ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</guid>
+    <pubDate>Sun, 13 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
+
+Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Asteroid 2014 FD7 passes by</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3666471-2026-09-19</link>
@@ -316,13 +326,5 @@
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;05.07.2027, 15:37 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earth is at its farthest from the Sun this year: 152.1 million km. The difference between perihelion and aphelion is about 5 million km – and it is not what causes the seasons; the tilt of Earth's axis is.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-07-04-c589c9b6</link>
-    <guid isPermaLink="false">now-2027-07-04-c589c9b6</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;04.07.2027, 03:08 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Gemini. Distance from Earth: 358,206 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
