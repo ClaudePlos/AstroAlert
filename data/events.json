@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T20:30:43Z",
+ "generated_at": "2026-09-13T10:32:48Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -50,27 +50,27 @@
   }
  ],
  "apod": {
-  "title": "Apollo 11: Catching Some Sun",
-  "date": "2026-09-12",
-  "image": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg",
+  "title": "Comet NEOWISE Rising over the Adriatic Sea",
+  "date": "2026-09-13",
+  "image": "",
+  "hdimage": null,
   "credit": {
-   "pl": "NASA / domena publiczna",
-   "en": "NASA / public domain"
+   "pl": "Paolo Girotti",
+   "en": "Paolo Girotti"
   },
-  "explanation": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260912.html"
+  "explanation": "This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System intruder that has become known as the Great Comet of 2020.  The resulting video detailed Comet NEOWISE from Italy rising over the Adriatic Sea. The featured time-lapse video combines over 240 images taken over 30 minutes.  The comet was seen rising through a foreground of bright and undulating noctilucent clouds, and before a background of distant stars.  Comet NEOWISE remained unexpectedly bright for over a month, with its ion and dust tails found to emanate from a nucleus spanning about five kilometers across.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260913.html"
  },
  "stats": {
   "total": 146,
-  "upcoming": 144,
+  "upcoming": 145,
   "poland": 34,
   "new_today": 1,
   "by_category": {
    "sky": 115,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -158,70 +158,6 @@
      "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
      "en": "Moonless nights over Poland – the best chance of a truly dark sky."
     }
-   }
-  },
-  {
-   "id": "neo-2474158-2026-09-12",
-   "title": {
-    "pl": "Przelot planetoidy 474158 (1999 FA)",
-    "en": "Asteroid 474158 (1999 FA) passes by"
-   },
-   "starts_at": "2026-09-12T17:35:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 192–429 m minie Ziemię w odległości 19,85 mln km, czyli 51,6 odległości Ziemia–Księżyc, z prędkością 6,5 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 192–429 m will pass Earth at 19.85 million km, or 51.6 times the Earth–Moon distance, travelling at 6.5 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2474158"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-12",
-   "extra": {
-    "miss_distance_km": 19854160,
-    "lunar_distances": 51.65,
-    "diameter_m": [
-     192,
-     429
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -452,7 +388,7 @@
    "source_id": "neows",
    "added_on": "2026-09-08",
    "extra": {
-    "miss_distance_km": 20160858,
+    "miss_distance_km": 20160853,
     "lunar_distances": 52.45,
     "diameter_m": [
      291,
@@ -1164,6 +1100,66 @@
    "added_on": "2026-09-11",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3666471-2026-09-19",
+   "title": {
+    "pl": "Przelot planetoidy 2014 FD7",
+    "en": "Asteroid 2014 FD7 passes by"
+   },
+   "starts_at": "2026-09-19T17:10:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 134–301 m minie Ziemię w odległości 25,38 mln km, czyli 66,0 odległości Ziemia–Księżyc, z prędkością 8,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 134–301 m will pass Earth at 25.38 million km, or 66.0 times the Earth–Moon distance, travelling at 8.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666471"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-13",
+   "extra": {
+    "miss_distance_km": 25377526,
+    "lunar_distances": 66.02,
+    "diameter_m": [
+     134,
+     301
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
