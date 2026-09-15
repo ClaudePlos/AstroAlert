@@ -4,7 +4,39 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 14 Sep 2026 21:46:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 10:21:26 +0000</lastBuildDate>
+  <item>
+    <title>Saturn at opposition</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#opozycja-saturna-2027-10-18-6474b436</link>
+    <guid isPermaLink="false">opozycja-saturna-2027-10-18-6474b436</guid>
+    <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;18.10.2027, 00:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Saturn lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 8.35 au (1,249 million km; its light takes 69 minutes to reach us). The planet is in Pisces. Even a small telescope will show the rings.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-67213393-7983-4c06-8b44-b8c785a5ed79</link>
+    <guid isPermaLink="false">ll2-67213393-7983-4c06-8b44-b8c785a5ed79</guid>
+    <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/67213393-7983-4c06-8b44-b8c785a5ed79/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon Heavy | NROL-97</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-4651fd8a-43de-4166-bf8f-c168b3bd1d2c</link>
+    <guid isPermaLink="false">ll2-4651fd8a-43de-4166-bf8f-c168b3bd1d2c</guid>
+    <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Classified payload for the US National Reconnaissance Office Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2018 PL23 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3826834-2026-09-22</link>
+    <guid isPermaLink="false">neo-3826834-2026-09-22</guid>
+    <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.09.2026, 02:11 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 282–631 m will pass Earth at 26.28 million km, or 68.4 times the Earth–Moon distance, travelling at 22.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3826834&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
@@ -14,14 +46,6 @@
     <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
 
 Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 2014 FD7 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3666471-2026-09-19</link>
-    <guid isPermaLink="false">neo-3666471-2026-09-19</guid>
-    <pubDate>Sun, 13 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;19.09.2026, 17:10 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 134–301 m will pass Earth at 25.38 million km, or 66.0 times the Earth–Moon distance, travelling at 8.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666471&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Full Moon</title>
@@ -62,14 +86,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;17.09.2026, 02:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Kuaizhou 11, operated by ExPace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Zhuque-2E Block 2 | Unknown Payload</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-de446468-057f-4c9d-a6a1-af99c93b541e</link>
-    <guid isPermaLink="false">ll2-de446468-057f-4c9d-a6a1-af99c93b541e</guid>
-    <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;15.09.2026, 06:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Zhuque-2E Block 2, operated by LandSpace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Possibly launch of a batch of SpaceSail LEO communication satellites. Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/de446468-057f-4c9d-a6a1-af99c93b541e/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Conjunction of Mercury and Venus</title>
@@ -310,21 +326,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;10.07.2027, 18:36 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Virgo. Distance from Earth: 380,772 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>The Moon meets Jupiter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90</link>
-    <guid isPermaLink="false">zblizenie-ksiezyca-i-jowisza-2027-07-07-a7896c90</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;07.07.2027, 01:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon passes just 2.2° from Jupiter – the pair is visible in the evening, after sunset, in Cancer. Binoculars will show its four Galilean moons. A striking naked-eye sight and a rewarding subject for a short telephoto lens.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Earth at aphelion</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#aphelium-ziemi-2027-07-05-b2df2e5e</link>
-    <guid isPermaLink="false">aphelium-ziemi-2027-07-05-b2df2e5e</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;05.07.2027, 15:37 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earth is at its farthest from the Sun this year: 152.1 million km. The difference between perihelion and aphelion is about 5 million km – and it is not what causes the seasons; the tilt of Earth's axis is.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T21:46:50Z",
+ "generated_at": "2026-09-15T10:21:26Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -50,27 +50,27 @@
   }
  ],
  "apod": {
-  "title": "Where Your Elements Came From",
-  "date": "2026-09-14",
-  "image": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg",
+  "title": "A Daytime Eclipse: Moon Occults Venus",
+  "date": "2026-09-15",
+  "image": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg",
   "credit": {
-   "pl": "NASA / domena publiczna",
-   "en": "NASA / public domain"
+   "pl": "Arnaud Mariat",
+   "en": "Arnaud Mariat"
   },
-  "explanation": "The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260914.html"
+  "explanation": "There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance.  Captured in the single featured exposure, both appeared to show a crescent phase.  The Moon's crescent was quite slight -- with only about 10 percent of its face illuminated by the Sun. In contrast, Venus's crescent was more full -- showing about 25 percent illumination. Venus appeared brighter because it is nearer the Sun and because its clouds are more reflective than the dark lunar surface. An occultation of Venus by the Moon is visible to only about 10 percent of the Earth, but in yesterday's event even most of that was experiencing daytime.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260915.html"
  },
  "stats": {
   "total": 146,
   "upcoming": 144,
-  "poland": 34,
-  "new_today": 0,
+  "poland": 35,
+  "new_today": 4,
   "by_category": {
-   "sky": 114,
+   "sky": 115,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -97,69 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "now-2026-09-11-9d0c7d9e",
-   "title": {
-    "pl": "Nów",
-    "en": "New Moon"
-   },
-   "starts_at": "2026-09-11T03:28:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Lwa. Odległość od Ziemi: 376 639 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
-    "en": "The Moon reaches its new phase in Leo. Distance from Earth: 376,639 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Nów",
-     "en": "New Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
-     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
-    }
-   }
-  },
   {
    "id": "zblizenie-ksiezyca-i-wenus-2026-09-14-90027f43",
    "title": {
@@ -223,63 +160,6 @@
    }
   },
   {
-   "id": "ll2-8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-   "title": {
-    "pl": "Vega-C | Sentinel-3C & FLEX",
-    "en": "Vega-C | Sentinel-3C & FLEX"
-   },
-   "starts_at": "2026-09-15T01:21:07Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Vega-C – Avio S.p.A. Miejsce: Guiana Space Centre, French Guiana. Status terminu: potwierdzony. Misja: Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Vega-C, operated by Avio S.p.A. Site: Guiana Space Centre, French Guiana. Schedule status: confirmed. Mission: Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Avio S.p.A",
-     "en": "Avio S.p.A"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/8effc13a-c658-4d2e-9f15-8dba4d7fe2dd/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Guiana Space Centre, French Guiana",
-    "en": "Guiana Space Centre, French Guiana"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-2429584-2026-09-15",
    "title": {
     "pl": "Przelot planetoidy 429584 (2011 EU29)",
@@ -331,70 +211,13 @@
    "source_id": "neows",
    "added_on": "2026-09-08",
    "extra": {
-    "miss_distance_km": 20160853,
+    "miss_distance_km": 20160851,
     "lunar_distances": 52.45,
     "diameter_m": [
      291,
      652
     ],
     "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-de446468-057f-4c9d-a6a1-af99c93b541e",
-   "title": {
-    "pl": "Zhuque-2E Block 2 | Unknown Payload",
-    "en": "Zhuque-2E Block 2 | Unknown Payload"
-   },
-   "starts_at": "2026-09-15T06:25:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Zhuque-2E Block 2 – LandSpace. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Possibly launch of a batch of SpaceSail LEO communication satellites. Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Zhuque-2E Block 2, operated by LandSpace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Possibly launch of a batch of SpaceSail LEO communication satellites. Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "LandSpace",
-     "en": "LandSpace"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/de446468-057f-4c9d-a6a1-af99c93b541e/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-10",
-   "extra": {
-    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -988,66 +811,6 @@
    }
   },
   {
-   "id": "neo-3666471-2026-09-19",
-   "title": {
-    "pl": "Przelot planetoidy 2014 FD7",
-    "en": "Asteroid 2014 FD7 passes by"
-   },
-   "starts_at": "2026-09-19T17:10:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 134–301 m minie Ziemię w odległości 25,38 mln km, czyli 66,0 odległości Ziemia–Księżyc, z prędkością 8,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 134–301 m will pass Earth at 25.38 million km, or 66.0 times the Earth–Moon distance, travelling at 8.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666471"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-13",
-   "extra": {
-    "miss_distance_km": 25377526,
-    "lunar_distances": 66.02,
-    "diameter_m": [
-     134,
-     301
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8",
    "title": {
     "pl": "Falcon 9 Block 5 | Starlink Group 15-27",
@@ -1099,6 +862,70 @@
    "added_on": "2026-09-08",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3826834-2026-09-22",
+   "title": {
+    "pl": "Przelot planetoidy 2018 PL23",
+    "en": "Asteroid 2018 PL23 passes by"
+   },
+   "starts_at": "2026-09-22T02:11:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 282–631 m minie Ziemię w odległości 26,28 mln km, czyli 68,4 odległości Ziemia–Księżyc, z prędkością 22,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 282–631 m will pass Earth at 26.28 million km, or 68.4 times the Earth–Moon distance, travelling at 22.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3826834"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-15",
+   "extra": {
+    "miss_distance_km": 26278603,
+    "lunar_distances": 68.36,
+    "diameter_m": [
+     282,
+     631
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -2947,6 +2774,120 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-13",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-67213393-7983-4c06-8b44-b8c785a5ed79",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
+    "en": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/67213393-7983-4c06-8b44-b8c785a5ed79/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-15",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+   "title": {
+    "pl": "Falcon Heavy | NROL-97",
+    "en": "Falcon Heavy | NROL-97"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Classified payload for the US National Reconnaissance Office Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Classified payload for the US National Reconnaissance Office Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Kennedy Space Center, FL, USA",
+    "en": "Kennedy Space Center, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-15",
    "extra": {
     "status": "To Be Determined"
    },
@@ -9453,6 +9394,67 @@
     },
     "max_altitude": 53.1,
     "best_time": "2027-10-15T22:40:00Z"
+   }
+  },
+  {
+   "id": "opozycja-saturna-2027-10-18-6474b436",
+   "title": {
+    "pl": "Opozycja Saturna",
+    "en": "Saturn at opposition"
+   },
+   "starts_at": "2027-10-18T00:01:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 5,
+   "summary": {
+    "pl": "Saturn znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 8,35 au (1 249 mln km, światło leci stamtąd 69 minut). Planeta jest w gwiazdozbiorze Ryb. Nawet mały teleskop pokaże pierścienie.",
+    "en": "Saturn lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 8.35 au (1,249 million km; its light takes 69 minutes to reach us). The planet is in Pisces. Even a small telescope will show the rings."
+   },
+   "tags": [
+    {
+     "pl": "Saturn",
+     "en": "Saturn"
+    },
+    {
+     "pl": "opozycja",
+     "en": "opposition"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-09-15",
+   "extra": {
+    "distance_au": 8.347,
+    "body": "Saturn"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 45° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 45° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 44.8,
+    "best_time": "2027-10-18T22:30:00Z"
    }
   }
  ]
