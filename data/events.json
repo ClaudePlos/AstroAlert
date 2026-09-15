@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T15:41:18Z",
+ "generated_at": "2026-09-15T21:16:54Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -286,7 +286,7 @@
     "pl": "Falcon 9 Block 5 | USSF-259",
     "en": "Falcon 9 Block 5 | USSF-259"
    },
-   "starts_at": "2026-09-16T01:00:00Z",
+   "starts_at": "2026-09-16T01:29:18Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -333,6 +333,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-09-16T01:00:00Z",
+   "updated_on": "2026-09-15",
    "poland": {
     "visible": false
    }
@@ -942,8 +944,8 @@
    "subcategory": "rocket",
    "importance": 5,
    "summary": {
-    "pl": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin do potwierdzenia. Misja: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Starship V3, operated by SpaceX. Site: SpaceX Starbase, TX, USA. Schedule status: date to be confirmed. Mission: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: potwierdzony. Misja: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.\r\n\r\nThe ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 6 orbits around the planet for nearly 10 hours, with splashdown targeted in the Pacific Ocean west of Chile.\r\n\r\nThe booster’s primary test objective on Flight 14 will be executing a successful launch, ascent, stage separation, boostback burn, and landing burn at an offshore landing point in the Gulf.\r\n\r\nStarship will deliver 26 Starlink V3 satellites to orbit for the first time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Starship V3, operated by SpaceX. Site: SpaceX Starbase, TX, USA. Schedule status: confirmed. Mission: 14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.\r\n\r\nThe ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 6 orbits around the planet for nearly 10 hours, with splashdown targeted in the Pacific Ocean west of Chile.\r\n\r\nThe booster’s primary test objective on Flight 14 will be executing a successful launch, ascent, stage separation, boostback burn, and landing burn at an offshore landing point in the Gulf.\r\n\r\nStarship will deliver 26 Starlink V3 satellites to orbit for the first time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -986,7 +988,7 @@
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
