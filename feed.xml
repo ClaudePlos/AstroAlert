@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 16 Sep 2026 10:14:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 15:32:20 +0000</lastBuildDate>
+  <item>
+    <title>Falcon Heavy | NROL-97</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-4651fd8a-43de-4166-bf8f-c168b3bd1d2c</link>
+    <guid isPermaLink="false">ll2-4651fd8a-43de-4166-bf8f-c168b3bd1d2c</guid>
+    <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Classified payload for the US National Reconnaissance Office Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 719194 (2018 PL23)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2719194-2026-09-22</link>
@@ -43,7 +51,7 @@
     <guid isPermaLink="false">ll2-7330d83b-c478-426c-8859-f9e3a335876d</guid>
     <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;27.09.2026, 11:42 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin do potwierdzenia. Misja: Note: Official USSF designation to be confirmed.
+    <description>&lt;p&gt;&lt;strong&gt;26.09.2026, 11:56 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin do potwierdzenia. Misja: Note: Official USSF designation to be confirmed.
 
 A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/7330d83b-c478-426c-8859-f9e3a335876d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
@@ -320,13 +328,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;15.07.2027, 19:17 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Merkury odsuwa się od Słońca na 21° – to najlepszy w tym sezonie moment na obserwację tej planety nad ranem, tuż przed wschodem Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj jej nisko nad wschodnim horyzontem, w czasie zmierzchu.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Pierwsza kwadra</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pierwsza-kwadra-2027-07-10-90ae02d0</link>
-    <guid isPermaLink="false">pierwsza-kwadra-2027-07-10-90ae02d0</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;10.07.2027, 18:36 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Panny. Odległość od Ziemi: 380 772 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
