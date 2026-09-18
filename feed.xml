@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Thu, 17 Sep 2026 21:18:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 10:00:07 +0000</lastBuildDate>
+  <item>
+    <title>Ostatnia kwadra</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ostatnia-kwadra-2027-10-22-3c903b5c</link>
+    <guid isPermaLink="false">ostatnia-kwadra-2027-10-22-3c903b5c</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Niebo nad nami</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.10.2027, 17:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 370 510 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon Heavy | Griffin Mission One</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</link>
+    <guid isPermaLink="false">ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>SR75 | Flight 2</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</link>
+    <guid isPermaLink="false">ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;05.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety SR75 – HyImpulse. Miejsce: SaxaVord Spaceport. Status terminu: termin wstępny. Misja: Test flight of HyImpulse's SR75 sounding rocket. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/6b89cfc8-8880-4b5b-856c-0e547d45b639/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Maksimum roju Orionidy</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#maksimum-roju-orionidy-2027-10-21-82ac9329</link>
@@ -28,16 +52,6 @@
     <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 05:03 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1b – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Baikonur Cosmodrome, Republic of Kazakhstan. Status terminu: termin do potwierdzenia. Misja: Progress resupply mission to the International Space Station. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb</link>
-    <guid isPermaLink="false">ll2-ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb</guid>
-    <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.09.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1b Fregat-M – Russian Space Forces. Miejsce: Plesetsk Cosmodrome, Russian Federation. Status terminu: termin wstępny. Misja: Note: Launch vehicle and payload identities highly uncertain.
-
-Unknown classified satellite(s) for the Russian military. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 2014 FD7</title>
@@ -312,21 +326,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;30.07.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Łagodne maksimum rozciągnięte na kilka nocy, dobrze widoczne z południa Europy. W maksimum teoretycznie do 25 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Wodnika. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;Kalendarz rojów IMO&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pl.wikipedia.org/wiki/Delta_Akwarydy&quot;&gt;O roju – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Ostatnia kwadra</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ostatnia-kwadra-2027-07-26-d5abb4c8</link>
-    <guid isPermaLink="false">ostatnia-kwadra-2027-07-26-d5abb4c8</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;26.07.2027, 17:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Barana. Odległość od Ziemi: 385 675 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Pełnia w apogeum (mikropełnia)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</link>
-    <guid isPermaLink="false">pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;18.07.2027, 15:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pełni w gwiazdozbiorze Strzelca. Odległość od Ziemi: 405 994 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

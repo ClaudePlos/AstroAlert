@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T21:18:39Z",
+ "generated_at": "2026-09-18T10:00:07Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -50,24 +50,24 @@
   }
  ],
  "apod": {
-  "title": "A Treasure Chest in the Carina Nebula",
-  "date": "2026-09-17",
-  "image": "https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg",
+  "title": "Messier 33: The Triangulum Galaxy",
+  "date": "2026-09-18",
+  "image": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg",
   "credit": {
-   "pl": "ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)",
-   "en": "ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)"
+   "pl": "George Chatzifrantzis",
+   "en": "George Chatzifrantzis"
   },
-  "explanation": "This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pillar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260917.html"
+  "explanation": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260918.html"
  },
  "stats": {
   "total": 147,
-  "upcoming": 146,
+  "upcoming": 147,
   "poland": 36,
-  "new_today": 5,
+  "new_today": 3,
   "by_category": {
-   "sky": 116,
+   "sky": 117,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 5,
@@ -97,68 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "zblizenie-ksiezyca-i-wenus-2026-09-14-90027f43",
-   "title": {
-    "pl": "Zbliżenie Księżyca i Wenus",
-    "en": "The Moon meets Venus"
-   },
-   "starts_at": "2026-09-14T11:35:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc przechodzi w odległości zaledwie 30′ od Wenus – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Wagi. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
-    "en": "The Moon passes just 30′ from Venus – the pair is visible in the evening, after sunset, in Libra. The brightest point in the sky after the Sun and the Moon. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Wenus",
-     "en": "Venus"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 0.51,
-    "bodies": [
-     "Moon",
-     "Venus"
-    ]
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "neo-2260277-2026-09-18",
    "title": {
@@ -1056,8 +994,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-09-22T12:15:00Z",
-   "updated_on": "2026-09-17",
    "poland": {
     "visible": false
    }
@@ -1105,63 +1041,6 @@
    "location": {
     "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
     "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-   "title": {
-    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-    "en": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A"
-   },
-   "starts_at": "2026-09-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
    },
    "source": {
     "pl": "The Space Devs (Launch Library 2)",
@@ -1283,63 +1162,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-   "title": {
-    "pl": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
-    "en": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)"
-   },
-   "starts_at": "2026-09-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Soyuz 2.1b Fregat-M – Russian Space Forces. Miejsce: Plesetsk Cosmodrome, Russian Federation. Status terminu: termin wstępny. Misja: Note: Launch vehicle and payload identities highly uncertain.\r\n\r\nUnknown classified satellite(s) for the Russian military. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Soyuz 2.1b Fregat-M, operated by Russian Space Forces. Site: Plesetsk Cosmodrome, Russian Federation. Schedule status: date to be determined. Mission: Note: Launch vehicle and payload identities highly uncertain.\r\n\r\nUnknown classified satellite(s) for the Russian military. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Russian Space Forces",
-     "en": "Russian Space Forces"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Plesetsk Cosmodrome, Russian Federation",
-    "en": "Plesetsk Cosmodrome, Russian Federation"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-17",
    "extra": {
     "status": "To Be Determined"
    },
@@ -1523,63 +1345,6 @@
    }
   },
   {
-   "id": "ll2-3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-   "title": {
-    "pl": "Themis Demonstrator | T1H-1",
-    "en": "Themis Demonstrator | T1H-1"
-   },
-   "starts_at": "2026-09-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Themis Demonstrator – European Space Agency. Miejsce: Esrange Space Center. Status terminu: termin wstępny. Misja: First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Themis Demonstrator, operated by European Space Agency. Site: Esrange Space Center. Schedule status: date to be determined. Mission: First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "European Space Agency",
-     "en": "European Space Agency"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Esrange Space Center",
-    "en": "Esrange Space Center"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ostatnia-kwadra-2026-10-03-d6c6b798",
    "title": {
     "pl": "Ostatnia kwadra",
@@ -1703,6 +1468,63 @@
     },
     "max_altitude": 39.9,
     "best_time": "2026-10-04T22:30:00Z"
+   }
+  },
+  {
+   "id": "ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639",
+   "title": {
+    "pl": "SR75 | Flight 2",
+    "en": "SR75 | Flight 2"
+   },
+   "starts_at": "2026-10-05T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety SR75 – HyImpulse. Miejsce: SaxaVord Spaceport. Status terminu: termin wstępny. Misja: Test flight of HyImpulse's SR75 sounding rocket. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of SR75, operated by HyImpulse. Site: SaxaVord Spaceport. Schedule status: date to be determined. Mission: Test flight of HyImpulse's SR75 sounding rocket. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "HyImpulse",
+     "en": "HyImpulse"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/6b89cfc8-8880-4b5b-856c-0e547d45b639/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "SaxaVord Spaceport",
+    "en": "SaxaVord Spaceport"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-18",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2665,6 +2487,65 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+    "en": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-09-30T00:00:00Z",
+   "updated_on": "2026-09-18",
    "poland": {
     "visible": false
    }
@@ -3700,6 +3581,67 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-17",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
+   "title": {
+    "pl": "Falcon Heavy | Griffin Mission One",
+    "en": "Falcon Heavy | Griffin Mission One"
+   },
+   "starts_at": "2026-11-30T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Kennedy Space Center, FL, USA",
+    "en": "Kennedy Space Center, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-18",
    "extra": {
     "status": "To Be Determined"
    },
@@ -9541,6 +9483,71 @@
     },
     "max_altitude": 54.0,
     "best_time": "2027-10-22T03:00:00Z"
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2027-10-22-3c903b5c",
+   "title": {
+    "pl": "Ostatnia kwadra",
+    "en": "Last Quarter"
+   },
+   "starts_at": "2027-10-22T17:31:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 370 510 km.",
+    "en": "The Moon reaches last quarter in Gemini. Distance from Earth: 370,510 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Ostatnia kwadra",
+     "en": "Last Quarter"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-09-18",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 58° nad polskim horyzontem.",
+     "en": "The Moon climbs 58° above the Polish horizon."
+    },
+    "max_altitude": 57.7,
+    "best_time": "2027-10-23T04:40:00Z"
    }
   }
  ]

@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 17 Sep 2026 21:18:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 10:00:07 +0000</lastBuildDate>
+  <item>
+    <title>Last Quarter</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-10-22-3c903b5c</link>
+    <guid isPermaLink="false">ostatnia-kwadra-2027-10-22-3c903b5c</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.10.2027, 17:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Gemini. Distance from Earth: 370,510 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon Heavy | Griffin Mission One</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</link>
+    <guid isPermaLink="false">ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>SR75 | Flight 2</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</link>
+    <guid isPermaLink="false">ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;05.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of SR75, operated by HyImpulse. Site: SaxaVord Spaceport. Schedule status: date to be determined. Mission: Test flight of HyImpulse's SR75 sounding rocket. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/6b89cfc8-8880-4b5b-856c-0e547d45b639/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Orionids meteor shower peak</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-orionidy-2027-10-21-82ac9329</link>
@@ -28,16 +52,6 @@
     <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 05:03 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Soyuz 2.1b, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Baikonur Cosmodrome, Republic of Kazakhstan. Schedule status: date to be confirmed. Mission: Progress resupply mission to the International Space Station. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb</link>
-    <guid isPermaLink="false">ll2-ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb</guid>
-    <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.09.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Soyuz 2.1b Fregat-M, operated by Russian Space Forces. Site: Plesetsk Cosmodrome, Russian Federation. Schedule status: date to be determined. Mission: Note: Launch vehicle and payload identities highly uncertain.
-
-Unknown classified satellite(s) for the Russian military. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 2014 FD7 passes by</title>
@@ -312,21 +326,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;30.07.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A gentle maximum spread over several nights, best seen from southern latitudes. At maximum, up to 25 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Aquarius. Conditions are excellent – the Moon will barely interfere. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;IMO meteor shower calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Southern_delta_Aquariids&quot;&gt;About the shower – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Last Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-07-26-d5abb4c8</link>
-    <guid isPermaLink="false">ostatnia-kwadra-2027-07-26-d5abb4c8</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;26.07.2027, 17:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Aries. Distance from Earth: 385,675 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Micromoon – full Moon at apogee</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</link>
-    <guid isPermaLink="false">pelnia-w-apogeum-mikropelnia-2027-07-18-8272f47a</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;18.07.2027, 15:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches full phase in Sagittarius. Distance from Earth: 405,994 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
