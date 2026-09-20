@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T20:35:36Z",
+ "generated_at": "2026-09-20T10:01:01Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -50,27 +50,27 @@
   }
  ],
  "apod": {
-  "title": "A Zodiacal Night",
-  "date": "2026-09-19",
-  "image": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg",
+  "title": "Analemma over the Callanish Stones",
+  "date": "2026-09-20",
+  "image": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg",
   "credit": {
-   "pl": "Neelam and Ajay Talwar",
-   "en": "Neelam and Ajay Talwar"
+   "pl": "Giuseppe Petricca",
+   "en": "Giuseppe Petricca"
   },
-  "explanation": "Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260919.html"
+  "explanation": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. In two days there will be an equinox (\"equal night\"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260920.html"
  },
  "stats": {
   "total": 147,
-  "upcoming": 145,
+  "upcoming": 146,
   "poland": 36,
-  "new_today": 7,
+  "new_today": 3,
   "by_category": {
    "sky": 116,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -163,18 +163,18 @@
    }
   },
   {
-   "id": "neo-3666471-2026-09-19",
+   "id": "neo-3708359-2026-09-21",
    "title": {
-    "pl": "Przelot planetoidy 2014 FD7",
-    "en": "Asteroid 2014 FD7 passes by"
+    "pl": "Przelot planetoidy 2015 BK509",
+    "en": "Asteroid 2015 BK509 passes by"
    },
-   "starts_at": "2026-09-19T17:10:00Z",
+   "starts_at": "2026-09-21T08:06:00Z",
    "category": "asteroid",
    "subcategory": "close-approach",
    "importance": 2,
    "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 134–301 m minie Ziemię w odległości 25,38 mln km, czyli 66,0 odległości Ziemia–Księżyc, z prędkością 8,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 134–301 m will pass Earth at 25.38 million km, or 66.0 times the Earth–Moon distance, travelling at 8.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+    "pl": "Planetoida o średnicy szacowanej na 90–200 m minie Ziemię w odległości 22,32 mln km, czyli 58,1 odległości Ziemia–Księżyc, z prędkością 18,1 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 90–200 m will pass Earth at 22.32 million km, or 58.1 times the Earth–Moon distance, travelling at 18.1 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
    },
    "tags": [
     {
@@ -192,7 +192,7 @@
       "pl": "Karta obiektu w bazie JPL",
       "en": "Object record in the JPL database"
      },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666471"
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3708359"
     },
     {
      "label": {
@@ -208,129 +208,15 @@
     "en": "NASA NeoWs / CNEOS"
    },
    "source_id": "neows",
-   "added_on": "2026-09-17",
+   "added_on": "2026-09-20",
    "extra": {
-    "miss_distance_km": 25377526,
-    "lunar_distances": 66.02,
+    "miss_distance_km": 22323572,
+    "lunar_distances": 58.07,
     "diameter_m": [
-     134,
-     301
+     90,
+     200
     ],
     "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-d1471f9d-e9d0-4146-8e97-90863e48bfc8",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-27",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-27"
-   },
-   "starts_at": "2026-09-20T01:47:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/d1471f9d-e9d0-4146-8e97-90863e48bfc8/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-08",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-5af31461-bce5-4cfb-a0ee-b527cf285d90",
-   "title": {
-    "pl": "Kinetica 1 | Unknown Payload",
-    "en": "Kinetica 1 | Unknown Payload"
-   },
-   "starts_at": "2026-09-20T04:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Kinetica 1 – CAS Space. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Kinetica 1, operated by CAS Space. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "CAS Space",
-     "en": "CAS Space"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/5af31461-bce5-4cfb-a0ee-b527cf285d90/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-16",
-   "extra": {
-    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -452,7 +338,7 @@
    "source_id": "neows",
    "added_on": "2026-09-16",
    "extra": {
-    "miss_distance_km": 26278582,
+    "miss_distance_km": 26278603,
     "lunar_distances": 68.36,
     "diameter_m": [
      282,
@@ -739,7 +625,7 @@
    "source_id": "neows",
    "added_on": "2026-09-19",
    "extra": {
-    "miss_distance_km": 19724692,
+    "miss_distance_km": 19724643,
     "lunar_distances": 51.31,
     "diameter_m": [
      318,
@@ -1056,18 +942,18 @@
    }
   },
   {
-   "id": "ll2-dc570565-4dcf-4ab9-8174-bf88efef477f",
+   "id": "ll2-97c6f5e1-299e-4652-b72d-9618ac047076",
    "title": {
-    "pl": "Long March 12A | Flight 2",
-    "en": "Long March 12A | Flight 2"
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-25",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-25"
    },
-   "starts_at": "2026-09-30T00:00:00Z",
+   "starts_at": "2026-09-30T14:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
-   "importance": 2,
+   "importance": 1,
    "summary": {
-    "pl": "Start rakiety Long March 12A – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 12A, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: date to be determined. Mission: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1075,8 +961,8 @@
      "en": "rocket launch"
     },
     {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
+     "pl": "SpaceX",
+     "en": "SpaceX"
     }
    ],
    "links": [
@@ -1085,7 +971,7 @@
       "pl": "Szczegóły misji",
       "en": "Mission details"
      },
-     "url": "https://thespacedevs.com/2.3.0/launches/dc570565-4dcf-4ab9-8174-bf88efef477f/"
+     "url": "https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/"
     },
     {
      "label": {
@@ -1096,78 +982,17 @@
     }
    ],
    "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
    },
    "source": {
     "pl": "The Space Devs (Launch Library 2)",
     "en": "The Space Devs (Launch Library 2)"
    },
    "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
+   "added_on": "2026-09-20",
    "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-ef9850ad-1096-425b-9d27-f7bbd186e61a",
-   "title": {
-    "pl": "Vulcan VC6L | Amazon Leo (LV-01)",
-    "en": "Vulcan VC6L | Amazon Leo (LV-01)"
-   },
-   "starts_at": "2026-09-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety Vulcan VC6L – United Launch Alliance. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Vulcan VC6L, operated by United Launch Alliance. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "United Launch Alliance",
-     "en": "United Launch Alliance"
-    },
-    {
-     "pl": "nowa rakieta",
-     "en": "new rocket"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/ef9850ad-1096-425b-9d27-f7bbd186e61a/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Cape Canaveral SFS, FL, USA",
-    "en": "Cape Canaveral SFS, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
+    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -2430,6 +2255,128 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-dc570565-4dcf-4ab9-8174-bf88efef477f",
+   "title": {
+    "pl": "Long March 12A | Flight 2",
+    "en": "Long March 12A | Flight 2"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 12A – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 12A, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: date to be determined. Mission: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/dc570565-4dcf-4ab9-8174-bf88efef477f/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-09-30T00:00:00Z",
+   "updated_on": "2026-09-20",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-ef9850ad-1096-425b-9d27-f7bbd186e61a",
+   "title": {
+    "pl": "Vulcan VC6L | Amazon Leo (LV-01)",
+    "en": "Vulcan VC6L | Amazon Leo (LV-01)"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Vulcan VC6L – United Launch Alliance. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Vulcan VC6L, operated by United Launch Alliance. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "United Launch Alliance",
+     "en": "United Launch Alliance"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/ef9850ad-1096-425b-9d27-f7bbd186e61a/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-09-30T00:00:00Z",
+   "updated_on": "2026-09-20",
    "poland": {
     "visible": false
    }
@@ -4319,6 +4266,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+    "en": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-20",
    "extra": {
     "status": "To Be Determined"
    },
