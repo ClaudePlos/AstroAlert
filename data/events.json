@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T21:56:39Z",
+ "generated_at": "2026-09-22T10:14:49Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 117
+   "count": 116
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "id": "neows",
@@ -50,27 +50,27 @@
   }
  ],
  "apod": {
-  "title": "Cocoon Nebula Wide Field",
-  "date": "2026-09-21",
-  "image": "https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg",
+  "title": "Chance Triple Alignment: Plane, Space Station, Sun",
+  "date": "2026-09-22",
+  "image": "https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg",
   "credit": {
-   "pl": "Piotr Czerski",
-   "en": "Piotr Czerski"
+   "pl": "Petr Horalek /\nInst. Physics Opava",
+   "en": "Petr Horalek /\nInst. Physics Opava"
   },
-  "explanation": "When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the lower right, with a long trail of interstellar dust clouds to the left, making the entire complex appear a bit like a comet.  Cataloged as IC 5146, the central bright head of the nebula spans about 10 light years, while the dark dusty tail spans nearly 100 light years.  Both are located about 2,500 light years away.  A bright star near the colorful nebula's center likely supplies power and helps clear out a cavity.  The long dusty filaments of the tail, although dark in this visible light image, hide stars in the process of formation. The featured image was captured in July from Death Valley, California, USA.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260921.html"
+  "explanation": "This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the International Space Station (ISS), the small dark structure on the middle left.  This is because the featured picture was planned with sub-second timing to record the iconic structure passing before the Sun.  It is the airplane.  Just as this exposure was taking place in June, from Prasek in the Czech Republic, an airplane began its own miniature partial eclipse.  The result is this triply aligned image of our Sun.  The photographer estimates that the chance of any random Sun image containing silhouettes of both a space station and an airplane, from that location, is about 30 million to one.    APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260922.html"
  },
  "stats": {
   "total": 147,
-  "upcoming": 146,
+  "upcoming": 145,
   "poland": 36,
   "new_today": 2,
   "by_category": {
    "sky": 116,
    "launch": 25,
-   "spaceweather": 0,
-   "asteroid": 5,
+   "spaceweather": 1,
+   "asteroid": 3,
    "mission": 0
   }
  },
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "pierwsza-kwadra-2026-09-18-371117b4",
-   "title": {
-    "pl": "Pierwsza kwadra",
-    "en": "First Quarter"
-   },
-   "starts_at": "2026-09-18T20:45:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 1,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 404 638 km.",
-    "en": "The Moon reaches first quarter in Scorpius. Distance from Earth: 404,638 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Pierwsza kwadra",
-     "en": "First Quarter"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 9° nad polskim horyzontem.",
-     "en": "The Moon climbs 9° above the Polish horizon."
-    },
-    "max_altitude": 9.2,
-    "best_time": "2026-09-18T17:30:00Z"
-   }
-  },
   {
    "id": "neo-3826834-2026-09-22",
    "title": {
@@ -404,6 +339,75 @@
    }
   },
   {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-09-24-ef774731",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-09-24T03:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-09-22",
+   "extra": {
+    "kp": 5.33
+   },
+   "ephemeral": true,
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-aed67837-b567-43e0-8071-c3ccc24aa496",
    "title": {
     "pl": "Long March 6A | Unknown Payload",
@@ -565,7 +569,7 @@
    "source_id": "neows",
    "added_on": "2026-09-19",
    "extra": {
-    "miss_distance_km": 19724643,
+    "miss_distance_km": 19724629,
     "lunar_distances": 51.31,
     "diameter_m": [
      318,
@@ -761,70 +765,6 @@
    }
   },
   {
-   "id": "neo-3773752-2026-09-28",
-   "title": {
-    "pl": "Przelot planetoidy 2017 GK4",
-    "en": "Asteroid 2017 GK4 passes by"
-   },
-   "starts_at": "2026-09-28T00:38:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 117–261 m minie Ziemię w odległości 18,42 mln km, czyli 47,9 odległości Ziemia–Księżyc, z prędkością 12,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 117–261 m will pass Earth at 18.42 million km, or 47.9 times the Earth–Moon distance, travelling at 12.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3773752"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-21",
-   "extra": {
-    "miss_distance_km": 18423686,
-    "lunar_distances": 47.93,
-    "diameter_m": [
-     117,
-     261
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
    "title": {
     "pl": "Starship | Starlink Group 31-1 (Starship Flight 14)",
@@ -950,57 +890,64 @@
    }
   },
   {
-   "id": "ll2-97c6f5e1-299e-4652-b72d-9618ac047076",
+   "id": "neo-2138971-2026-09-29",
    "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-25",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-25"
+    "pl": "Przelot planetoidy 138971 (2001 CB21)",
+    "en": "Asteroid 138971 (2001 CB21) passes by"
    },
-   "starts_at": "2026-09-30T16:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
+   "starts_at": "2026-09-29T07:18:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Planetoida o średnicy szacowanej na 521–1 164 m minie Ziemię w odległości 8,10 mln km, czyli 21,1 odległości Ziemia–Księżyc, z prędkością 10,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 521–1,164 m will pass Earth at 8.10 million km, or 21.1 times the Earth–Moon distance, travelling at 10.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
    },
    "tags": [
     {
-     "pl": "start rakiety",
-     "en": "rocket launch"
+     "pl": "planetoida",
+     "en": "asteroid"
     },
     {
-     "pl": "SpaceX",
-     "en": "SpaceX"
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
     }
    ],
    "links": [
     {
      "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
      },
-     "url": "https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/"
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2138971"
     },
     {
      "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
      },
-     "url": "https://spacelaunchnow.me/"
+     "url": "https://cneos.jpl.nasa.gov/ca/"
     }
    ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
+   "location": null,
    "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
    },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-20",
+   "source_id": "neows",
+   "added_on": "2026-09-22",
    "extra": {
-    "status": "Go for Launch"
+    "miss_distance_km": 8096702,
+    "lunar_distances": 21.06,
+    "diameter_m": [
+     521,
+     1164
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -1120,8 +1067,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-10-31T00:00:00Z",
-   "updated_on": "2026-09-21",
    "poland": {
     "visible": false
    }
@@ -1704,6 +1649,65 @@
      "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
      "en": "Moonless nights over Poland – the best chance of a truly dark sky."
     }
+   }
+  },
+  {
+   "id": "ll2-97c6f5e1-299e-4652-b72d-9618ac047076",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-25",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-25"
+   },
+   "starts_at": "2026-10-10T16:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-20",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-09-30T16:00:00Z",
+   "updated_on": "2026-09-22",
+   "poland": {
+    "visible": false
    }
   },
   {
