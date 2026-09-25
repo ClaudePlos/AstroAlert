@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T21:28:19Z",
+ "generated_at": "2026-09-25T10:28:01Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 116
+   "count": 117
   },
   {
    "id": "launchlibrary",
@@ -50,24 +50,24 @@
   }
  ],
  "apod": {
-  "title": "The Ghosts of Five Supernovas",
-  "date": "2026-09-24",
-  "image": "https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg",
+  "title": "Globular Cluster Omega Centauri",
+  "date": "2026-09-25",
+  "image": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra.jpg",
   "credit": {
-   "pl": "Stephane Vetter, Yann Sainty\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)",
-   "en": "Stephane Vetter, Yann Sainty\n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)"
+   "pl": "Javier O. Cadenas Parra",
+   "en": "Javier O. Cadenas Parra"
   },
-  "explanation": "The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the Charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260924.html"
+  "explanation": "Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260925.html"
  },
  "stats": {
-  "total": 146,
-  "upcoming": 145,
+  "total": 147,
+  "upcoming": 146,
   "poland": 35,
-  "new_today": 5,
+  "new_today": 1,
   "by_category": {
-   "sky": 115,
+   "sky": 116,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 5,
@@ -159,7 +159,7 @@
     "pl": "Electron | Owlright, Owlright, Owlright (StriX Launch 13)",
     "en": "Electron | Owlright, Owlright, Owlright (StriX Launch 13)"
    },
-   "starts_at": "2026-09-26T00:15:00Z",
+   "starts_at": "2026-09-26T00:26:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -206,6 +206,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-09-26T00:15:00Z",
+   "updated_on": "2026-09-25",
    "poland": {
     "visible": false
    }
@@ -815,7 +817,7 @@
    "source_id": "neows",
    "added_on": "2026-09-24",
    "extra": {
-    "miss_distance_km": 28345941,
+    "miss_distance_km": 28345943,
     "lunar_distances": 73.74,
     "diameter_m": [
      338,
@@ -833,13 +835,13 @@
     "pl": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
     "en": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)"
    },
-   "starts_at": "2026-10-01T18:08:00Z",
+   "starts_at": "2026-10-01T18:18:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin do potwierdzenia. Misja: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be confirmed. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -878,8 +880,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-09-15",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-01T18:08:00Z",
+   "updated_on": "2026-09-25",
    "poland": {
     "visible": false
    }
@@ -9485,6 +9489,69 @@
     },
     "max_altitude": 57.7,
     "best_time": "2027-10-23T04:40:00Z"
+   }
+  },
+  {
+   "id": "now-2027-10-29-b4548d51",
+   "title": {
+    "pl": "Nów",
+    "en": "New Moon"
+   },
+   "starts_at": "2027-10-29T13:35:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Wagi. Odległość od Ziemi: 377 230 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+    "en": "The Moon reaches its new phase in Libra. Distance from Earth: 377,230 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Nów",
+     "en": "New Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-09-25",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
    }
   }
  ]
