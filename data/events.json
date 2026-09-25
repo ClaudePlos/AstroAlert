@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T10:28:01Z",
+ "generated_at": "2026-09-25T15:55:18Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -206,8 +206,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-09-26T00:15:00Z",
-   "updated_on": "2026-09-25",
    "poland": {
     "visible": false
    }
@@ -339,7 +337,7 @@
     "pl": "Falcon 9 Block 5 | USSF-385",
     "en": "Falcon 9 Block 5 | USSF-385"
    },
-   "starts_at": "2026-09-26T11:56:00Z",
+   "starts_at": "2026-09-26T12:56:13Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -386,6 +384,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-09-26T11:56:00Z",
+   "updated_on": "2026-09-25",
    "poland": {
     "visible": false
    }
@@ -882,8 +882,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-01T18:08:00Z",
-   "updated_on": "2026-09-25",
    "poland": {
     "visible": false
    }
@@ -1262,67 +1260,6 @@
     },
     "max_altitude": 32.0,
     "best_time": "2026-10-07T04:10:00Z"
-   }
-  },
-  {
-   "id": "ll2-7bdc412b-c965-4517-a131-f57a01189803",
-   "title": {
-    "pl": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-    "en": "Ariane 64 Block 2 | Amazon Leo (LE-04)"
-   },
-   "starts_at": "2026-10-07T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety Ariane 64 Block 2 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Ariane 64 Block 2, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Arianespace",
-     "en": "Arianespace"
-    },
-    {
-     "pl": "nowa rakieta",
-     "en": "new rocket"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/7bdc412b-c965-4517-a131-f57a01189803/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Guiana Space Centre, French Guiana",
-    "en": "Guiana Space Centre, French Guiana"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -2025,6 +1962,69 @@
     },
     "max_altitude": 58.9,
     "best_time": "2026-10-26T23:00:00Z"
+   }
+  },
+  {
+   "id": "ll2-7bdc412b-c965-4517-a131-f57a01189803",
+   "title": {
+    "pl": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+    "en": "Ariane 64 Block 2 | Amazon Leo (LE-04)"
+   },
+   "starts_at": "2026-10-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Ariane 64 Block 2 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Ariane 64 Block 2, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Arianespace",
+     "en": "Arianespace"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/7bdc412b-c965-4517-a131-f57a01189803/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Guiana Space Centre, French Guiana",
+    "en": "Guiana Space Centre, French Guiana"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-10-07T00:00:00Z",
+   "updated_on": "2026-09-25",
+   "poland": {
+    "visible": false
    }
   },
   {
