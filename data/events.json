@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T15:05:47Z",
+ "generated_at": "2026-09-26T21:05:26Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,11 +63,11 @@
  },
  "stats": {
   "total": 147,
-  "upcoming": 144,
+  "upcoming": 143,
   "poland": 34,
   "new_today": 3,
   "by_category": {
-   "sky": 115,
+   "sky": 114,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 4,
