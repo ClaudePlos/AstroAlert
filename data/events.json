@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T21:18:22Z",
+ "generated_at": "2026-09-28T11:55:16Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -50,27 +50,27 @@
   }
  ],
  "apod": {
-  "title": "Andromeda before Photoshop",
-  "date": "2026-09-27",
-  "image": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg",
-  "hdimage": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg",
+  "title": "Cosmic Latte: The Average Color of the Universe",
+  "date": "2026-09-28",
+  "image": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg",
+  "hdimage": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal during 2019.  Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels.  These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight.  All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.   APOD's email for image submissions has changed. Please see: APOD Submissions APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-  "link": "https://apod.nasa.gov/apod/ap260927.html"
+  "explanation": "What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   APOD's email for image submissions has changed. Please see: APOD Submissions  Tomorrow: APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+  "link": "https://apod.nasa.gov/apod/ap260928.html"
  },
  "stats": {
   "total": 146,
-  "upcoming": 144,
+  "upcoming": 143,
   "poland": 34,
   "new_today": 1,
   "by_category": {
    "sky": 114,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -293,7 +293,7 @@
     "pl": "Starship | Starlink Group 31-1 (Starship Flight 14)",
     "en": "Starship | Starlink Group 31-1 (Starship Flight 14)"
    },
-   "starts_at": "2026-09-28T12:15:00Z",
+   "starts_at": "2026-09-28T12:48:59Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
@@ -344,6 +344,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-09-28T12:15:00Z",
+   "updated_on": "2026-09-28",
    "poland": {
     "visible": false
    }
@@ -585,7 +587,7 @@
    "source_id": "neows",
    "added_on": "2026-09-24",
    "extra": {
-    "miss_distance_km": 28345944,
+    "miss_distance_km": 28345947,
     "lunar_distances": 73.74,
     "diameter_m": [
      338,
@@ -706,66 +708,6 @@
    "added_on": "2026-09-16",
    "extra": {
     "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-2276891-2026-10-02",
-   "title": {
-    "pl": "Przelot planetoidy 276891 (2004 RH340)",
-    "en": "Asteroid 276891 (2004 RH340) passes by"
-   },
-   "starts_at": "2026-10-02T10:15:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 330–738 m minie Ziemię w odległości 54,30 mln km, czyli 141,3 odległości Ziemia–Księżyc, z prędkością 17,3 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 330–738 m will pass Earth at 54.30 million km, or 141.3 times the Earth–Moon distance, travelling at 17.3 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2276891"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-27",
-   "extra": {
-    "miss_distance_km": 54297103,
-    "lunar_distances": 141.25,
-    "diameter_m": [
-     330,
-     738
-    ],
-    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -949,6 +891,66 @@
    "added_on": "2026-09-18",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3092342-2026-10-05",
+   "title": {
+    "pl": "Przelot planetoidy 2001 SH276",
+    "en": "Asteroid 2001 SH276 passes by"
+   },
+   "starts_at": "2026-10-05T03:48:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 307–686 m minie Ziemię w odległości 20,91 mln km, czyli 54,4 odległości Ziemia–Księżyc, z prędkością 10,8 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 307–686 m will pass Earth at 20.91 million km, or 54.4 times the Earth–Moon distance, travelling at 10.8 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3092342"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-28",
+   "extra": {
+    "miss_distance_km": 20913691,
+    "lunar_distances": 54.41,
+    "diameter_m": [
+     307,
+     686
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
