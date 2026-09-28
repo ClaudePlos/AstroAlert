@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Mon, 28 Sep 2026 11:55:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 18:43:18 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Telesat Lightspeed 1</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-ce1317de-ec94-4479-9b28-38ebf11f13ae</link>
+    <guid isPermaLink="false">ll2-ce1317de-ec94-4479-9b28-38ebf11f13ae</guid>
+    <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/ce1317de-ec94-4479-9b28-38ebf11f13ae/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 2001 SH276</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3092342-2026-10-05</link>
@@ -320,13 +328,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;17.08.2027, 07:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pełni w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 405 116 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Półcieniowe zaćmienie Księżyca</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</link>
-    <guid isPermaLink="false">polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.08.2027, 07:14 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Delikatne przygaśnięcie tarczy Księżyca w półcieniu Ziemi.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eclipse.gsfc.nasa.gov/eclipse.html&quot;&gt;Szczegóły i mapa widoczności (NASA)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

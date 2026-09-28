@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 28 Sep 2026 11:55:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 18:43:18 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Telesat Lightspeed 1</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-ce1317de-ec94-4479-9b28-38ebf11f13ae</link>
+    <guid isPermaLink="false">ll2-ce1317de-ec94-4479-9b28-38ebf11f13ae</guid>
+    <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/ce1317de-ec94-4479-9b28-38ebf11f13ae/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Asteroid 2001 SH276 passes by</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3092342-2026-10-05</link>
@@ -320,13 +328,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;17.08.2027, 07:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches full phase in Capricornus. Distance from Earth: 405,116 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Penumbral lunar eclipse</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</link>
-    <guid isPermaLink="false">polcieniowe-zacmienie-ksiezyca-2027-08-17-697c3a9c</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.08.2027, 07:14 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A gentle dimming of the lunar disc as it grazes Earth's penumbra.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eclipse.gsfc.nasa.gov/eclipse.html&quot;&gt;Details and visibility map (NASA)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
