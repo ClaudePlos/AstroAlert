@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T11:31:14Z",
+ "generated_at": "2026-09-29T17:01:20Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -1458,13 +1458,13 @@
     "pl": "GSLV Mk II | IRNSS-1L (NVS-03)",
     "en": "GSLV Mk II | IRNSS-1L (NVS-03)"
    },
-   "starts_at": "2026-10-15T00:00:00Z",
+   "starts_at": "2026-10-13T17:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin do potwierdzenia. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1503,8 +1503,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-09-23",
    "extra": {
-    "status": "To Be Determined"
+    "status": "To Be Confirmed"
    },
+   "rescheduled_from": "2026-10-15T00:00:00Z",
+   "updated_on": "2026-09-29",
    "poland": {
     "visible": false
    }
