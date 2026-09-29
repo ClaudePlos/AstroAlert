@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T17:01:20Z",
+ "generated_at": "2026-09-29T22:11:34Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -1505,8 +1505,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-10-15T00:00:00Z",
-   "updated_on": "2026-09-29",
    "poland": {
     "visible": false
    }
