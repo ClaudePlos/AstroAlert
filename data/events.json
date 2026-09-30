@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T22:11:34Z",
+ "generated_at": "2026-09-30T11:19:11Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 116
+   "count": 114
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap260929.html"
  },
  "stats": {
-  "total": 146,
-  "upcoming": 143,
+  "total": 144,
+  "upcoming": 144,
   "poland": 34,
   "new_today": 2,
   "by_category": {
    "sky": 114,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,196 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "opozycja-neptuna-2026-09-26-956c2101",
-   "title": {
-    "pl": "Opozycja Neptuna",
-    "en": "Neptune at opposition"
-   },
-   "starts_at": "2026-09-26T01:21:00Z",
-   "category": "sky",
-   "subcategory": "opposition",
-   "importance": 3,
-   "summary": {
-    "pl": "Neptun znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 28,86 au (4 318 mln km, światło leci stamtąd 240 minut). Planeta jest w gwiazdozbiorze Ryb. Wyłącznie przez teleskop.",
-    "en": "Neptune lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 28.86 au (4,318 million km; its light takes 240 minutes to reach us). The planet is in Pisces. A telescope target only."
-   },
-   "tags": [
-    {
-     "pl": "Neptun",
-     "en": "Neptune"
-    },
-    {
-     "pl": "opozycja",
-     "en": "opposition"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "distance_au": 28.862,
-    "body": "Neptune"
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Planeta góruje 38° nad polskim horyzontem – warunki są dobre.",
-     "en": "The planet culminates 38° above the Polish horizon – conditions are good."
-    },
-    "max_altitude": 37.9,
-    "best_time": "2026-09-26T22:30:00Z"
-   }
-  },
-  {
-   "id": "pelnia-ksiezyca-2026-09-26-16bc7967",
-   "title": {
-    "pl": "Pełnia Księżyca",
-    "en": "Full Moon"
-   },
-   "starts_at": "2026-09-26T16:53:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę pełni w gwiazdozbiorze Ryb. Odległość od Ziemi: 379 866 km.",
-    "en": "The Moon reaches full phase in Pisces. Distance from Earth: 379,866 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Pełnia Księżyca",
-     "en": "Full Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 44° nad polskim horyzontem.",
-     "en": "The Moon climbs 44° above the Polish horizon."
-    },
-    "max_altitude": 44.0,
-    "best_time": "2026-09-26T22:40:00Z"
-   }
-  },
-  {
-   "id": "neo-2138971-2026-09-29",
-   "title": {
-    "pl": "Przelot planetoidy 138971 (2001 CB21)",
-    "en": "Asteroid 138971 (2001 CB21) passes by"
-   },
-   "starts_at": "2026-09-29T07:18:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 521–1 164 m minie Ziemię w odległości 8,10 mln km, czyli 21,1 odległości Ziemia–Księżyc, z prędkością 10,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 521–1,164 m will pass Earth at 8.10 million km, or 21.1 times the Earth–Moon distance, travelling at 10.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2138971"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-24",
-   "extra": {
-    "miss_distance_km": 8096701,
-    "lunar_distances": 21.06,
-    "diameter_m": [
-     521,
-     1164
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "ll2-18441371-8b2e-457c-afb5-1ec1b11ab630",
    "title": {
@@ -396,7 +206,7 @@
    "source_id": "neows",
    "added_on": "2026-09-24",
    "extra": {
-    "miss_distance_km": 28345947,
+    "miss_distance_km": 28345945,
     "lunar_distances": 73.74,
     "diameter_m": [
      338,
@@ -1136,6 +946,66 @@
    }
   },
   {
+   "id": "neo-3713998-2026-10-07",
+   "title": {
+    "pl": "Przelot planetoidy 2015 FD35",
+    "en": "Asteroid 2015 FD35 passes by"
+   },
+   "starts_at": "2026-10-07T19:14:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 192–429 m minie Ziemię w odległości 27,27 mln km, czyli 70,9 odległości Ziemia–Księżyc, z prędkością 17,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 192–429 m will pass Earth at 27.27 million km, or 70.9 times the Earth–Moon distance, travelling at 17.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3713998"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-09-30",
+   "extra": {
+    "miss_distance_km": 27269809,
+    "lunar_distances": 70.94,
+    "diameter_m": [
+     192,
+     429
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "maksimum-roju-drakonidy-2026-10-08-f4ad3161",
    "title": {
     "pl": "Maksimum roju Drakonidy",
@@ -1213,6 +1083,63 @@
     },
     "max_altitude": 69.2,
     "best_time": "2026-10-08T17:20:00Z"
+   }
+  },
+  {
+   "id": "ll2-a1bb0984-19d4-4b47-9bba-706d225573e2",
+   "title": {
+    "pl": "Long March 12 | Unknown Payload",
+    "en": "Long March 12 | Unknown Payload"
+   },
+   "starts_at": "2026-10-09T19:25:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/a1bb0984-19d4-4b47-9bba-706d225573e2/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Wenchang Space Launch Site, People's Republic of China",
+    "en": "Wenchang Space Launch Site, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-30",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -4137,63 +4064,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-19",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
-   "title": {
-    "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
-    "en": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-23",
    "extra": {
     "status": "To Be Determined"
    },

@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 29 Sep 2026 22:11:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 11:19:11 +0000</lastBuildDate>
+  <item>
+    <title>Long March 12 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-a1bb0984-19d4-4b47-9bba-706d225573e2</link>
+    <guid isPermaLink="false">ll2-a1bb0984-19d4-4b47-9bba-706d225573e2</guid>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;09.10.2026, 19:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a1bb0984-19d4-4b47-9bba-706d225573e2/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2015 FD35 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3713998-2026-10-07</link>
+    <guid isPermaLink="false">neo-3713998-2026-10-07</guid>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.10.2026, 19:14 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 192–429 m will pass Earth at 27.27 million km, or 70.9 times the Earth–Moon distance, travelling at 17.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3713998&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Asteroid 2007 UW1 passes by</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3389195-2026-10-05</link>
@@ -78,22 +94,6 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
     <description>&lt;p&gt;&lt;strong&gt;01.10.2026, 15:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 338–755 m will pass Earth at 28.35 million km, or 73.7 times the Earth–Moon distance, travelling at 18.8 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2499496&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 138971 (2001 CB21) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2138971-2026-09-29</link>
-    <guid isPermaLink="false">neo-2138971-2026-09-29</guid>
-    <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;29.09.2026, 07:18 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 521–1,164 m will pass Earth at 8.10 million km, or 21.1 times the Earth–Moon distance, travelling at 10.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2138971&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
-    <guid isPermaLink="false">ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</guid>
-    <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>GSLV Mk II | IRNSS-1L (NVS-03)</title>

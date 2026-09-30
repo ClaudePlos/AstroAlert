@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Tue, 29 Sep 2026 22:11:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 11:19:11 +0000</lastBuildDate>
+  <item>
+    <title>Long March 12 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-a1bb0984-19d4-4b47-9bba-706d225573e2</link>
+    <guid isPermaLink="false">ll2-a1bb0984-19d4-4b47-9bba-706d225573e2</guid>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;09.10.2026, 19:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a1bb0984-19d4-4b47-9bba-706d225573e2/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Przelot planetoidy 2015 FD35</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3713998-2026-10-07</link>
+    <guid isPermaLink="false">neo-3713998-2026-10-07</guid>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.10.2026, 19:14 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 192–429 m minie Ziemię w odległości 27,27 mln km, czyli 70,9 odległości Ziemia–Księżyc, z prędkością 17,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3713998&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 2007 UW1</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3389195-2026-10-05</link>
@@ -78,22 +94,6 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
     <category>Planetoidy</category>
     <description>&lt;p&gt;&lt;strong&gt;01.10.2026, 15:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 338–755 m minie Ziemię w odległości 28,35 mln km, czyli 73,7 odległości Ziemia–Księżyc, z prędkością 18,8 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2499496&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Przelot planetoidy 138971 (2001 CB21)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2138971-2026-09-29</link>
-    <guid isPermaLink="false">neo-2138971-2026-09-29</guid>
-    <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;29.09.2026, 07:18 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 521–1 164 m minie Ziemię w odległości 8,10 mln km, czyli 21,1 odległości Ziemia–Księżyc, z prędkością 10,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2138971&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
-    <guid isPermaLink="false">ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</guid>
-    <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>GSLV Mk II | IRNSS-1L (NVS-03)</title>
