@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T11:46:05Z",
+ "generated_at": "2026-10-01T17:29:20Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 145,
-  "upcoming": 145,
+  "upcoming": 144,
   "poland": 34,
-  "new_today": 2,
+  "new_today": 3,
   "by_category": {
    "sky": 114,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 6,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,67 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "ll2-18441371-8b2e-457c-afb5-1ec1b11ab630",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Crew-13",
-    "en": "Falcon 9 Block 5 | Crew-13"
-   },
-   "starts_at": "2026-10-01T15:10:06Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 5,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: potwierdzony. Misja: SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    },
-    {
-     "pl": "załoga",
-     "en": "crewed"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Cape Canaveral SFS, FL, USA",
-    "en": "Cape Canaveral SFS, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "neo-2499496-2026-10-01",
    "title": {
@@ -224,7 +163,7 @@
     "pl": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
     "en": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)"
    },
-   "starts_at": "2026-10-01T18:18:00Z",
+   "starts_at": "2026-10-01T18:32:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -271,6 +210,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-01T18:18:00Z",
+   "updated_on": "2026-10-01",
    "poland": {
     "visible": false
    }
@@ -652,7 +593,7 @@
     "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
     "en": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A"
    },
-   "starts_at": "2026-10-05T08:16:00Z",
+   "starts_at": "2026-10-05T08:17:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -1261,8 +1202,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-10T16:00:00Z",
-   "updated_on": "2026-10-01",
    "poland": {
     "visible": false
    }
@@ -2991,67 +2930,6 @@
    }
   },
   {
-   "id": "ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
-   "title": {
-    "pl": "Falcon Heavy | Griffin Mission One",
-    "en": "Falcon Heavy | Griffin Mission One"
-   },
-   "starts_at": "2026-11-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    },
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Kennedy Space Center, FL, USA",
-    "en": "Kennedy Space Center, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-19",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-7c891a0b-7194-4425-8cfd-2e8c75af2924",
    "title": {
     "pl": "HANBIT-Nano | InnoSat-0",
@@ -4129,6 +4007,126 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-ce1317de-ec94-4479-9b28-38ebf11f13ae",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Telesat Lightspeed 1",
+    "en": "Falcon 9 Block 5 | Telesat Lightspeed 1"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/ce1317de-ec94-4479-9b28-38ebf11f13ae/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-01",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
+   "title": {
+    "pl": "Falcon Heavy | Griffin Mission One",
+    "en": "Falcon Heavy | Griffin Mission One"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Kennedy Space Center, FL, USA",
+    "en": "Kennedy Space Center, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-30T00:00:00Z",
+   "updated_on": "2026-10-01",
    "poland": {
     "visible": false
    }
