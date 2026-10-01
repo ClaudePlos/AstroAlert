@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 01 Oct 2026 17:29:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 22:38:13 +0000</lastBuildDate>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
@@ -22,12 +22,28 @@
     <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/ce1317de-ec94-4479-9b28-38ebf11f13ae/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
+    <title>LVM-3 | GSAT-32 (GSAT-N3)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</link>
+    <guid isPermaLink="false">ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</guid>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
     <title>Close approach of asteroid 2015 TS238</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3730801-2026-10-08</link>
     <guid isPermaLink="false">neo-3730801-2026-10-08</guid>
     <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
     <description>&lt;p&gt;&lt;strong&gt;08.10.2026, 17:12 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 22–49 m will pass Earth at 1.81 million km, or 4.7 times the Earth–Moon distance, travelling at 15.8 km/s. For scale: comparable in size to the Tunguska object of 1908. This is one of the closer approaches of the week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3730801&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>G1 geomagnetic storm – chance of aurora</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-02-bbef5ba7</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-02-bbef5ba7</guid>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Space weather</category>
+    <description>&lt;p&gt;&lt;strong&gt;02.10.2026, 18:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Long March 12 | Unknown Payload</title>
@@ -67,7 +83,7 @@
     <guid isPermaLink="false">ll2-07e945c1-2ec6-4d29-a500-1afbe920440f</guid>
     <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Atlas V N22, operated by United Launch Alliance. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission last year. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Atlas V N22, operated by United Launch Alliance. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 2001 SH276 passes by</title>
@@ -125,7 +141,7 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <guid isPermaLink="false">ll2-20d5676e-111b-40e3-8923-b218c3665ca2</guid>
     <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;13.10.2026, 17:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/20d5676e-111b-40e3-8923-b218c3665ca2/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/20d5676e-111b-40e3-8923-b218c3665ca2/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | Starlink Group 15-25</title>
@@ -216,20 +232,12 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <description>&lt;p&gt;&lt;strong&gt;18.10.2027, 00:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Saturn lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 8.35 au (1,249 million km; its light takes 69 minutes to reach us). The planet is in Pisces. Even a small telescope will show the rings.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-67213393-7983-4c06-8b44-b8c785a5ed79</link>
-    <guid isPermaLink="false">ll2-67213393-7983-4c06-8b44-b8c785a5ed79</guid>
-    <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;01.10.2026, 18:32 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/67213393-7983-4c06-8b44-b8c785a5ed79/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
     <guid isPermaLink="false">ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</guid>
     <pubDate>Sun, 13 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
+    <description>&lt;p&gt;&lt;strong&gt;13.10.2026, 10:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be confirmed. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
 
 Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
@@ -320,13 +328,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;07.09.2027, 18:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Scorpius. Distance from Earth: 395,565 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-08-31-94729d76</link>
-    <guid isPermaLink="false">now-2027-08-31-94729d76</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.08.2027, 17:40 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Leo. Distance from Earth: 359,845 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
