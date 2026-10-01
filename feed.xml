@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 30 Sep 2026 22:11:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 11:46:05 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
+    <guid isPermaLink="false">ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</guid>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Bliski przelot planetoidy 2015 TS238</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3730801-2026-10-08</link>
+    <guid isPermaLink="false">neo-3730801-2026-10-08</guid>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;08.10.2026, 17:12 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 22–49 m minie Ziemię w odległości 1,81 mln km, czyli 4,7 odległości Ziemia–Księżyc, z prędkością 15,8 km/s. Dla skali: rozmiarami przypomina obiekt tunguski z 1908 roku. To jedno z bliższych zbliżeń w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3730801&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Long March 12 | Unknown Payload</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-a1bb0984-19d4-4b47-9bba-706d225573e2</link>
@@ -109,7 +125,7 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <guid isPermaLink="false">ll2-97c6f5e1-299e-4652-b72d-9618ac047076</guid>
     <pubDate>Sun, 20 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 16:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 23:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | Cygnus CRS-2 NG-25</title>
@@ -150,14 +166,6 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;22.10.2027, 17:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 370 510 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>SR75 | Flight 2</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</link>
-    <guid isPermaLink="false">ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</guid>
-    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;05.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety SR75 – HyImpulse. Miejsce: SaxaVord Spaceport. Status terminu: termin wstępny. Misja: Test flight of HyImpulse's SR75 sounding rocket. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/6b89cfc8-8880-4b5b-856c-0e547d45b639/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Maksimum roju Orionidy</title>
@@ -320,13 +328,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;25.08.2027, 02:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Byka. Odległość od Ziemi: 378 825 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Pełnia w apogeum (mikropełnia)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</link>
-    <guid isPermaLink="false">pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.08.2027, 07:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pełni w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 405 116 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

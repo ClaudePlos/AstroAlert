@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T22:11:41Z",
+ "generated_at": "2026-10-01T11:46:05Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -46,31 +46,31 @@
     "en": "Asteroids (NASA NeoWs)"
    },
    "status": "ok",
-   "count": 5
+   "count": 6
   }
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen directly below the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: a harvest\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap260930.html"
+  "explanation": "Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261001.html"
  },
  "stats": {
-  "total": 144,
-  "upcoming": 144,
+  "total": 145,
+  "upcoming": 145,
   "poland": 34,
   "new_today": 2,
   "by_category": {
    "sky": 114,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 6,
    "mission": 0
   }
  },
@@ -516,63 +516,6 @@
     },
     "max_altitude": 39.9,
     "best_time": "2026-10-04T22:30:00Z"
-   }
-  },
-  {
-   "id": "ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639",
-   "title": {
-    "pl": "SR75 | Flight 2",
-    "en": "SR75 | Flight 2"
-   },
-   "starts_at": "2026-10-05T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety SR75 – HyImpulse. Miejsce: SaxaVord Spaceport. Status terminu: termin wstępny. Misja: Test flight of HyImpulse's SR75 sounding rocket. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of SR75, operated by HyImpulse. Site: SaxaVord Spaceport. Schedule status: date to be determined. Mission: Test flight of HyImpulse's SR75 sounding rocket. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "HyImpulse",
-     "en": "HyImpulse"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/6b89cfc8-8880-4b5b-856c-0e547d45b639/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "SaxaVord Spaceport",
-    "en": "SaxaVord Spaceport"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-18",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -1086,6 +1029,66 @@
    }
   },
   {
+   "id": "neo-3730801-2026-10-08",
+   "title": {
+    "pl": "Bliski przelot planetoidy 2015 TS238",
+    "en": "Close approach of asteroid 2015 TS238"
+   },
+   "starts_at": "2026-10-08T17:12:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 22–49 m minie Ziemię w odległości 1,81 mln km, czyli 4,7 odległości Ziemia–Księżyc, z prędkością 15,8 km/s. Dla skali: rozmiarami przypomina obiekt tunguski z 1908 roku. To jedno z bliższych zbliżeń w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 22–49 m will pass Earth at 1.81 million km, or 4.7 times the Earth–Moon distance, travelling at 15.8 km/s. For scale: comparable in size to the Tunguska object of 1908. This is one of the closer approaches of the week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3730801"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-01",
+   "extra": {
+    "miss_distance_km": 1813910,
+    "lunar_distances": 4.72,
+    "diameter_m": [
+     22,
+     49
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-a1bb0984-19d4-4b47-9bba-706d225573e2",
    "title": {
     "pl": "Long March 12 | Unknown Payload",
@@ -1211,7 +1214,7 @@
     "pl": "Falcon 9 Block 5 | Starlink Group 15-25",
     "en": "Falcon 9 Block 5 | Starlink Group 15-25"
    },
-   "starts_at": "2026-10-10T16:00:00Z",
+   "starts_at": "2026-10-10T23:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
@@ -1258,6 +1261,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-10T16:00:00Z",
+   "updated_on": "2026-10-01",
    "poland": {
     "visible": false
    }
@@ -4064,6 +4069,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+    "en": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-01",
    "extra": {
     "status": "To Be Determined"
    },

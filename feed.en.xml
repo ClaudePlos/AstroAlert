@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 30 Sep 2026 22:11:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 11:46:05 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
+    <guid isPermaLink="false">ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</guid>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Close approach of asteroid 2015 TS238</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3730801-2026-10-08</link>
+    <guid isPermaLink="false">neo-3730801-2026-10-08</guid>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;08.10.2026, 17:12 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 22–49 m will pass Earth at 1.81 million km, or 4.7 times the Earth–Moon distance, travelling at 15.8 km/s. For scale: comparable in size to the Tunguska object of 1908. This is one of the closer approaches of the week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3730801&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Long March 12 | Unknown Payload</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-a1bb0984-19d4-4b47-9bba-706d225573e2</link>
@@ -109,7 +125,7 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <guid isPermaLink="false">ll2-97c6f5e1-299e-4652-b72d-9618ac047076</guid>
     <pubDate>Sun, 20 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 16:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 23:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/97c6f5e1-299e-4652-b72d-9618ac047076/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | Cygnus CRS-2 NG-25</title>
@@ -150,14 +166,6 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;22.10.2027, 17:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Gemini. Distance from Earth: 370,510 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>SR75 | Flight 2</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</link>
-    <guid isPermaLink="false">ll2-6b89cfc8-8880-4b5b-856c-0e547d45b639</guid>
-    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;05.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of SR75, operated by HyImpulse. Site: SaxaVord Spaceport. Schedule status: date to be determined. Mission: Test flight of HyImpulse's SR75 sounding rocket. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/6b89cfc8-8880-4b5b-856c-0e547d45b639/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Orionids meteor shower peak</title>
@@ -320,13 +328,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;25.08.2027, 02:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Taurus. Distance from Earth: 378,825 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Micromoon – full Moon at apogee</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</link>
-    <guid isPermaLink="false">pelnia-w-apogeum-mikropelnia-2027-08-17-bd1295b7</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.08.2027, 07:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches full phase in Capricornus. Distance from Earth: 405,116 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
