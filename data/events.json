@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T22:38:13Z",
+ "generated_at": "2026-10-02T11:16:27Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 115
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 1
+   "count": 0
   },
   {
    "id": "neows",
@@ -64,12 +64,12 @@
  "stats": {
   "total": 146,
   "upcoming": 145,
-  "poland": 34,
-  "new_today": 5,
+  "poland": 35,
+  "new_today": 4,
   "by_category": {
-   "sky": 114,
+   "sky": 115,
    "launch": 25,
-   "spaceweather": 1,
+   "spaceweather": 0,
    "asteroid": 5,
    "mission": 0
   }
@@ -97,123 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-2499496-2026-10-01",
-   "title": {
-    "pl": "Przelot planetoidy 499496 (2010 MR87)",
-    "en": "Asteroid 499496 (2010 MR87) passes by"
-   },
-   "starts_at": "2026-10-01T15:58:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 338–755 m minie Ziemię w odległości 28,35 mln km, czyli 73,7 odległości Ziemia–Księżyc, z prędkością 18,8 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 338–755 m will pass Earth at 28.35 million km, or 73.7 times the Earth–Moon distance, travelling at 18.8 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2499496"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-24",
-   "extra": {
-    "miss_distance_km": 28345945,
-    "lunar_distances": 73.74,
-    "diameter_m": [
-     338,
-     755
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
-   "title": {
-    "pl": "Falcon Heavy | NROL-97",
-    "en": "Falcon Heavy | NROL-97"
-   },
-   "starts_at": "2026-10-02T03:53:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: potwierdzony. Misja: Classified payload for the US National Reconnaissance Office. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: confirmed. Mission: Classified payload for the US National Reconnaissance Office. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Kennedy Space Center, FL, USA",
-    "en": "Kennedy Space Center, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-16",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "neo-2276891-2026-10-02",
    "title": {
@@ -270,75 +153,6 @@
     ],
     "hazardous": false
    },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-02-bbef5ba7",
-   "title": {
-    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
-    "en": "G1 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-10-02T18:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 3,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G1",
-     "en": "G1"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-10-01",
-   "extra": {
-    "kp": 5.0
-   },
-   "ephemeral": true,
    "poland": {
     "visible": false
    }
@@ -1097,6 +911,66 @@
    }
   },
   {
+   "id": "neo-3158140-2026-10-09",
+   "title": {
+    "pl": "Przelot planetoidy 2003 QF70",
+    "en": "Asteroid 2003 QF70 passes by"
+   },
+   "starts_at": "2026-10-09T20:03:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 262–586 m minie Ziemię w odległości 46,79 mln km, czyli 121,7 odległości Ziemia–Księżyc, z prędkością 6,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 262–586 m will pass Earth at 46.79 million km, or 121.7 times the Earth–Moon distance, travelling at 6.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3158140"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-02",
+   "extra": {
+    "miss_distance_km": 46792545,
+    "lunar_distances": 121.73,
+    "diameter_m": [
+     262,
+     586
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "now-2026-10-10-7329a8f9",
    "title": {
     "pl": "Nów",
@@ -1390,8 +1264,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-10-31T00:00:00Z",
-   "updated_on": "2026-10-01",
    "poland": {
     "visible": false
    }
@@ -1838,8 +1710,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-10-13T17:00:00Z",
-   "updated_on": "2026-10-01",
    "poland": {
     "visible": false
    }
@@ -2936,63 +2806,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-17",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-7c891a0b-7194-4425-8cfd-2e8c75af2924",
-   "title": {
-    "pl": "HANBIT-Nano | InnoSat-0",
-    "en": "HANBIT-Nano | InnoSat-0"
-   },
-   "starts_at": "2026-11-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety HANBIT-Nano – Innospace. Miejsce: Alcântara Space Center, Federative Republic of Brazil. Status terminu: termin wstępny. Misja: Innospace's first in-house test satellite, 'InnoSat-0', will test various technologies for future development of satellites by Innospace themselves. The satellite will be deployed using Korean company SpaceBey’s specialized deployer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of HANBIT-Nano, operated by Innospace. Site: Alcântara Space Center, Federative Republic of Brazil. Schedule status: date to be determined. Mission: Innospace's first in-house test satellite, 'InnoSat-0', will test various technologies for future development of satellites by Innospace themselves. The satellite will be deployed using Korean company SpaceBey’s specialized deployer. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Innospace",
-     "en": "Innospace"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/7c891a0b-7194-4425-8cfd-2e8c75af2924/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Alcântara Space Center, Federative Republic of Brazil",
-    "en": "Alcântara Space Center, Federative Republic of Brazil"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-19",
    "extra": {
     "status": "To Be Determined"
    },
@@ -4193,6 +4006,124 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-01",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-0b85fcca-5252-48d7-9ccb-c10b1da9d183",
+   "title": {
+    "pl": "Ariane 62 | Galileo L15 (FOC FM28 & FM31)",
+    "en": "Ariane 62 | Galileo L15 (FOC FM28 & FM31)"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Ariane 62 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Payload consists of two satellites for Europe's Galileo navigation system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Ariane 62, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Payload consists of two satellites for Europe's Galileo navigation system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Arianespace",
+     "en": "Arianespace"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/0b85fcca-5252-48d7-9ccb-c10b1da9d183/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Guiana Space Centre, French Guiana",
+    "en": "Guiana Space Centre, French Guiana"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-02",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+   "title": {
+    "pl": "Falcon 9 Block 5 | CHORUS",
+    "en": "Falcon 9 Block 5 | CHORUS"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-02",
    "extra": {
     "status": "To Be Determined"
    },
@@ -9483,6 +9414,86 @@
      "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
      "en": "Moonless nights over Poland – the best chance of a truly dark sky."
     }
+   }
+  },
+  {
+   "id": "maksimum-roju-taurydy-poludniowe-2027-11-05-39b94649",
+   "title": {
+    "pl": "Maksimum roju Taurydy Południowe",
+    "en": "Southern Taurids meteor shower peak"
+   },
+   "starts_at": "2027-11-05T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": {
+    "pl": "Niewiele meteorów, ale za to wyjątkowo dużo bolidów – powolnych i bardzo jasnych kul ognia. W maksimum teoretycznie do 5 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Byka. Księżyc oświetlony w 38% nieco rozjaśni niebo. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.",
+    "en": "Few meteors, but an unusual share of fireballs – slow, very bright and worth the wait. At maximum, up to 5 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Taurus. A Moon 38% illuminated will brighten the sky a little. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights."
+   },
+   "tags": [
+    {
+     "pl": "meteory",
+     "en": "meteors"
+    },
+    {
+     "pl": "Taurydy Południowe",
+     "en": "Southern Taurids"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Kalendarz rojów IMO",
+      "en": "IMO meteor shower calendar"
+     },
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": {
+      "pl": "O roju – Wikipedia",
+      "en": "About the shower – Wikipedia"
+     },
+     "url": {
+      "pl": "https://pl.wikipedia.org/wiki/Taurydy",
+      "en": "https://en.wikipedia.org/wiki/Taurids"
+     }
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-02",
+   "extra": {
+    "zhr": 5,
+    "moon_illumination": 0.38,
+    "radiant_ra": 3.53,
+    "radiant_dec": 14
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 52° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 52° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 52.0,
+    "best_time": "2027-11-05T23:10:00Z"
    }
   }
  ]
