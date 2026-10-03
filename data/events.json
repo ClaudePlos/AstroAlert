@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T22:09:49Z",
+ "generated_at": "2026-10-03T10:32:58Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 115
+   "count": 117
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261002.html"
  },
  "stats": {
-  "total": 146,
-  "upcoming": 145,
-  "poland": 35,
+  "total": 148,
+  "upcoming": 148,
+  "poland": 36,
   "new_today": 4,
   "by_category": {
-   "sky": 115,
+   "sky": 117,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 6,
    "mission": 0
   }
  },
@@ -97,66 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-2276891-2026-10-02",
-   "title": {
-    "pl": "Przelot planetoidy 276891 (2004 RH340)",
-    "en": "Asteroid 276891 (2004 RH340) passes by"
-   },
-   "starts_at": "2026-10-02T10:15:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 330–738 m minie Ziemię w odległości 54,30 mln km, czyli 141,3 odległości Ziemia–Księżyc, z prędkością 17,3 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 330–738 m will pass Earth at 54.30 million km, or 141.3 times the Earth–Moon distance, travelling at 17.3 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2276891"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-29",
-   "extra": {
-    "miss_distance_km": 54297103,
-    "lunar_distances": 141.25,
-    "diameter_m": [
-     330,
-     738
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "ostatnia-kwadra-2026-10-03-d6c6b798",
    "title": {
@@ -911,18 +851,82 @@
    }
   },
   {
-   "id": "neo-3158140-2026-10-09",
+   "id": "neo-3989242-2026-10-10",
    "title": {
-    "pl": "Przelot planetoidy 2003 QF70",
-    "en": "Asteroid 2003 QF70 passes by"
+    "pl": "Przelot planetoidy 2020 BN10",
+    "en": "Asteroid 2020 BN10 passes by"
    },
-   "starts_at": "2026-10-09T20:03:00Z",
+   "starts_at": "2026-10-10T07:08:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 168–377 m minie Ziemię w odległości 22,35 mln km, czyli 58,1 odległości Ziemia–Księżyc, z prędkością 18,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 168–377 m will pass Earth at 22.35 million km, or 58.1 times the Earth–Moon distance, travelling at 18.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3989242"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-03",
+   "extra": {
+    "miss_distance_km": 22350835,
+    "lunar_distances": 58.14,
+    "diameter_m": [
+     168,
+     377
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3648318-2026-10-10",
+   "title": {
+    "pl": "Przelot planetoidy 2013 RX80",
+    "en": "Asteroid 2013 RX80 passes by"
+   },
+   "starts_at": "2026-10-10T10:50:00Z",
    "category": "asteroid",
    "subcategory": "close-approach",
    "importance": 3,
    "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 262–586 m minie Ziemię w odległości 46,79 mln km, czyli 121,7 odległości Ziemia–Księżyc, z prędkością 6,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 262–586 m will pass Earth at 46.79 million km, or 121.7 times the Earth–Moon distance, travelling at 6.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+    "pl": "Planetoida o średnicy szacowanej na 668–1 493 m minie Ziemię w odległości 36,11 mln km, czyli 93,9 odległości Ziemia–Księżyc, z prędkością 25,8 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 668–1,493 m will pass Earth at 36.11 million km, or 93.9 times the Earth–Moon distance, travelling at 25.8 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
    },
    "tags": [
     {
@@ -940,7 +944,7 @@
       "pl": "Karta obiektu w bazie JPL",
       "en": "Object record in the JPL database"
      },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3158140"
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3648318"
     },
     {
      "label": {
@@ -956,13 +960,13 @@
     "en": "NASA NeoWs / CNEOS"
    },
    "source_id": "neows",
-   "added_on": "2026-10-02",
+   "added_on": "2026-10-03",
    "extra": {
-    "miss_distance_km": 46792545,
-    "lunar_distances": 121.73,
+    "miss_distance_km": 36110935,
+    "lunar_distances": 93.94,
     "diameter_m": [
-     262,
-     586
+     668,
+     1493
     ],
     "hazardous": false
    },
@@ -9417,6 +9421,67 @@
    }
   },
   {
+   "id": "maksymalna-elongacja-merkurego-zachodnia-19-2027-11-04-fc6eef9a",
+   "title": {
+    "pl": "Maksymalna elongacja Merkurego (zachodnia, 19°)",
+    "en": "Greatest western elongation of Mercury (19°)"
+   },
+   "starts_at": "2027-11-04T08:45:00Z",
+   "category": "sky",
+   "subcategory": "elongation",
+   "importance": 4,
+   "summary": {
+    "pl": "Merkury odsuwa się od Słońca na 19° – to najlepszy w tym sezonie moment na obserwację tej planety nad ranem, tuż przed wschodem Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj jej nisko nad wschodnim horyzontem, w czasie zmierzchu.",
+    "en": "Mercury stands 19° from the Sun – the best chance this season to catch the planet in the morning, just before sunrise. The hardest planet to catch – it never strays far from the Sun. Look for it low above the eastern horizon during twilight."
+   },
+   "tags": [
+    {
+     "pl": "Merkury",
+     "en": "Mercury"
+    },
+    {
+     "pl": "elongacja",
+     "en": "elongation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-03",
+   "extra": {
+    "elongation_deg": 18.8,
+    "body": "Mercury"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Z Polski planeta wznosi się 14° nad horyzont w czasie zmierzchu.",
+     "en": "From Poland the planet reaches 14° above the horizon during twilight."
+    },
+    "max_altitude": 13.8,
+    "best_time": "2027-11-05T05:30:00Z"
+   }
+  },
+  {
    "id": "maksimum-roju-taurydy-poludniowe-2027-11-05-39b94649",
    "title": {
     "pl": "Maksimum roju Taurydy Południowe",
@@ -9494,6 +9559,71 @@
     },
     "max_altitude": 52.0,
     "best_time": "2027-11-05T23:10:00Z"
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-11-06-a62bd25a",
+   "title": {
+    "pl": "Pierwsza kwadra",
+    "en": "First Quarter"
+   },
+   "starts_at": "2027-11-06T08:05:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Koziorożca. Odległość od Ziemi: 404 691 km.",
+    "en": "The Moon reaches first quarter in Capricornus. Distance from Earth: 404,691 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Pierwsza kwadra",
+     "en": "First Quarter"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-03",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 25° nad polskim horyzontem.",
+     "en": "The Moon climbs 25° above the Polish horizon."
+    },
+    "max_altitude": 24.9,
+    "best_time": "2027-11-06T17:10:00Z"
    }
   }
  ]
