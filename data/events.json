@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T15:59:35Z",
+ "generated_at": "2026-10-04T21:19:50Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "id": "neows",
@@ -62,10 +62,10 @@
   "link": "https://apod.nasa.gov/apod/ap261002.html"
  },
  "stats": {
-  "total": 148,
+  "total": 149,
   "upcoming": 146,
   "poland": 35,
-  "new_today": 0,
+  "new_today": 1,
   "by_category": {
    "sky": 115,
    "launch": 25,
@@ -221,6 +221,75 @@
     },
     "max_altitude": 39.9,
     "best_time": "2026-10-04T22:30:00Z"
+   }
+  },
+  {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-04-8f8a9e36",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-10-04T18:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-10-04",
+   "extra": {
+    "kp": 5.67
+   },
+   "ephemeral": true,
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2870,8 +2939,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-12-31T00:00:00Z",
-   "updated_on": "2026-10-04",
    "poland": {
     "visible": false
    }
