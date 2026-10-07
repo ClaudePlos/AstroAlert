@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T22:37:37Z",
+ "generated_at": "2026-10-07T11:56:56Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 117
+   "count": 116
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "id": "neows",
@@ -63,13 +63,13 @@
  },
  "stats": {
   "total": 148,
-  "upcoming": 144,
+  "upcoming": 145,
   "poland": 35,
-  "new_today": 3,
+  "new_today": 6,
   "by_category": {
    "sky": 113,
    "launch": 25,
-   "spaceweather": 0,
+   "spaceweather": 1,
    "asteroid": 6,
    "mission": 0
   }
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "ostatnia-kwadra-2026-10-03-d6c6b798",
-   "title": {
-    "pl": "Ostatnia kwadra",
-    "en": "Last Quarter"
-   },
-   "starts_at": "2026-10-03T13:27:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 1,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 369 962 km.",
-    "en": "The Moon reaches last quarter in Gemini. Distance from Earth: 369,962 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Ostatnia kwadra",
-     "en": "Last Quarter"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 62° nad polskim horyzontem.",
-     "en": "The Moon climbs 62° above the Polish horizon."
-    },
-    "max_altitude": 61.9,
-    "best_time": "2026-10-04T04:10:00Z"
-   }
-  },
   {
    "id": "opozycja-saturna-2026-10-04-57c187e5",
    "title": {
@@ -357,123 +292,6 @@
     },
     "max_altitude": 32.0,
     "best_time": "2026-10-07T04:10:00Z"
-   }
-  },
-  {
-   "id": "ll2-e0741415-6c63-4236-9736-24a6c04485bc",
-   "title": {
-    "pl": "Nuri | NeonSat-2 to 6",
-    "en": "Nuri | NeonSat-2 to 6"
-   },
-   "starts_at": "2026-10-07T03:23:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety KSLV-2 Nuri – Korea Aerospace Research Institute. Miejsce: Naro Space Center, South Korea. Status terminu: potwierdzony. Misja: NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.\r\n\r\n10 ride-sharing small satellites from various Korean institutes and organizations will also fly on this launch:\r\n* SLEDGE\r\n* GBSAT\r\n* PERSAT02\r\n* UEL-Y-Sys\r\n* SD-1 SAT\r\n* E3_TESTER-KARI-2\r\n* DaejonSat-1\r\n* BEE-1012\r\n* JACK-007\r\n* CPSat Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of KSLV-2 Nuri, operated by Korea Aerospace Research Institute. Site: Naro Space Center, South Korea. Schedule status: confirmed. Mission: NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.\r\n\r\n10 ride-sharing small satellites from various Korean institutes and organizations will also fly on this launch:\r\n* SLEDGE\r\n* GBSAT\r\n* PERSAT02\r\n* UEL-Y-Sys\r\n* SD-1 SAT\r\n* E3_TESTER-KARI-2\r\n* DaejonSat-1\r\n* BEE-1012\r\n* JACK-007\r\n* CPSat Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Korea Aerospace Research Institute",
-     "en": "Korea Aerospace Research Institute"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/e0741415-6c63-4236-9736-24a6c04485bc/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Naro Space Center, South Korea",
-    "en": "Naro Space Center, South Korea"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3713998-2026-10-07",
-   "title": {
-    "pl": "Przelot planetoidy 2015 FD35",
-    "en": "Asteroid 2015 FD35 passes by"
-   },
-   "starts_at": "2026-10-07T19:14:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 192–429 m minie Ziemię w odległości 27,27 mln km, czyli 70,9 odległości Ziemia–Księżyc, z prędkością 17,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 192–429 m will pass Earth at 27.27 million km, or 70.9 times the Earth–Moon distance, travelling at 17.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3713998"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-09-30",
-   "extra": {
-    "miss_distance_km": 27269809,
-    "lunar_distances": 70.94,
-    "diameter_m": [
-     192,
-     429
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -674,6 +492,75 @@
    }
   },
   {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-09-6e14f217",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-10-09T09:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-10-07",
+   "extra": {
+    "kp": 5.67
+   },
+   "ephemeral": true,
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-a1bb0984-19d4-4b47-9bba-706d225573e2",
    "title": {
     "pl": "Long March 12 | Unknown Payload",
@@ -725,130 +612,6 @@
    "added_on": "2026-09-30",
    "extra": {
     "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3158140-2026-10-09",
-   "title": {
-    "pl": "Przelot planetoidy 2003 QF70",
-    "en": "Asteroid 2003 QF70 passes by"
-   },
-   "starts_at": "2026-10-09T20:03:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 262–586 m minie Ziemię w odległości 46,79 mln km, czyli 121,7 odległości Ziemia–Księżyc, z prędkością 6,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 262–586 m will pass Earth at 46.79 million km, or 121.7 times the Earth–Moon distance, travelling at 6.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3158140"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-06",
-   "extra": {
-    "miss_distance_km": 46792545,
-    "lunar_distances": 121.73,
-    "diameter_m": [
-     262,
-     586
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3989242-2026-10-10",
-   "title": {
-    "pl": "Przelot planetoidy 2020 BN10",
-    "en": "Asteroid 2020 BN10 passes by"
-   },
-   "starts_at": "2026-10-10T07:08:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 168–377 m minie Ziemię w odległości 22,35 mln km, czyli 58,1 odległości Ziemia–Księżyc, z prędkością 18,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 168–377 m will pass Earth at 22.35 million km, or 58.1 times the Earth–Moon distance, travelling at 18.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3989242"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-03",
-   "extra": {
-    "miss_distance_km": 22350835,
-    "lunar_distances": 58.14,
-    "diameter_m": [
-     168,
-     377
-    ],
-    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -1199,7 +962,7 @@
    "source_id": "neows",
    "added_on": "2026-10-06",
    "extra": {
-    "miss_distance_km": 20334584,
+    "miss_distance_km": 20334583,
     "lunar_distances": 52.9,
     "diameter_m": [
      226,
@@ -1267,6 +1030,194 @@
    "added_on": "2026-09-13",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3762127-2026-10-14",
+   "title": {
+    "pl": "Przelot planetoidy 2016 UZ41",
+    "en": "Asteroid 2016 UZ41 passes by"
+   },
+   "starts_at": "2026-10-14T05:02:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 229–513 m minie Ziemię w odległości 29,80 mln km, czyli 77,5 odległości Ziemia–Księżyc, z prędkością 15,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 229–513 m will pass Earth at 29.80 million km, or 77.5 times the Earth–Moon distance, travelling at 15.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3762127"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-07",
+   "extra": {
+    "miss_distance_km": 29796273,
+    "lunar_distances": 77.51,
+    "diameter_m": [
+     229,
+     513
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3801936-2026-10-14",
+   "title": {
+    "pl": "Przelot planetoidy 2018 EH4",
+    "en": "Asteroid 2018 EH4 passes by"
+   },
+   "starts_at": "2026-10-14T05:49:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 123–275 m minie Ziemię w odległości 8,43 mln km, czyli 21,9 odległości Ziemia–Księżyc, z prędkością 13,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 123–275 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3801936"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-07",
+   "extra": {
+    "miss_distance_km": 8427648,
+    "lunar_distances": 21.92,
+    "diameter_m": [
+     123,
+     275
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-2678976-2026-10-14",
+   "title": {
+    "pl": "Przelot planetoidy 678976 (2018 EH4)",
+    "en": "Asteroid 678976 (2018 EH4) passes by"
+   },
+   "starts_at": "2026-10-14T05:49:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 123–274 m minie Ziemię w odległości 8,43 mln km, czyli 21,9 odległości Ziemia–Księżyc, z prędkością 13,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 123–274 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2678976"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-07",
+   "extra": {
+    "miss_distance_km": 8427723,
+    "lunar_distances": 21.92,
+    "diameter_m": [
+     123,
+     274
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -3725,67 +3676,6 @@
    }
   },
   {
-   "id": "ll2-07e945c1-2ec6-4d29-a500-1afbe920440f",
-   "title": {
-    "pl": "Atlas V N22 | Starliner-1",
-    "en": "Atlas V N22 | Starliner-1"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 5,
-   "summary": {
-    "pl": "Start rakiety Atlas V N22 – United Launch Alliance. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Atlas V N22, operated by United Launch Alliance. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "United Launch Alliance",
-     "en": "United Launch Alliance"
-    },
-    {
-     "pl": "załoga",
-     "en": "crewed"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Cape Canaveral SFS, FL, USA",
-    "en": "Cape Canaveral SFS, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-28",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7",
    "title": {
     "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
@@ -4128,6 +4018,124 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-02",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+   "title": {
+    "pl": "Falcon 9 Block 5 | CHORUS",
+    "en": "Falcon 9 Block 5 | CHORUS"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-07",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-01ca3653-126a-4c01-94fb-a9467b39cdac",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+    "en": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 5,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Inmarsat-7 is the seventh generation of satellites for the London-based global mobile satellite communications operator Inmarsat. The three satellites of the series - GX-7, 8 & 9 - will have an improved fully reconfigurable Ka-band payload for Inmarsat's Global Xpress services. They are optimized for real-time mobility and feature thousands of dynamically-formed beams that direct capacity with laser-like precision over high-demand areas, to provide HTS (High Throughput) broadband connectivity for the mobility market.\r\n\r\nThe satellites will be based on Airbus’ new standard and fully reconfigurable satellite product line OneSat. Fully reconfigurable and featuring on board processing and active antennas, the three Ka-band spacecraft will be able to adjust their coverage, capacity and frequency. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Inmarsat-7 is the seventh generation of satellites for the London-based global mobile satellite communications operator Inmarsat. The three satellites of the series - GX-7, 8 & 9 - will have an improved fully reconfigurable Ka-band payload for Inmarsat's Global Xpress services. They are optimized for real-time mobility and feature thousands of dynamically-formed beams that direct capacity with laser-like precision over high-demand areas, to provide HTS (High Throughput) broadband connectivity for the mobility market.\r\n\r\nThe satellites will be based on Airbus’ new standard and fully reconfigurable satellite product line OneSat. Fully reconfigurable and featuring on board processing and active antennas, the three Ka-band spacecraft will be able to adjust their coverage, capacity and frequency. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "Mars",
+     "en": "Mars"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/01ca3653-126a-4c01-94fb-a9467b39cdac/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-07",
    "extra": {
     "status": "To Be Determined"
    },
