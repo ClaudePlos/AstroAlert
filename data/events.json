@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T23:02:14Z",
+ "generated_at": "2026-10-08T12:11:57Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 116
+   "count": 115
   },
   {
    "id": "launchlibrary",
@@ -62,12 +62,12 @@
   "link": "https://apod.nasa.gov/apod/ap261006.html"
  },
  "stats": {
-  "total": 148,
-  "upcoming": 145,
-  "poland": 35,
-  "new_today": 6,
+  "total": 147,
+  "upcoming": 144,
+  "poland": 34,
+  "new_today": 1,
   "by_category": {
-   "sky": 113,
+   "sky": 112,
    "launch": 25,
    "spaceweather": 1,
    "asteroid": 6,
@@ -97,67 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "opozycja-saturna-2026-10-04-57c187e5",
-   "title": {
-    "pl": "Opozycja Saturna",
-    "en": "Saturn at opposition"
-   },
-   "starts_at": "2026-10-04T11:57:00Z",
-   "category": "sky",
-   "subcategory": "opposition",
-   "importance": 5,
-   "summary": {
-    "pl": "Saturn znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 8,46 au (1 265 mln km, światło leci stamtąd 70 minut). Planeta jest w gwiazdozbiorze Ryb. Nawet mały teleskop pokaże pierścienie.",
-    "en": "Saturn lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 8.46 au (1,265 million km; its light takes 70 minutes to reach us). The planet is in Pisces. Even a small telescope will show the rings."
-   },
-   "tags": [
-    {
-     "pl": "Saturn",
-     "en": "Saturn"
-    },
-    {
-     "pl": "opozycja",
-     "en": "opposition"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "distance_au": 8.457,
-    "body": "Saturn"
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Planeta góruje 40° nad polskim horyzontem – warunki są dobre.",
-     "en": "The planet culminates 40° above the Polish horizon – conditions are good."
-    },
-    "max_altitude": 39.9,
-    "best_time": "2026-10-04T22:30:00Z"
-   }
-  },
   {
    "id": "zblizenie-ksiezyca-i-marsa-2026-10-05-a55f5669",
    "title": {
@@ -435,65 +374,6 @@
    }
   },
   {
-   "id": "ll2-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-   "title": {
-    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-    "en": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A"
-   },
-   "starts_at": "2026-10-09T07:36:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "rescheduled_from": "2026-10-08T07:54:00Z",
-   "updated_on": "2026-10-07",
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-09-6e14f217",
    "title": {
     "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
@@ -615,6 +495,65 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+    "en": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A"
+   },
+   "starts_at": "2026-10-10T07:29:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-08-31",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-10-09T07:36:00Z",
+   "updated_on": "2026-10-08",
    "poland": {
     "visible": false
    }
@@ -795,8 +734,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-10T23:00:00Z",
-   "updated_on": "2026-10-07",
    "poland": {
     "visible": false
    }
@@ -1040,66 +977,6 @@
    }
   },
   {
-   "id": "neo-3762127-2026-10-14",
-   "title": {
-    "pl": "Przelot planetoidy 2016 UZ41",
-    "en": "Asteroid 2016 UZ41 passes by"
-   },
-   "starts_at": "2026-10-14T05:02:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 229–513 m minie Ziemię w odległości 29,80 mln km, czyli 77,5 odległości Ziemia–Księżyc, z prędkością 15,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 229–513 m will pass Earth at 29.80 million km, or 77.5 times the Earth–Moon distance, travelling at 15.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3762127"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-07",
-   "extra": {
-    "miss_distance_km": 29796273,
-    "lunar_distances": 77.51,
-    "diameter_m": [
-     229,
-     513
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-3801936-2026-10-14",
    "title": {
     "pl": "Przelot planetoidy 2018 EH4",
@@ -1222,6 +1099,66 @@
      274
     ],
     "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3471518-2026-10-15",
+   "title": {
+    "pl": "Przelot planetoidy 2009 TK8",
+    "en": "Asteroid 2009 TK8 passes by"
+   },
+   "starts_at": "2026-10-15T02:57:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 246–550 m minie Ziemię w odległości 12,19 mln km, czyli 31,7 odległości Ziemia–Księżyc, z prędkością 14,9 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 246–550 m will pass Earth at 12.19 million km, or 31.7 times the Earth–Moon distance, travelling at 14.9 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3471518"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-08",
+   "extra": {
+    "miss_distance_km": 12187273,
+    "lunar_distances": 31.7,
+    "diameter_m": [
+     246,
+     550
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
