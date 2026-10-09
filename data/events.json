@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T17:32:56Z",
+ "generated_at": "2026-10-09T22:34:58Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 145,
   "upcoming": 143,
   "poland": 34,
-  "new_today": 3,
+  "new_today": 4,
   "by_category": {
    "sky": 112,
    "launch": 25,
@@ -246,63 +246,6 @@
    }
   },
   {
-   "id": "ll2-a1bb0984-19d4-4b47-9bba-706d225573e2",
-   "title": {
-    "pl": "Long March 12 | Unknown Payload",
-    "en": "Long March 12 | Unknown Payload"
-   },
-   "starts_at": "2026-10-09T19:25:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/a1bb0984-19d4-4b47-9bba-706d225573e2/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Wenchang Space Launch Site, People's Republic of China",
-    "en": "Wenchang Space Launch Site, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-30",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
    "title": {
     "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
@@ -355,8 +298,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-10T07:29:00Z",
-   "updated_on": "2026-10-09",
    "poland": {
     "visible": false
    }
@@ -549,8 +490,6 @@
     "kp": 5.67
    },
    "ephemeral": true,
-   "rescheduled_from": "2026-10-11T03:00:00Z",
-   "updated_on": "2026-10-09",
    "poland": {
     "visible": false
    }
@@ -3955,6 +3894,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-07",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-2d0472b9-463d-49c8-afb1-7925e49a3368",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+    "en": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer A is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Tracking Layer A is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/2d0472b9-463d-49c8-afb1-7925e49a3368/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-09",
    "extra": {
     "status": "To Be Determined"
    },
