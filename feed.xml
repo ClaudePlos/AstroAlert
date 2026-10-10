@@ -4,14 +4,20 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Sat, 10 Oct 2026 11:19:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 16:22:56 +0000</lastBuildDate>
   <item>
-    <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-dca8749f-1552-485a-8061-f1ad79055b8d</link>
-    <guid isPermaLink="false">ll2-dca8749f-1552-485a-8061-f1ad79055b8d</guid>
+    <title>New Glenn | Blue Ring-1</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-a5e81552-ecdd-4d89-b6bd-b594e22ca891</link>
+    <guid isPermaLink="false">ll2-a5e81552-ecdd-4d89-b6bd-b594e22ca891</guid>
     <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer C is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/dca8749f-1552-485a-8061-f1ad79055b8d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety New Glenn – Blue Origin. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: The first mission of Blue Ring, Blue Origin's all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft's operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO).
+
+It will carry one of Scout Space's flagship next-generation space domain awareness (SDA) Owl sensors, which is designed to enhance real-time tracking, characterization, and assessment of space objects by integrating advanced optical sensing, onboard artificial intelligence-driven processing, and autonomous decision-making capabilities to deliver domain-wide intelligence in space in support of the U.S. Space Force’s space control mission set.
+
+Blue Ring will also carry Optimum Technologies (OpTech)'s next-generation Caracal optical payload, which is designed to provide actionable insights on resident space objects and orbital activity and includes onboard image storage, object detection algorithms, and passive thermal control. The payload is designed to operate flexibly across dynamic orbits over a year-long mission profile.
+
+Several internal Blue Origin payloads will also be hosted. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a5e81552-ecdd-4d89-b6bd-b594e22ca891/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 144900 (2004 VG64)</title>
@@ -23,11 +29,19 @@
   </item>
   <item>
     <title>Burza geomagnetyczna G1 – szansa na zorzę polarną</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-12-15ed3e55</link>
-    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-12-15ed3e55</guid>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-11-2a87dc5c</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-11-2a87dc5c</guid>
     <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
     <category>Pogoda kosmiczna</category>
-    <description>&lt;p&gt;&lt;strong&gt;12.10.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;11.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Burza geomagnetyczna G2 – szansa na zorzę polarną</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g2-szansa-na-zorze-polarna-2026-10-10-eb18656a</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g2-szansa-na-zorze-polarna-2026-10-10-eb18656a</guid>
+    <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Pogoda kosmiczna</category>
+    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 15:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 6, czyli umiarkowana burza geomagnetyczna (G2). Zorzę widać zwykle z południowej Skandynawii i Szkocji, a przy sprzyjających warunkach jako łuna nad północnym horyzontem z północy Polski. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A</title>
@@ -322,13 +336,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;28.09.2027, 14:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neptun znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 28,86 au (4 317 mln km, światło leci stamtąd 240 minut). Planeta jest w gwiazdozbiorze Ryb. Wyłącznie przez teleskop.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Maksymalna elongacja Merkurego (wschodnia, 26°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</link>
-    <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;24.09.2027, 21:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Merkury odsuwa się od Słońca na 26° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj jej nisko nad zachodnim horyzontem, w czasie zmierzchu.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
