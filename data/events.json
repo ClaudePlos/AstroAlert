@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:34:58Z",
+ "generated_at": "2026-10-10T11:19:49Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 113
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261008.html"
  },
  "stats": {
-  "total": 145,
-  "upcoming": 143,
+  "total": 144,
+  "upcoming": 142,
   "poland": 34,
-  "new_today": 4,
+  "new_today": 3,
   "by_category": {
    "sky": 112,
    "launch": 25,
    "spaceweather": 1,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -97,74 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "zblizenie-ksiezyca-i-jowisza-2026-10-06-1901551c",
-   "title": {
-    "pl": "Zbliżenie Księżyca i Jowisza",
-    "en": "The Moon meets Jupiter"
-   },
-   "starts_at": "2026-10-06T10:30:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc przechodzi w odległości zaledwie 8′ od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
-    "en": "The Moon passes just 8′ from Jupiter – the pair is visible in the morning, before sunrise, in Cancer. Binoculars will show its four Galilean moons. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Jowisz",
-     "en": "Jupiter"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 0.13,
-    "bodies": [
-     "Moon",
-     "Jupiter"
-    ]
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Parę widać z Polski – maksymalnie 32° nad horyzontem.",
-     "en": "The pair is observable from Poland, up to 32° above the horizon."
-    },
-    "max_altitude": 32.0,
-    "best_time": "2026-10-07T04:10:00Z"
-   }
-  },
   {
    "id": "maksimum-roju-drakonidy-2026-10-08-f4ad3161",
    "title": {
@@ -243,63 +175,6 @@
     },
     "max_altitude": 69.2,
     "best_time": "2026-10-08T17:20:00Z"
-   }
-  },
-  {
-   "id": "ll2-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-   "title": {
-    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-    "en": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A"
-   },
-   "starts_at": "2026-10-10T07:39:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -426,12 +301,12 @@
    }
   },
   {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-11-2a87dc5c",
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-12-15ed3e55",
    "title": {
     "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
     "en": "G1 geomagnetic storm – chance of aurora"
    },
-   "starts_at": "2026-10-11T12:00:00Z",
+   "starts_at": "2026-10-12T03:00:00Z",
    "category": "spaceweather",
    "subcategory": "aurora",
    "importance": 3,
@@ -485,7 +360,7 @@
     "en": "NOAA Space Weather Prediction Center"
    },
    "source_id": "swpc",
-   "added_on": "2026-10-09",
+   "added_on": "2026-10-10",
    "extra": {
     "kp": 5.67
    },
@@ -724,70 +599,6 @@
    "added_on": "2026-09-13",
    "extra": {
     "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3801936-2026-10-14",
-   "title": {
-    "pl": "Przelot planetoidy 2018 EH4",
-    "en": "Asteroid 2018 EH4 passes by"
-   },
-   "starts_at": "2026-10-14T05:49:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 123–275 m minie Ziemię w odległości 8,43 mln km, czyli 21,9 odległości Ziemia–Księżyc, z prędkością 13,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 123–275 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3801936"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-07",
-   "extra": {
-    "miss_distance_km": 8427648,
-    "lunar_distances": 21.92,
-    "diameter_m": [
-     123,
-     275
-    ],
-    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -1039,6 +850,70 @@
    }
   },
   {
+   "id": "neo-2144900-2026-10-17",
+   "title": {
+    "pl": "Przelot planetoidy 144900 (2004 VG64)",
+    "en": "Asteroid 144900 (2004 VG64) passes by"
+   },
+   "starts_at": "2026-10-17T01:39:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 590–1 318 m minie Ziemię w odległości 26,87 mln km, czyli 69,9 odległości Ziemia–Księżyc, z prędkością 22,5 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 590–1,318 m will pass Earth at 26.87 million km, or 69.9 times the Earth–Moon distance, travelling at 22.5 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2144900"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-10",
+   "extra": {
+    "miss_distance_km": 26873814,
+    "lunar_distances": 69.91,
+    "diameter_m": [
+     590,
+     1318
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "pierwsza-kwadra-2026-10-18-3148c105",
    "title": {
     "pl": "Pierwsza kwadra",
@@ -1106,8 +981,8 @@
   {
    "id": "ll2-69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
    "title": {
-    "pl": "H3-24 | Martian Moon eXplorer (MMX)",
-    "en": "H3-24 | Martian Moon eXplorer (MMX)"
+    "pl": "H3-24 | Martian Moons eXploration (MMX)",
+    "en": "H3-24 | Martian Moons eXploration (MMX)"
    },
    "starts_at": "2026-10-19T19:41:03Z",
    "category": "launch",
@@ -3951,6 +3826,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-09",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-dca8749f-1552-485a-8061-f1ad79055b8d",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C",
+    "en": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer C is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Tracking Layer C is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/dca8749f-1552-485a-8061-f1ad79055b8d/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-10",
    "extra": {
     "status": "To Be Determined"
    },
