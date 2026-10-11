@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 10 Oct 2026 21:37:50 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 11:33:04 +0000</lastBuildDate>
+  <item>
+    <title>Full Moon</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-11-14-c5487c0a</link>
+    <guid isPermaLink="false">pelnia-ksiezyca-2027-11-14-c5487c0a</guid>
+    <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;14.11.2027, 03:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches full phase in Aries. Distance from Earth: 379,178 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2018 EH4 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3801936-2026-10-14</link>
+    <guid isPermaLink="false">neo-3801936-2026-10-14</guid>
+    <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;14.10.2026, 05:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 123–275 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3801936&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>G1 geomagnetic storm – chance of aurora</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-12-15ed3e55</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-12-15ed3e55</guid>
+    <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Space weather</category>
+    <description>&lt;p&gt;&lt;strong&gt;12.10.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>New Glenn | Blue Ring-1</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-a5e81552-ecdd-4d89-b6bd-b594e22ca891</link>
@@ -33,15 +57,7 @@ Several internal Blue Origin payloads will also be hosted. Launch dates slip oft
     <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-11-2a87dc5c</guid>
     <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
     <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;11.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>G2 geomagnetic storm – chance of aurora</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g2-szansa-na-zorze-polarna-2026-10-10-eb18656a</link>
-    <guid isPermaLink="false">burza-geomagnetyczna-g2-szansa-na-zorze-polarna-2026-10-10-eb18656a</guid>
-    <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 18:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 7 for this day – a moderate geomagnetic storm (G2). Aurora is usually visible from southern Scandinavia and Scotland, and in good conditions as a glow on the northern horizon from northern Poland and similar latitudes. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;11.10.2026, 09:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A</title>
@@ -116,14 +132,6 @@ The satellites will be based on Airbus’ new standard and fully reconfigurable 
     <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;04.11.2027, 08:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mercury stands 19° from the Sun – the best chance this season to catch the planet in the morning, just before sunrise. The hardest planet to catch – it never strays far from the Sun. Look for it low above the eastern horizon during twilight.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 2013 RX80 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3648318-2026-10-10</link>
-    <guid isPermaLink="false">neo-3648318-2026-10-10</guid>
-    <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;10.10.2026, 10:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 668–1,493 m will pass Earth at 36.11 million km, or 93.9 times the Earth–Moon distance, travelling at 25.8 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3648318&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Southern Taurids meteor shower peak</title>
@@ -328,13 +336,5 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;30.09.2027, 02:34 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Virgo. Distance from Earth: 367,087 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Neptune at opposition</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#opozycja-neptuna-2027-09-28-290cdcaa</link>
-    <guid isPermaLink="false">opozycja-neptuna-2027-09-28-290cdcaa</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.09.2027, 14:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neptune lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 28.86 au (4,317 million km; its light takes 240 minutes to reach us). The planet is in Pisces. A telescope target only.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

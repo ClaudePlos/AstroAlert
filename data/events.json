@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T21:37:50Z",
+ "generated_at": "2026-10-11T11:33:04Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 113
+   "count": 114
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261010.html"
  },
  "stats": {
-  "total": 145,
-  "upcoming": 141,
+  "total": 146,
+  "upcoming": 143,
   "poland": 34,
-  "new_today": 4,
+  "new_today": 3,
   "by_category": {
-   "sky": 111,
+   "sky": 112,
    "launch": 25,
    "spaceweather": 1,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -178,66 +178,6 @@
    }
   },
   {
-   "id": "neo-3648318-2026-10-10",
-   "title": {
-    "pl": "Przelot planetoidy 2013 RX80",
-    "en": "Asteroid 2013 RX80 passes by"
-   },
-   "starts_at": "2026-10-10T10:50:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 668–1 493 m minie Ziemię w odległości 36,11 mln km, czyli 93,9 odległości Ziemia–Księżyc, z prędkością 25,8 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 668–1,493 m will pass Earth at 36.11 million km, or 93.9 times the Earth–Moon distance, travelling at 25.8 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3648318"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-03",
-   "extra": {
-    "miss_distance_km": 36110935,
-    "lunar_distances": 93.94,
-    "diameter_m": [
-     668,
-     1493
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "now-2026-10-10-7329a8f9",
    "title": {
     "pl": "Nów",
@@ -301,87 +241,12 @@
    }
   },
   {
-   "id": "burza-geomagnetyczna-g2-szansa-na-zorze-polarna-2026-10-10-eb18656a",
-   "title": {
-    "pl": "Burza geomagnetyczna G2 – szansa na zorzę polarną",
-    "en": "G2 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-10-10T18:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 4,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 7, czyli umiarkowana burza geomagnetyczna (G2). Zorzę widać zwykle z południowej Skandynawii i Szkocji, a przy sprzyjających warunkach jako łuna nad północnym horyzontem z północy Polski. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 7 for this day – a moderate geomagnetic storm (G2). Aurora is usually visible from southern Scandinavia and Scotland, and in good conditions as a glow on the northern horizon from northern Poland and similar latitudes. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G2",
-     "en": "G2"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-10-10",
-   "extra": {
-    "kp": 6.67
-   },
-   "ephemeral": true,
-   "rescheduled_from": "2026-10-10T15:00:00Z",
-   "updated_on": "2026-10-10",
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Przy burzy tej siły zorzę widywano już z terenu Polski.",
-     "en": "In a storm of this strength the aurora has been seen from Poland."
-    }
-   }
-  },
-  {
    "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-11-2a87dc5c",
    "title": {
     "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
     "en": "G1 geomagnetic storm – chance of aurora"
    },
-   "starts_at": "2026-10-11T00:00:00Z",
+   "starts_at": "2026-10-11T09:00:00Z",
    "category": "spaceweather",
    "subcategory": "aurora",
    "importance": 3,
@@ -436,6 +301,77 @@
    },
    "source_id": "swpc",
    "added_on": "2026-10-10",
+   "extra": {
+    "kp": 5.67
+   },
+   "ephemeral": true,
+   "rescheduled_from": "2026-10-11T00:00:00Z",
+   "updated_on": "2026-10-11",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-12-15ed3e55",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-10-12T03:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 6, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 6 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-10-11",
    "extra": {
     "kp": 5.67
    },
@@ -680,6 +616,70 @@
    }
   },
   {
+   "id": "neo-3801936-2026-10-14",
+   "title": {
+    "pl": "Przelot planetoidy 2018 EH4",
+    "en": "Asteroid 2018 EH4 passes by"
+   },
+   "starts_at": "2026-10-14T05:49:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 123–275 m minie Ziemię w odległości 8,43 mln km, czyli 21,9 odległości Ziemia–Księżyc, z prędkością 13,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 123–275 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3801936"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-11",
+   "extra": {
+    "miss_distance_km": 8427648,
+    "lunar_distances": 21.92,
+    "diameter_m": [
+     123,
+     275
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "neo-3471518-2026-10-15",
    "title": {
     "pl": "Przelot planetoidy 2009 TK8",
@@ -912,7 +912,7 @@
    "source_id": "neows",
    "added_on": "2026-10-09",
    "extra": {
-    "miss_distance_km": 8244145,
+    "miss_distance_km": 8244146,
     "lunar_distances": 21.45,
     "diameter_m": [
      152,
@@ -976,7 +976,7 @@
    "source_id": "neows",
    "added_on": "2026-10-10",
    "extra": {
-    "miss_distance_km": 26873814,
+    "miss_distance_km": 26873815,
     "lunar_distances": 69.91,
     "diameter_m": [
      590,
@@ -9458,6 +9458,71 @@
     },
     "max_altitude": 24.9,
     "best_time": "2027-11-06T17:10:00Z"
+   }
+  },
+  {
+   "id": "pelnia-ksiezyca-2027-11-14-c5487c0a",
+   "title": {
+    "pl": "Pełnia Księżyca",
+    "en": "Full Moon"
+   },
+   "starts_at": "2027-11-14T03:33:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę pełni w gwiazdozbiorze Barana. Odległość od Ziemi: 379 178 km.",
+    "en": "The Moon reaches full phase in Aries. Distance from Earth: 379,178 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Pełnia Księżyca",
+     "en": "Full Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-11",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 63° nad polskim horyzontem.",
+     "en": "The Moon climbs 63° above the Polish horizon."
+    },
+    "max_altitude": 63.2,
+    "best_time": "2027-11-14T23:10:00Z"
    }
   }
  ]
