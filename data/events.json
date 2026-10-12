@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T21:53:42Z",
+ "generated_at": "2026-10-12T13:26:04Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 113
   },
   {
    "id": "launchlibrary",
@@ -62,12 +62,12 @@
   "link": "https://apod.nasa.gov/apod/ap261010.html"
  },
  "stats": {
-  "total": 145,
-  "upcoming": 143,
+  "total": 144,
+  "upcoming": 141,
   "poland": 34,
-  "new_today": 3,
+  "new_today": 0,
   "by_category": {
-   "sky": 112,
+   "sky": 110,
    "launch": 25,
    "spaceweather": 1,
    "asteroid": 5,
@@ -97,86 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "maksimum-roju-drakonidy-2026-10-08-f4ad3161",
-   "title": {
-    "pl": "Maksimum roju Drakonidy",
-    "en": "Draconids meteor shower peak"
-   },
-   "starts_at": "2026-10-08T02:00:00Z",
-   "category": "sky",
-   "subcategory": "meteors",
-   "importance": 3,
-   "summary": {
-    "pl": "Rój nieprzewidywalny: zwykle słaby, ale kilka razy w historii dał prawdziwe deszcze meteorów. Radiant świeci wysoko już wczesnym wieczorem. W maksimum teoretycznie do 10 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Smoka. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.",
-    "en": "An unpredictable shower: usually weak, but a few times in history it has produced genuine meteor storms. The radiant is already high in the early evening. At maximum, up to 10 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Draco. Conditions are excellent – the Moon will barely interfere. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights."
-   },
-   "tags": [
-    {
-     "pl": "meteory",
-     "en": "meteors"
-    },
-    {
-     "pl": "Drakonidy",
-     "en": "Draconids"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Kalendarz rojów IMO",
-      "en": "IMO meteor shower calendar"
-     },
-     "url": "https://www.imo.net/resources/calendar/"
-    },
-    {
-     "label": {
-      "pl": "O roju – Wikipedia",
-      "en": "About the shower – Wikipedia"
-     },
-     "url": {
-      "pl": "https://pl.wikipedia.org/wiki/Drakonidy",
-      "en": "https://en.wikipedia.org/wiki/Draconids"
-     }
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "zhr": 10,
-    "moon_illumination": 0.07,
-    "radiant_ra": 17.47,
-    "radiant_dec": 54
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Radiant wznosi się 69° nad horyzont – rój jest z Polski dobrze ustawiony.",
-     "en": "The radiant climbs 69° above the horizon – the shower is well placed for Poland."
-    },
-    "max_altitude": 69.2,
-    "best_time": "2026-10-08T17:20:00Z"
-   }
-  },
   {
    "id": "now-2026-10-10-7329a8f9",
    "title": {
@@ -363,7 +283,7 @@
     "pl": "Falcon 9 Block 5 | Starlink Group 15-25",
     "en": "Falcon 9 Block 5 | Starlink Group 15-25"
    },
-   "starts_at": "2026-10-12T23:00:00Z",
+   "starts_at": "2026-10-13T00:11:47Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
@@ -410,6 +330,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-12T23:00:00Z",
+   "updated_on": "2026-10-12",
    "poland": {
     "visible": false
    }
