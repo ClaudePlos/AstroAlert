@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 12 Oct 2026 13:26:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 20:25:23 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Starlink Group 15-15</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</link>
+    <guid isPermaLink="false">ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</guid>
+    <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;20.10.2026, 22:14 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Full Moon</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-11-14-c5487c0a</link>
@@ -50,14 +58,6 @@ Several internal Blue Origin payloads will also be hosted. Launch dates slip oft
     <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
     <description>&lt;p&gt;&lt;strong&gt;17.10.2026, 01:39 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 590–1,318 m will pass Earth at 26.87 million km, or 69.9 times the Earth–Moon distance, travelling at 22.5 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2144900&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-2d0472b9-463d-49c8-afb1-7925e49a3368</link>
-    <guid isPermaLink="false">ll2-2d0472b9-463d-49c8-afb1-7925e49a3368</guid>
-    <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Tracking Layer A is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2d0472b9-463d-49c8-afb1-7925e49a3368/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 2020 QG3 passes by</title>

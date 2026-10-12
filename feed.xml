@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Mon, 12 Oct 2026 13:26:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 20:25:23 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Starlink Group 15-15</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</link>
+    <guid isPermaLink="false">ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</guid>
+    <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;20.10.2026, 22:14 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Pełnia Księżyca</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pelnia-ksiezyca-2027-11-14-c5487c0a</link>
@@ -50,14 +58,6 @@ Several internal Blue Origin payloads will also be hosted. Terminy startów zmie
     <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
     <category>Planetoidy</category>
     <description>&lt;p&gt;&lt;strong&gt;17.10.2026, 01:39 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 590–1 318 m minie Ziemię w odległości 26,87 mln km, czyli 69,9 odległości Ziemia–Księżyc, z prędkością 22,5 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2144900&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-2d0472b9-463d-49c8-afb1-7925e49a3368</link>
-    <guid isPermaLink="false">ll2-2d0472b9-463d-49c8-afb1-7925e49a3368</guid>
-    <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer A is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2d0472b9-463d-49c8-afb1-7925e49a3368/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 2020 QG3</title>
