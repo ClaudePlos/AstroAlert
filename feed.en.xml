@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 13 Oct 2026 00:35:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 12:53:54 +0000</lastBuildDate>
   <item>
     <title>Electron | The Mountain God Rises (iQPS Launch 10)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-db3500ac-965b-4ad8-b417-cb8d8d005586</link>
@@ -32,6 +32,14 @@
 The constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/7766f3bb-674c-4c71-b986-963bd633fcfe/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
+    <title>Zhuque-2E | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-dfcabb3c-078b-4f5b-a47c-0161f248cee9</link>
+    <guid isPermaLink="false">ll2-dfcabb3c-078b-4f5b-a47c-0161f248cee9</guid>
+    <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;14.10.2026, 11:40 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Zhuque-2E, operated by LandSpace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/dfcabb3c-078b-4f5b-a47c-0161f248cee9/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
     <title>Falcon 9 Block 5 | Starlink Group 15-15</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</link>
     <guid isPermaLink="false">ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</guid>
@@ -54,14 +62,6 @@ The constellation of small satellites (named Hawk ) will collect information on 
     <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
     <description>&lt;p&gt;&lt;strong&gt;14.10.2026, 05:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 123–275 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3801936&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>G1 geomagnetic storm – chance of aurora</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-13-e74b8f73</link>
-    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-13-e74b8f73</guid>
-    <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;13.10.2026, 06:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>New Glenn | Blue Ring-1</title>
@@ -280,16 +280,6 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <description>&lt;p&gt;&lt;strong&gt;18.10.2027, 00:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Saturn lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 8.35 au (1,249 million km; its light takes 69 minutes to reach us). The planet is in Pisces. Even a small telescope will show the rings.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-35</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</link>
-    <guid isPermaLink="false">ll2-bf2c3027-a314-403e-a416-2bfd5d165ad1</guid>
-    <pubDate>Sun, 13 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;13.10.2026, 10:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
-
-Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bf2c3027-a314-403e-a416-2bfd5d165ad1/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Full Moon</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pelnia-ksiezyca-2027-10-15-e29aca2e</link>
     <guid isPermaLink="false">pelnia-ksiezyca-2027-10-15-e29aca2e</guid>
@@ -336,5 +326,13 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;28.09.2027, 14:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neptune lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 28.86 au (4,317 million km; its light takes 240 minutes to reach us). The planet is in Pisces. A telescope target only.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Greatest eastern elongation of Mercury (26°)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</link>
+    <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</guid>
+    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;24.09.2027, 21:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mercury stands 26° from the Sun – the best chance this season to catch the planet in the evening, just after sunset. The hardest planet to catch – it never strays far from the Sun. Look for it low above the western horizon during twilight.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
