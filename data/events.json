@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T18:30:26Z",
+ "generated_at": "2026-10-13T22:40:01Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -1268,67 +1268,6 @@
    }
   },
   {
-   "id": "ll2-7bdc412b-c965-4517-a131-f57a01189803",
-   "title": {
-    "pl": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-    "en": "Ariane 64 Block 2 | Amazon Leo (LE-04)"
-   },
-   "starts_at": "2026-10-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety Ariane 64 Block 2 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Ariane 64 Block 2, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Arianespace",
-     "en": "Arianespace"
-    },
-    {
-     "pl": "nowa rakieta",
-     "en": "new rocket"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/7bdc412b-c965-4517-a131-f57a01189803/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Guiana Space Centre, French Guiana",
-    "en": "Guiana Space Centre, French Guiana"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-20d5676e-111b-40e3-8923-b218c3665ca2",
    "title": {
     "pl": "GSLV Mk II | IRNSS-1L (NVS-03)",
@@ -2477,18 +2416,18 @@
    }
   },
   {
-   "id": "ll2-22e117bf-041c-49d5-9d09-7b180036e143",
+   "id": "ll2-7bdc412b-c965-4517-a131-f57a01189803",
    "title": {
-    "pl": "Ariane 62 | Metop-SG B1",
-    "en": "Ariane 62 | Metop-SG B1"
+    "pl": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+    "en": "Ariane 64 Block 2 | Amazon Leo (LE-04)"
    },
    "starts_at": "2026-11-30T00:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 4,
    "summary": {
-    "pl": "Start rakiety Ariane 62 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Second of EUMETSAT's second generation of Metop weather satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Ariane 62, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Second of EUMETSAT's second generation of Metop weather satellites. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Ariane 64 Block 2 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Ariane 64 Block 2, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -2510,7 +2449,7 @@
       "pl": "Szczegóły misji",
       "en": "Mission details"
      },
-     "url": "https://thespacedevs.com/2.3.0/launches/22e117bf-041c-49d5-9d09-7b180036e143/"
+     "url": "https://thespacedevs.com/2.3.0/launches/7bdc412b-c965-4517-a131-f57a01189803/"
     },
     {
      "label": {
@@ -2529,10 +2468,12 @@
     "en": "The Space Devs (Launch Library 2)"
    },
    "source_id": "launchlibrary",
-   "added_on": "2026-09-17",
+   "added_on": "2026-08-31",
    "extra": {
     "status": "To Be Determined"
    },
+   "rescheduled_from": "2026-10-31T00:00:00Z",
+   "updated_on": "2026-10-13",
    "poland": {
     "visible": false
    }
@@ -3385,6 +3326,69 @@
     },
     "max_altitude": 29.7,
     "best_time": "2026-12-31T04:40:00Z"
+   }
+  },
+  {
+   "id": "ll2-22e117bf-041c-49d5-9d09-7b180036e143",
+   "title": {
+    "pl": "Ariane 62 | Metop-SG B1",
+    "en": "Ariane 62 | Metop-SG B1"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Ariane 62 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Second of EUMETSAT's second generation of Metop weather satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Ariane 62, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Second of EUMETSAT's second generation of Metop weather satellites. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Arianespace",
+     "en": "Arianespace"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/22e117bf-041c-49d5-9d09-7b180036e143/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Guiana Space Centre, French Guiana",
+    "en": "Guiana Space Centre, French Guiana"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-09-17",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-30T00:00:00Z",
+   "updated_on": "2026-10-13",
+   "poland": {
+    "visible": false
    }
   },
   {
