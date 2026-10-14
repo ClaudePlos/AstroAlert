@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Tue, 13 Oct 2026 22:40:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 10:30:15 +0000</lastBuildDate>
+  <item>
+    <title>Maksimum roju Leonidy</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#maksimum-roju-leonidy-2027-11-17-586a3c92</link>
+    <guid isPermaLink="false">maksimum-roju-leonidy-2027-11-17-586a3c92</guid>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Niebo nad nami</category>
+    <description>&lt;p&gt;&lt;strong&gt;17.11.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rój, który co ok. 33 lata potrafi wybuchnąć burzą meteorów z tysiącami zjawisk na godzinę. W zwykłych latach jest spokojny. W maksimum teoretycznie do 15 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Lwa. Niestety Księżyc będzie oświetlony w 89% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;Kalendarz rojów IMO&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pl.wikipedia.org/wiki/Leonidy&quot;&gt;O roju – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Electron | The Mountain God Rises (iQPS Launch 10)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-db3500ac-965b-4ad8-b417-cb8d8d005586</link>
@@ -326,13 +334,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;28.09.2027, 14:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neptun znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 28,86 au (4 317 mln km, światło leci stamtąd 240 minut). Planeta jest w gwiazdozbiorze Ryb. Wyłącznie przez teleskop.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Maksymalna elongacja Merkurego (wschodnia, 26°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</link>
-    <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;24.09.2027, 21:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Merkury odsuwa się od Słońca na 26° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj jej nisko nad zachodnim horyzontem, w czasie zmierzchu.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

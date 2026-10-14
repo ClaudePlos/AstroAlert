@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 13 Oct 2026 22:40:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 10:30:15 +0000</lastBuildDate>
+  <item>
+    <title>Leonids meteor shower peak</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-leonidy-2027-11-17-586a3c92</link>
+    <guid isPermaLink="false">maksimum-roju-leonidy-2027-11-17-586a3c92</guid>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;17.11.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A shower that roughly every 33 years erupts into a storm with thousands of meteors an hour. In ordinary years it is quiet. At maximum, up to 15 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Leo. Unfortunately the Moon will be 89% illuminated and will drown out the fainter meteors – it is worth observing after it sets. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;IMO meteor shower calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Leonids&quot;&gt;About the shower – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Electron | The Mountain God Rises (iQPS Launch 10)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-db3500ac-965b-4ad8-b417-cb8d8d005586</link>
@@ -326,13 +334,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;28.09.2027, 14:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neptune lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 28.86 au (4,317 million km; its light takes 240 minutes to reach us). The planet is in Pisces. A telescope target only.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Greatest eastern elongation of Mercury (26°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</link>
-    <guid isPermaLink="false">maksymalna-elongacja-merkurego-wschodnia-26-2027-09-24-75369b2e</guid>
-    <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;24.09.2027, 21:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mercury stands 26° from the Sun – the best chance this season to catch the planet in the evening, just after sunset. The hardest planet to catch – it never strays far from the Sun. Look for it low above the western horizon during twilight.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
