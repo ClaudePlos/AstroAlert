@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T21:37:43Z",
+ "generated_at": "2026-10-15T10:14:05Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 113
+   "count": 112
   },
   {
    "id": "launchlibrary",
@@ -62,10 +62,10 @@
   "link": "https://apod.nasa.gov/apod/ap261013.html"
  },
  "stats": {
-  "total": 143,
+  "total": 142,
   "upcoming": 140,
   "poland": 35,
-  "new_today": 2,
+  "new_today": 1,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -160,125 +160,6 @@
    }
   },
   {
-   "id": "maksymalna-elongacja-merkurego-wschodnia-25-2026-10-12-1ea0162a",
-   "title": {
-    "pl": "Maksymalna elongacja Merkurego (wschodnia, 25°)",
-    "en": "Greatest eastern elongation of Mercury (25°)"
-   },
-   "starts_at": "2026-10-12T09:54:00Z",
-   "category": "sky",
-   "subcategory": "elongation",
-   "importance": 4,
-   "summary": {
-    "pl": "Merkury odsuwa się od Słońca na 25° – to najlepszy w tym sezonie moment na obserwację tej planety wieczorem, tuż po zachodzie Słońca. Najtrudniejsza do złapania planeta – trzyma się blisko Słońca. Szukaj jej nisko nad zachodnim horyzontem, w czasie zmierzchu.",
-    "en": "Mercury stands 25° from the Sun – the best chance this season to catch the planet in the evening, just after sunset. The hardest planet to catch – it never strays far from the Sun. Look for it low above the western horizon during twilight."
-   },
-   "tags": [
-    {
-     "pl": "Merkury",
-     "en": "Mercury"
-    },
-    {
-     "pl": "elongacja",
-     "en": "elongation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "elongation_deg": 25.2,
-    "body": "Mercury"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3801936-2026-10-14",
-   "title": {
-    "pl": "Przelot planetoidy 2018 EH4",
-    "en": "Asteroid 2018 EH4 passes by"
-   },
-   "starts_at": "2026-10-14T05:49:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 123–275 m minie Ziemię w odległości 8,43 mln km, czyli 21,9 odległości Ziemia–Księżyc, z prędkością 13,2 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 123–275 m will pass Earth at 8.43 million km, or 21.9 times the Earth–Moon distance, travelling at 13.2 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3801936"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-11",
-   "extra": {
-    "miss_distance_km": 8427648,
-    "lunar_distances": 21.92,
-    "diameter_m": [
-     123,
-     275
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-3471518-2026-10-15",
    "title": {
     "pl": "Przelot planetoidy 2009 TK8",
@@ -331,6 +212,66 @@
     "diameter_m": [
      246,
      550
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3638430-2026-10-15",
+   "title": {
+    "pl": "Przelot planetoidy 2013 JR22",
+    "en": "Asteroid 2013 JR22 passes by"
+   },
+   "starts_at": "2026-10-15T20:32:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 178–398 m minie Ziemię w odległości 18,29 mln km, czyli 47,6 odległości Ziemia–Księżyc, z prędkością 21,0 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 178–398 m will pass Earth at 18.29 million km, or 47.6 times the Earth–Moon distance, travelling at 21.0 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3638430"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-15",
+   "extra": {
+    "miss_distance_km": 18290738,
+    "lunar_distances": 47.58,
+    "diameter_m": [
+     178,
+     398
     ],
     "hazardous": false
    },
