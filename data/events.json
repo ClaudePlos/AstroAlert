@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T10:14:05Z",
+ "generated_at": "2026-10-15T15:43:39Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 142,
   "upcoming": 140,
   "poland": 35,
-  "new_today": 1,
+  "new_today": 2,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -285,7 +285,7 @@
     "pl": "Falcon 9 Block 5 | USSF-481",
     "en": "Falcon 9 Block 5 | USSF-481"
    },
-   "starts_at": "2026-10-15T23:44:00Z",
+   "starts_at": "2026-10-15T23:57:05Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -332,6 +332,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-15T23:44:00Z",
+   "updated_on": "2026-10-15",
    "poland": {
     "visible": false
    }
@@ -3559,18 +3561,18 @@
    }
   },
   {
-   "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+   "id": "ll2-11b218b1-5e40-4b9d-854e-50320299239d",
    "title": {
-    "pl": "Falcon 9 Block 5 | CHORUS",
-    "en": "Falcon 9 Block 5 | CHORUS"
+    "pl": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+    "en": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)"
    },
    "starts_at": "2026-12-31T00:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -3588,7 +3590,7 @@
       "pl": "Szczegóły misji",
       "en": "Mission details"
      },
-     "url": "https://thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/"
+     "url": "https://thespacedevs.com/2.3.0/launches/11b218b1-5e40-4b9d-854e-50320299239d/"
     },
     {
      "label": {
@@ -3607,7 +3609,7 @@
     "en": "The Space Devs (Launch Library 2)"
    },
    "source_id": "launchlibrary",
-   "added_on": "2026-10-14",
+   "added_on": "2026-10-15",
    "extra": {
     "status": "To Be Determined"
    },
