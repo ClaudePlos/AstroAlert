@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T10:03:22Z",
+ "generated_at": "2026-10-16T15:32:51Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -853,13 +853,13 @@
     "pl": "Long March 8A | Unknown Payload",
     "en": "Long March 8A | Unknown Payload"
    },
-   "starts_at": "2026-10-22T02:00:00Z",
+   "starts_at": "2026-10-22T02:57:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -898,8 +898,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-10-15",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-22T02:00:00Z",
+   "updated_on": "2026-10-16",
    "poland": {
     "visible": false
    }
