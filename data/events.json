@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T14:25:13Z",
+ "generated_at": "2026-10-17T20:32:00Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 141,
-  "upcoming": 140,
+  "upcoming": 139,
   "poland": 35,
   "new_today": 4,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 3,
    "mission": 0
   }
  },
@@ -357,8 +357,8 @@
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: potwierdzony. Misja: Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: potwierdzony. Misja: Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1006,8 +1006,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-23T18:00:00Z",
-   "updated_on": "2026-10-17",
    "poland": {
     "visible": false
    }
