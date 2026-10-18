@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T20:32:00Z",
+ "generated_at": "2026-10-18T09:49:05Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 111
+   "count": 112
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261017.html"
  },
  "stats": {
-  "total": 141,
-  "upcoming": 139,
+  "total": 142,
+  "upcoming": 141,
   "poland": 35,
-  "new_today": 4,
+  "new_today": 3,
   "by_category": {
-   "sky": 111,
+   "sky": 112,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 3,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -97,130 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-2144900-2026-10-17",
-   "title": {
-    "pl": "Przelot planetoidy 144900 (2004 VG64)",
-    "en": "Asteroid 144900 (2004 VG64) passes by"
-   },
-   "starts_at": "2026-10-17T01:39:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 590–1 318 m minie Ziemię w odległości 26,87 mln km, czyli 69,9 odległości Ziemia–Księżyc, z prędkością 22,5 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 590–1,318 m will pass Earth at 26.87 million km, or 69.9 times the Earth–Moon distance, travelling at 22.5 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2144900"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-10",
-   "extra": {
-    "miss_distance_km": 26873815,
-    "lunar_distances": 69.91,
-    "diameter_m": [
-     590,
-     1318
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3776071-2026-10-17",
-   "title": {
-    "pl": "Przelot planetoidy 2017 MA4",
-    "en": "Asteroid 2017 MA4 passes by"
-   },
-   "starts_at": "2026-10-17T19:42:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 506–1 133 m minie Ziemię w odległości 70,44 mln km, czyli 183,2 odległości Ziemia–Księżyc, z prędkością 27,1 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 506–1,133 m will pass Earth at 70.44 million km, or 183.2 times the Earth–Moon distance, travelling at 27.1 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3776071"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-17",
-   "extra": {
-    "miss_distance_km": 70436910,
-    "lunar_distances": 183.24,
-    "diameter_m": [
-     506,
-     1133
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "neo-2509505-2026-10-18",
    "title": {
@@ -344,6 +220,70 @@
     },
     "max_altitude": 15.3,
     "best_time": "2026-10-18T17:00:00Z"
+   }
+  },
+  {
+   "id": "neo-3472299-2026-10-19",
+   "title": {
+    "pl": "Przelot planetoidy 2009 UY17",
+    "en": "Asteroid 2009 UY17 passes by"
+   },
+   "starts_at": "2026-10-19T00:44:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 174–389 m minie Ziemię w odległości 26,20 mln km, czyli 68,2 odległości Ziemia–Księżyc, z prędkością 23,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 174–389 m will pass Earth at 26.20 million km, or 68.2 times the Earth–Moon distance, travelling at 23.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3472299"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-18",
+   "extra": {
+    "miss_distance_km": 26198831,
+    "lunar_distances": 68.16,
+    "diameter_m": [
+     174,
+     389
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1062,6 +1002,66 @@
    "added_on": "2026-10-13",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3114028-2026-10-25",
+   "title": {
+    "pl": "Przelot planetoidy 2002 CN15",
+    "en": "Asteroid 2002 CN15 passes by"
+   },
+   "starts_at": "2026-10-25T11:48:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 184–411 m minie Ziemię w odległości 22,22 mln km, czyli 57,8 odległości Ziemia–Księżyc, z prędkością 26,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 184–411 m will pass Earth at 22.22 million km, or 57.8 times the Earth–Moon distance, travelling at 26.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3114028"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-18",
+   "extra": {
+    "miss_distance_km": 22219932,
+    "lunar_distances": 57.8,
+    "diameter_m": [
+     184,
+     411
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -9179,6 +9179,71 @@
     },
     "max_altitude": 58.4,
     "best_time": "2027-11-18T04:40:00Z"
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2027-11-21-76a4db87",
+   "title": {
+    "pl": "Ostatnia kwadra",
+    "en": "Last Quarter"
+   },
+   "starts_at": "2027-11-21T00:47:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Raka. Odległość od Ziemi: 370 067 km.",
+    "en": "The Moon reaches last quarter in Cancer. Distance from Earth: 370,067 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Ostatnia kwadra",
+     "en": "Last Quarter"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-18",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 42° nad polskim horyzontem.",
+     "en": "The Moon climbs 42° above the Polish horizon."
+    },
+    "max_altitude": 42.2,
+    "best_time": "2027-11-22T05:30:00Z"
    }
   }
  ]
