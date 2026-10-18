@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T14:49:01Z",
+ "generated_at": "2026-10-18T20:36:36Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -45,8 +45,9 @@
     "pl": "Planetoidy (NASA NeoWs)",
     "en": "Asteroids (NASA NeoWs)"
    },
-   "status": "ok",
-   "count": 5
+   "status": "error",
+   "count": 0,
+   "error": "FetchError: https://api.nasa.gov/neo/rest/v1/feed?start_date=2026-10-18&end_date=2026-10-25&api_key=DEMO_KEY: HTTP Error 429: Too Many Requests"
   }
  ],
  "apod": {
@@ -63,11 +64,11 @@
  },
  "stats": {
   "total": 142,
-  "upcoming": 141,
+  "upcoming": 140,
   "poland": 35,
   "new_today": 3,
   "by_category": {
-   "sky": 112,
+   "sky": 111,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 4,
