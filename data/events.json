@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T17:46:24Z",
+ "generated_at": "2026-10-19T22:18:22Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,13 +63,13 @@
  },
  "stats": {
   "total": 143,
-  "upcoming": 142,
+  "upcoming": 141,
   "poland": 35,
-  "new_today": 5,
+  "new_today": 6,
   "by_category": {
    "sky": 111,
    "launch": 25,
-   "spaceweather": 1,
+   "spaceweather": 0,
    "asteroid": 5,
    "mission": 0
   }
@@ -160,67 +160,6 @@
     },
     "max_altitude": 15.3,
     "best_time": "2026-10-18T17:00:00Z"
-   }
-  },
-  {
-   "id": "ll2-69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
-   "title": {
-    "pl": "H3-24 | Martian Moons eXploration (MMX)",
-    "en": "H3-24 | Martian Moons eXploration (MMX)"
-   },
-   "starts_at": "2026-10-19T19:41:03Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety H3-24 – Mitsubishi Heavy Industries. Miejsce: Tanegashima Space Center, Japan. Status terminu: potwierdzony. Misja: MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of H3-24, operated by Mitsubishi Heavy Industries. Site: Tanegashima Space Center, Japan. Schedule status: confirmed. Mission: MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Mitsubishi Heavy Industries",
-     "en": "Mitsubishi Heavy Industries"
-    },
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Tanegashima Space Center, Japan",
-    "en": "Tanegashima Space Center, Japan"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -3599,6 +3538,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-01",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-ce1317de-ec94-4479-9b28-38ebf11f13ae",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Telesat Lightspeed 1",
+    "en": "Falcon 9 Block 5 | Telesat Lightspeed 1"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/ce1317de-ec94-4479-9b28-38ebf11f13ae/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-19",
    "extra": {
     "status": "To Be Determined"
    },
