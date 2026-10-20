@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T22:18:22Z",
+ "generated_at": "2026-10-20T10:20:49Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 1
+   "count": 0
   },
   {
    "id": "neows",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261017.html"
  },
  "stats": {
-  "total": 143,
-  "upcoming": 141,
+  "total": 142,
+  "upcoming": 140,
   "poland": 35,
-  "new_today": 6,
+  "new_today": 0,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -163,75 +163,6 @@
    }
   },
   {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-19-9c5ce98e",
-   "title": {
-    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
-    "en": "G1 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-10-19T21:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 3,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G1",
-     "en": "G1"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-10-19",
-   "extra": {
-    "kp": 5.0
-   },
-   "ephemeral": true,
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-2423100-2026-10-20",
    "title": {
     "pl": "Przelot planetoidy 423100 (2004 BX1)",
@@ -297,7 +228,7 @@
     "pl": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
     "en": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
    },
-   "starts_at": "2026-10-20T10:30:00Z",
+   "starts_at": "2026-10-20T11:04:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -344,6 +275,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-20T10:30:00Z",
+   "updated_on": "2026-10-20",
    "poland": {
     "visible": false
    }
@@ -354,7 +287,7 @@
     "pl": "Falcon 9 Block 5 | Starlink Group 15-15",
     "en": "Falcon 9 Block 5 | Starlink Group 15-15"
    },
-   "starts_at": "2026-10-20T22:14:00Z",
+   "starts_at": "2026-10-20T23:10:02Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
@@ -401,6 +334,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-20T22:14:00Z",
+   "updated_on": "2026-10-20",
    "poland": {
     "visible": false
    }
@@ -548,13 +483,13 @@
     "pl": "Electron | We're Not Hawking Around (3x HawkEye 360)",
     "en": "Electron | We're Not Hawking Around (3x HawkEye 360)"
    },
-   "starts_at": "2026-10-21T05:00:00Z",
+   "starts_at": "2026-10-21T07:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin do potwierdzenia. Misja: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -593,8 +528,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-10-13",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-10-21T05:00:00Z",
+   "updated_on": "2026-10-20",
    "poland": {
     "visible": false
    }
@@ -1426,63 +1363,6 @@
    }
   },
   {
-   "id": "ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-21",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-21"
-   },
-   "starts_at": "2026-11-01T05:11:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-19",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ostatnia-kwadra-2026-11-01-70b2e74f",
    "title": {
     "pl": "Ostatnia kwadra",
@@ -1998,6 +1878,65 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-21",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-21"
+   },
+   "starts_at": "2026-11-10T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-01T05:11:00Z",
+   "updated_on": "2026-10-20",
    "poland": {
     "visible": false
    }
