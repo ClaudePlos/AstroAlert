@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 20 Oct 2026 21:33:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 10:29:53 +0000</lastBuildDate>
+  <item>
+    <title>Falcon Heavy | Griffin Mission One</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</link>
+    <guid isPermaLink="false">ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</guid>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2018 GS1 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3802428-2026-10-28</link>
+    <guid isPermaLink="false">neo-3802428-2026-10-28</guid>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;28.10.2026, 16:15 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 81–180 m will pass Earth at 4.24 million km, or 11.0 times the Earth–Moon distance, travelling at 9.3 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3802428&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2003 RL10 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3159894-2026-10-28</link>
+    <guid isPermaLink="false">neo-3159894-2026-10-28</guid>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;28.10.2026, 01:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 323–721 m will pass Earth at 33.83 million km, or 88.0 times the Earth–Moon distance, travelling at 14.5 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3159894&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | NROL-195</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49</link>
@@ -62,28 +86,12 @@
     <description>&lt;p&gt;&lt;strong&gt;21.11.2027, 00:47 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Cancer. Distance from Earth: 370,067 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Asteroid 2002 CN15 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3114028-2026-10-25</link>
-    <guid isPermaLink="false">neo-3114028-2026-10-25</guid>
-    <pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;25.10.2026, 11:48 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 184–411 m will pass Earth at 22.22 million km, or 57.8 times the Earth–Moon distance, travelling at 26.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3114028&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Long March 6A | Unknown Payload</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-9648124f-8568-46d2-86d7-4b4d6f12187f</link>
     <guid isPermaLink="false">ll2-9648124f-8568-46d2-86d7-4b4d6f12187f</guid>
     <pubDate>Sat, 17 Oct 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;23.10.2026, 10:15 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 6A, operated by China Aerospace Science and Technology Corporation. Site: Taiyuan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/9648124f-8568-46d2-86d7-4b4d6f12187f/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 423100 (2004 BX1) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2423100-2026-10-20</link>
-    <guid isPermaLink="false">neo-2423100-2026-10-20</guid>
-    <pubDate>Sat, 17 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;20.10.2026, 03:11 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 543–1,214 m will pass Earth at 65.94 million km, or 171.6 times the Earth–Moon distance, travelling at 37.9 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2423100&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 2016 LN1 passes by</title>
@@ -108,14 +116,6 @@
     <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;23.10.2026, 19:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 4B, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/3621085f-deae-4f89-bd54-c0f96ee44421/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Ceres-1S | Unknown Payload</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-c6f8b6b0-6bae-460a-99bb-c12a3d29effd</link>
-    <guid isPermaLink="false">ll2-c6f8b6b0-6bae-460a-99bb-c12a3d29effd</guid>
-    <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;21.10.2026, 03:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Ceres-1S, operated by Galactic Energy. Site: Haiyang Oriental Spaceport. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/c6f8b6b0-6bae-460a-99bb-c12a3d29effd/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Leonids meteor shower peak</title>
@@ -155,7 +155,7 @@
     <guid isPermaLink="false">ll2-7766f3bb-674c-4c71-b986-963bd633fcfe</guid>
     <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;21.10.2026, 07:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.
+    <description>&lt;p&gt;&lt;strong&gt;22.10.2026, 07:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.
 
 The constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/7766f3bb-674c-4c71-b986-963bd633fcfe/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
@@ -165,7 +165,7 @@ The constellation of small satellites (named Hawk ) will collect information on 
     <guid isPermaLink="false">ll2-f6af629d-39b5-4f86-bc0c-f8776444a858</guid>
     <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;20.10.2026, 23:10 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;21.10.2026, 23:02 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Full Moon</title>

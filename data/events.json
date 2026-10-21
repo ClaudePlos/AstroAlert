@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:33:46Z",
+ "generated_at": "2026-10-21T10:29:53Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,26 +51,26 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-10-17",
+  "date": "2026-10-21",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out a catalog of nearly 1400 stereo anaglyphs created from Rosetta image data on this website.Tomorrow's picture: open space",
-  "link": "https://apod.nasa.gov/apod/ap261017.html"
+  "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ Cassiopeia. Energetic light from γ Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, γ Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.Tomorrow's picture: it's not easy being green\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261021.html"
  },
  "stats": {
   "total": 142,
   "upcoming": 140,
-  "poland": 35,
-  "new_today": 1,
+  "poland": 34,
+  "new_today": 3,
   "by_category": {
-   "sky": 111,
+   "sky": 110,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -163,123 +163,6 @@
    }
   },
   {
-   "id": "neo-2423100-2026-10-20",
-   "title": {
-    "pl": "Przelot planetoidy 423100 (2004 BX1)",
-    "en": "Asteroid 423100 (2004 BX1) passes by"
-   },
-   "starts_at": "2026-10-20T03:11:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 543–1 214 m minie Ziemię w odległości 65,94 mln km, czyli 171,6 odległości Ziemia–Księżyc, z prędkością 37,9 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 543–1,214 m will pass Earth at 65.94 million km, or 171.6 times the Earth–Moon distance, travelling at 37.9 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2423100"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-17",
-   "extra": {
-    "miss_distance_km": 65943991,
-    "lunar_distances": 171.55,
-    "diameter_m": [
-     543,
-     1214
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-f6af629d-39b5-4f86-bc0c-f8776444a858",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-15",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-15"
-   },
-   "starts_at": "2026-10-20T23:10:02Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-12",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "maksimum-roju-orionidy-2026-10-21-f7e48ccc",
    "title": {
     "pl": "Maksimum roju Orionidy",
@@ -360,120 +243,6 @@
    }
   },
   {
-   "id": "ll2-c6f8b6b0-6bae-460a-99bb-c12a3d29effd",
-   "title": {
-    "pl": "Ceres-1S | Unknown Payload",
-    "en": "Ceres-1S | Unknown Payload"
-   },
-   "starts_at": "2026-10-21T03:35:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Ceres-1S – Galactic Energy. Miejsce: Haiyang Oriental Spaceport. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Ceres-1S, operated by Galactic Energy. Site: Haiyang Oriental Spaceport. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Galactic Energy",
-     "en": "Galactic Energy"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/c6f8b6b0-6bae-460a-99bb-c12a3d29effd/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Haiyang Oriental Spaceport",
-    "en": "Haiyang Oriental Spaceport"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-15",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-7766f3bb-674c-4c71-b986-963bd633fcfe",
-   "title": {
-    "pl": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-    "en": "Electron | We're Not Hawking Around (3x HawkEye 360)"
-   },
-   "starts_at": "2026-10-21T07:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Rocket Lab",
-     "en": "Rocket Lab"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/7766f3bb-674c-4c71-b986-963bd633fcfe/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-13",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-3753695-2026-10-21",
    "title": {
     "pl": "Przelot planetoidy 2016 LN1",
@@ -533,6 +302,124 @@
     ],
     "hazardous": true
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-f6af629d-39b5-4f86-bc0c-f8776444a858",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-15",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-15"
+   },
+   "starts_at": "2026-10-21T23:02:41Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-12",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-10-20T23:10:02Z",
+   "updated_on": "2026-10-21",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-7766f3bb-674c-4c71-b986-963bd633fcfe",
+   "title": {
+    "pl": "Electron | We're Not Hawking Around (3x HawkEye 360)",
+    "en": "Electron | We're Not Hawking Around (3x HawkEye 360)"
+   },
+   "starts_at": "2026-10-22T07:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin do potwierdzenia. Misja: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Rocket Lab",
+     "en": "Rocket Lab"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/7766f3bb-674c-4c71-b986-963bd633fcfe/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-13",
+   "extra": {
+    "status": "To Be Confirmed"
+   },
+   "rescheduled_from": "2026-10-21T07:00:00Z",
+   "updated_on": "2026-10-21",
    "poland": {
     "visible": false
    }
@@ -766,66 +653,6 @@
    }
   },
   {
-   "id": "neo-3114028-2026-10-25",
-   "title": {
-    "pl": "Przelot planetoidy 2002 CN15",
-    "en": "Asteroid 2002 CN15 passes by"
-   },
-   "starts_at": "2026-10-25T11:48:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 184–411 m minie Ziemię w odległości 22,22 mln km, czyli 57,8 odległości Ziemia–Księżyc, z prędkością 26,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 184–411 m will pass Earth at 22.22 million km, or 57.8 times the Earth–Moon distance, travelling at 26.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3114028"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-18",
-   "extra": {
-    "miss_distance_km": 22219932,
-    "lunar_distances": 57.8,
-    "diameter_m": [
-     184,
-     411
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "pelnia-ksiezyca-2026-10-26-c9e3d1a1",
    "title": {
     "pl": "Pełnia Księżyca",
@@ -998,11 +825,71 @@
    "source_id": "neows",
    "added_on": "2026-10-19",
    "extra": {
-    "miss_distance_km": 12978697,
+    "miss_distance_km": 12978702,
     "lunar_distances": 33.76,
     "diameter_m": [
      332,
      741
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3159894-2026-10-28",
+   "title": {
+    "pl": "Przelot planetoidy 2003 RL10",
+    "en": "Asteroid 2003 RL10 passes by"
+   },
+   "starts_at": "2026-10-28T01:25:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 323–721 m minie Ziemię w odległości 33,83 mln km, czyli 88,0 odległości Ziemia–Księżyc, z prędkością 14,5 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 323–721 m will pass Earth at 33.83 million km, or 88.0 times the Earth–Moon distance, travelling at 14.5 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3159894"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-21",
+   "extra": {
+    "miss_distance_km": 33830447,
+    "lunar_distances": 88.01,
+    "diameter_m": [
+     323,
+     721
     ],
     "hazardous": false
    },
@@ -1062,6 +949,66 @@
    "added_on": "2026-10-19",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3802428-2026-10-28",
+   "title": {
+    "pl": "Przelot planetoidy 2018 GS1",
+    "en": "Asteroid 2018 GS1 passes by"
+   },
+   "starts_at": "2026-10-28T16:15:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 81–180 m minie Ziemię w odległości 4,24 mln km, czyli 11,0 odległości Ziemia–Księżyc, z prędkością 9,3 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 81–180 m will pass Earth at 4.24 million km, or 11.0 times the Earth–Moon distance, travelling at 9.3 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3802428"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-21",
+   "extra": {
+    "miss_distance_km": 4240878,
+    "lunar_distances": 11.03,
+    "diameter_m": [
+     81,
+     180
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -3526,6 +3473,67 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
+   "title": {
+    "pl": "Falcon Heavy | Griffin Mission One",
+    "en": "Falcon Heavy | Griffin Mission One"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Kennedy Space Center, FL, USA",
+    "en": "Kennedy Space Center, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-21",
    "extra": {
     "status": "To Be Determined"
    },
