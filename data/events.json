@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:01:18Z",
+ "generated_at": "2026-10-22T21:30:52Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,21 +51,21 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ Cassiopeia. Energetic light from γ Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, γ Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.Tomorrow's picture: it's not easy being green\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap261021.html"
+  "explanation": "Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...",
+  "link": "https://apod.nasa.gov/apod/ap261022.html"
  },
  "stats": {
   "total": 141,
   "upcoming": 140,
   "poland": 34,
-  "new_today": 1,
+  "new_today": 2,
   "by_category": {
    "sky": 110,
    "launch": 25,
@@ -230,8 +230,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-22T22:40:24Z",
-   "updated_on": "2026-10-22",
    "poland": {
     "visible": false
    }
@@ -1010,7 +1008,7 @@
     "pl": "GSLV Mk II | IRNSS-1L (NVS-03)",
     "en": "GSLV Mk II | IRNSS-1L (NVS-03)"
    },
-   "starts_at": "2026-10-31T00:00:00Z",
+   "starts_at": "2026-10-30T00:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -1057,6 +1055,8 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "rescheduled_from": "2026-10-31T00:00:00Z",
+   "updated_on": "2026-10-22",
    "poland": {
     "visible": false
    }
@@ -1111,63 +1111,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-e59ff9a4-f72f-4841-8546-3c94346ecdba",
-   "title": {
-    "pl": "SSLV | AayulSAT-1A & others",
-    "en": "SSLV | AayulSAT-1A & others"
-   },
-   "starts_at": "2026-10-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety SSLV – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of SSLV, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Indian Space Research Organization",
-     "en": "Indian Space Research Organization"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/e59ff9a4-f72f-4841-8546-3c94346ecdba/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Satish Dhawan Space Centre, India",
-    "en": "Satish Dhawan Space Centre, India"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-26",
    "extra": {
     "status": "To Be Determined"
    },
@@ -1514,6 +1457,65 @@
    }
   },
   {
+   "id": "ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-21",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-21"
+   },
+   "starts_at": "2026-11-05T05:14:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-19",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-11-10T00:00:00Z",
+   "updated_on": "2026-10-22",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49",
    "title": {
     "pl": "Falcon 9 Block 5 | NROL-195",
@@ -1745,63 +1747,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-13",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-21",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-21"
-   },
-   "starts_at": "2026-11-10T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-19",
    "extra": {
     "status": "To Be Determined"
    },
@@ -3459,6 +3404,67 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
+   "title": {
+    "pl": "Falcon Heavy | Griffin Mission One",
+    "en": "Falcon Heavy | Griffin Mission One"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Kennedy Space Center, FL, USA",
+    "en": "Kennedy Space Center, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-22",
    "extra": {
     "status": "To Be Determined"
    },
