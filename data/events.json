@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T21:37:19Z",
+ "generated_at": "2026-10-22T10:30:50Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 112
+   "count": 111
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261021.html"
  },
  "stats": {
-  "total": 142,
-  "upcoming": 139,
+  "total": 141,
+  "upcoming": 140,
   "poland": 34,
-  "new_today": 3,
+  "new_today": 1,
   "by_category": {
    "sky": 110,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "pierwsza-kwadra-2026-10-18-3148c105",
-   "title": {
-    "pl": "Pierwsza kwadra",
-    "en": "First Quarter"
-   },
-   "starts_at": "2026-10-18T16:12:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 1,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Strzelca. Odległość od Ziemi: 403 318 km.",
-    "en": "The Moon reaches first quarter in Sagittarius. Distance from Earth: 403,318 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Pierwsza kwadra",
-     "en": "First Quarter"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 15° nad polskim horyzontem.",
-     "en": "The Moon climbs 15° above the Polish horizon."
-    },
-    "max_altitude": 15.3,
-    "best_time": "2026-10-18T17:00:00Z"
-   }
-  },
   {
    "id": "maksimum-roju-orionidy-2026-10-21-f7e48ccc",
    "title": {
@@ -243,76 +178,12 @@
    }
   },
   {
-   "id": "neo-3753695-2026-10-21",
-   "title": {
-    "pl": "Przelot planetoidy 2016 LN1",
-    "en": "Asteroid 2016 LN1 passes by"
-   },
-   "starts_at": "2026-10-21T19:53:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 281–628 m minie Ziemię w odległości 30,29 mln km, czyli 78,8 odległości Ziemia–Księżyc, z prędkością 14,1 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 281–628 m will pass Earth at 30.29 million km, or 78.8 times the Earth–Moon distance, travelling at 14.1 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3753695"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-16",
-   "extra": {
-    "miss_distance_km": 30294985,
-    "lunar_distances": 78.81,
-    "diameter_m": [
-     281,
-     628
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-f6af629d-39b5-4f86-bc0c-f8776444a858",
    "title": {
     "pl": "Falcon 9 Block 5 | Starlink Group 15-15",
     "en": "Falcon 9 Block 5 | Starlink Group 15-15"
    },
-   "starts_at": "2026-10-21T23:22:34Z",
+   "starts_at": "2026-10-22T22:40:24Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 1,
@@ -359,8 +230,8 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-21T23:02:41Z",
-   "updated_on": "2026-10-21",
+   "rescheduled_from": "2026-10-21T23:22:34Z",
+   "updated_on": "2026-10-22",
    "poland": {
     "visible": false
    }
@@ -371,7 +242,7 @@
     "pl": "Electron | We're Not Hawking Around (3x HawkEye 360)",
     "en": "Electron | We're Not Hawking Around (3x HawkEye 360)"
    },
-   "starts_at": "2026-10-22T07:00:00Z",
+   "starts_at": "2026-10-23T07:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -418,6 +289,8 @@
    "extra": {
     "status": "To Be Confirmed"
    },
+   "rescheduled_from": "2026-10-22T07:00:00Z",
+   "updated_on": "2026-10-22",
    "poland": {
     "visible": false
    }
@@ -594,60 +467,61 @@
    }
   },
   {
-   "id": "ll2-e2886a96-5ce9-4f45-872f-4e25a00be837",
+   "id": "neo-3114028-2026-10-25",
    "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-16",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-16"
+    "pl": "Przelot planetoidy 2002 CN15",
+    "en": "Asteroid 2002 CN15 passes by"
    },
-   "starts_at": "2026-10-25T05:14:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
+   "starts_at": "2026-10-25T11:48:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Planetoida o średnicy szacowanej na 184–411 m minie Ziemię w odległości 22,22 mln km, czyli 57,8 odległości Ziemia–Księżyc, z prędkością 26,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 184–411 m will pass Earth at 22.22 million km, or 57.8 times the Earth–Moon distance, travelling at 26.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
    },
    "tags": [
     {
-     "pl": "start rakiety",
-     "en": "rocket launch"
+     "pl": "planetoida",
+     "en": "asteroid"
     },
     {
-     "pl": "SpaceX",
-     "en": "SpaceX"
+     "pl": "NEO",
+     "en": "NEO"
     }
    ],
    "links": [
     {
      "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
      },
-     "url": "https://thespacedevs.com/2.3.0/launches/e2886a96-5ce9-4f45-872f-4e25a00be837/"
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3114028"
     },
     {
      "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
      },
-     "url": "https://spacelaunchnow.me/"
+     "url": "https://cneos.jpl.nasa.gov/ca/"
     }
    ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
+   "location": null,
    "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
    },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-13",
+   "source_id": "neows",
+   "added_on": "2026-10-22",
    "extra": {
-    "status": "Go for Launch"
+    "miss_distance_km": 22219932,
+    "lunar_distances": 57.8,
+    "diameter_m": [
+     184,
+     411
+    ],
+    "hazardous": false
    },
-   "rescheduled_from": "2026-10-24T05:29:00Z",
-   "updated_on": "2026-10-21",
    "poland": {
     "visible": false
    }
@@ -715,6 +589,65 @@
     },
     "max_altitude": 58.9,
     "best_time": "2026-10-26T23:00:00Z"
+   }
+  },
+  {
+   "id": "ll2-e2886a96-5ce9-4f45-872f-4e25a00be837",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-16",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-16"
+   },
+   "starts_at": "2026-10-26T05:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/e2886a96-5ce9-4f45-872f-4e25a00be837/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-13",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-10-25T05:14:00Z",
+   "updated_on": "2026-10-22",
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -825,7 +758,7 @@
    "source_id": "neows",
    "added_on": "2026-10-19",
    "extra": {
-    "miss_distance_km": 12978702,
+    "miss_distance_km": 12978705,
     "lunar_distances": 33.76,
     "diameter_m": [
      332,
@@ -892,63 +825,6 @@
      721
     ],
     "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-57ce0a39-d035-4f16-a418-bd6108f78199",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-18",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-18"
-   },
-   "starts_at": "2026-10-28T04:31:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/57ce0a39-d035-4f16-a418-bd6108f78199/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-19",
-   "extra": {
-    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -1071,6 +947,65 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-57ce0a39-d035-4f16-a418-bd6108f78199",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-18",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-18"
+   },
+   "starts_at": "2026-10-29T04:17:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/57ce0a39-d035-4f16-a418-bd6108f78199/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-19",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-10-28T04:31:00Z",
+   "updated_on": "2026-10-22",
    "poland": {
     "visible": false
    }
