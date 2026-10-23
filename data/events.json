@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T21:30:52Z",
+ "generated_at": "2026-10-23T10:25:42Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 111
+   "count": 112
   },
   {
    "id": "launchlibrary",
@@ -51,23 +51,23 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...",
-  "link": "https://apod.nasa.gov/apod/ap261022.html"
+  "explanation": "Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing detail as it climbed above rolling Australian hills. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, but is only visible to the unaided eye as a small, faint, fuzzy patch. Digitally tracked and stacked frames were combined with a foreground shot in the deep astro-image composite to reveal the galaxy's greater extent in planet Earth's night. In the springtime night skyscape,the closest large spiral galaxy spans nearly 6 full moons.Tomorrow's picture: pixels in space",
+  "link": "https://apod.nasa.gov/apod/ap261023.html"
  },
  "stats": {
-  "total": 141,
-  "upcoming": 140,
-  "poland": 34,
-  "new_today": 2,
+  "total": 142,
+  "upcoming": 141,
+  "poland": 35,
+  "new_today": 3,
   "by_category": {
-   "sky": 110,
+   "sky": 111,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 5,
@@ -178,177 +178,6 @@
    }
   },
   {
-   "id": "ll2-f6af629d-39b5-4f86-bc0c-f8776444a858",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-15",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-15"
-   },
-   "starts_at": "2026-10-22T22:51:18Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-12",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-7766f3bb-674c-4c71-b986-963bd633fcfe",
-   "title": {
-    "pl": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-    "en": "Electron | We're Not Hawking Around (3x HawkEye 360)"
-   },
-   "starts_at": "2026-10-23T07:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin do potwierdzenia. Misja: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO). Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Rocket Lab",
-     "en": "Rocket Lab"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/7766f3bb-674c-4c71-b986-963bd633fcfe/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-13",
-   "extra": {
-    "status": "To Be Confirmed"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-9648124f-8568-46d2-86d7-4b4d6f12187f",
-   "title": {
-    "pl": "Long March 6A | Unknown Payload",
-    "en": "Long March 6A | Unknown Payload"
-   },
-   "starts_at": "2026-10-23T10:15:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 6A – China Aerospace Science and Technology Corporation. Miejsce: Taiyuan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 6A, operated by China Aerospace Science and Technology Corporation. Site: Taiyuan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/9648124f-8568-46d2-86d7-4b4d6f12187f/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Taiyuan Satellite Launch Center, People's Republic of China",
-    "en": "Taiyuan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-17",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-3621085f-deae-4f89-bd54-c0f96ee44421",
    "title": {
     "pl": "Long March 4B | Unknown Payload",
@@ -401,6 +230,65 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-f6af629d-39b5-4f86-bc0c-f8776444a858",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-15",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-15"
+   },
+   "starts_at": "2026-10-23T21:30:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-12",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-10-22T22:51:18Z",
+   "updated_on": "2026-10-23",
    "poland": {
     "visible": false
    }
@@ -752,7 +640,7 @@
    "source_id": "neows",
    "added_on": "2026-10-19",
    "extra": {
-    "miss_distance_km": 12978705,
+    "miss_distance_km": 12978706,
     "lunar_distances": 33.76,
     "diameter_m": [
      332,
@@ -1008,13 +896,13 @@
     "pl": "GSLV Mk II | IRNSS-1L (NVS-03)",
     "en": "GSLV Mk II | IRNSS-1L (NVS-03)"
    },
-   "starts_at": "2026-10-30T00:00:00Z",
+   "starts_at": "2026-10-30T17:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin do potwierdzenia. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1053,10 +941,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-09-23",
    "extra": {
-    "status": "To Be Determined"
+    "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-10-31T00:00:00Z",
-   "updated_on": "2026-10-22",
+   "rescheduled_from": "2026-10-30T00:00:00Z",
+   "updated_on": "2026-10-23",
    "poland": {
     "visible": false
    }
@@ -1325,7 +1213,7 @@
     "pl": "Electron | The Sea God Surveys (iQPS Launch 9)",
     "en": "Electron | The Sea God Surveys (iQPS Launch 9)"
    },
-   "starts_at": "2026-11-04T00:00:00Z",
+   "starts_at": "2026-11-03T00:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -1372,6 +1260,8 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "rescheduled_from": "2026-11-04T00:00:00Z",
+   "updated_on": "2026-10-23",
    "poland": {
     "visible": false
    }
@@ -1509,8 +1399,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-10T00:00:00Z",
-   "updated_on": "2026-10-22",
    "poland": {
     "visible": false
    }
@@ -3365,8 +3253,8 @@
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: First two satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: First two satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -3422,8 +3310,8 @@
    "subcategory": "rocket",
    "importance": 4,
    "summary": {
-    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -3465,6 +3353,124 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-22",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff",
+   "title": {
+    "pl": "LVM-3 | GSAT-32 (GSAT-N3)",
+    "en": "LVM-3 | GSAT-32 (GSAT-N3)"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Indian Space Research Organization",
+     "en": "Indian Space Research Organization"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Satish Dhawan Space Centre, India",
+    "en": "Satish Dhawan Space Centre, India"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-23",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-a5e81552-ecdd-4d89-b6bd-b594e22ca891",
+   "title": {
+    "pl": "New Glenn | Blue Ring-1",
+    "en": "New Glenn | Blue Ring-1"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety New Glenn – Blue Origin. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: The first mission of Blue Ring, Blue Origin's all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft's operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO).\r\n\r\nIt will carry one of Scout Space's flagship next-generation space domain awareness (SDA) Owl sensors, which is designed to enhance real-time tracking, characterization, and assessment of space objects by integrating advanced optical sensing, onboard artificial intelligence-driven processing, and autonomous decision-making capabilities to deliver domain-wide intelligence in space in support of the U.S. Space Force’s space control mission set.\r\n\r\nBlue Ring will also carry Optimum Technologies (OpTech)'s next-generation Caracal optical payload, which is designed to provide actionable insights on resident space objects and orbital activity and includes onboard image storage, object detection algorithms, and passive thermal control. The payload is designed to operate flexibly across dynamic orbits over a year-long mission profile.\r\n\r\nSeveral internal Blue Origin payloads will also be hosted. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of New Glenn, operated by Blue Origin. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: The first mission of Blue Ring, Blue Origin's all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft's operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO).\r\n\r\nIt will carry one of Scout Space's flagship next-generation space domain awareness (SDA) Owl sensors, which is designed to enhance real-time tracking, characterization, and assessment of space objects by integrating advanced optical sensing, onboard artificial intelligence-driven processing, and autonomous decision-making capabilities to deliver domain-wide intelligence in space in support of the U.S. Space Force’s space control mission set.\r\n\r\nBlue Ring will also carry Optimum Technologies (OpTech)'s next-generation Caracal optical payload, which is designed to provide actionable insights on resident space objects and orbital activity and includes onboard image storage, object detection algorithms, and passive thermal control. The payload is designed to operate flexibly across dynamic orbits over a year-long mission profile.\r\n\r\nSeveral internal Blue Origin payloads will also be hosted. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Blue Origin",
+     "en": "Blue Origin"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/a5e81552-ecdd-4d89-b6bd-b594e22ca891/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-23",
    "extra": {
     "status": "To Be Determined"
    },
@@ -9171,6 +9177,74 @@
     },
     "max_altitude": 42.2,
     "best_time": "2027-11-22T05:30:00Z"
+   }
+  },
+  {
+   "id": "koniunkcja-wenus-i-marsa-2027-11-25-96d695a5",
+   "title": {
+    "pl": "Koniunkcja Wenus i Marsa",
+    "en": "Conjunction of Venus and Mars"
+   },
+   "starts_at": "2027-11-25T01:00:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 4,
+   "summary": {
+    "pl": "Dwie planety dzieli na niebie zaledwie 19′ – to mniej niż szerokość palca wyciągniętej ręki. Zjawisko widoczne wieczorem, po zachodzie Słońca, w gwiazdozbiorze Skorpiona. Odległość od Słońca na niebie: 27°.",
+    "en": "Only 19′ separates the two planets – less than the width of a finger at arm's length. Visible in the evening, after sunset, in Scorpius. Angular distance from the Sun: 27°."
+   },
+   "tags": [
+    {
+     "pl": "Wenus",
+     "en": "Venus"
+    },
+    {
+     "pl": "Mars",
+     "en": "Mars"
+    },
+    {
+     "pl": "koniunkcja",
+     "en": "conjunction"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-23",
+   "extra": {
+    "separation_deg": 0.31,
+    "bodies": [
+     "Venus",
+     "Mars"
+    ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 7° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 7° above the horizon."
+    },
+    "max_altitude": 7.1,
+    "best_time": "2027-11-25T14:50:00Z"
    }
   }
  ]
