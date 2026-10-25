@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T20:43:18Z",
+ "generated_at": "2026-10-25T10:03:54Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,11 +63,11 @@
  },
  "stats": {
   "total": 142,
-  "upcoming": 141,
+  "upcoming": 142,
   "poland": 35,
-  "new_today": 2,
+  "new_today": 4,
   "by_category": {
-   "sky": 111,
+   "sky": 112,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 5,
@@ -97,143 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "maksimum-roju-orionidy-2026-10-21-f7e48ccc",
-   "title": {
-    "pl": "Maksimum roju Orionidy",
-    "en": "Orionids meteor shower peak"
-   },
-   "starts_at": "2026-10-21T02:00:00Z",
-   "category": "sky",
-   "subcategory": "meteors",
-   "importance": 4,
-   "summary": {
-    "pl": "Druga w roku porcja pyłu z komety Halleya, z szybkimi i jasnymi meteorami. W maksimum teoretycznie do 20 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Oriona. Niestety Księżyc będzie oświetlony w 73% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.",
-    "en": "The year's second helping of dust from Halley's Comet, with fast, bright meteors. At maximum, up to 20 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Orion. Unfortunately the Moon will be 73% illuminated and will drown out the fainter meteors – it is worth observing after it sets. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights."
-   },
-   "tags": [
-    {
-     "pl": "meteory",
-     "en": "meteors"
-    },
-    {
-     "pl": "Orionidy",
-     "en": "Orionids"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Kalendarz rojów IMO",
-      "en": "IMO meteor shower calendar"
-     },
-     "url": "https://www.imo.net/resources/calendar/"
-    },
-    {
-     "label": {
-      "pl": "O roju – Wikipedia",
-      "en": "About the shower – Wikipedia"
-     },
-     "url": {
-      "pl": "https://pl.wikipedia.org/wiki/Orionidy",
-      "en": "https://en.wikipedia.org/wiki/Orionids"
-     }
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "zhr": 20,
-    "moon_illumination": 0.73,
-    "radiant_ra": 6.35,
-    "radiant_dec": 16
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Radiant wznosi się 54° nad horyzont – rój jest z Polski dobrze ustawiony.",
-     "en": "The radiant climbs 54° above the horizon – the shower is well placed for Poland."
-    },
-    "max_altitude": 54.0,
-    "best_time": "2026-10-22T03:00:00Z"
-   }
-  },
-  {
-   "id": "ll2-6b95bcc8-1f88-4539-84fe-f63630138766",
-   "title": {
-    "pl": "Long March 8A | Unknown Payload",
-    "en": "Long March 8A | Unknown Payload"
-   },
-   "starts_at": "2026-10-25T01:50:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/6b95bcc8-1f88-4539-84fe-f63630138766/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Wenchang Space Launch Site, People's Republic of China",
-    "en": "Wenchang Space Launch Site, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-15",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "pelnia-ksiezyca-2026-10-26-c9e3d1a1",
    "title": {
@@ -407,7 +270,7 @@
    "source_id": "neows",
    "added_on": "2026-10-19",
    "extra": {
-    "miss_distance_km": 12978706,
+    "miss_distance_km": 12978707,
     "lunar_distances": 33.76,
     "diameter_m": [
      332,
@@ -471,66 +334,6 @@
    "added_on": "2026-10-13",
    "extra": {
     "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-3159894-2026-10-28",
-   "title": {
-    "pl": "Przelot planetoidy 2003 RL10",
-    "en": "Asteroid 2003 RL10 passes by"
-   },
-   "starts_at": "2026-10-28T01:25:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 323–721 m minie Ziemię w odległości 33,83 mln km, czyli 88,0 odległości Ziemia–Księżyc, z prędkością 14,5 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 323–721 m will pass Earth at 33.83 million km, or 88.0 times the Earth–Moon distance, travelling at 14.5 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3159894"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-21",
-   "extra": {
-    "miss_distance_km": 33830447,
-    "lunar_distances": 88.01,
-    "diameter_m": [
-     323,
-     721
-    ],
-    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -768,18 +571,18 @@
    }
   },
   {
-   "id": "neo-3384068-2026-10-31",
+   "id": "neo-3255980-2026-11-01",
    "title": {
-    "pl": "Przelot planetoidy 2007 RV9",
-    "en": "Asteroid 2007 RV9 passes by"
+    "pl": "Przelot planetoidy 2004 TP1",
+    "en": "Asteroid 2004 TP1 passes by"
    },
-   "starts_at": "2026-10-31T03:54:00Z",
+   "starts_at": "2026-11-01T02:13:00Z",
    "category": "asteroid",
    "subcategory": "close-approach",
-   "importance": 3,
+   "importance": 2,
    "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 227–508 m minie Ziemię w odległości 15,58 mln km, czyli 40,5 odległości Ziemia–Księżyc, z prędkością 13,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 227–508 m will pass Earth at 15.58 million km, or 40.5 times the Earth–Moon distance, travelling at 13.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+    "pl": "Planetoida o średnicy szacowanej na 193–431 m minie Ziemię w odległości 9,30 mln km, czyli 24,2 odległości Ziemia–Księżyc, z prędkością 12,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 193–431 m will pass Earth at 9.30 million km, or 24.2 times the Earth–Moon distance, travelling at 12.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
    },
    "tags": [
     {
@@ -801,7 +604,7 @@
       "pl": "Karta obiektu w bazie JPL",
       "en": "Object record in the JPL database"
      },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3384068"
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3255980"
     },
     {
      "label": {
@@ -817,13 +620,77 @@
     "en": "NASA NeoWs / CNEOS"
    },
    "source_id": "neows",
-   "added_on": "2026-10-24",
+   "added_on": "2026-10-25",
    "extra": {
-    "miss_distance_km": 15576264,
-    "lunar_distances": 40.52,
+    "miss_distance_km": 9300135,
+    "lunar_distances": 24.19,
     "diameter_m": [
-     227,
-     508
+     193,
+     431
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-2612856-2026-11-01",
+   "title": {
+    "pl": "Przelot planetoidy 612856 (2004 TP1)",
+    "en": "Asteroid 612856 (2004 TP1) passes by"
+   },
+   "starts_at": "2026-11-01T02:13:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 188–421 m minie Ziemię w odległości 9,30 mln km, czyli 24,2 odległości Ziemia–Księżyc, z prędkością 12,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 188–421 m will pass Earth at 9.30 million km, or 24.2 times the Earth–Moon distance, travelling at 12.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2612856"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-25",
+   "extra": {
+    "miss_distance_km": 9300212,
+    "lunar_distances": 24.19,
+    "diameter_m": [
+     188,
+     421
     ],
     "hazardous": true
    },
@@ -3469,6 +3336,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-23",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+   "title": {
+    "pl": "Falcon 9 Block 5 | CHORUS",
+    "en": "Falcon 9 Block 5 | CHORUS"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-25",
    "extra": {
     "status": "To Be Determined"
    },
@@ -9243,6 +9167,69 @@
     },
     "max_altitude": 7.1,
     "best_time": "2027-11-25T14:50:00Z"
+   }
+  },
+  {
+   "id": "now-2027-11-28-cb433cdc",
+   "title": {
+    "pl": "Nów",
+    "en": "New Moon"
+   },
+   "starts_at": "2027-11-28T03:24:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 388 429 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.",
+    "en": "The Moon reaches its new phase in Scorpius. Distance from Earth: 388,429 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Nów",
+     "en": "New Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-25",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Bezksiężycowe noce nad Polską – najlepszy moment na ciemne niebo.",
+     "en": "Moonless nights over Poland – the best chance of a truly dark sky."
+    }
    }
   }
  ]
