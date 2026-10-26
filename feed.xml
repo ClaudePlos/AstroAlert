@@ -4,7 +4,17 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 11:27:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 17:38:41 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-01ca3653-126a-4c01-94fb-a9467b39cdac</link>
+    <guid isPermaLink="false">ll2-01ca3653-126a-4c01-94fb-a9467b39cdac</guid>
+    <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Inmarsat-7 is the seventh generation of satellites for the London-based global mobile satellite communications operator Inmarsat. The three satellites of the series - GX-7, 8 &amp;amp; 9 - will have an improved fully reconfigurable Ka-band payload for Inmarsat's Global Xpress services. They are optimized for real-time mobility and feature thousands of dynamically-formed beams that direct capacity with laser-like precision over high-demand areas, to provide HTS (High Throughput) broadband connectivity for the mobility market.
+
+The satellites will be based on Airbus’ new standard and fully reconfigurable satellite product line OneSat. Fully reconfigurable and featuring on board processing and active antennas, the three Ka-band spacecraft will be able to adjust their coverage, capacity and frequency. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/01ca3653-126a-4c01-94fb-a9467b39cdac/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 524522 Zoozve (2002 VE68)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2524522-2026-11-02</link>
@@ -273,7 +283,7 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <guid isPermaLink="false">ll2-20d5676e-111b-40e3-8923-b218c3665ca2</guid>
     <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.10.2026, 17:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin do potwierdzenia. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/20d5676e-111b-40e3-8923-b218c3665ca2/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;30.10.2026, 18:21 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: potwierdzony. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/20d5676e-111b-40e3-8923-b218c3665ca2/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
@@ -330,13 +340,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;18.10.2027, 00:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Saturn znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 8,35 au (1 249 mln km, światło leci stamtąd 69 minut). Planeta jest w gwiazdozbiorze Ryb. Nawet mały teleskop pokaże pierścienie.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Pełnia Księżyca</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pelnia-ksiezyca-2027-10-15-e29aca2e</link>
-    <guid isPermaLink="false">pelnia-ksiezyca-2027-10-15-e29aca2e</guid>
-    <pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;15.10.2027, 13:53 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pełni w gwiazdozbiorze Ryb. Odległość od Ziemi: 390 241 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

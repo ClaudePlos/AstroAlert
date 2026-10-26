@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:27:20Z",
+ "generated_at": "2026-10-26T17:38:41Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 142,
   "upcoming": 140,
   "poland": 35,
-  "new_today": 1,
+  "new_today": 2,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -402,13 +402,13 @@
     "pl": "GSLV Mk II | IRNSS-1L (NVS-03)",
     "en": "GSLV Mk II | IRNSS-1L (NVS-03)"
    },
-   "starts_at": "2026-10-30T17:00:00Z",
+   "starts_at": "2026-10-30T18:21:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin do potwierdzenia. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: potwierdzony. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -447,65 +447,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-09-23",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-dc570565-4dcf-4ab9-8174-bf88efef477f",
-   "title": {
-    "pl": "Long March 12A | Flight 2",
-    "en": "Long March 12A | Flight 2"
-   },
-   "starts_at": "2026-10-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 12A – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 12A, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: date to be determined. Mission: Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/dc570565-4dcf-4ab9-8174-bf88efef477f/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-08-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
+   "rescheduled_from": "2026-10-30T17:00:00Z",
+   "updated_on": "2026-10-26",
    "poland": {
     "visible": false
    }
@@ -3397,6 +3342,67 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-25",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-01ca3653-126a-4c01-94fb-a9467b39cdac",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+    "en": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 5,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Inmarsat-7 is the seventh generation of satellites for the London-based global mobile satellite communications operator Inmarsat. The three satellites of the series - GX-7, 8 & 9 - will have an improved fully reconfigurable Ka-band payload for Inmarsat's Global Xpress services. They are optimized for real-time mobility and feature thousands of dynamically-formed beams that direct capacity with laser-like precision over high-demand areas, to provide HTS (High Throughput) broadband connectivity for the mobility market.\r\n\r\nThe satellites will be based on Airbus’ new standard and fully reconfigurable satellite product line OneSat. Fully reconfigurable and featuring on board processing and active antennas, the three Ka-band spacecraft will be able to adjust their coverage, capacity and frequency. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Inmarsat-7 is the seventh generation of satellites for the London-based global mobile satellite communications operator Inmarsat. The three satellites of the series - GX-7, 8 & 9 - will have an improved fully reconfigurable Ka-band payload for Inmarsat's Global Xpress services. They are optimized for real-time mobility and feature thousands of dynamically-formed beams that direct capacity with laser-like precision over high-demand areas, to provide HTS (High Throughput) broadband connectivity for the mobility market.\r\n\r\nThe satellites will be based on Airbus’ new standard and fully reconfigurable satellite product line OneSat. Fully reconfigurable and featuring on board processing and active antennas, the three Ka-band spacecraft will be able to adjust their coverage, capacity and frequency. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "Mars",
+     "en": "Mars"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/01ca3653-126a-4c01-94fb-a9467b39cdac/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-26",
    "extra": {
     "status": "To Be Determined"
    },
