@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 22:08:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 11:31:49 +0000</lastBuildDate>
+  <item>
+    <title>Opozycja Urana</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#opozycja-urana-2027-11-30-50b6c0e7</link>
+    <guid isPermaLink="false">opozycja-urana-2027-11-30-50b6c0e7</guid>
+    <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Niebo nad nami</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2027, 09:39 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Uran znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 18,36 au (2 747 mln km, światło leci stamtąd 153 minut). Planeta jest w gwiazdozbiorze Byka. Na granicy widoczności gołym okiem, łatwy przez lornetkę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Zbliżenie Księżyca i Wenus</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#zblizenie-ksiezyca-i-wenus-2027-11-30-2e6e6800</link>
@@ -332,13 +340,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;21.10.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Druga w roku porcja pyłu z komety Halleya, z szybkimi i jasnymi meteorami. W maksimum teoretycznie do 20 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Oriona. Niestety Księżyc będzie oświetlony w 68% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;Kalendarz rojów IMO&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pl.wikipedia.org/wiki/Orionidy&quot;&gt;O roju – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Ariane 62 | Metop-SG B1</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-22e117bf-041c-49d5-9d09-7b180036e143</link>
-    <guid isPermaLink="false">ll2-22e117bf-041c-49d5-9d09-7b180036e143</guid>
-    <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Ariane 62 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Second of EUMETSAT's second generation of Metop weather satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/22e117bf-041c-49d5-9d09-7b180036e143/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 27 Oct 2026 22:08:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 11:31:49 +0000</lastBuildDate>
+  <item>
+    <title>Uranus at opposition</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#opozycja-urana-2027-11-30-50b6c0e7</link>
+    <guid isPermaLink="false">opozycja-urana-2027-11-30-50b6c0e7</guid>
+    <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2027, 09:39 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Uranus lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 18.36 au (2,747 million km; its light takes 153 minutes to reach us). The planet is in Taurus. At the edge of naked-eye visibility, easy in binoculars.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>The Moon meets Venus</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-wenus-2027-11-30-2e6e6800</link>
@@ -332,13 +340,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;21.10.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The year's second helping of dust from Halley's Comet, with fast, bright meteors. At maximum, up to 20 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Orion. Unfortunately the Moon will be 68% illuminated and will drown out the fainter meteors – it is worth observing after it sets. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;IMO meteor shower calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Orionids&quot;&gt;About the shower – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Ariane 62 | Metop-SG B1</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-22e117bf-041c-49d5-9d09-7b180036e143</link>
-    <guid isPermaLink="false">ll2-22e117bf-041c-49d5-9d09-7b180036e143</guid>
-    <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Ariane 62, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Second of EUMETSAT's second generation of Metop weather satellites. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/22e117bf-041c-49d5-9d09-7b180036e143/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T22:08:48Z",
+ "generated_at": "2026-10-28T11:31:49Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 115
   },
   {
    "id": "launchlibrary",
@@ -62,12 +62,12 @@
   "link": "https://apod.nasa.gov/apod/ap261023.html"
  },
  "stats": {
-  "total": 144,
-  "upcoming": 143,
-  "poland": 35,
-  "new_today": 5,
+  "total": 145,
+  "upcoming": 144,
+  "poland": 36,
+  "new_today": 1,
   "by_category": {
-   "sky": 113,
+   "sky": 114,
    "launch": 25,
    "spaceweather": 0,
    "asteroid": 5,
@@ -1040,8 +1040,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-05T05:14:00Z",
-   "updated_on": "2026-10-27",
    "poland": {
     "visible": false
    }
@@ -9308,6 +9306,67 @@
     },
     "max_altitude": 7.0,
     "best_time": "2027-11-30T15:20:00Z"
+   }
+  },
+  {
+   "id": "opozycja-urana-2027-11-30-50b6c0e7",
+   "title": {
+    "pl": "Opozycja Urana",
+    "en": "Uranus at opposition"
+   },
+   "starts_at": "2027-11-30T09:39:00Z",
+   "category": "sky",
+   "subcategory": "opposition",
+   "importance": 3,
+   "summary": {
+    "pl": "Uran znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 18,36 au (2 747 mln km, światło leci stamtąd 153 minut). Planeta jest w gwiazdozbiorze Byka. Na granicy widoczności gołym okiem, łatwy przez lornetkę.",
+    "en": "Uranus lies opposite the Sun – it rises at sunset, culminates around midnight and shines at its brightest of the season. Distance from Earth: 18.36 au (2,747 million km; its light takes 153 minutes to reach us). The planet is in Taurus. At the edge of naked-eye visibility, easy in binoculars."
+   },
+   "tags": [
+    {
+     "pl": "Uran",
+     "en": "Uranus"
+    },
+    {
+     "pl": "opozycja",
+     "en": "opposition"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-10-28",
+   "extra": {
+    "distance_au": 18.361,
+    "body": "Uranus"
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Planeta góruje 60° nad polskim horyzontem – warunki są dobre.",
+     "en": "The planet culminates 60° above the Polish horizon – conditions are good."
+    },
+    "max_altitude": 59.5,
+    "best_time": "2027-11-30T22:30:00Z"
    }
   },
   {
