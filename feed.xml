@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 22:31:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 11:41:03 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | OneWeb 21</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c</link>
+    <guid isPermaLink="false">ll2-b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c</guid>
+    <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: A batch of 32 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Przelot planetoidy 2017 WJ2</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3789540-2026-11-05</link>
+    <guid isPermaLink="false">neo-3789540-2026-11-05</guid>
+    <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;05.11.2026, 04:22 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 88–197 m minie Ziemię w odległości 5,98 mln km, czyli 15,6 odległości Ziemia–Księżyc, z prędkością 11,8 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789540&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Opozycja Urana</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#opozycja-urana-2027-11-30-50b6c0e7</link>
@@ -90,14 +106,6 @@ The constellation will eventually consists of 13000 satellites. Terminy startów
     <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 03:54 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 227–508 m minie Ziemię w odległości 15,58 mln km, czyli 40,5 odległości Ziemia–Księżyc, z prędkością 13,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3384068&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Przelot planetoidy 2018 GS1</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3802428-2026-10-28</link>
-    <guid isPermaLink="false">neo-3802428-2026-10-28</guid>
-    <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.10.2026, 16:15 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 81–180 m minie Ziemię w odległości 4,24 mln km, czyli 11,0 odległości Ziemia–Księżyc, z prędkością 9,3 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3802428&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Falcon 9 Block 5 | USSF-432</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae</link>
     <guid isPermaLink="false">ll2-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae</guid>
@@ -154,14 +162,6 @@ The first astronaut from Pakistan is expected to fly on this on a short duration
     <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;25.11.2027, 01:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dwie planety dzieli na niebie zaledwie 19′ – to mniej niż szerokość palca wyciągniętej ręki. Zjawisko widoczne wieczorem, po zachodzie Słońca, w gwiazdozbiorze Skorpiona. Odległość od Słońca na niebie: 27°.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon Heavy | Griffin Mission One</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</link>
-    <guid isPermaLink="false">ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67</guid>
-    <pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Mir | Demo Flight</title>

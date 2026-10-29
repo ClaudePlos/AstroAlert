@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T22:31:02Z",
+ "generated_at": "2026-10-29T11:41:03Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 146,
-  "upcoming": 144,
+  "upcoming": 145,
   "poland": 36,
-  "new_today": 6,
+  "new_today": 2,
   "by_category": {
    "sky": 114,
    "launch": 25,
    "spaceweather": 1,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -160,66 +160,6 @@
     },
     "max_altitude": 58.9,
     "best_time": "2026-10-26T23:00:00Z"
-   }
-  },
-  {
-   "id": "neo-3802428-2026-10-28",
-   "title": {
-    "pl": "Przelot planetoidy 2018 GS1",
-    "en": "Asteroid 2018 GS1 passes by"
-   },
-   "starts_at": "2026-10-28T16:15:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 81–180 m minie Ziemię w odległości 4,24 mln km, czyli 11,0 odległości Ziemia–Księżyc, z prędkością 9,3 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 81–180 m will pass Earth at 4.24 million km, or 11.0 times the Earth–Moon distance, travelling at 9.3 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3802428"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-27",
-   "extra": {
-    "miss_distance_km": 4240878,
-    "lunar_distances": 11.03,
-    "diameter_m": [
-     81,
-     180
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -401,8 +341,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-30T04:02:00Z",
-   "updated_on": "2026-10-28",
    "poland": {
     "visible": false
    }
@@ -717,8 +655,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-11-03T00:00:00Z",
-   "updated_on": "2026-10-28",
    "poland": {
     "visible": false
    }
@@ -1033,8 +969,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-02T01:56:00Z",
-   "updated_on": "2026-10-28",
    "poland": {
     "visible": false
    }
@@ -1092,8 +1026,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-11-30T00:00:00Z",
-   "updated_on": "2026-10-28",
    "poland": {
     "visible": false
    }
@@ -1236,6 +1168,66 @@
    }
   },
   {
+   "id": "neo-3789540-2026-11-05",
+   "title": {
+    "pl": "Przelot planetoidy 2017 WJ2",
+    "en": "Asteroid 2017 WJ2 passes by"
+   },
+   "starts_at": "2026-11-05T04:22:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 88–197 m minie Ziemię w odległości 5,98 mln km, czyli 15,6 odległości Ziemia–Księżyc, z prędkością 11,8 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 88–197 m will pass Earth at 5.98 million km, or 15.6 times the Earth–Moon distance, travelling at 11.8 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789540"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-29",
+   "extra": {
+    "miss_distance_km": 5983816,
+    "lunar_distances": 15.57,
+    "diameter_m": [
+     88,
+     197
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-a2423132-f965-423f-8b03-6891b775dc54",
    "title": {
     "pl": "Long March 12 | SatNet LEO Group TBD?",
@@ -1345,8 +1337,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-05T02:35:00Z",
-   "updated_on": "2026-10-28",
    "poland": {
     "visible": false
    }
@@ -2333,6 +2323,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-20",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c",
+   "title": {
+    "pl": "Falcon 9 Block 5 | OneWeb 21",
+    "en": "Falcon 9 Block 5 | OneWeb 21"
+   },
+   "starts_at": "2026-11-30T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: A batch of 32 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: A batch of 32 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-29",
    "extra": {
     "status": "To Be Determined"
    },
@@ -3419,67 +3466,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-19",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
-   "title": {
-    "pl": "Falcon Heavy | Griffin Mission One",
-    "en": "Falcon Heavy | Griffin Mission One"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 4,
-   "summary": {
-    "pl": "Start rakiety Falcon Heavy – SpaceX. Miejsce: Kennedy Space Center, FL, USA. Status terminu: termin wstępny. Misja: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon Heavy, operated by SpaceX. Site: Kennedy Space Center, FL, USA. Schedule status: date to be determined. Mission: Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    },
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Kennedy Space Center, FL, USA",
-    "en": "Kennedy Space Center, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-22",
    "extra": {
     "status": "To Be Determined"
    },
