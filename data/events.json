@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:11:47Z",
+ "generated_at": "2026-10-30T22:14:45Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 145,
   "upcoming": 145,
   "poland": 36,
-  "new_today": 4,
+  "new_today": 5,
   "by_category": {
    "sky": 114,
    "launch": 25,
@@ -97,63 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "ll2-20d5676e-111b-40e3-8923-b218c3665ca2",
-   "title": {
-    "pl": "GSLV Mk II | IRNSS-1L (NVS-03)",
-    "en": "GSLV Mk II | IRNSS-1L (NVS-03)"
-   },
-   "starts_at": "2026-10-30T18:21:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety GSLV Mk. II – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: potwierdzony. Misja: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Indian Space Research Organization",
-     "en": "Indian Space Research Organization"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/20d5676e-111b-40e3-8923-b218c3665ca2/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Satish Dhawan Space Centre, India",
-    "en": "Satish Dhawan Space Centre, India"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-09-23",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-31-87ac5988",
    "title": {
@@ -276,8 +219,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-10-31T03:48:00Z",
-   "updated_on": "2026-10-30",
    "poland": {
     "visible": false
    }
@@ -1210,8 +1151,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-05T20:00:00Z",
-   "updated_on": "2026-10-30",
    "poland": {
     "visible": false
    }
@@ -3406,6 +3345,67 @@
     },
     "max_altitude": 29.7,
     "best_time": "2026-12-31T04:40:00Z"
+   }
+  },
+  {
+   "id": "ll2-22e117bf-041c-49d5-9d09-7b180036e143",
+   "title": {
+    "pl": "Ariane 62 | Metop-SG B1",
+    "en": "Ariane 62 | Metop-SG B1"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 4,
+   "summary": {
+    "pl": "Start rakiety Ariane 62 – Arianespace. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: Second of EUMETSAT's second generation of Metop weather satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Ariane 62, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Second of EUMETSAT's second generation of Metop weather satellites. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Arianespace",
+     "en": "Arianespace"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/22e117bf-041c-49d5-9d09-7b180036e143/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Guiana Space Centre, French Guiana",
+    "en": "Guiana Space Centre, French Guiana"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-30",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {

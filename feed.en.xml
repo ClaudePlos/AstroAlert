@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 30 Oct 2026 17:11:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 22:14:45 +0000</lastBuildDate>
+  <item>
+    <title>Ariane 62 | Metop-SG B1</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-22e117bf-041c-49d5-9d09-7b180036e143</link>
+    <guid isPermaLink="false">ll2-22e117bf-041c-49d5-9d09-7b180036e143</guid>
+    <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Ariane 62, operated by Arianespace. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: Second of EUMETSAT's second generation of Metop weather satellites. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/22e117bf-041c-49d5-9d09-7b180036e143/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Long March 12 | SatNet LEO Group TBD?</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-5ce59e3a-c343-430f-ae4e-e608ba536754</link>
@@ -322,14 +330,6 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;29.10.2027, 13:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Libra. Distance from Earth: 377,230 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>GSLV Mk II | IRNSS-1L (NVS-03)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-20d5676e-111b-40e3-8923-b218c3665ca2</link>
-    <guid isPermaLink="false">ll2-20d5676e-111b-40e3-8923-b218c3665ca2</guid>
-    <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.10.2026, 18:21 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of GSLV Mk. II, operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: confirmed. Mission: This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/20d5676e-111b-40e3-8923-b218c3665ca2/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | Cygnus CRS-2 NG-25</title>
