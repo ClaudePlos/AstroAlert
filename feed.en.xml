@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 29 Oct 2026 22:41:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 11:33:15 +0000</lastBuildDate>
+  <item>
+    <title>Asteroid 2001 KF54 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3076814-2026-11-06</link>
+    <guid isPermaLink="false">neo-3076814-2026-11-06</guid>
+    <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;06.11.2026, 03:38 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 290–649 m will pass Earth at 7.24 million km, or 18.8 times the Earth–Moon distance, travelling at 16.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3076814&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | OneWeb 21</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c</link>
@@ -104,14 +112,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
     <description>&lt;p&gt;&lt;strong&gt;05.11.2026, 20:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.
 
 The constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a2423132-f965-423f-8b03-6891b775dc54/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 2007 RV9 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3384068-2026-10-31</link>
-    <guid isPermaLink="false">neo-3384068-2026-10-31</guid>
-    <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 03:54 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 227–508 m will pass Earth at 15.58 million km, or 40.5 times the Earth–Moon distance, travelling at 13.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3384068&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-432</title>
@@ -235,7 +235,7 @@ First orbital full version launch of the South Korean military small satellite l
     <guid isPermaLink="false">ll2-426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff</guid>
     <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;02.11.2026, 08:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;02.11.2026, 16:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Full Moon</title>

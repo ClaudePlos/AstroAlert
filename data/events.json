@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T22:41:58Z",
+ "generated_at": "2026-10-30T11:33:15Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 115
+   "count": 114
   },
   {
    "id": "launchlibrary",
@@ -62,10 +62,10 @@
   "link": "https://apod.nasa.gov/apod/ap261028.html"
  },
  "stats": {
-  "total": 146,
+  "total": 145,
   "upcoming": 145,
   "poland": 36,
-  "new_today": 3,
+  "new_today": 1,
   "by_category": {
    "sky": 114,
    "launch": 25,
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "pelnia-ksiezyca-2026-10-26-c9e3d1a1",
-   "title": {
-    "pl": "Pełnia Księżyca",
-    "en": "Full Moon"
-   },
-   "starts_at": "2026-10-26T04:19:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę pełni w gwiazdozbiorze Barana. Odległość od Ziemi: 369 304 km.",
-    "en": "The Moon reaches full phase in Aries. Distance from Earth: 369,304 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Pełnia Księżyca",
-     "en": "Full Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 59° nad polskim horyzontem.",
-     "en": "The Moon climbs 59° above the Polish horizon."
-    },
-    "max_altitude": 58.9,
-    "best_time": "2026-10-26T23:00:00Z"
-   }
-  },
   {
    "id": "ll2-20d5676e-111b-40e3-8923-b218c3665ca2",
    "title": {
@@ -346,70 +281,6 @@
    }
   },
   {
-   "id": "neo-3384068-2026-10-31",
-   "title": {
-    "pl": "Przelot planetoidy 2007 RV9",
-    "en": "Asteroid 2007 RV9 passes by"
-   },
-   "starts_at": "2026-10-31T03:54:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 227–508 m minie Ziemię w odległości 15,58 mln km, czyli 40,5 odległości Ziemia–Księżyc, z prędkością 13,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 227–508 m will pass Earth at 15.58 million km, or 40.5 times the Earth–Moon distance, travelling at 13.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3384068"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-27",
-   "extra": {
-    "miss_distance_km": 15576264,
-    "lunar_distances": 40.52,
-    "diameter_m": [
-     227,
-     508
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-3255980-2026-11-01",
    "title": {
     "pl": "Przelot planetoidy 2004 TP1",
@@ -525,7 +396,7 @@
    "source_id": "neows",
    "added_on": "2026-10-25",
    "extra": {
-    "miss_distance_km": 9300212,
+    "miss_distance_km": 9300213,
     "lunar_distances": 24.19,
     "diameter_m": [
      188,
@@ -603,63 +474,6 @@
    }
   },
   {
-   "id": "ll2-426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
-   "title": {
-    "pl": "Electron | The Sea God Surveys (iQPS Launch 9)",
-    "en": "Electron | The Sea God Surveys (iQPS Launch 9)"
-   },
-   "starts_at": "2026-11-02T08:45:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin do potwierdzenia. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Rocket Lab",
-     "en": "Rocket Lab"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-13",
-   "extra": {
-    "status": "To Be Confirmed"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "zblizenie-ksiezyca-i-marsa-2026-11-02-b0a1c7b3",
    "title": {
     "pl": "Zbliżenie Księżyca i Marsa",
@@ -725,6 +539,65 @@
     },
     "max_altitude": 50.3,
     "best_time": "2026-11-03T05:00:00Z"
+   }
+  },
+  {
+   "id": "ll2-426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
+   "title": {
+    "pl": "Electron | The Sea God Surveys (iQPS Launch 9)",
+    "en": "Electron | The Sea God Surveys (iQPS Launch 9)"
+   },
+   "starts_at": "2026-11-02T16:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin do potwierdzenia. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Rocket Lab",
+     "en": "Rocket Lab"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-13",
+   "extra": {
+    "status": "To Be Confirmed"
+   },
+   "rescheduled_from": "2026-11-02T08:45:00Z",
+   "updated_on": "2026-10-30",
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -1336,6 +1209,70 @@
    "added_on": "2026-10-19",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3076814-2026-11-06",
+   "title": {
+    "pl": "Przelot planetoidy 2001 KF54",
+    "en": "Asteroid 2001 KF54 passes by"
+   },
+   "starts_at": "2026-11-06T03:38:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 290–649 m minie Ziemię w odległości 7,24 mln km, czyli 18,8 odległości Ziemia–Księżyc, z prędkością 16,4 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 290–649 m will pass Earth at 7.24 million km, or 18.8 times the Earth–Moon distance, travelling at 16.4 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3076814"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-10-30",
+   "extra": {
+    "miss_distance_km": 7243784,
+    "lunar_distances": 18.84,
+    "diameter_m": [
+     290,
+     649
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -2326,8 +2263,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-11-30T00:00:00Z",
-   "updated_on": "2026-10-29",
    "poland": {
     "visible": false
    }
