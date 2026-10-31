@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 30 Oct 2026 22:14:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 11:07:29 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</link>
+    <guid isPermaLink="false">ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</guid>
+    <pubDate>Sat, 31 Oct 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71df1dd0-d658-4762-b0bc-0fca6886aea7/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Ariane 62 | Metop-SG B1</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-22e117bf-041c-49d5-9d09-7b180036e143</link>
@@ -114,14 +122,6 @@ The constellation will eventually consists of 13000 satellites. Launch dates sli
     <description>&lt;p&gt;&lt;strong&gt;03.11.2026, 00:10 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Kinetica 2, operated by CAS Space. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.
 
 Initial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>G1 geomagnetic storm – chance of aurora</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-31-87ac5988</link>
-    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-10-31-87ac5988</guid>
-    <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>The Moon meets Venus</title>
@@ -234,14 +234,6 @@ First orbital full version launch of the South Korean military small satellite l
     <description>&lt;p&gt;&lt;strong&gt;06.11.2026, 02:21 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Falcon 9 Block 5 | Starlink Group 15-18</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-57ce0a39-d035-4f16-a418-bd6108f78199</link>
-    <guid isPermaLink="false">ll2-57ce0a39-d035-4f16-a418-bd6108f78199</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.10.2026, 04:02 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/57ce0a39-d035-4f16-a418-bd6108f78199/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Last Quarter</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-11-21-76a4db87</link>
     <guid isPermaLink="false">ostatnia-kwadra-2027-11-21-76a4db87</guid>
@@ -338,5 +330,13 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;29.11.2026, 16:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be confirmed. Mission: This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d74afbc7-0de5-491c-be05-4e9c31f736ac/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Last Quarter</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-10-22-3c903b5c</link>
+    <guid isPermaLink="false">ostatnia-kwadra-2027-10-22-3c903b5c</guid>
+    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.10.2027, 17:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Gemini. Distance from Earth: 370,510 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
