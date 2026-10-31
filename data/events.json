@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T11:07:29Z",
+ "generated_at": "2026-10-31T16:19:09Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -364,13 +364,13 @@
     "pl": "Electron | The Sea God Surveys (iQPS Launch 9)",
     "en": "Electron | The Sea God Surveys (iQPS Launch 9)"
    },
-   "starts_at": "2026-11-02T16:00:00Z",
+   "starts_at": "2026-11-02T16:41:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin do potwierdzenia. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -409,8 +409,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-10-13",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-02T16:00:00Z",
+   "updated_on": "2026-10-31",
    "poland": {
     "visible": false
    }
