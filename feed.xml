@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 21:58:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:46:23 +0000</lastBuildDate>
+  <item>
+    <title>Pierwsza kwadra</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#pierwsza-kwadra-2027-12-06-34cbfdbd</link>
+    <guid isPermaLink="false">pierwsza-kwadra-2027-12-06-34cbfdbd</guid>
+    <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Niebo nad nami</category>
+    <description>&lt;p&gt;&lt;strong&gt;06.12.2027, 05:29 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Wodnika. Odległość od Ziemi: 402 863 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Przelot planetoidy 2012 PP28</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3607667-2026-11-07</link>
+    <guid isPermaLink="false">neo-3607667-2026-11-07</guid>
+    <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.11.2026, 14:30 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 372–832 m minie Ziemię w odległości 30,29 mln km, czyli 78,8 odległości Ziemia–Księżyc, z prędkością 12,6 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3607667&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Przelot planetoidy 2017 WJ2</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3789540-2026-11-05</link>
+    <guid isPermaLink="false">neo-3789540-2026-11-05</guid>
+    <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;05.11.2026, 04:22 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 88–197 m minie Ziemię w odległości 5,98 mln km, czyli 15,6 odległości Ziemia–Księżyc, z prędkością 11,8 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789540&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 138175 (2000 EE104)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2138175-2026-11-08</link>
@@ -111,7 +135,7 @@ The constellation will eventually consists of 13000 satellites. Terminy startów
     <guid isPermaLink="false">ll2-e91d1da2-819b-4523-95bf-39ac7daa871d</guid>
     <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;04.11.2026, 21:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Ceres-2 – Galactic Energy. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/e91d1da2-819b-4523-95bf-39ac7daa871d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;06.11.2026, 23:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Ceres-2 – Galactic Energy. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/e91d1da2-819b-4523-95bf-39ac7daa871d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Kinetica 2 | SpaceSail Polar Group TBD?</title>
@@ -174,22 +198,6 @@ The constellation will eventually consists of 13000 satellites. Terminy startów
     <description>&lt;p&gt;&lt;strong&gt;28.11.2027, 03:24 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 388 429 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Przelot planetoidy 2004 TP1</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3255980-2026-11-01</link>
-    <guid isPermaLink="false">neo-3255980-2026-11-01</guid>
-    <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;01.11.2026, 02:13 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 193–431 m minie Ziemię w odległości 9,30 mln km, czyli 24,2 odległości Ziemia–Księżyc, z prędkością 12,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3255980&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Przelot planetoidy 612856 (2004 TP1)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2612856-2026-11-01</link>
-    <guid isPermaLink="false">neo-2612856-2026-11-01</guid>
-    <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;01.11.2026, 02:13 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 188–421 m minie Ziemię w odległości 9,30 mln km, czyli 24,2 odległości Ziemia–Księżyc, z prędkością 12,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2612856&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Long March 2F/G | Shenzhou 24</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-c9605b67-8a53-4239-a8ae-577fe3b79799</link>
     <guid isPermaLink="false">ll2-c9605b67-8a53-4239-a8ae-577fe3b79799</guid>
@@ -231,7 +239,7 @@ First orbital full version launch of the South Korean military small satellite l
     <guid isPermaLink="false">ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7</guid>
     <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;06.11.2026, 02:21 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Ostatnia kwadra</title>
@@ -255,7 +263,7 @@ First orbital full version launch of the South Korean military small satellite l
     <guid isPermaLink="false">ll2-db3500ac-965b-4ad8-b417-cb8d8d005586</guid>
     <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;10.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/db3500ac-965b-4ad8-b417-cb8d8d005586/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/db3500ac-965b-4ad8-b417-cb8d8d005586/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Electron | The Sea God Surveys (iQPS Launch 9)</title>
@@ -330,13 +338,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;29.11.2026, 16:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin do potwierdzenia. Misja: This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d74afbc7-0de5-491c-be05-4e9c31f736ac/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Ostatnia kwadra</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ostatnia-kwadra-2027-10-22-3c903b5c</link>
-    <guid isPermaLink="false">ostatnia-kwadra-2027-10-22-3c903b5c</guid>
-    <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;22.10.2027, 17:31 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Bliźniąt. Odległość od Ziemi: 370 510 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

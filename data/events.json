@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T21:58:04Z",
+ "generated_at": "2026-11-02T13:46:23Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 115
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261030.html"
  },
  "stats": {
-  "total": 144,
-  "upcoming": 141,
+  "total": 145,
+  "upcoming": 143,
   "poland": 36,
-  "new_today": 1,
+  "new_today": 3,
   "by_category": {
    "sky": 113,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 3,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,134 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-3255980-2026-11-01",
-   "title": {
-    "pl": "Przelot planetoidy 2004 TP1",
-    "en": "Asteroid 2004 TP1 passes by"
-   },
-   "starts_at": "2026-11-01T02:13:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 193–431 m minie Ziemię w odległości 9,30 mln km, czyli 24,2 odległości Ziemia–Księżyc, z prędkością 12,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 193–431 m will pass Earth at 9.30 million km, or 24.2 times the Earth–Moon distance, travelling at 12.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3255980"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-25",
-   "extra": {
-    "miss_distance_km": 9300135,
-    "lunar_distances": 24.19,
-    "diameter_m": [
-     193,
-     431
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-2612856-2026-11-01",
-   "title": {
-    "pl": "Przelot planetoidy 612856 (2004 TP1)",
-    "en": "Asteroid 612856 (2004 TP1) passes by"
-   },
-   "starts_at": "2026-11-01T02:13:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 188–421 m minie Ziemię w odległości 9,30 mln km, czyli 24,2 odległości Ziemia–Księżyc, z prędkością 12,7 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 188–421 m will pass Earth at 9.30 million km, or 24.2 times the Earth–Moon distance, travelling at 12.7 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2612856"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-10-25",
-   "extra": {
-    "miss_distance_km": 9300213,
-    "lunar_distances": 24.19,
-    "diameter_m": [
-     188,
-     421
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "ostatnia-kwadra-2026-11-01-70b2e74f",
    "title": {
@@ -467,7 +339,7 @@
    "source_id": "neows",
    "added_on": "2026-10-26",
    "extra": {
-    "miss_distance_km": 6018477,
+    "miss_distance_km": 6018478,
     "lunar_distances": 15.66,
     "diameter_m": [
      207,
@@ -657,8 +529,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-03T01:42:00Z",
-   "updated_on": "2026-11-01",
    "poland": {
     "visible": false
    }
@@ -713,63 +583,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-21",
-   "extra": {
-    "status": "To Be Confirmed"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-e91d1da2-819b-4523-95bf-39ac7daa871d",
-   "title": {
-    "pl": "Ceres-2 | Unknown Payload",
-    "en": "Ceres-2 | Unknown Payload"
-   },
-   "starts_at": "2026-11-04T21:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Ceres-2 – Galactic Energy. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Ceres-2, operated by Galactic Energy. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Galactic Energy",
-     "en": "Galactic Energy"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/e91d1da2-819b-4523-95bf-39ac7daa871d/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-28",
    "extra": {
     "status": "To Be Confirmed"
    },
@@ -855,6 +668,66 @@
     },
     "max_altitude": 52.0,
     "best_time": "2026-11-05T23:10:00Z"
+   }
+  },
+  {
+   "id": "neo-3789540-2026-11-05",
+   "title": {
+    "pl": "Przelot planetoidy 2017 WJ2",
+    "en": "Asteroid 2017 WJ2 passes by"
+   },
+   "starts_at": "2026-11-05T04:22:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 88–197 m minie Ziemię w odległości 5,98 mln km, czyli 15,6 odległości Ziemia–Księżyc, z prędkością 11,8 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 88–197 m will pass Earth at 5.98 million km, or 15.6 times the Earth–Moon distance, travelling at 11.8 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789540"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-02",
+   "extra": {
+    "miss_distance_km": 5983816,
+    "lunar_distances": 15.57,
+    "diameter_m": [
+     88,
+     197
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -972,63 +845,6 @@
    }
   },
   {
-   "id": "ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-   "title": {
-    "pl": "Falcon 9 Block 5 | Starlink Group 15-21",
-    "en": "Falcon 9 Block 5 | Starlink Group 15-21"
-   },
-   "starts_at": "2026-11-06T02:21:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 1,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-19",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-3076814-2026-11-06",
    "title": {
     "pl": "Przelot planetoidy 2001 KF54",
@@ -1093,6 +909,65 @@
    }
   },
   {
+   "id": "ll2-e91d1da2-819b-4523-95bf-39ac7daa871d",
+   "title": {
+    "pl": "Ceres-2 | Unknown Payload",
+    "en": "Ceres-2 | Unknown Payload"
+   },
+   "starts_at": "2026-11-06T23:35:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Ceres-2 – Galactic Energy. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Ceres-2, operated by Galactic Energy. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Galactic Energy",
+     "en": "Galactic Energy"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/e91d1da2-819b-4523-95bf-39ac7daa871d/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-28",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-11-04T21:00:00Z",
+   "updated_on": "2026-11-02",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "zblizenie-ksiezyca-i-wenus-2026-11-07-39a20f70",
    "title": {
     "pl": "Zbliżenie Księżyca i Wenus",
@@ -1149,6 +1024,70 @@
      "Moon",
      "Venus"
     ]
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3607667-2026-11-07",
+   "title": {
+    "pl": "Przelot planetoidy 2012 PP28",
+    "en": "Asteroid 2012 PP28 passes by"
+   },
+   "starts_at": "2026-11-07T14:30:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 372–832 m minie Ziemię w odległości 30,29 mln km, czyli 78,8 odległości Ziemia–Księżyc, z prędkością 12,6 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 372–832 m will pass Earth at 30.29 million km, or 78.8 times the Earth–Moon distance, travelling at 12.6 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3607667"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-02",
+   "extra": {
+    "miss_distance_km": 30294800,
+    "lunar_distances": 78.81,
+    "diameter_m": [
+     372,
+     832
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -1282,63 +1221,6 @@
    }
   },
   {
-   "id": "ll2-db3500ac-965b-4ad8-b417-cb8d8d005586",
-   "title": {
-    "pl": "Electron | The Mountain God Rises (iQPS Launch 10)",
-    "en": "Electron | The Mountain God Rises (iQPS Launch 10)"
-   },
-   "starts_at": "2026-11-10T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be determined. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Rocket Lab",
-     "en": "Rocket Lab"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/db3500ac-965b-4ad8-b417-cb8d8d005586/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-13",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
    "title": {
     "pl": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
@@ -1452,6 +1334,65 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-db3500ac-965b-4ad8-b417-cb8d8d005586",
+   "title": {
+    "pl": "Electron | The Mountain God Rises (iQPS Launch 10)",
+    "en": "Electron | The Mountain God Rises (iQPS Launch 10)"
+   },
+   "starts_at": "2026-11-14T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be determined. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Rocket Lab",
+     "en": "Rocket Lab"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/db3500ac-965b-4ad8-b417-cb8d8d005586/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-13",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-10T00:00:00Z",
+   "updated_on": "2026-11-02",
    "poland": {
     "visible": false
    }
@@ -2369,6 +2310,65 @@
    "extra": {
     "status": "To Be Determined"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+   "title": {
+    "pl": "Falcon 9 Block 5 | Starlink Group 15-21",
+    "en": "Falcon 9 Block 5 | Starlink Group 15-21"
+   },
+   "starts_at": "2026-11-30T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 1,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-19",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-06T02:21:00Z",
+   "updated_on": "2026-11-02",
    "poland": {
     "visible": false
    }
@@ -9372,6 +9372,71 @@
     },
     "max_altitude": 7.0,
     "best_time": "2027-11-30T15:20:00Z"
+   }
+  },
+  {
+   "id": "pierwsza-kwadra-2027-12-06-34cbfdbd",
+   "title": {
+    "pl": "Pierwsza kwadra",
+    "en": "First Quarter"
+   },
+   "starts_at": "2027-12-06T05:29:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Wodnika. Odległość od Ziemi: 402 863 km.",
+    "en": "The Moon reaches first quarter in Aquarius. Distance from Earth: 402,863 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Pierwsza kwadra",
+     "en": "First Quarter"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-11-02",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 39° nad polskim horyzontem.",
+     "en": "The Moon climbs 39° above the Polish horizon."
+    },
+    "max_altitude": 38.9,
+    "best_time": "2027-12-06T17:10:00Z"
    }
   }
  ]
