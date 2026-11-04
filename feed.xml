@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 18:52:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 23:37:12 +0000</lastBuildDate>
+  <item>
+    <title>Burza geomagnetyczna G1 – szansa na zorzę polarną</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-07-b0a9a16b</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-07-b0a9a16b</guid>
+    <pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Pogoda kosmiczna</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-317</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-76617033-4dc0-4448-b50c-e5b0d5a18539</link>
@@ -328,13 +336,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;29.10.2027, 13:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Wagi. Odległość od Ziemi: 377 230 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | Cygnus CRS-2 NG-25</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-d74afbc7-0de5-491c-be05-4e9c31f736ac</link>
-    <guid isPermaLink="false">ll2-d74afbc7-0de5-491c-be05-4e9c31f736ac</guid>
-    <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;29.11.2026, 15:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: potwierdzony. Misja: This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d74afbc7-0de5-491c-be05-4e9c31f736ac/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 04 Nov 2026 18:52:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 23:37:12 +0000</lastBuildDate>
+  <item>
+    <title>G1 geomagnetic storm – chance of aurora</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-07-b0a9a16b</link>
+    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-07-b0a9a16b</guid>
+    <pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Space weather</category>
+    <description>&lt;p&gt;&lt;strong&gt;07.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-317</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-76617033-4dc0-4448-b50c-e5b0d5a18539</link>
@@ -328,13 +336,5 @@ Payloads to be tested included an internally developed 300 mN electric powered t
     <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;29.10.2027, 13:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Libra. Distance from Earth: 377,230 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | Cygnus CRS-2 NG-25</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-d74afbc7-0de5-491c-be05-4e9c31f736ac</link>
-    <guid isPermaLink="false">ll2-d74afbc7-0de5-491c-be05-4e9c31f736ac</guid>
-    <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;29.11.2026, 15:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d74afbc7-0de5-491c-be05-4e9c31f736ac/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
