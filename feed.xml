@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 23:37:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:26:25 +0000</lastBuildDate>
+  <item>
+    <title>Long March 2D | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-d66590ab-b273-47ff-b85a-608b62851b4b</link>
+    <guid isPermaLink="false">ll2-d66590ab-b273-47ff-b85a-608b62851b4b</guid>
+    <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;11.11.2026, 11:40 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 2D – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/d66590ab-b273-47ff-b85a-608b62851b4b/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Burza geomagnetyczna G1 – szansa na zorzę polarną</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-07-b0a9a16b</link>
@@ -36,14 +44,6 @@
     <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;06.12.2027, 05:29 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pierwszej kwadry w gwiazdozbiorze Wodnika. Odległość od Ziemi: 402 863 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
-    <guid isPermaLink="false">ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</guid>
-    <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 2012 PP28</title>
@@ -235,7 +235,7 @@ The first astronaut from Pakistan is expected to fly on this on a short duration
     <guid isPermaLink="false">ll2-9e27a1ed-e81a-4918-b32b-0380cf3a9f8f</guid>
     <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Mir – Agency for Defense Development. Miejsce: Sea Launch. Status terminu: termin wstępny. Misja: Note: Launch vehicle name is provisional.
+    <description>&lt;p&gt;&lt;strong&gt;10.11.2026, 06:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Mir – Agency for Defense Development. Miejsce: Sea Launch. Status terminu: potwierdzony. Misja: Note: Launch vehicle name is provisional.
 
 First orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>

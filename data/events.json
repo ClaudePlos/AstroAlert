@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T23:37:12Z",
+ "generated_at": "2026-11-05T13:26:25Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 115
+   "count": 114
   },
   {
    "id": "launchlibrary",
@@ -51,26 +51,26 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our Milky Way. Inaccurate accounting of the crowded and dusty Milky Way foreground has led to misunderstandings in IC 342’s history, including the theory that the galaxy was ejected from the Local Group. IC 342 has its own dust intermittently blocking the glow of hydrogen gas, indicating the presence of bright, young stars. Magnetic field maps of IC 342 reveal that magnetic fields may contribute substantially to one of the biggest galactic puzzles: how do spiral arms form?Tomorrow's picture: open space\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap261104.html"
+  "explanation": "One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean beneath the ice shell of Enceladus. They supply material directly to Saturn's outer, tenuous E ring and make the surface of Enceladus as reflective as snow. Across the scene, Saturn's icy rings scatter sunlight toward Cassini's cameras. Beyond the rings (lower right), the night side of 80 kilometer diameter moon Pandora is faintly lit by Saturnlight.Tomorrow's picture: pixels in space\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261105.html"
  },
  "stats": {
-  "total": 146,
-  "upcoming": 143,
-  "poland": 36,
+  "total": 145,
+  "upcoming": 141,
+  "poland": 35,
   "new_today": 1,
   "by_category": {
-   "sky": 112,
+   "sky": 111,
    "launch": 25,
    "spaceweather": 1,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "ostatnia-kwadra-2026-11-01-70b2e74f",
-   "title": {
-    "pl": "Ostatnia kwadra",
-    "en": "Last Quarter"
-   },
-   "starts_at": "2026-11-01T20:28:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 1,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Raka. Odległość od Ziemi: 371 940 km.",
-    "en": "The Moon reaches last quarter in Cancer. Distance from Earth: 371,940 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Ostatnia kwadra",
-     "en": "Last Quarter"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 57° nad polskim horyzontem.",
-     "en": "The Moon climbs 57° above the Polish horizon."
-    },
-    "max_altitude": 56.6,
-    "best_time": "2026-11-02T04:50:00Z"
-   }
-  },
   {
    "id": "zblizenie-ksiezyca-i-marsa-2026-11-02-b0a1c7b3",
    "title": {
@@ -1166,6 +1101,122 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-28",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+   "title": {
+    "pl": "Mir | Demo Flight",
+    "en": "Mir | Demo Flight"
+   },
+   "starts_at": "2026-11-10T06:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Mir – Agency for Defense Development. Miejsce: Sea Launch. Status terminu: potwierdzony. Misja: Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Mir, operated by Agency for Defense Development. Site: Sea Launch. Schedule status: confirmed. Mission: Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Agency for Defense Development",
+     "en": "Agency for Defense Development"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Sea Launch",
+    "en": "Sea Launch"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-21",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-11-30T00:00:00Z",
+   "updated_on": "2026-11-05",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-d66590ab-b273-47ff-b85a-608b62851b4b",
+   "title": {
+    "pl": "Long March 2D | Unknown Payload",
+    "en": "Long March 2D | Unknown Payload"
+   },
+   "starts_at": "2026-11-11T11:40:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 2D – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 2D, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/d66590ab-b273-47ff-b85a-608b62851b4b/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-05",
    "extra": {
     "status": "Go for Launch"
    },
@@ -2380,63 +2431,6 @@
    }
   },
   {
-   "id": "ll2-9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-   "title": {
-    "pl": "Mir | Demo Flight",
-    "en": "Mir | Demo Flight"
-   },
-   "starts_at": "2026-11-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Mir – Agency for Defense Development. Miejsce: Sea Launch. Status terminu: termin wstępny. Misja: Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Mir, operated by Agency for Defense Development. Site: Sea Launch. Schedule status: date to be determined. Mission: Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Agency for Defense Development",
-     "en": "Agency for Defense Development"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Sea Launch",
-    "en": "Sea Launch"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-21",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-b5a9bccb-30d7-4af6-8ad1-fabb563be53c",
    "title": {
     "pl": "PSLV-XL | TDS-01",
@@ -3344,63 +3338,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-10-31",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
-   "title": {
-    "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
-    "en": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-02",
    "extra": {
     "status": "To Be Determined"
    },
