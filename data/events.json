@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:58:32Z",
+ "generated_at": "2026-11-05T23:35:49Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -1161,6 +1161,69 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-0f867f0c-5422-4d44-93b8-d7faaae7019b",
+   "title": {
+    "pl": "Starship | Flight 15",
+    "en": "Starship | Flight 15"
+   },
+   "starts_at": "2026-11-13T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 5,
+   "summary": {
+    "pl": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin wstępny. Misja: 15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Starship V3, operated by SpaceX. Site: SpaceX Starbase, TX, USA. Schedule status: date to be determined. Mission: 15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    },
+    {
+     "pl": "nowa rakieta",
+     "en": "new rocket"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/0f867f0c-5422-4d44-93b8-d7faaae7019b/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "SpaceX Starbase, TX, USA",
+    "en": "SpaceX Starbase, TX, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-28",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-30T00:00:00Z",
+   "updated_on": "2026-11-05",
    "poland": {
     "visible": false
    }
@@ -2421,67 +2484,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-09-26",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-0f867f0c-5422-4d44-93b8-d7faaae7019b",
-   "title": {
-    "pl": "Starship | Flight 15",
-    "en": "Starship | Flight 15"
-   },
-   "starts_at": "2026-11-30T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 5,
-   "summary": {
-    "pl": "Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin wstępny. Misja: 15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Starship V3, operated by SpaceX. Site: SpaceX Starbase, TX, USA. Schedule status: date to be determined. Mission: 15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    },
-    {
-     "pl": "nowa rakieta",
-     "en": "new rocket"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/0f867f0c-5422-4d44-93b8-d7faaae7019b/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "SpaceX Starbase, TX, USA",
-    "en": "SpaceX Starbase, TX, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-28",
    "extra": {
     "status": "To Be Determined"
    },
