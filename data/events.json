@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T23:35:49Z",
+ "generated_at": "2026-11-06T13:10:08Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 112
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   {
    "id": "neows",
@@ -62,14 +62,14 @@
   "link": "https://apod.nasa.gov/apod/ap261105.html"
  },
  "stats": {
-  "total": 145,
-  "upcoming": 141,
+  "total": 144,
+  "upcoming": 142,
   "poland": 35,
-  "new_today": 3,
+  "new_today": 2,
   "by_category": {
    "sky": 111,
    "launch": 25,
-   "spaceweather": 1,
+   "spaceweather": 2,
    "asteroid": 4,
    "mission": 0
   }
@@ -97,142 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "zblizenie-ksiezyca-i-marsa-2026-11-02-b0a1c7b3",
-   "title": {
-    "pl": "Zbliżenie Księżyca i Marsa",
-    "en": "The Moon meets Mars"
-   },
-   "starts_at": "2026-11-02T13:39:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc przechodzi w odległości zaledwie 59′ od Marsa – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
-    "en": "The Moon passes just 59′ from Mars – the pair is visible in the morning, before sunrise, in Cancer. A distinctly orange point of light. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Mars",
-     "en": "Mars"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 0.99,
-    "bodies": [
-     "Moon",
-     "Mars"
-    ]
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Parę widać z Polski – maksymalnie 50° nad horyzontem.",
-     "en": "The pair is observable from Poland, up to 50° above the horizon."
-    },
-    "max_altitude": 50.3,
-    "best_time": "2026-11-03T05:00:00Z"
-   }
-  },
-  {
-   "id": "zblizenie-ksiezyca-i-jowisza-2026-11-02-d7b6fecd",
-   "title": {
-    "pl": "Zbliżenie Księżyca i Jowisza",
-    "en": "The Moon meets Jupiter"
-   },
-   "starts_at": "2026-11-02T22:46:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc przechodzi w odległości zaledwie 31′ od Jowisza – parę widać nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Przez lornetkę widać cztery księżyce galileuszowe. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
-    "en": "The Moon passes just 31′ from Jupiter – the pair is visible in the morning, before sunrise, in Cancer. Binoculars will show its four Galilean moons. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Jowisz",
-     "en": "Jupiter"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 0.51,
-    "bodies": [
-     "Moon",
-     "Jupiter"
-    ]
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Parę widać z Polski – maksymalnie 50° nad horyzontem.",
-     "en": "The pair is observable from Poland, up to 50° above the horizon."
-    },
-    "max_altitude": 50.3,
-    "best_time": "2026-11-03T05:00:00Z"
-   }
-  },
   {
    "id": "maksimum-roju-taurydy-poludniowe-2026-11-05-04e92976",
    "title": {
@@ -311,66 +175,6 @@
     },
     "max_altitude": 52.0,
     "best_time": "2026-11-05T23:10:00Z"
-   }
-  },
-  {
-   "id": "neo-3789540-2026-11-05",
-   "title": {
-    "pl": "Przelot planetoidy 2017 WJ2",
-    "en": "Asteroid 2017 WJ2 passes by"
-   },
-   "starts_at": "2026-11-05T04:22:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 88–197 m minie Ziemię w odległości 5,98 mln km, czyli 15,6 odległości Ziemia–Księżyc, z prędkością 11,8 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 88–197 m will pass Earth at 5.98 million km, or 15.6 times the Earth–Moon distance, travelling at 11.8 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789540"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-02",
-   "extra": {
-    "miss_distance_km": 5983816,
-    "lunar_distances": 15.57,
-    "diameter_m": [
-     88,
-     197
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -633,7 +437,7 @@
     "pl": "Falcon 9 Block 5 | USSF-432",
     "en": "Falcon 9 Block 5 | USSF-432"
    },
-   "starts_at": "2026-11-07T00:46:00Z",
+   "starts_at": "2026-11-07T00:48:42Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -870,6 +674,75 @@
     ],
     "hazardous": true
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-08-5d1484c6",
+   "title": {
+    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
+    "en": "G1 geomagnetic storm – chance of aurora"
+   },
+   "starts_at": "2026-11-08T18:00:00Z",
+   "category": "spaceweather",
+   "subcategory": "aurora",
+   "importance": 3,
+   "summary": {
+    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
+    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
+   },
+   "tags": [
+    {
+     "pl": "zorza polarna",
+     "en": "aurora"
+    },
+    {
+     "pl": "pogoda kosmiczna",
+     "en": "space weather"
+    },
+    {
+     "pl": "G1",
+     "en": "G1"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Prognoza zorzy NOAA (30 min)",
+      "en": "NOAA 30-minute aurora forecast"
+     },
+     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
+    },
+    {
+     "label": {
+      "pl": "Aktualny indeks Kp",
+      "en": "Current Kp index"
+     },
+     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
+    },
+    {
+     "label": {
+      "pl": "SpaceWeatherLive – zorze na żywo",
+      "en": "SpaceWeatherLive – aurora in real time"
+     },
+     "url": {
+      "pl": "https://www.spaceweatherlive.com/pl.html",
+      "en": "https://www.spaceweatherlive.com/en.html"
+     }
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NOAA Space Weather Prediction Center",
+    "en": "NOAA Space Weather Prediction Center"
+   },
+   "source_id": "swpc",
+   "added_on": "2026-11-06",
+   "extra": {
+    "kp": 5.0
+   },
+   "ephemeral": true,
    "poland": {
     "visible": false
    }
@@ -1222,8 +1095,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-11-30T00:00:00Z",
-   "updated_on": "2026-11-05",
    "poland": {
     "visible": false
    }
@@ -1347,18 +1218,82 @@
    }
   },
   {
+   "id": "neo-2363790-2026-11-13",
+   "title": {
+    "pl": "Przelot planetoidy 363790 (2005 JE46)",
+    "en": "Asteroid 363790 (2005 JE46) passes by"
+   },
+   "starts_at": "2026-11-13T19:58:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 715–1 600 m minie Ziemię w odległości 7,70 mln km, czyli 20,0 odległości Ziemia–Księżyc, z prędkością 14,7 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 715–1,600 m will pass Earth at 7.70 million km, or 20.0 times the Earth–Moon distance, travelling at 14.7 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2363790"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-06",
+   "extra": {
+    "miss_distance_km": 7696632,
+    "lunar_distances": 20.02,
+    "diameter_m": [
+     715,
+     1600
+    ],
+    "hazardous": true
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-db3500ac-965b-4ad8-b417-cb8d8d005586",
    "title": {
     "pl": "Electron | The Mountain God Rises (iQPS Launch 10)",
     "en": "Electron | The Mountain God Rises (iQPS Launch 10)"
    },
-   "starts_at": "2026-11-14T00:00:00Z",
+   "starts_at": "2026-11-14T05:30:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be determined. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -1397,8 +1332,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-10-13",
    "extra": {
-    "status": "To Be Determined"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-14T00:00:00Z",
+   "updated_on": "2026-11-06",
    "poland": {
     "visible": false
    }
