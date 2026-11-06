@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:10:08Z",
+ "generated_at": "2026-11-06T18:27:41Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 144,
-  "upcoming": 142,
+  "upcoming": 141,
   "poland": 35,
   "new_today": 2,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 2,
-   "asteroid": 4,
+   "asteroid": 3,
    "mission": 0
   }
  },
@@ -679,12 +679,69 @@
    }
   },
   {
+   "id": "ll2-a2423132-f965-423f-8b03-6891b775dc54",
+   "title": {
+    "pl": "Long March 12 | SatNet LEO Group TBD?",
+    "en": "Long March 12 | SatNet LEO Group TBD?"
+   },
+   "starts_at": "2026-11-08T20:25:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/a2423132-f965-423f-8b03-6891b775dc54/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Wenchang Space Launch Site, People's Republic of China",
+    "en": "Wenchang Space Launch Site, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-27",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-08-5d1484c6",
    "title": {
     "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
     "en": "G1 geomagnetic storm – chance of aurora"
    },
-   "starts_at": "2026-11-08T18:00:00Z",
+   "starts_at": "2026-11-08T21:00:00Z",
    "category": "spaceweather",
    "subcategory": "aurora",
    "importance": 3,
@@ -743,63 +800,8 @@
     "kp": 5.0
    },
    "ephemeral": true,
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-a2423132-f965-423f-8b03-6891b775dc54",
-   "title": {
-    "pl": "Long March 12 | SatNet LEO Group TBD?",
-    "en": "Long March 12 | SatNet LEO Group TBD?"
-   },
-   "starts_at": "2026-11-08T20:25:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/a2423132-f965-423f-8b03-6891b775dc54/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Wenchang Space Launch Site, People's Republic of China",
-    "en": "Wenchang Space Launch Site, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-27",
-   "extra": {
-    "status": "Go for Launch"
-   },
+   "rescheduled_from": "2026-11-08T18:00:00Z",
+   "updated_on": "2026-11-06",
    "poland": {
     "visible": false
    }
@@ -930,7 +932,7 @@
     "pl": "Mir | Demo Flight",
     "en": "Mir | Demo Flight"
    },
-   "starts_at": "2026-11-10T06:00:00Z",
+   "starts_at": "2026-11-11T05:00:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -977,6 +979,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-10T06:00:00Z",
+   "updated_on": "2026-11-06",
    "poland": {
     "visible": false
    }
@@ -1334,8 +1338,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-14T00:00:00Z",
-   "updated_on": "2026-11-06",
    "poland": {
     "visible": false
    }
