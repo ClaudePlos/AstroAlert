@@ -4,7 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 11:53:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 16:59:00 +0000</lastBuildDate>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</link>
@@ -164,12 +164,18 @@ The constellation will eventually consists of 13000 satellites. Terminy startów
     <description>&lt;p&gt;&lt;strong&gt;30.11.2027, 09:39 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Uran znajduje się naprzeciw Słońca – wschodzi o zachodzie Słońca, góruje około północy i świeci najjaśniej w całym sezonie. Odległość od Ziemi: 18,36 au (2 747 mln km, światło leci stamtąd 153 minut). Planeta jest w gwiazdozbiorze Byka. Na granicy widoczności gołym okiem, łatwy przez lornetkę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Starship | Flight 15</title>
+    <title>Starship | Starlink Group 31-2 (Starship Flight 15)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-0f867f0c-5422-4d44-93b8-d7faaae7019b</link>
     <guid isPermaLink="false">ll2-0f867f0c-5422-4d44-93b8-d7faaae7019b</guid>
     <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;13.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin wstępny. Misja: 15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0f867f0c-5422-4d44-93b8-d7faaae7019b/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;13.11.2026, 22:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Starship V3 – SpaceX. Miejsce: SpaceX Starbase, TX, USA. Status terminu: termin do potwierdzenia. Misja: 15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Second Starship flight to deploy satellites (a group of Starlink satellites known as Starlink Group 31-2) into stable Low Earth Orbit and first ever to attempt returning the Starship 2nd stage back to the launch site.
+
+The ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 14 orbits around the planet for more than 22 hours, with the ship expected to attempt returning back to Starbase, Texas on its launch pad by pad arms catching.
+
+The booster’s primary test objective on Flight 15 will be executing a successful launch, ascent, stage separation, boostback burn, and landing by pad arms catching. This will also be the 1st Starship V3 booster to attempt returning to its launch site.
+
+Starship will deliver 26 Starlink V3 satellites to orbit for the second time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. 3 of the satellites have been modified with a suite of cameras to scan Starship’s heatshield and transmit imagery down to operators. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0f867f0c-5422-4d44-93b8-d7faaae7019b/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | USSF-627</title>
