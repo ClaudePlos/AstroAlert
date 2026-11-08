@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T17:14:18Z",
+ "generated_at": "2026-11-08T21:58:43Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,21 +51,21 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-06",
+  "date": "2026-11-08",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using some of the first million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.",
-  "link": "https://apod.nasa.gov/apod/ap261106.html"
+  "explanation": "The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy's Dolomite Alps. Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar Big Dipper asterism. Sightings of this major fireball meteor were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's American Meteor Society and the International Meteor Organization. The meteor's measured track over Germany is consistent with its origin near the active radiant of November's Northern Taurid Meteor Shower, a shower associated with dust from Encke's comet.Tomorrow's picture: witch sky?\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261108.html"
  },
  "stats": {
   "total": 142,
   "upcoming": 139,
   "poland": 35,
-  "new_today": 1,
+  "new_today": 2,
   "by_category": {
    "sky": 110,
    "launch": 25,
@@ -298,63 +298,6 @@
      474
     ],
     "hazardous": true
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-a2423132-f965-423f-8b03-6891b775dc54",
-   "title": {
-    "pl": "Long March 12 | SatNet LEO Group TBD?",
-    "en": "Long March 12 | SatNet LEO Group TBD?"
-   },
-   "starts_at": "2026-11-08T20:25:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/a2423132-f965-423f-8b03-6891b775dc54/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Wenchang Space Launch Site, People's Republic of China",
-    "en": "Wenchang Space Launch Site, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-27",
-   "extra": {
-    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -3123,6 +3066,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-07",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff",
+   "title": {
+    "pl": "LVM-3 | GSAT-32 (GSAT-N3)",
+    "en": "LVM-3 | GSAT-32 (GSAT-N3)"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Indian Space Research Organization",
+     "en": "Indian Space Research Organization"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Satish Dhawan Space Centre, India",
+    "en": "Satish Dhawan Space Centre, India"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-08",
    "extra": {
     "status": "To Be Determined"
    },

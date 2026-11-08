@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 17:14:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 21:58:43 +0000</lastBuildDate>
+  <item>
+    <title>LVM-3 | GSAT-32 (GSAT-N3)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</link>
+    <guid isPermaLink="false">ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</guid>
+    <pubDate>Sun, 08 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 138852 (2000 WN10)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2138852-2026-11-11</link>
@@ -192,16 +200,6 @@ Starship will deliver 26 Starlink V3 satellites to orbit for the second time, wh
     <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;30.11.2027, 08:17 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc przechodzi w odległości zaledwie 1,5° od Marsa – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Strzelca. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Long March 12 | SatNet LEO Group TBD?</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-a2423132-f965-423f-8b03-6891b775dc54</link>
-    <guid isPermaLink="false">ll2-a2423132-f965-423f-8b03-6891b775dc54</guid>
-    <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;08.11.2026, 20:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 12 – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.
-
-The constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a2423132-f965-423f-8b03-6891b775dc54/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Nów</title>
