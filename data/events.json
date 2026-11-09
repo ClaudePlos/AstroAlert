@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:14:22Z",
+ "generated_at": "2026-11-09T21:37:43Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 142,
   "upcoming": 140,
   "poland": 35,
-  "new_today": 2,
+  "new_today": 4,
   "by_category": {
    "sky": 110,
    "launch": 25,
@@ -223,63 +223,6 @@
    }
   },
   {
-   "id": "ll2-6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
-   "title": {
-    "pl": "Falcon 9 Block 5 | USSF-627",
-    "en": "Falcon 9 Block 5 | USSF-627"
-   },
-   "starts_at": "2026-11-10T03:07:15Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-28",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "neo-2138852-2026-11-11",
    "title": {
     "pl": "Przelot planetoidy 138852 (2000 WN10)",
@@ -335,6 +278,65 @@
     ],
     "hazardous": false
    },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
+   "title": {
+    "pl": "Falcon 9 Block 5 | USSF-627",
+    "en": "Falcon 9 Block 5 | USSF-627"
+   },
+   "starts_at": "2026-11-11T02:49:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-10-28",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-11-10T03:07:15Z",
+   "updated_on": "2026-11-09",
    "poland": {
     "visible": false
    }
@@ -508,6 +510,63 @@
      721
     ],
     "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+   "title": {
+    "pl": "Kuaizhou 11 | Unknown Payload",
+    "en": "Kuaizhou 11 | Unknown Payload"
+   },
+   "starts_at": "2026-11-12T19:50:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Kuaizhou 11 – ExPace. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Kuaizhou 11, operated by ExPace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "ExPace",
+     "en": "ExPace"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/e2523821-9760-4cb4-ad1f-7ce2e30419bd/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-09",
+   "extra": {
+    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -999,6 +1058,63 @@
     },
     "max_altitude": 52.5,
     "best_time": "2026-11-17T04:40:00Z"
+   }
+  },
+  {
+   "id": "ll2-460d9db7-eaf6-4cd9-b095-cff433534c09",
+   "title": {
+    "pl": "Falcon 9 Block 5 | USSF-266",
+    "en": "Falcon 9 Block 5 | USSF-266"
+   },
+   "starts_at": "2026-11-16T17:07:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/460d9db7-eaf6-4cd9-b095-cff433534c09/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-09",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2925,120 +3041,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-07",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
-   "title": {
-    "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
-    "en": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-07",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff",
-   "title": {
-    "pl": "LVM-3 | GSAT-32 (GSAT-N3)",
-    "en": "LVM-3 | GSAT-32 (GSAT-N3)"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Indian Space Research Organization",
-     "en": "Indian Space Research Organization"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Satish Dhawan Space Centre, India",
-    "en": "Satish Dhawan Space Centre, India"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-08",
    "extra": {
     "status": "To Be Determined"
    },
