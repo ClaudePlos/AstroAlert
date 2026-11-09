@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:58:43Z",
+ "generated_at": "2026-11-09T14:14:22Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,26 +51,26 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy's Dolomite Alps. Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar Big Dipper asterism. Sightings of this major fireball meteor were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's American Meteor Society and the International Meteor Organization. The meteor's measured track over Germany is consistent with its origin near the active radiant of November's Northern Taurid Meteor Shower, a shower associated with dust from Encke's comet.Tomorrow's picture: witch sky?\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap261108.html"
+  "explanation": "Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.Tomorrow's picture: suddenly Saturn\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261109.html"
  },
  "stats": {
   "total": 142,
-  "upcoming": 139,
+  "upcoming": 140,
   "poland": 35,
   "new_today": 2,
   "by_category": {
    "sky": 110,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,86 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "maksimum-roju-taurydy-poludniowe-2026-11-05-04e92976",
-   "title": {
-    "pl": "Maksimum roju Taurydy Południowe",
-    "en": "Southern Taurids meteor shower peak"
-   },
-   "starts_at": "2026-11-05T02:00:00Z",
-   "category": "sky",
-   "subcategory": "meteors",
-   "importance": 3,
-   "summary": {
-    "pl": "Niewiele meteorów, ale za to wyjątkowo dużo bolidów – powolnych i bardzo jasnych kul ognia. W maksimum teoretycznie do 5 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Byka. Warunki są znakomite – Księżyc praktycznie nie przeszkadza. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.",
-    "en": "Few meteors, but an unusual share of fireballs – slow, very bright and worth the wait. At maximum, up to 5 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Taurus. Conditions are excellent – the Moon will barely interfere. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights."
-   },
-   "tags": [
-    {
-     "pl": "meteory",
-     "en": "meteors"
-    },
-    {
-     "pl": "Taurydy Południowe",
-     "en": "Southern Taurids"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Kalendarz rojów IMO",
-      "en": "IMO meteor shower calendar"
-     },
-     "url": "https://www.imo.net/resources/calendar/"
-    },
-    {
-     "label": {
-      "pl": "O roju – Wikipedia",
-      "en": "About the shower – Wikipedia"
-     },
-     "url": {
-      "pl": "https://pl.wikipedia.org/wiki/Taurydy",
-      "en": "https://en.wikipedia.org/wiki/Taurids"
-     }
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "zhr": 5,
-    "moon_illumination": 0.18,
-    "radiant_ra": 3.53,
-    "radiant_dec": 14
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Radiant wznosi się 52° nad horyzont – rój jest z Polski dobrze ustawiony.",
-     "en": "The radiant climbs 52° above the horizon – the shower is well placed for Poland."
-    },
-    "max_altitude": 52.0,
-    "best_time": "2026-11-05T23:10:00Z"
-   }
-  },
   {
    "id": "zblizenie-ksiezyca-i-wenus-2026-11-07-39a20f70",
    "title": {
@@ -234,70 +154,6 @@
      "Moon",
      "Venus"
     ]
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-2138175-2026-11-08",
-   "title": {
-    "pl": "Przelot planetoidy 138175 (2000 EE104)",
-    "en": "Asteroid 138175 (2000 EE104) passes by"
-   },
-   "starts_at": "2026-11-08T08:22:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 212–474 m minie Ziemię w odległości 13,67 mln km, czyli 35,6 odległości Ziemia–Księżyc, z prędkością 7,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 212–474 m will pass Earth at 13.67 million km, or 35.6 times the Earth–Moon distance, travelling at 7.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2138175"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-01",
-   "extra": {
-    "miss_distance_km": 13672705,
-    "lunar_distances": 35.57,
-    "diameter_m": [
-     212,
-     474
-    ],
-    "hazardous": true
    },
    "poland": {
     "visible": false
@@ -372,7 +228,7 @@
     "pl": "Falcon 9 Block 5 | USSF-627",
     "en": "Falcon 9 Block 5 | USSF-627"
    },
-   "starts_at": "2026-11-10T03:03:00Z",
+   "starts_at": "2026-11-10T03:07:15Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -471,7 +327,7 @@
    "source_id": "neows",
    "added_on": "2026-11-08",
    "extra": {
-    "miss_distance_km": 27496685,
+    "miss_distance_km": 27496686,
     "lunar_distances": 71.53,
     "diameter_m": [
      233,
@@ -592,6 +448,66 @@
    "added_on": "2026-11-05",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3701679-2026-11-12",
+   "title": {
+    "pl": "Przelot planetoidy 2014 XQ3",
+    "en": "Asteroid 2014 XQ3 passes by"
+   },
+   "starts_at": "2026-11-12T03:05:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 323–721 m minie Ziemię w odległości 39,45 mln km, czyli 102,6 odległości Ziemia–Księżyc, z prędkością 15,7 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 323–721 m will pass Earth at 39.45 million km, or 102.6 times the Earth–Moon distance, travelling at 15.7 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3701679"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-09",
+   "extra": {
+    "miss_distance_km": 39453272,
+    "lunar_distances": 102.64,
+    "diameter_m": [
+     323,
+     721
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -767,7 +683,7 @@
    "source_id": "neows",
    "added_on": "2026-11-06",
    "extra": {
-    "miss_distance_km": 7696632,
+    "miss_distance_km": 7696630,
     "lunar_distances": 20.02,
     "diameter_m": [
      715,
@@ -9222,6 +9138,71 @@
     },
     "max_altitude": 38.9,
     "best_time": "2027-12-06T17:10:00Z"
+   }
+  },
+  {
+   "id": "pelnia-ksiezyca-2027-12-13-30c8da69",
+   "title": {
+    "pl": "Pełnia Księżyca",
+    "en": "Full Moon"
+   },
+   "starts_at": "2027-12-13T16:16:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 2,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę pełni w gwiazdozbiorze Byka. Odległość od Ziemi: 368 512 km.",
+    "en": "The Moon reaches full phase in Taurus. Distance from Earth: 368,512 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Pełnia Księżyca",
+     "en": "Full Moon"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-11-09",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 64° nad polskim horyzontem.",
+     "en": "The Moon climbs 64° above the Polish horizon."
+    },
+    "max_altitude": 64.5,
+    "best_time": "2027-12-13T22:50:00Z"
    }
   }
  ]
