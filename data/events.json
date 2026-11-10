@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:28:55Z",
+ "generated_at": "2026-11-10T13:42:54Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -683,7 +683,7 @@
    "source_id": "neows",
    "added_on": "2026-11-06",
    "extra": {
-    "miss_distance_km": 7696630,
+    "miss_distance_km": 7696629,
     "lunar_distances": 20.02,
     "diameter_m": [
      715,
@@ -869,8 +869,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-13T04:23:00Z",
-   "updated_on": "2026-11-10",
    "poland": {
     "visible": false
    }
@@ -1258,8 +1256,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-16T17:07:00Z",
-   "updated_on": "2026-11-10",
    "poland": {
     "visible": false
    }
