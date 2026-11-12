@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 00:36:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:56:32 +0000</lastBuildDate>
+  <item>
+    <title>LVM-3 | GSAT-32 (GSAT-N3)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</link>
+    <guid isPermaLink="false">ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</guid>
+    <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 2020 DR2</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3994619-2026-11-17</link>
@@ -194,14 +202,6 @@ The booster’s primary test objective on Flight 15 will be executing a successf
 Starship will deliver 26 Starlink V3 satellites to orbit for the second time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. 3 of the satellites have been modified with a suite of cameras to scan Starship’s heatshield and transmit imagery down to operators. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0f867f0c-5422-4d44-93b8-d7faaae7019b/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Falcon 9 Block 5 | USSF-627</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-6aa7b90b-e5ed-45d8-a52e-04fbf399d178</link>
-    <guid isPermaLink="false">ll2-6aa7b90b-e5ed-45d8-a52e-04fbf399d178</guid>
-    <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;12.11.2026, 04:36 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Zbliżenie Księżyca i Wenus</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#zblizenie-ksiezyca-i-wenus-2027-11-30-2e6e6800</link>
     <guid isPermaLink="false">zblizenie-ksiezyca-i-wenus-2027-11-30-2e6e6800</guid>
@@ -249,7 +249,7 @@ The first astronaut from Pakistan is expected to fly on this on a short duration
     <guid isPermaLink="false">ll2-9e27a1ed-e81a-4918-b32b-0380cf3a9f8f</guid>
     <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;13.11.2026, 05:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Mir – Agency for Defense Development. Miejsce: Sea Launch. Status terminu: potwierdzony. Misja: Note: Launch vehicle name is provisional.
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Mir – Agency for Defense Development. Miejsce: Sea Launch. Status terminu: termin wstępny. Misja: Note: Launch vehicle name is provisional.
 
 First orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
