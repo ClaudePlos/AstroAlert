@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T13:56:32Z",
+ "generated_at": "2026-11-12T19:07:33Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -221,63 +221,6 @@
    }
   },
   {
-   "id": "ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd",
-   "title": {
-    "pl": "Kuaizhou 11 | Unknown Payload",
-    "en": "Kuaizhou 11 | Unknown Payload"
-   },
-   "starts_at": "2026-11-12T19:50:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Kuaizhou 11 – ExPace. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Kuaizhou 11, operated by ExPace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "ExPace",
-     "en": "ExPace"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/e2523821-9760-4cb4-ad1f-7ce2e30419bd/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-09",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-ef9850ad-1096-425b-9d27-f7bbd186e61a",
    "title": {
     "pl": "Vulcan VC6L | Amazon Leo (LV-01)",
@@ -458,6 +401,63 @@
    "added_on": "2026-10-28",
    "extra": {
     "status": "To Be Confirmed"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+   "title": {
+    "pl": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
+    "en": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others"
+   },
+   "starts_at": "2026-11-14T00:50:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Soyuz 2.1b Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: potwierdzony. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Soyuz 2.1b Fregat-M, operated by Russian Federal Space Agency (ROSCOSMOS). Site: Vostochny Cosmodrome, Siberia, Russian Federation. Schedule status: confirmed. Mission: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Russian Federal Space Agency (ROSCOSMOS)",
+     "en": "Russian Federal Space Agency (ROSCOSMOS)"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vostochny Cosmodrome, Siberia, Russian Federation",
+    "en": "Vostochny Cosmodrome, Siberia, Russian Federation"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-12",
+   "extra": {
+    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -1793,6 +1793,65 @@
    }
   },
   {
+   "id": "ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+   "title": {
+    "pl": "Kuaizhou 11 | Unknown Payload",
+    "en": "Kuaizhou 11 | Unknown Payload"
+   },
+   "starts_at": "2026-11-30T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Kuaizhou 11 – ExPace. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Kuaizhou 11, operated by ExPace. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: date to be determined. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "ExPace",
+     "en": "ExPace"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/e2523821-9760-4cb4-ad1f-7ce2e30419bd/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "en": "Jiuquan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-09",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "rescheduled_from": "2026-11-12T19:50:00Z",
+   "updated_on": "2026-11-12",
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-dfac5ab7-7017-454f-b6cf-eeed277a97b5",
    "title": {
     "pl": "LVM-3 | Gaganyaan-1",
@@ -1902,8 +1961,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-11-13T05:00:00Z",
-   "updated_on": "2026-11-12",
    "poland": {
     "visible": false
    }
@@ -2926,63 +2983,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-11",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff",
-   "title": {
-    "pl": "LVM-3 | GSAT-32 (GSAT-N3)",
-    "en": "LVM-3 | GSAT-32 (GSAT-N3)"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Indian Space Research Organization",
-     "en": "Indian Space Research Organization"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Satish Dhawan Space Centre, India",
-    "en": "Satish Dhawan Space Centre, India"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-12",
    "extra": {
     "status": "To Be Determined"
    },

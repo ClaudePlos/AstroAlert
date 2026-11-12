@@ -4,15 +4,7 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:56:32 +0000</lastBuildDate>
-  <item>
-    <title>LVM-3 | GSAT-32 (GSAT-N3)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</link>
-    <guid isPermaLink="false">ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</guid>
-    <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
+  <lastBuildDate>Thu, 12 Nov 2026 19:07:33 +0000</lastBuildDate>
   <item>
     <title>Przelot planetoidy 2020 DR2</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3994619-2026-11-17</link>
@@ -20,6 +12,19 @@
     <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
     <category>Planetoidy</category>
     <description>&lt;p&gt;&lt;strong&gt;17.11.2026, 18:53 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 462–1 033 m minie Ziemię w odległości 57,80 mln km, czyli 150,4 odległości Ziemia–Księżyc, z prędkością 16,6 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3994619&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
+    <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
+    <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 00:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1b Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: potwierdzony. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
+
+* MKA Kinosputnik
+* KOEN, KA MT-LAB
+* NPO Kaisant 6U cubesat with a Germes modem
+* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
@@ -46,20 +51,20 @@
     <description>&lt;p&gt;&lt;strong&gt;13.12.2027, 16:16 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę pełni w gwiazdozbiorze Byka. Odległość od Ziemi: 368 512 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
+    <title>Kuaizhou 11 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd</link>
+    <guid isPermaLink="false">ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Kuaizhou 11 – ExPace. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/e2523821-9760-4cb4-ad1f-7ce2e30419bd/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
     <title>Falcon 9 Block 5 | USSF-266</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-460d9db7-eaf6-4cd9-b095-cff433534c09</link>
     <guid isPermaLink="false">ll2-460d9db7-eaf6-4cd9-b095-cff433534c09</guid>
     <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;18.11.2026, 16:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/460d9db7-eaf6-4cd9-b095-cff433534c09/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Kuaizhou 11 | Unknown Payload</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd</link>
-    <guid isPermaLink="false">ll2-e2523821-9760-4cb4-ad1f-7ce2e30419bd</guid>
-    <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;12.11.2026, 19:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Kuaizhou 11 – ExPace. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/e2523821-9760-4cb4-ad1f-7ce2e30419bd/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Przelot planetoidy 2014 XQ3</title>
