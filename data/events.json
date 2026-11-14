@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T12:26:06Z",
+ "generated_at": "2026-11-14T17:17:44Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 141,
-  "upcoming": 140,
+  "upcoming": 139,
   "poland": 36,
   "new_today": 3,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 3,
    "mission": 0
   }
  },
@@ -223,7 +223,7 @@
     "pl": "Vulcan VC6L | Amazon Leo (LV-01)",
     "en": "Vulcan VC6L | Amazon Leo (LV-01)"
    },
-   "starts_at": "2026-11-14T17:32:30Z",
+   "starts_at": "2026-11-15T17:11:30Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 4,
@@ -274,6 +274,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-14T17:32:30Z",
+   "updated_on": "2026-11-14",
    "poland": {
     "visible": false
    }
