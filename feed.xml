@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 23:29:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 12:26:06 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
+    <guid isPermaLink="false">ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</guid>
+    <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Electron | StriX Launch 14</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</link>
+    <guid isPermaLink="false">ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</guid>
+    <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2093e4fc-ac8c-4296-a1b5-deececee6a72/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Przelot planetoidy 2004 XK14</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3263448-2026-11-19</link>
+    <guid isPermaLink="false">neo-3263448-2026-11-19</guid>
+    <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;19.11.2026, 03:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 86–193 m minie Ziemię w odległości 13,13 mln km, czyli 34,2 odległości Ziemia–Księżyc, z prędkością 8,7 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3263448&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</link>
@@ -44,19 +68,6 @@
     <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
     <category>Planetoidy</category>
     <description>&lt;p&gt;&lt;strong&gt;17.11.2026, 18:53 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 462–1 033 m minie Ziemię w odległości 57,80 mln km, czyli 150,4 odległości Ziemia–Księżyc, z prędkością 16,6 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3994619&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</link>
-    <guid isPermaLink="false">ll2-bff2fc91-eddd-4dfc-af26-ac0674cfab4d</guid>
-    <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 01:16 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Soyuz 2.1b Fregat-M – Russian Federal Space Agency (ROSCOSMOS). Miejsce: Vostochny Cosmodrome, Siberia, Russian Federation. Status terminu: potwierdzony. Misja: Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:
-
-* MKA Kinosputnik
-* KOEN, KA MT-LAB
-* NPO Kaisant 6U cubesat with a Germes modem
-* NPO Kaisant 16U cubesat with Gonets modems Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Maksimum roju Geminidy</title>
@@ -105,14 +116,6 @@
     <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
     <category>Planetoidy</category>
     <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 03:38 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 289–646 m minie Ziemię w odległości 15,97 mln km, czyli 41,6 odległości Ziemia–Księżyc, z prędkością 7,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2218017&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Przelot planetoidy 363790 (2005 JE46)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2363790-2026-11-13</link>
-    <guid isPermaLink="false">neo-2363790-2026-11-13</guid>
-    <pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;13.11.2026, 19:58 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 715–1 600 m minie Ziemię w odległości 7,70 mln km, czyli 20,0 odległości Ziemia–Księżyc, z prędkością 14,7 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2363790&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | CHORUS</title>
@@ -283,14 +286,6 @@ First orbital full version launch of the South Korean military small satellite l
     <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;17.11.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rój, który co ok. 33 lata potrafi wybuchnąć burzą meteorów z tysiącami zjawisk na godzinę. W zwykłych latach jest spokojny. W maksimum teoretycznie do 15 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Lwa. Niestety Księżyc będzie oświetlony w 89% i zagłuszy słabsze meteory – warto obserwować po jego zachodzie. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;Kalendarz rojów IMO&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pl.wikipedia.org/wiki/Leonidy&quot;&gt;O roju – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Electron | The Mountain God Rises (iQPS Launch 10)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-db3500ac-965b-4ad8-b417-cb8d8d005586</link>
-    <guid isPermaLink="false">ll2-db3500ac-965b-4ad8-b417-cb8d8d005586</guid>
-    <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 05:30 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/db3500ac-965b-4ad8-b417-cb8d8d005586/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Pełnia Księżyca</title>
