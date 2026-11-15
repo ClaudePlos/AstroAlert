@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:18:24Z",
+ "generated_at": "2026-11-15T12:55:00Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -63,14 +63,14 @@
  },
  "stats": {
   "total": 141,
-  "upcoming": 139,
+  "upcoming": 141,
   "poland": 36,
-  "new_today": 3,
+  "new_today": 2,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 3,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,126 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-2218017-2026-11-14",
-   "title": {
-    "pl": "Przelot planetoidy 218017 (2001 XV266)",
-    "en": "Asteroid 218017 (2001 XV266) passes by"
-   },
-   "starts_at": "2026-11-14T03:38:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 289–646 m minie Ziemię w odległości 15,97 mln km, czyli 41,6 odległości Ziemia–Księżyc, z prędkością 7,3 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 289–646 m will pass Earth at 15.97 million km, or 41.6 times the Earth–Moon distance, travelling at 7.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2218017"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-07",
-   "extra": {
-    "miss_distance_km": 15974992,
-    "lunar_distances": 41.56,
-    "diameter_m": [
-     289,
-     646
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "neo-2274138-2026-11-14",
-   "title": {
-    "pl": "Przelot planetoidy 274138 (2008 FU6)",
-    "en": "Asteroid 274138 (2008 FU6) passes by"
-   },
-   "starts_at": "2026-11-14T13:21:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 742–1 660 m minie Ziemię w odległości 24,88 mln km, czyli 64,7 odległości Ziemia–Księżyc, z prędkością 17,4 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 742–1,660 m will pass Earth at 24.88 million km, or 64.7 times the Earth–Moon distance, travelling at 17.4 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2274138"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-07",
-   "extra": {
-    "miss_distance_km": 24877673,
-    "lunar_distances": 64.72,
-    "diameter_m": [
-     742,
-     1660
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "ll2-ef9850ad-1096-425b-9d27-f7bbd186e61a",
    "title": {
@@ -484,6 +364,66 @@
     },
     "max_altitude": 58.5,
     "best_time": "2026-11-18T04:40:00Z"
+   }
+  },
+  {
+   "id": "neo-2322756-2026-11-17",
+   "title": {
+    "pl": "Przelot planetoidy 322756 (2001 CK32)",
+    "en": "Asteroid 322756 (2001 CK32) passes by"
+   },
+   "starts_at": "2026-11-17T04:27:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 379–847 m minie Ziemię w odległości 66,52 mln km, czyli 173,0 odległości Ziemia–Księżyc, z prędkością 12,0 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 379–847 m will pass Earth at 66.52 million km, or 173.0 times the Earth–Moon distance, travelling at 12.0 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2322756"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-15",
+   "extra": {
+    "miss_distance_km": 66518862,
+    "lunar_distances": 173.05,
+    "diameter_m": [
+     379,
+     847
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -959,6 +899,66 @@
    "added_on": "2026-11-12",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3518084-2026-11-22",
+   "title": {
+    "pl": "Przelot planetoidy 2010 HG20",
+    "en": "Asteroid 2010 HG20 passes by"
+   },
+   "starts_at": "2026-11-22T03:45:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 139–312 m minie Ziemię w odległości 16,33 mln km, czyli 42,5 odległości Ziemia–Księżyc, z prędkością 10,5 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 139–312 m will pass Earth at 16.33 million km, or 42.5 times the Earth–Moon distance, travelling at 10.5 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3518084"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-15",
+   "extra": {
+    "miss_distance_km": 16326166,
+    "lunar_distances": 42.47,
+    "diameter_m": [
+     139,
+     312
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false

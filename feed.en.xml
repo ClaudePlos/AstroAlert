@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 14 Nov 2026 22:18:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 12:55:00 +0000</lastBuildDate>
+  <item>
+    <title>Asteroid 2010 HG20 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3518084-2026-11-22</link>
+    <guid isPermaLink="false">neo-3518084-2026-11-22</guid>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.11.2026, 03:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 139–312 m will pass Earth at 16.33 million km, or 42.5 times the Earth–Moon distance, travelling at 10.5 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3518084&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 322756 (2001 CK32) passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2322756-2026-11-17</link>
+    <guid isPermaLink="false">neo-2322756-2026-11-17</guid>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;17.11.2026, 04:27 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 379–847 m will pass Earth at 66.52 million km, or 173.0 times the Earth–Moon distance, travelling at 12.0 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2322756&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
@@ -100,22 +116,6 @@
     <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;23.11.2026, 16:04 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/460d9db7-eaf6-4cd9-b095-cff433534c09/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 274138 (2008 FU6) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2274138-2026-11-14</link>
-    <guid isPermaLink="false">neo-2274138-2026-11-14</guid>
-    <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 13:21 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 742–1,660 m will pass Earth at 24.88 million km, or 64.7 times the Earth–Moon distance, travelling at 17.4 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2274138&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 218017 (2001 XV266) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2218017-2026-11-14</link>
-    <guid isPermaLink="false">neo-2218017-2026-11-14</guid>
-    <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;14.11.2026, 03:38 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 289–646 m will pass Earth at 15.97 million km, or 41.6 times the Earth–Moon distance, travelling at 7.3 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2218017&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | CHORUS</title>
