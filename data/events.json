@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:46:00Z",
+ "generated_at": "2026-11-16T13:55:55Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 111
+   "count": 112
   },
   {
    "id": "launchlibrary",
@@ -51,26 +51,26 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-12",
+  "date": "2026-11-16",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word \"planet\" comes from \"wandering star\" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such meetings are called conjunctions. They don't happen by chance, but follow the precise laws of celestial mechanics. This peaceful image, captured in Poland, shows the crescent Moon above the Tatra Mountains, and bright Venus close by, a little lower in the horizon. The bright star to the left of Venus is Spica in the constellation of Virgo, the Maiden. Spica is one of the brightest stars in the sky, only about 250 light-years away. It was found in 1890 that Spica is a binary star: two massive blue stars orbiting each other every 4 days. But earlier this year it was reported that Spica, the current companion of wandering Venus, is actually a triple system.Tomorrow's picture: what's next?\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap261112.html"
+  "explanation": "How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can get complicated when previously formed stars emit powerful jets and winds -- and some then explode. Opaque dust can form in the cool atmospheres of stars and, when dispersed, can obstruct visible-light images. Many stars can be seen to be forming in the featured image, with the young stars on the left, in the gold-colored gas, typically being more mature than the young stars on the right -- in the red region. Jets and winds likely cause the filamentary nature of the red-colored gas. Studying stars at different stages of development bolsters understanding about what physical processes are most important and when.Tomorrow's picture: sky duel\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261116.html"
  },
  "stats": {
-  "total": 141,
-  "upcoming": 141,
-  "poland": 36,
-  "new_today": 3,
+  "total": 142,
+  "upcoming": 140,
+  "poland": 35,
+  "new_today": 1,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -604,8 +604,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-18T03:14:00Z",
-   "updated_on": "2026-11-15",
    "poland": {
     "visible": false
    }
@@ -9152,6 +9150,71 @@
     },
     "max_altitude": 70.0,
     "best_time": "2027-12-15T00:40:00Z"
+   }
+  },
+  {
+   "id": "ostatnia-kwadra-2027-12-20-eb61428a",
+   "title": {
+    "pl": "Ostatnia kwadra",
+    "en": "Last Quarter"
+   },
+   "starts_at": "2027-12-20T09:07:00Z",
+   "category": "sky",
+   "subcategory": "moon",
+   "importance": 1,
+   "summary": {
+    "pl": "Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Lwa. Odległość od Ziemi: 372 519 km.",
+    "en": "The Moon reaches last quarter in Leo. Distance from Earth: 372,519 km."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Ostatnia kwadra",
+     "en": "Last Quarter"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Fazy Księżyca – kalendarz",
+      "en": "Moon phase calendar"
+     },
+     "url": "https://www.timeanddate.com/moon/phases/"
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-11-16",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Księżyc wznosi się 31° nad polskim horyzontem.",
+     "en": "The Moon climbs 31° above the Polish horizon."
+    },
+    "max_altitude": 31.0,
+    "best_time": "2027-12-21T05:00:00Z"
    }
   }
  ]

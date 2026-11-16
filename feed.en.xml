@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 15 Nov 2026 22:46:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 13:55:55 +0000</lastBuildDate>
+  <item>
+    <title>Last Quarter</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-12-20-eb61428a</link>
+    <guid isPermaLink="false">ostatnia-kwadra-2027-12-20-eb61428a</guid>
+    <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;20.12.2027, 09:07 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Leo. Distance from Earth: 372,519 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>LVM-3 | GSAT-32 (GSAT-N3)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff</link>
@@ -326,13 +334,5 @@ First orbital full version launch of the South Korean military small satellite l
     <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;05.11.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Few meteors, but an unusual share of fireballs – slow, very bright and worth the wait. At maximum, up to 5 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Taurus. A Moon 38% illuminated will brighten the sky a little. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;IMO meteor shower calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Taurids&quot;&gt;About the shower – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>LVM-3 | Gaganyaan-1</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-dfac5ab7-7017-454f-b6cf-eeed277a97b5</link>
-    <guid isPermaLink="false">ll2-dfac5ab7-7017-454f-b6cf-eeed277a97b5</guid>
-    <pubDate>Sat, 26 Sep 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: First uncrewed orbital test flight of the Gaganyaan capsule. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/dfac5ab7-7017-454f-b6cf-eeed277a97b5/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
