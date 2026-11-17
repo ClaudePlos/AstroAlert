@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 16 Nov 2026 21:13:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 01:51:02 +0000</lastBuildDate>
+  <item>
+    <title>Asteroid 481442 (2006 WO3) passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2481442-2026-11-24</link>
+    <guid isPermaLink="false">neo-2481442-2026-11-24</guid>
+    <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 06:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 128–287 m will pass Earth at 20.15 million km, or 52.4 times the Earth–Moon distance, travelling at 13.8 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2481442&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Last Quarter</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ostatnia-kwadra-2027-12-20-eb61428a</link>
@@ -68,14 +76,6 @@
     <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71df1dd0-d658-4762-b0bc-0fca6886aea7/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 2019 HK4 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3841677-2026-11-16</link>
-    <guid isPermaLink="false">neo-3841677-2026-11-16</guid>
-    <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;16.11.2026, 01:48 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 146–327 m will pass Earth at 21.21 million km, or 55.2 times the Earth–Moon distance, travelling at 22.1 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3841677&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | NROL-136</title>

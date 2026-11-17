@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:13:55Z",
+ "generated_at": "2026-11-17T01:51:02Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,7 +51,7 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
@@ -59,18 +59,18 @@
    "en": "NASA / public domain"
   },
   "explanation": "How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can get complicated when previously formed stars emit powerful jets and winds -- and some then explode. Opaque dust can form in the cool atmospheres of stars and, when dispersed, can obstruct visible-light images. Many stars can be seen to be forming in the featured image, with the young stars on the left, in the gold-colored gas, typically being more mature than the young stars on the right -- in the red region. Jets and winds likely cause the filamentary nature of the red-colored gas. Studying stars at different stages of development bolsters understanding about what physical processes are most important and when.Tomorrow's picture: sky duel\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap261116.html"
+  "link": "https://apod.nasa.gov/apod/ap261117.html"
  },
  "stats": {
   "total": 142,
-  "upcoming": 140,
+  "upcoming": 141,
   "poland": 35,
   "new_today": 1,
   "by_category": {
    "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 4,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -97,66 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "neo-3841677-2026-11-16",
-   "title": {
-    "pl": "Przelot planetoidy 2019 HK4",
-    "en": "Asteroid 2019 HK4 passes by"
-   },
-   "starts_at": "2026-11-16T01:48:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 146–327 m minie Ziemię w odległości 21,21 mln km, czyli 55,2 odległości Ziemia–Księżyc, z prędkością 22,1 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 146–327 m will pass Earth at 21.21 million km, or 55.2 times the Earth–Moon distance, travelling at 22.1 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3841677"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-13",
-   "extra": {
-    "miss_distance_km": 21212582,
-    "lunar_distances": 55.18,
-    "diameter_m": [
-     146,
-     327
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
   {
    "id": "koniunkcja-marsa-i-jowisza-2026-11-16-fb486a91",
    "title": {
@@ -1073,6 +1013,66 @@
    "added_on": "2026-09-17",
    "extra": {
     "status": "To Be Confirmed"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-2481442-2026-11-24",
+   "title": {
+    "pl": "Przelot planetoidy 481442 (2006 WO3)",
+    "en": "Asteroid 481442 (2006 WO3) passes by"
+   },
+   "starts_at": "2026-11-24T06:01:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 128–287 m minie Ziemię w odległości 20,15 mln km, czyli 52,4 odległości Ziemia–Księżyc, z prędkością 13,8 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 128–287 m will pass Earth at 20.15 million km, or 52.4 times the Earth–Moon distance, travelling at 13.8 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2481442"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-17",
+   "extra": {
+    "miss_distance_km": 20152451,
+    "lunar_distances": 52.43,
+    "diameter_m": [
+     128,
+     287
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false

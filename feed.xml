@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 21:13:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 01:51:02 +0000</lastBuildDate>
+  <item>
+    <title>Przelot planetoidy 481442 (2006 WO3)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-2481442-2026-11-24</link>
+    <guid isPermaLink="false">neo-2481442-2026-11-24</guid>
+    <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 06:01 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 128–287 m minie Ziemię w odległości 20,15 mln km, czyli 52,4 odległości Ziemia–Księżyc, z prędkością 13,8 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2481442&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Ostatnia kwadra</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ostatnia-kwadra-2027-12-20-eb61428a</link>
@@ -68,14 +76,6 @@
     <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/71df1dd0-d658-4762-b0bc-0fca6886aea7/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Przelot planetoidy 2019 HK4</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3841677-2026-11-16</link>
-    <guid isPermaLink="false">neo-3841677-2026-11-16</guid>
-    <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Planetoidy</category>
-    <description>&lt;p&gt;&lt;strong&gt;16.11.2026, 01:48 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 146–327 m minie Ziemię w odległości 21,21 mln km, czyli 55,2 odległości Ziemia–Księżyc, z prędkością 22,1 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3841677&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | NROL-136</title>
