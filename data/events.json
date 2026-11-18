@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:55:28Z",
+ "generated_at": "2026-11-18T14:28:36Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 144,
   "upcoming": 141,
   "poland": 36,
-  "new_today": 4,
+  "new_today": 5,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -490,13 +490,13 @@
     "pl": "Long March 8A | SatNet LEO Group TBD?",
     "en": "Long March 8A | SatNet LEO Group TBD?"
    },
-   "starts_at": "2026-11-20T11:00:00Z",
+   "starts_at": "2026-11-20T11:59:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: termin do potwierdzenia. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -535,8 +535,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-10-30",
    "extra": {
-    "status": "To Be Confirmed"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-20T11:00:00Z",
+   "updated_on": "2026-11-18",
    "poland": {
     "visible": false
    }
@@ -600,6 +602,63 @@
     },
     "max_altitude": 13.6,
     "best_time": "2026-11-21T06:00:00Z"
+   }
+  },
+  {
+   "id": "ll2-13270554-4bdb-42ae-916f-1bb54492204f",
+   "title": {
+    "pl": "Long March 6C | Unknown Payload",
+    "en": "Long March 6C | Unknown Payload"
+   },
+   "starts_at": "2026-11-21T03:50:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 6C – China Aerospace Science and Technology Corporation. Miejsce: Taiyuan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 6C, operated by China Aerospace Science and Technology Corporation. Site: Taiyuan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/13270554-4bdb-42ae-916f-1bb54492204f/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Taiyuan Satellite Launch Center, People's Republic of China",
+    "en": "Taiyuan Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-18",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2845,63 +2904,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-14",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-0cf92611-82a8-4095-a0b4-dda2e74b1fff",
-   "title": {
-    "pl": "LVM-3 | GSAT-32 (GSAT-N3)",
-    "en": "LVM-3 | GSAT-32 (GSAT-N3)"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Launch Vehicle Mark-3 (GSLV Mk III) – Indian Space Research Organization. Miejsce: Satish Dhawan Space Centre, India. Status terminu: termin wstępny. Misja: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: GSAT-32 is a geostationary communications satellite for the Indian Space Research Organization (ISRO). The spacecraft is a replacement for GSAT-6A that failed before reaching geostationary orbit after launch in 2018. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Indian Space Research Organization",
-     "en": "Indian Space Research Organization"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/0cf92611-82a8-4095-a0b4-dda2e74b1fff/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Satish Dhawan Space Centre, India",
-    "en": "Satish Dhawan Space Centre, India"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-15",
    "extra": {
     "status": "To Be Determined"
    },
