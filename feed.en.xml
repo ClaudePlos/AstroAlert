@@ -4,7 +4,39 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 17 Nov 2026 20:00:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 00:55:28 +0000</lastBuildDate>
+  <item>
+    <title>December solstice</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#przesilenie-zimowe-2027-12-22-6a3f8558</link>
+    <guid isPermaLink="false">przesilenie-zimowe-2027-12-22-6a3f8558</guid>
+    <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.12.2027, 02:36 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The shortest day of the year in the northern hemisphere. From now on the days grow longer – astronomical winter begins.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Ursids meteor shower peak</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-ursydy-2027-12-22-8d11ae0d</link>
+    <guid isPermaLink="false">maksimum-roju-ursydy-2027-12-22-8d11ae0d</guid>
+    <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;22.12.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A modest but convenient shower – the radiant is circumpolar, so it is up all night. At maximum, up to 10 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Ursa Minor. A Moon 32% illuminated will brighten the sky a little. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;IMO meteor shower calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ursids&quot;&gt;About the shower – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2018 VL8 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3836207-2026-11-25</link>
+    <guid isPermaLink="false">neo-3836207-2026-11-25</guid>
+    <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;25.11.2026, 05:06 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 73–164 m will pass Earth at 10.83 million km, or 28.2 times the Earth–Moon distance, travelling at 17.6 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3836207&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2006 KK89 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3335046-2026-11-24</link>
+    <guid isPermaLink="false">neo-3335046-2026-11-24</guid>
+    <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 23:25 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 78–175 m will pass Earth at 16.69 million km, or 43.4 times the Earth–Moon distance, travelling at 10.9 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3335046&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Asteroid 481442 (2006 WO3) passes by</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2481442-2026-11-24</link>
@@ -36,14 +68,6 @@
     <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
     <category>Asteroids</category>
     <description>&lt;p&gt;&lt;strong&gt;22.11.2026, 03:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 139–312 m will pass Earth at 16.33 million km, or 42.5 times the Earth–Moon distance, travelling at 10.5 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3518084&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 322756 (2001 CK32) passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-2322756-2026-11-17</link>
-    <guid isPermaLink="false">neo-2322756-2026-11-17</guid>
-    <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.11.2026, 04:27 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 379–847 m will pass Earth at 66.52 million km, or 173.0 times the Earth–Moon distance, travelling at 12.0 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2322756&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
@@ -92,14 +116,6 @@
     <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;18.11.2026, 22:50 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 2D, operated by China Aerospace Science and Technology Corporation. Site: Taiyuan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/e0a11eb1-0bda-4872-b36b-140247fd5c60/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 2020 DR2 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3994619-2026-11-17</link>
-    <guid isPermaLink="false">neo-3994619-2026-11-17</guid>
-    <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;17.11.2026, 18:53 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 462–1,033 m will pass Earth at 57.80 million km, or 150.4 times the Earth–Moon distance, travelling at 16.6 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3994619&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Geminids meteor shower peak</title>
@@ -318,21 +334,5 @@ First orbital full version launch of the South Korean military small satellite l
     <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;06.11.2027, 08:05 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Capricornus. Distance from Earth: 404,691 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Greatest western elongation of Mercury (19°)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksymalna-elongacja-merkurego-zachodnia-19-2027-11-04-fc6eef9a</link>
-    <guid isPermaLink="false">maksymalna-elongacja-merkurego-zachodnia-19-2027-11-04-fc6eef9a</guid>
-    <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;04.11.2027, 08:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mercury stands 19° from the Sun – the best chance this season to catch the planet in the morning, just before sunrise. The hardest planet to catch – it never strays far from the Sun. Look for it low above the eastern horizon during twilight.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Southern Taurids meteor shower peak</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#maksimum-roju-taurydy-poludniowe-2027-11-05-39b94649</link>
-    <guid isPermaLink="false">maksimum-roju-taurydy-poludniowe-2027-11-05-39b94649</guid>
-    <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;05.11.2027, 02:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Few meteors, but an unusual share of fireballs – slow, very bright and worth the wait. At maximum, up to 5 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Taurus. A Moon 38% illuminated will brighten the sky a little. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.imo.net/resources/calendar/&quot;&gt;IMO meteor shower calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Taurids&quot;&gt;About the shower – Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

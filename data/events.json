@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:00:19Z",
+ "generated_at": "2026-11-18T00:55:28Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 112
+   "count": 114
   },
   {
    "id": "launchlibrary",
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261117.html"
  },
  "stats": {
-  "total": 142,
-  "upcoming": 137,
-  "poland": 34,
-  "new_today": 1,
+  "total": 144,
+  "upcoming": 141,
+  "poland": 36,
+  "new_today": 4,
   "by_category": {
-   "sky": 109,
+   "sky": 111,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 3,
+   "asteroid": 5,
    "mission": 0
   }
  },
@@ -246,66 +246,6 @@
    }
   },
   {
-   "id": "neo-2322756-2026-11-17",
-   "title": {
-    "pl": "Przelot planetoidy 322756 (2001 CK32)",
-    "en": "Asteroid 322756 (2001 CK32) passes by"
-   },
-   "starts_at": "2026-11-17T04:27:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 379–847 m minie Ziemię w odległości 66,52 mln km, czyli 173,0 odległości Ziemia–Księżyc, z prędkością 12,0 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 379–847 m will pass Earth at 66.52 million km, or 173.0 times the Earth–Moon distance, travelling at 12.0 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2322756"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-15",
-   "extra": {
-    "miss_distance_km": 66518862,
-    "lunar_distances": 173.05,
-    "diameter_m": [
-     379,
-     847
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "pierwsza-kwadra-2026-11-17-2f759f98",
    "title": {
     "pl": "Pierwsza kwadra",
@@ -368,70 +308,6 @@
     },
     "max_altitude": 27.5,
     "best_time": "2026-11-17T17:10:00Z"
-   }
-  },
-  {
-   "id": "neo-3994619-2026-11-17",
-   "title": {
-    "pl": "Przelot planetoidy 2020 DR2",
-    "en": "Asteroid 2020 DR2 passes by"
-   },
-   "starts_at": "2026-11-17T18:53:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 462–1 033 m minie Ziemię w odległości 57,80 mln km, czyli 150,4 odległości Ziemia–Księżyc, z prędkością 16,6 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
-    "en": "An asteroid with an estimated diameter of 462–1,033 m will pass Earth at 57.80 million km, or 150.4 times the Earth–Moon distance, travelling at 16.6 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    },
-    {
-     "pl": "potencjalnie niebezpieczna",
-     "en": "potentially hazardous"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3994619"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-12",
-   "extra": {
-    "miss_distance_km": 57802791,
-    "lunar_distances": 150.37,
-    "diameter_m": [
-     462,
-     1033
-    ],
-    "hazardous": true
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -604,8 +480,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-19T03:00:00Z",
-   "updated_on": "2026-11-17",
    "poland": {
     "visible": false
    }
@@ -902,8 +776,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-23T00:00:00Z",
-   "updated_on": "2026-11-17",
    "poland": {
     "visible": false
    }
@@ -1205,6 +1077,66 @@
    }
   },
   {
+   "id": "neo-3335046-2026-11-24",
+   "title": {
+    "pl": "Przelot planetoidy 2006 KK89",
+    "en": "Asteroid 2006 KK89 passes by"
+   },
+   "starts_at": "2026-11-24T23:25:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 78–175 m minie Ziemię w odległości 16,69 mln km, czyli 43,4 odległości Ziemia–Księżyc, z prędkością 10,9 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 78–175 m will pass Earth at 16.69 million km, or 43.4 times the Earth–Moon distance, travelling at 10.9 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3335046"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-18",
+   "extra": {
+    "miss_distance_km": 16685425,
+    "lunar_distances": 43.41,
+    "diameter_m": [
+     78,
+     175
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-c9605b67-8a53-4239-a8ae-577fe3b79799",
    "title": {
     "pl": "Long March 2F/G | Shenzhou 24",
@@ -1256,6 +1188,66 @@
    "added_on": "2026-10-24",
    "extra": {
     "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3836207-2026-11-25",
+   "title": {
+    "pl": "Przelot planetoidy 2018 VL8",
+    "en": "Asteroid 2018 VL8 passes by"
+   },
+   "starts_at": "2026-11-25T05:06:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 73–164 m minie Ziemię w odległości 10,83 mln km, czyli 28,2 odległości Ziemia–Księżyc, z prędkością 17,6 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 73–164 m will pass Earth at 10.83 million km, or 28.2 times the Earth–Moon distance, travelling at 17.6 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3836207"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-18",
+   "extra": {
+    "miss_distance_km": 10826838,
+    "lunar_distances": 28.17,
+    "diameter_m": [
+     73,
+     164
+    ],
+    "hazardous": false
    },
    "poland": {
     "visible": false
@@ -9219,6 +9211,142 @@
     },
     "max_altitude": 31.0,
     "best_time": "2027-12-21T05:00:00Z"
+   }
+  },
+  {
+   "id": "maksimum-roju-ursydy-2027-12-22-8d11ae0d",
+   "title": {
+    "pl": "Maksimum roju Ursydy",
+    "en": "Ursids meteor shower peak"
+   },
+   "starts_at": "2027-12-22T02:00:00Z",
+   "category": "sky",
+   "subcategory": "meteors",
+   "importance": 3,
+   "summary": {
+    "pl": "Skromny, ale wygodny rój – radiant jest okołobiegunowy, więc widać go przez całą noc. W maksimum teoretycznie do 10 meteorów na godzinę (ZHR – przy idealnie ciemnym niebie i radiancie w zenicie; realnie zwykle kilka razy mniej). Radiant w gwiazdozbiorze Małej Niedźwiedzicy. Księżyc oświetlony w 32% nieco rozjaśni niebo. Nie potrzeba żadnego sprzętu – wystarczy leżak, ciepłe ubranie i miejsce z dala od miejskich świateł.",
+    "en": "A modest but convenient shower – the radiant is circumpolar, so it is up all night. At maximum, up to 10 meteors per hour in theory (the ZHR – under a perfectly dark sky with the radiant overhead; in practice usually several times fewer). The radiant lies in Ursa Minor. A Moon 32% illuminated will brighten the sky a little. No equipment needed – just a reclining chair, warm clothes and a spot away from city lights."
+   },
+   "tags": [
+    {
+     "pl": "meteory",
+     "en": "meteors"
+    },
+    {
+     "pl": "Ursydy",
+     "en": "Ursids"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Kalendarz rojów IMO",
+      "en": "IMO meteor shower calendar"
+     },
+     "url": "https://www.imo.net/resources/calendar/"
+    },
+    {
+     "label": {
+      "pl": "O roju – Wikipedia",
+      "en": "About the shower – Wikipedia"
+     },
+     "url": {
+      "pl": "https://pl.wikipedia.org/wiki/Ursydy",
+      "en": "https://en.wikipedia.org/wiki/Ursids"
+     }
+    },
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-11-18",
+   "extra": {
+    "zhr": 10,
+    "moon_illumination": 0.32,
+    "radiant_ra": 14.6,
+    "radiant_dec": 76
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Radiant wznosi się 64° nad horyzont – rój jest z Polski dobrze ustawiony.",
+     "en": "The radiant climbs 64° above the horizon – the shower is well placed for Poland."
+    },
+    "max_altitude": 63.7,
+    "best_time": "2027-12-23T05:20:00Z"
+   }
+  },
+  {
+   "id": "przesilenie-zimowe-2027-12-22-6a3f8558",
+   "title": {
+    "pl": "Przesilenie zimowe",
+    "en": "December solstice"
+   },
+   "starts_at": "2027-12-22T02:36:00Z",
+   "category": "sky",
+   "subcategory": "season",
+   "importance": 3,
+   "summary": {
+    "pl": "Najkrótszy dzień roku na półkuli północnej. Od tego momentu dnia zaczyna przybywać – początek astronomicznej zimy.",
+    "en": "The shortest day of the year in the northern hemisphere. From now on the days grow longer – astronomical winter begins."
+   },
+   "tags": [
+    {
+     "pl": "Słońce",
+     "en": "Sun"
+    },
+    {
+     "pl": "pory roku",
+     "en": "seasons"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-11-18",
+   "extra": {},
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Dotyczy wprost polskiego nieba: zmienia długość dnia i sezon obserwacyjny.",
+     "en": "Directly relevant to Polish skies: it changes the day length and the observing season."
+    }
    }
   }
  ]
