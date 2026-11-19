@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:35:19Z",
+ "generated_at": "2026-11-19T00:18:45Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 114
+   "count": 113
   },
   {
    "id": "launchlibrary",
@@ -62,10 +62,10 @@
   "link": "https://apod.nasa.gov/apod/ap261117.html"
  },
  "stats": {
-  "total": 144,
+  "total": 143,
   "upcoming": 141,
   "poland": 36,
-  "new_today": 6,
+  "new_today": 2,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -97,74 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "koniunkcja-marsa-i-jowisza-2026-11-16-fb486a91",
-   "title": {
-    "pl": "Koniunkcja Marsa i Jowisza",
-    "en": "Conjunction of Mars and Jupiter"
-   },
-   "starts_at": "2026-11-16T01:55:00Z",
-   "category": "sky",
-   "subcategory": "conjunction",
-   "importance": 3,
-   "summary": {
-    "pl": "Dwie planety dzieli na niebie zaledwie 1,2° – to mniej niż szerokość palca wyciągniętej ręki. Zjawisko widoczne nad ranem, przed wschodem Słońca, w gwiazdozbiorze Raka. Odległość od Słońca na niebie: 88°.",
-    "en": "Only 1.2° separates the two planets – less than the width of a finger at arm's length. Visible in the morning, before sunrise, in Cancer. Angular distance from the Sun: 88°."
-   },
-   "tags": [
-    {
-     "pl": "Mars",
-     "en": "Mars"
-    },
-    {
-     "pl": "Jowisz",
-     "en": "Jupiter"
-    },
-    {
-     "pl": "koniunkcja",
-     "en": "conjunction"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {
-    "separation_deg": 1.19,
-    "bodies": [
-     "Mars",
-     "Jupiter"
-    ]
-   },
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Parę widać z Polski – maksymalnie 52° nad horyzontem.",
-     "en": "The pair is observable from Poland, up to 52° above the horizon."
-    },
-    "max_altitude": 52.5,
-    "best_time": "2026-11-17T04:40:00Z"
-   }
-  },
   {
    "id": "maksimum-roju-leonidy-2026-11-17-cf3cab2e",
    "title": {
@@ -308,63 +240,6 @@
     },
     "max_altitude": 27.5,
     "best_time": "2026-11-17T17:10:00Z"
-   }
-  },
-  {
-   "id": "ll2-e0a11eb1-0bda-4872-b36b-140247fd5c60",
-   "title": {
-    "pl": "Long March 2D | Unknown Payload",
-    "en": "Long March 2D | Unknown Payload"
-   },
-   "starts_at": "2026-11-18T22:50:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 2D – China Aerospace Science and Technology Corporation. Miejsce: Taiyuan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 2D, operated by China Aerospace Science and Technology Corporation. Site: Taiyuan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/e0a11eb1-0bda-4872-b36b-140247fd5c60/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Taiyuan Satellite Launch Center, People's Republic of China",
-    "en": "Taiyuan Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-12",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -1134,66 +1009,6 @@
    }
   },
   {
-   "id": "neo-3335046-2026-11-24",
-   "title": {
-    "pl": "Przelot planetoidy 2006 KK89",
-    "en": "Asteroid 2006 KK89 passes by"
-   },
-   "starts_at": "2026-11-24T23:25:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 2,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 78–175 m minie Ziemię w odległości 16,69 mln km, czyli 43,4 odległości Ziemia–Księżyc, z prędkością 10,9 km/s. Dla skali: wielkości sporego bloku mieszkalnego. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 78–175 m will pass Earth at 16.69 million km, or 43.4 times the Earth–Moon distance, travelling at 10.9 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3335046"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-18",
-   "extra": {
-    "miss_distance_km": 16685425,
-    "lunar_distances": 43.41,
-    "diameter_m": [
-     78,
-     175
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-c9605b67-8a53-4239-a8ae-577fe3b79799",
    "title": {
     "pl": "Long March 2F/G | Shenzhou 24",
@@ -1369,6 +1184,66 @@
     },
     "max_altitude": 58.7,
     "best_time": "2026-11-25T22:30:00Z"
+   }
+  },
+  {
+   "id": "neo-3683468-2026-11-26",
+   "title": {
+    "pl": "Przelot planetoidy 2014 QR295",
+    "en": "Asteroid 2014 QR295 passes by"
+   },
+   "starts_at": "2026-11-26T06:50:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 558–1 247 m minie Ziemię w odległości 41,85 mln km, czyli 108,9 odległości Ziemia–Księżyc, z prędkością 17,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 558–1,247 m will pass Earth at 41.85 million km, or 108.9 times the Earth–Moon distance, travelling at 17.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3683468"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-19",
+   "extra": {
+    "miss_distance_km": 41849568,
+    "lunar_distances": 108.87,
+    "diameter_m": [
+     558,
+     1247
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -2902,6 +2777,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-13",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+    "en": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-19",
    "extra": {
     "status": "To Be Determined"
    },
