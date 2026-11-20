@@ -4,7 +4,23 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 19 Nov 2026 19:38:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 00:34:57 +0000</lastBuildDate>
+  <item>
+    <title>Kinetica 1 | Unknown Payload</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-8b46d360-6b3b-423f-9036-d5568e485624</link>
+    <guid isPermaLink="false">ll2-8b46d360-6b3b-423f-9036-d5568e485624</guid>
+    <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;29.11.2026, 01:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Kinetica 1, operated by CAS Space. Site: Haiyang Oriental Spaceport. Schedule status: date to be confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/8b46d360-6b3b-423f-9036-d5568e485624/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Asteroid 2018 TX4 passes by</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3831730-2026-11-27</link>
+    <guid isPermaLink="false">neo-3831730-2026-11-27</guid>
+    <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 18:28 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 464–1,038 m will pass Earth at 45.78 million km, or 119.1 times the Earth–Moon distance, travelling at 28.6 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3831730&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71ed4649-8d71-42e8-8548-d42ffa2c5a6e</link>
@@ -86,20 +102,12 @@
     <description>&lt;p&gt;&lt;strong&gt;22.11.2026, 03:45 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 139–312 m will pass Earth at 16.33 million km, or 42.5 times the Earth–Moon distance, travelling at 10.5 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3518084&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Electron | StriX Launch 14</title>
+    <title>Electron | Night Owls Never Sleep (StriX Launch 14)</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</link>
     <guid isPermaLink="false">ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</guid>
     <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;30.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be determined. Mission: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2093e4fc-ac8c-4296-a1b5-deececee6a72/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Asteroid 2004 XK14 passes by</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3263448-2026-11-19</link>
-    <guid isPermaLink="false">neo-3263448-2026-11-19</guid>
-    <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Asteroids</category>
-    <description>&lt;p&gt;&lt;strong&gt;19.11.2026, 03:49 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 86–193 m will pass Earth at 13.13 million km, or 34.2 times the Earth–Moon distance, travelling at 8.7 km/s. For scale: roughly the size of a large apartment block. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3263448&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2093e4fc-ac8c-4296-a1b5-deececee6a72/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
@@ -173,7 +181,7 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
     <guid isPermaLink="false">ll2-76617033-4dc0-4448-b50c-e5b0d5a18539</guid>
     <pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;20.11.2026, 04:32 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/76617033-4dc0-4448-b50c-e5b0d5a18539/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;20.11.2026, 06:43 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/76617033-4dc0-4448-b50c-e5b0d5a18539/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>First Quarter</title>
@@ -197,7 +205,7 @@ In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd
     <guid isPermaLink="false">ll2-5ce59e3a-c343-430f-ae4e-e608ba536754</guid>
     <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;24.11.2026, 07:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.
+    <description>&lt;p&gt;&lt;strong&gt;10.12.2026, 07:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 12, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: date to be confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.
 
 The constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/5ce59e3a-c343-430f-ae4e-e608ba536754/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
@@ -326,13 +334,5 @@ First orbital full version launch of the South Korean military small satellite l
     <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;14.11.2027, 03:33 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches full phase in Aries. Distance from Earth: 379,178 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>First Quarter</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#pierwsza-kwadra-2027-11-06-a62bd25a</link>
-    <guid isPermaLink="false">pierwsza-kwadra-2027-11-06-a62bd25a</guid>
-    <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;06.11.2027, 08:05 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches first quarter in Capricornus. Distance from Earth: 404,691 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>
