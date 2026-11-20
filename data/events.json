@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:34:57Z",
+ "generated_at": "2026-11-20T14:17:21Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 143,
   "upcoming": 141,
   "poland": 36,
-  "new_today": 2,
+  "new_today": 3,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -243,122 +243,6 @@
    }
   },
   {
-   "id": "ll2-76617033-4dc0-4448-b50c-e5b0d5a18539",
-   "title": {
-    "pl": "Falcon 9 Block 5 | USSF-317",
-    "en": "Falcon 9 Block 5 | USSF-317"
-   },
-   "starts_at": "2026-11-20T06:43:59Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/76617033-4dc0-4448-b50c-e5b0d5a18539/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-03",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "rescheduled_from": "2026-11-20T04:32:55Z",
-   "updated_on": "2026-11-20",
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-a2975167-7c6f-4403-99e1-b40df17c8140",
-   "title": {
-    "pl": "Long March 8A | SatNet LEO Group TBD?",
-    "en": "Long March 8A | SatNet LEO Group TBD?"
-   },
-   "starts_at": "2026-11-20T11:59:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 8A – China Aerospace Science and Technology Corporation. Miejsce: Wenchang Space Launch Site, People's Republic of China. Status terminu: potwierdzony. Misja: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 8A, operated by China Aerospace Science and Technology Corporation. Site: Wenchang Space Launch Site, People's Republic of China. Schedule status: confirmed. Mission: A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/a2975167-7c6f-4403-99e1-b40df17c8140/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Wenchang Space Launch Site, People's Republic of China",
-    "en": "Wenchang Space Launch Site, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-30",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "maksymalna-elongacja-merkurego-zachodnia-20-2026-11-20-048e5128",
    "title": {
     "pl": "Maksymalna elongacja Merkurego (zachodnia, 20°)",
@@ -417,6 +301,65 @@
     },
     "max_altitude": 13.6,
     "best_time": "2026-11-21T06:00:00Z"
+   }
+  },
+  {
+   "id": "ll2-76617033-4dc0-4448-b50c-e5b0d5a18539",
+   "title": {
+    "pl": "Falcon 9 Block 5 | USSF-317",
+    "en": "Falcon 9 Block 5 | USSF-317"
+   },
+   "starts_at": "2026-11-21T02:32:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/76617033-4dc0-4448-b50c-e5b0d5a18539/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-03",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-11-20T06:43:59Z",
+   "updated_on": "2026-11-20",
+   "poland": {
+    "visible": false
    }
   },
   {
@@ -816,7 +759,7 @@
    "source_id": "neows",
    "added_on": "2026-11-17",
    "extra": {
-    "miss_distance_km": 20152451,
+    "miss_distance_km": 20152442,
     "lunar_distances": 52.43,
     "diameter_m": [
      128,
@@ -899,13 +842,13 @@
     "pl": "Long March 2F/G | Shenzhou 24",
     "en": "Long March 2F/G | Shenzhou 24"
    },
-   "starts_at": "2026-11-25T00:00:00Z",
+   "starts_at": "2026-11-25T00:18:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
    "summary": {
-    "pl": "Start rakiety Long March 2F/G – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: termin wstępny. Misja: Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 2F/G, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: date to be determined. Mission: Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition. Launch dates slip often – check the current status before tuning into a webcast."
+    "pl": "Start rakiety Long March 2F/G – China Aerospace Science and Technology Corporation. Miejsce: Jiuquan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 2F/G, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition. Launch dates slip often – check the current status before tuning into a webcast."
    },
    "tags": [
     {
@@ -944,8 +887,10 @@
    "source_id": "launchlibrary",
    "added_on": "2026-10-24",
    "extra": {
-    "status": "To Be Determined"
+    "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-25T00:00:00Z",
+   "updated_on": "2026-11-20",
    "poland": {
     "visible": false
    }
@@ -1132,6 +1077,63 @@
    }
   },
   {
+   "id": "ll2-b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
+   "title": {
+    "pl": "Long March 2D | Unknown Payload",
+    "en": "Long March 2D | Unknown Payload"
+   },
+   "starts_at": "2026-11-26T09:35:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Long March 2D – China Aerospace Science and Technology Corporation. Miejsce: Xichang Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Long March 2D, operated by China Aerospace Science and Technology Corporation. Site: Xichang Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "China Aerospace Science and Technology Corporation",
+     "en": "China Aerospace Science and Technology Corporation"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Xichang Satellite Launch Center, People's Republic of China",
+    "en": "Xichang Satellite Launch Center, People's Republic of China"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-20",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-dff42a2e-f047-48d7-b260-3888d3a4fe33",
    "title": {
     "pl": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
@@ -1194,7 +1196,7 @@
     "pl": "Electron | Night Owls Never Sleep (StriX Launch 14)",
     "en": "Electron | Night Owls Never Sleep (StriX Launch 14)"
    },
-   "starts_at": "2026-11-27T00:00:00Z",
+   "starts_at": "2026-11-27T00:05:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -1241,8 +1243,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-11-30T00:00:00Z",
-   "updated_on": "2026-11-20",
    "poland": {
     "visible": false
    }
@@ -2012,8 +2012,6 @@
    "extra": {
     "status": "To Be Confirmed"
    },
-   "rescheduled_from": "2026-11-24T07:00:00Z",
-   "updated_on": "2026-11-20",
    "poland": {
     "visible": false
    }
@@ -2843,8 +2841,6 @@
    "extra": {
     "status": "To Be Determined"
    },
-   "rescheduled_from": "2026-11-30T00:00:00Z",
-   "updated_on": "2026-11-20",
    "poland": {
     "visible": false
    }
