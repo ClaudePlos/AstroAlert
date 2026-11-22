@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:38:53Z",
+ "generated_at": "2026-11-22T23:34:19Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -285,7 +285,7 @@
     "pl": "Soyuz 2.1b | Progress MS-36 (97P)",
     "en": "Soyuz 2.1b | Progress MS-36 (97P)"
    },
-   "starts_at": "2026-11-24T05:03:00Z",
+   "starts_at": "2026-11-24T10:13:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -332,6 +332,8 @@
    "extra": {
     "status": "To Be Confirmed"
    },
+   "rescheduled_from": "2026-11-24T05:03:00Z",
+   "updated_on": "2026-11-22",
    "poland": {
     "visible": false
    }
