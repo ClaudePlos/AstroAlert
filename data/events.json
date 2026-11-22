@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:09:10Z",
+ "generated_at": "2026-11-22T13:32:26Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,26 +51,26 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-17",
+  "date": "2026-11-22",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
    "pl": "NASA / domena publiczna",
    "en": "NASA / public domain"
   },
-  "explanation": "Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast, is an auroral ribbon that is only hours old, composed of energized atoms and molecules, and is close by -- right in Earth's upper atmosphere. These chance-superposed titans have our Sun in common, a stellar member of the Milky Way that ejects energetic particles which create auroras. Far behind the middle of the auroral arch is the Big Dipper. Even farther in the distance is the Andromeda galaxy -- the bright spot near the top of the frame, just left of center. The featured image was taken about a month ago from Kvaløya in northern Norway.Tomorrow's picture: open space\t\t\t\t\t\t",
-  "link": "https://apod.nasa.gov/apod/ap261117.html"
+  "explanation": "What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium, elements which are colorless at the low temperatures of the Jovian cloud tops. Which trace molecules provide the colors remains a topic of research, although small amounts of ammonium hydrosulfide are one leading candidate. What is clear from the featured color-enhanced image -- and many similar images -- is that lighter clouds are typically higher up than darker ones. Pictured, light clouds swirl around reddish regions toward the lower right, while they appear to cover over some darker domains on the upper right. The featured image was taken by the robotic Juno spacecraft in 2018 during its 14th low pass over Jupiter. Juno continues in its looping elliptical orbit, swooping near the huge planet every 33 days and exploring a slightly different sector each time around.Tomorrow's picture: emerging darkness\t\t\t\t\t\t",
+  "link": "https://apod.nasa.gov/apod/ap261122.html"
  },
  "stats": {
   "total": 141,
-  "upcoming": 140,
+  "upcoming": 139,
   "poland": 35,
-  "new_today": 3,
+  "new_today": 2,
   "by_category": {
    "sky": 110,
    "launch": 25,
    "spaceweather": 0,
-   "asteroid": 5,
+   "asteroid": 4,
    "mission": 0
   }
  },
@@ -213,63 +213,6 @@
      312
     ],
     "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-951a341f-236b-42fe-a667-4ab2fcf36eac",
-   "title": {
-    "pl": "Falcon 9 Block 5 | NROL-136",
-    "en": "Falcon 9 Block 5 | NROL-136"
-   },
-   "starts_at": "2026-11-22T12:23:56Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: potwierdzony. Misja: Fifteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: confirmed. Mission: Fifteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/951a341f-236b-42fe-a667-4ab2fcf36eac/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Vandenberg SFB, CA, USA",
-    "en": "Vandenberg SFB, CA, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-12",
-   "extra": {
-    "status": "Go for Launch"
    },
    "poland": {
     "visible": false
@@ -745,63 +688,6 @@
    "added_on": "2026-11-20",
    "extra": {
     "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-dff42a2e-f047-48d7-b260-3888d3a4fe33",
-   "title": {
-    "pl": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
-    "en": "Spectrum | AT-Astra and Others (Spectrum Flight 3)"
-   },
-   "starts_at": "2026-11-26T20:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Spectrum – Isar Aerospace. Miejsce: Andøya Spaceport. Status terminu: termin do potwierdzenia. Misja: Third test flight of the Isar Spectrum launch vehicle. This launch will carry various satellites including R-Space’s AT-Astra/IOD-01, which will perform in-orbit demonstrations for ENPULSION, SUNBOOSTER GmbH, and Synopsis Planet. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Spectrum, operated by Isar Aerospace. Site: Andøya Spaceport. Schedule status: date to be confirmed. Mission: Third test flight of the Isar Spectrum launch vehicle. This launch will carry various satellites including R-Space’s AT-Astra/IOD-01, which will perform in-orbit demonstrations for ENPULSION, SUNBOOSTER GmbH, and Synopsis Planet. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Isar Aerospace",
-     "en": "Isar Aerospace"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/dff42a2e-f047-48d7-b260-3888d3a4fe33/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Andøya Spaceport",
-    "en": "Andøya Spaceport"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-10-29",
-   "extra": {
-    "status": "To Be Confirmed"
    },
    "poland": {
     "visible": false
@@ -2693,6 +2579,120 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-21",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-912a8aee-8fc2-47b4-81a5-040fa0e0a36f",
+   "title": {
+    "pl": "Vega-C | IRIDE 1",
+    "en": "Vega-C | IRIDE 1"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Vega-C – Avio S.p.A. Miejsce: Guiana Space Centre, French Guiana. Status terminu: termin wstępny. Misja: First dedicated launch for the European Space Agency's IRIDE Earth observation constellation, with six satellites onboard. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Vega-C, operated by Avio S.p.A. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: First dedicated launch for the European Space Agency's IRIDE Earth observation constellation, with six satellites onboard. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Avio S.p.A",
+     "en": "Avio S.p.A"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/912a8aee-8fc2-47b4-81a5-040fa0e0a36f/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Guiana Space Centre, French Guiana",
+    "en": "Guiana Space Centre, French Guiana"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-22",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-548df42c-ae26-4cc9-921a-f0042941911a",
+   "title": {
+    "pl": "Electron | BlackSky Gen-3 6",
+    "en": "Electron | BlackSky Gen-3 6"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: termin wstępny. Misja: BlackSky Gen-3 Earth-imaging satellites Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: date to be determined. Mission: BlackSky Gen-3 Earth-imaging satellites Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "Rocket Lab",
+     "en": "Rocket Lab"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/548df42c-ae26-4cc9-921a-f0042941911a/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-22",
    "extra": {
     "status": "To Be Determined"
    },
