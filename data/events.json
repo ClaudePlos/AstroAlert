@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:55:04Z",
+ "generated_at": "2026-11-24T03:56:23Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 141,
   "upcoming": 141,
   "poland": 35,
-  "new_today": 3,
+  "new_today": 1,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -103,7 +103,7 @@
     "pl": "Soyuz 2.1b | Progress MS-36 (97P)",
     "en": "Soyuz 2.1b | Progress MS-36 (97P)"
    },
-   "starts_at": "2026-11-24T10:13:00Z",
+   "starts_at": "2026-11-24T10:17:00Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -286,7 +286,7 @@
     "pl": "Falcon 9 Block 5 | USSF-266",
     "en": "Falcon 9 Block 5 | USSF-266"
    },
-   "starts_at": "2026-11-24T15:55:00Z",
+   "starts_at": "2026-11-24T16:08:59Z",
    "category": "launch",
    "subcategory": "rocket",
    "importance": 2,
@@ -333,6 +333,8 @@
    "extra": {
     "status": "Go for Launch"
    },
+   "rescheduled_from": "2026-11-24T15:55:00Z",
+   "updated_on": "2026-11-24",
    "poland": {
     "visible": false
    }
@@ -811,66 +813,6 @@
    }
   },
   {
-   "id": "neo-3278080-2026-11-28",
-   "title": {
-    "pl": "Przelot planetoidy 2005 JQ81",
-    "en": "Asteroid 2005 JQ81 passes by"
-   },
-   "starts_at": "2026-11-28T17:23:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 253–565 m minie Ziemię w odległości 33,96 mln km, czyli 88,3 odległości Ziemia–Księżyc, z prędkością 22,0 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 253–565 m will pass Earth at 33.96 million km, or 88.3 times the Earth–Moon distance, travelling at 22.0 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3278080"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-21",
-   "extra": {
-    "miss_distance_km": 33956055,
-    "lunar_distances": 88.34,
-    "diameter_m": [
-     253,
-     565
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "ll2-13270554-4bdb-42ae-916f-1bb54492204f",
    "title": {
     "pl": "Long March 6C | Unknown Payload",
@@ -1339,6 +1281,70 @@
    "added_on": "2026-11-20",
    "extra": {
     "status": "Go for Launch"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-2480883-2026-12-01",
+   "title": {
+    "pl": "Przelot planetoidy 480883 (2001 YE4)",
+    "en": "Asteroid 480883 (2001 YE4) passes by"
+   },
+   "starts_at": "2026-12-01T04:49:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 176–393 m minie Ziemię w odległości 10,69 mln km, czyli 27,8 odległości Ziemia–Księżyc, z prędkością 11,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. NASA klasyfikuje ją jako „potencjalnie niebezpieczną” – to jednak wyłącznie techniczna kategoria dla obiektów większych niż ok. 140 m, które zbliżają się do orbity Ziemi. Żaden znany obiekt nie zagraża nam w przewidywalnej przyszłości.",
+    "en": "An asteroid with an estimated diameter of 176–393 m will pass Earth at 10.69 million km, or 27.8 times the Earth–Moon distance, travelling at 11.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. NASA classifies it as “potentially hazardous” – but that is purely a technical category for objects larger than about 140 m whose orbits come close to Earth's. No known object threatens us in the foreseeable future."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    },
+    {
+     "pl": "potencjalnie niebezpieczna",
+     "en": "potentially hazardous"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2480883"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-24",
+   "extra": {
+    "miss_distance_km": 10693016,
+    "lunar_distances": 27.82,
+    "diameter_m": [
+     176,
+     393
+    ],
+    "hazardous": true
    },
    "poland": {
     "visible": false
