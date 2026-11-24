@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 24 Nov 2026 16:13:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 21:31:12 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | Amazon Leo (LF-04)</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-9b9db235-8ffb-4569-b09b-0e852ad231a0</link>
+    <guid isPermaLink="false">ll2-9b9db235-8ffb-4569-b09b-0e852ad231a0</guid>
+    <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit designed to offer broadband internet access managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/9b9db235-8ffb-4569-b09b-0e852ad231a0/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Electron | BlackSky Gen-3 6</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-548df42c-ae26-4cc9-921a-f0042941911a</link>
@@ -70,14 +78,6 @@ This launch will feature 3 satellites. Launch dates slip often – check the cur
     <pubDate>Sun, 22 Nov 2026 09:00:00 +0000</pubDate>
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Vega-C, operated by Avio S.p.A. Site: Guiana Space Centre, French Guiana. Schedule status: date to be determined. Mission: First dedicated launch for the European Space Agency's IRIDE Earth observation constellation, with six satellites onboard. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/912a8aee-8fc2-47b4-81a5-040fa0e0a36f/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>LVM-3 | Gaganyaan-1</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-dfac5ab7-7017-454f-b6cf-eeed277a97b5</link>
-    <guid isPermaLink="false">ll2-dfac5ab7-7017-454f-b6cf-eeed277a97b5</guid>
-    <pubDate>Sat, 21 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Launch Vehicle Mark-3 (GSLV Mk III), operated by Indian Space Research Organization. Site: Satish Dhawan Space Centre, India. Schedule status: date to be determined. Mission: First uncrewed orbital test flight of the Gaganyaan capsule. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/dfac5ab7-7017-454f-b6cf-eeed277a97b5/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Asteroid 217628 Lugh (1990 HA) passes by</title>
@@ -307,7 +307,7 @@ The constellation will eventually consists of 13000 satellites. Launch dates sli
     <category>Rocket launches</category>
     <description>&lt;p&gt;&lt;strong&gt;25.11.2026, 00:18 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Long March 2F/G, operated by China Aerospace Science and Technology Corporation. Site: Jiuquan Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Shenzhou 24 will be the 24th flight of the Shenzhou program.
 
-The first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+The first astronaut from Pakistan, Muhammad Zeeshan Ali, will fly on this on a short duration mission, with Chinese astronaut Zhu Yangzhu of Shenzhou 23 to undergo a year long expedition and stay on the CSS in exchange. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Conjunction of Venus and Mars</title>
