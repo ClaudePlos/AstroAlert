@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:57:17Z",
+ "generated_at": "2026-11-25T20:39:10Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -1381,6 +1381,69 @@
    }
   },
   {
+   "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+   "title": {
+    "pl": "Falcon 9 Block 5 | CHORUS",
+    "en": "Falcon 9 Block 5 | CHORUS"
+   },
+   "starts_at": "2026-12-04T12:55:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: potwierdzony. Misja: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission.\r\n\r\nAlso on board this mission are 2 satellites from ICEYE and PECCY. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: confirmed. Mission: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission.\r\n\r\nAlso on board this mission are 2 satellites from ICEYE and PECCY. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Cape Canaveral SFS, FL, USA",
+    "en": "Cape Canaveral SFS, FL, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-05",
+   "extra": {
+    "status": "Go for Launch"
+   },
+   "rescheduled_from": "2026-12-31T00:00:00Z",
+   "updated_on": "2026-11-25",
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Misja z polskim wątkiem.",
+     "en": "A mission with a Polish connection."
+    }
+   }
+  },
+  {
    "id": "now-2026-12-09-baa12ac5",
    "title": {
     "pl": "Nów",
@@ -1702,8 +1765,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-12-17T00:00:00Z",
-   "updated_on": "2026-11-25",
    "poland": {
     "visible": false
    }
@@ -2096,63 +2157,6 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-24",
-   "extra": {
-    "status": "To Be Determined"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
-   "title": {
-    "pl": "Falcon 9 Block 5 | CHORUS",
-    "en": "Falcon 9 Block 5 | CHORUS"
-   },
-   "starts_at": "2026-12-31T00:00:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Cape Canaveral SFS, FL, USA. Status terminu: termin wstępny. Misja: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Cape Canaveral SFS, FL, USA. Schedule status: date to be determined. Mission: CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "SpaceX",
-     "en": "SpaceX"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Cape Canaveral SFS, FL, USA",
-    "en": "Cape Canaveral SFS, FL, USA"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-05",
    "extra": {
     "status": "To Be Determined"
    },
