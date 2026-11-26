@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:39:10Z",
+ "generated_at": "2026-11-26T01:45:14Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -51,7 +51,7 @@
  ],
  "apod": {
   "title": "NASA Science",
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "hdimage": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
   "credit": {
@@ -59,15 +59,15 @@
    "en": "NASA / public domain"
   },
   "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
-  "link": "https://apod.nasa.gov/apod/ap261125.html"
+  "link": "https://apod.nasa.gov/apod/ap261126.html"
  },
  "stats": {
   "total": 144,
-  "upcoming": 143,
-  "poland": 35,
-  "new_today": 5,
+  "upcoming": 142,
+  "poland": 34,
+  "new_today": 1,
   "by_category": {
-   "sky": 111,
+   "sky": 110,
    "launch": 25,
    "spaceweather": 2,
    "asteroid": 5,
@@ -221,66 +221,6 @@
     },
     "max_altitude": 58.7,
     "best_time": "2026-11-25T22:30:00Z"
-   }
-  },
-  {
-   "id": "neo-3683468-2026-11-26",
-   "title": {
-    "pl": "Przelot planetoidy 2014 QR295",
-    "en": "Asteroid 2014 QR295 passes by"
-   },
-   "starts_at": "2026-11-26T06:50:00Z",
-   "category": "asteroid",
-   "subcategory": "close-approach",
-   "importance": 3,
-   "summary": {
-    "pl": "Planetoida o średnicy szacowanej na 558–1 247 m minie Ziemię w odległości 41,85 mln km, czyli 108,9 odległości Ziemia–Księżyc, z prędkością 17,2 km/s. Dla skali: obiekt tej skali to już poważny gracz w katalogu planetoid bliskich Ziemi. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
-    "en": "An asteroid with an estimated diameter of 558–1,247 m will pass Earth at 41.85 million km, or 108.9 times the Earth–Moon distance, travelling at 17.2 km/s. For scale: an object of this scale is a heavyweight in the catalogue of near-Earth asteroids. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
-   },
-   "tags": [
-    {
-     "pl": "planetoida",
-     "en": "asteroid"
-    },
-    {
-     "pl": "NEO",
-     "en": "NEO"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Karta obiektu w bazie JPL",
-      "en": "Object record in the JPL database"
-     },
-     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3683468"
-    },
-    {
-     "label": {
-      "pl": "Najbliższe przeloty – CNEOS",
-      "en": "Upcoming close approaches – CNEOS"
-     },
-     "url": "https://cneos.jpl.nasa.gov/ca/"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NASA NeoWs / CNEOS",
-    "en": "NASA NeoWs / CNEOS"
-   },
-   "source_id": "neows",
-   "added_on": "2026-11-19",
-   "extra": {
-    "miss_distance_km": 41849568,
-    "lunar_distances": 108.87,
-    "diameter_m": [
-     558,
-     1247
-    ],
-    "hazardous": false
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -1381,6 +1321,66 @@
    }
   },
   {
+   "id": "neo-3621568-2026-12-03",
+   "title": {
+    "pl": "Przelot planetoidy 2012 XM145",
+    "en": "Asteroid 2012 XM145 passes by"
+   },
+   "starts_at": "2026-12-03T13:19:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 2,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 221–494 m minie Ziemię w odległości 9,63 mln km, czyli 25,1 odległości Ziemia–Księżyc, z prędkością 13,6 km/s. Dla skali: wielkości niewielkiego wzgórza. To nie jest bliskie spotkanie – obiekt trafia do zestawienia jako jeden z największych mijających nas w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 221–494 m will pass Earth at 9.63 million km, or 25.1 times the Earth–Moon distance, travelling at 13.6 km/s. For scale: roughly the size of a small hill. This is not a close encounter – it makes the list as one of the largest objects passing us this week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3621568"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-26",
+   "extra": {
+    "miss_distance_km": 9633247,
+    "lunar_distances": 25.06,
+    "diameter_m": [
+     221,
+     494
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
    "id": "ll2-8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
    "title": {
     "pl": "Falcon 9 Block 5 | CHORUS",
@@ -1433,8 +1433,6 @@
    "extra": {
     "status": "Go for Launch"
    },
-   "rescheduled_from": "2026-12-31T00:00:00Z",
-   "updated_on": "2026-11-25",
    "poland": {
     "visible": true,
     "note": {
