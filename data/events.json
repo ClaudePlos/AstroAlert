@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T01:45:14Z",
+ "generated_at": "2026-11-26T15:39:17Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -65,7 +65,7 @@
   "total": 144,
   "upcoming": 142,
   "poland": 34,
-  "new_today": 1,
+  "new_today": 2,
   "by_category": {
    "sky": 110,
    "launch": 25,
@@ -221,63 +221,6 @@
     },
     "max_altitude": 58.7,
     "best_time": "2026-11-25T22:30:00Z"
-   }
-  },
-  {
-   "id": "ll2-b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
-   "title": {
-    "pl": "Long March 2D | Unknown Payload",
-    "en": "Long March 2D | Unknown Payload"
-   },
-   "starts_at": "2026-11-26T09:35:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Long March 2D – China Aerospace Science and Technology Corporation. Miejsce: Xichang Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Long March 2D, operated by China Aerospace Science and Technology Corporation. Site: Xichang Satellite Launch Center, People's Republic of China. Schedule status: confirmed. Mission: Details TBD. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "China Aerospace Science and Technology Corporation",
-     "en": "China Aerospace Science and Technology Corporation"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Xichang Satellite Launch Center, People's Republic of China",
-    "en": "Xichang Satellite Launch Center, People's Republic of China"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-20",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
    }
   },
   {
@@ -584,7 +527,7 @@
    "source_id": "neows",
    "added_on": "2026-11-21",
    "extra": {
-    "miss_distance_km": 10586566,
+    "miss_distance_km": 10586567,
     "lunar_distances": 27.54,
     "diameter_m": [
      1226,
@@ -1251,7 +1194,7 @@
    "source_id": "neows",
    "added_on": "2026-11-25",
    "extra": {
-    "miss_distance_km": 13004034,
+    "miss_distance_km": 13004033,
     "lunar_distances": 33.83,
     "diameter_m": [
      208,
@@ -2782,6 +2725,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-25",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-dca8749f-1552-485a-8061-f1ad79055b8d",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C",
+    "en": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer C is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Tracking Layer C is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/dca8749f-1552-485a-8061-f1ad79055b8d/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-26",
    "extra": {
     "status": "To Be Determined"
    },

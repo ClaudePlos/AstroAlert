@@ -4,7 +4,15 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 01:45:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 15:39:17 +0000</lastBuildDate>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-dca8749f-1552-485a-8061-f1ad79055b8d</link>
+    <guid isPermaLink="false">ll2-dca8749f-1552-485a-8061-f1ad79055b8d</guid>
+    <pubDate>Thu, 26 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer C is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/dca8749f-1552-485a-8061-f1ad79055b8d/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Przelot planetoidy 2012 XM145</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3621568-2026-12-03</link>
@@ -150,14 +158,6 @@ This launch will feature 3 satellites. Terminy startów zmieniają się często 
     <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
     <category>Starty rakiet</category>
     <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 13:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 6A – China Aerospace Science and Technology Corporation. Miejsce: Taiyuan Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a6421db3-7c8a-4cf7-a659-cec195140f7f/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Long March 2D | Unknown Payload</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4</link>
-    <guid isPermaLink="false">ll2-b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4</guid>
-    <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;26.11.2026, 09:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Long March 2D – China Aerospace Science and Technology Corporation. Miejsce: Xichang Satellite Launch Center, People's Republic of China. Status terminu: potwierdzony. Misja: Details TBD. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E</title>
