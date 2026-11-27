@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl</link>
   <description>Codziennie aktualizowany przegląd wydarzeń astronomicznych i kosmicznych: zaćmienia, koniunkcje, roje meteorów, starty rakiet, zorze polarne i bliskie przeloty planetoid.</description>
   <language>pl-PL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 20:31:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 01:41:32 +0000</lastBuildDate>
+  <item>
+    <title>Zbliżenie Księżyca i Wenus</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#zblizenie-ksiezyca-i-wenus-2027-12-30-7d53c33a</link>
+    <guid isPermaLink="false">zblizenie-ksiezyca-i-wenus-2027-12-30-7d53c33a</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Niebo nad nami</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.12.2027, 23:17 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc przechodzi w odległości zaledwie 2,9° od Wenus – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Koziorożca. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-a9ee8337-127d-4f17-9e3a-a07999f80099</link>
+    <guid isPermaLink="false">ll2-a9ee8337-127d-4f17-9e3a-a07999f80099</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Starty rakiet</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer D is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a9ee8337-127d-4f17-9e3a-a07999f80099/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Bliski przelot planetoidy 2019 XF2</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#neo-3906633-2026-12-04</link>
+    <guid isPermaLink="false">neo-3906633-2026-12-04</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Planetoidy</category>
+    <description>&lt;p&gt;&lt;strong&gt;04.12.2026, 00:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Planetoida o średnicy szacowanej na 10–23 m minie Ziemię w odległości 1,19 mln km, czyli 3,1 odległości Ziemia–Księżyc, z prędkością 10,2 km/s. Dla skali: obiekt tej wielkości spłonąłby w atmosferze jako jasny bolid. To jedno z bliższych zbliżeń w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3906633&quot;&gt;Karta obiektu w bazie JPL&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Najbliższe przeloty – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-dca8749f-1552-485a-8061-f1ad79055b8d</link>
@@ -51,15 +75,7 @@
     <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-27-52a2751f</guid>
     <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
     <category>Pogoda kosmiczna</category>
-    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Burza geomagnetyczna G1 – szansa na zorzę polarną</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-26-523f7a80</link>
-    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-26-523f7a80</guid>
-    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Pogoda kosmiczna</category>
-    <description>&lt;p&gt;&lt;strong&gt;26.11.2026, 21:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 06:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;Prognoza zorzy NOAA (30 min)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Aktualny indeks Kp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/pl.html&quot;&gt;SpaceWeatherLive – zorze na żywo&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | Amazon Leo (LF-04)</title>
@@ -208,14 +224,6 @@ This launch will feature 3 satellites. Terminy startów zmieniają się często 
     <description>&lt;p&gt;&lt;strong&gt;20.12.2027, 09:07 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę ostatniej kwadry w gwiazdozbiorze Lwa. Odległość od Ziemi: 372 519 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Electron | Night Owls Never Sleep (StriX Launch 14)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</link>
-    <guid isPermaLink="false">ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</guid>
-    <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Starty rakiet</category>
-    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 00:05 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2093e4fc-ac8c-4296-a1b5-deececee6a72/&quot;&gt;Szczegóły misji&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Kalendarz startów – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</link>
     <guid isPermaLink="false">ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</guid>
@@ -324,13 +332,5 @@ The constellation will eventually consists of 13000 satellites. Terminy startów
     <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
     <category>Niebo nad nami</category>
     <description>&lt;p&gt;&lt;strong&gt;30.11.2027, 08:17 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc przechodzi w odległości zaledwie 1,5° od Marsa – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Strzelca. Wyraźnie pomarańczowy punkt. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Nów</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=pl#now-2027-11-28-cb433cdc</link>
-    <guid isPermaLink="false">now-2027-11-28-cb433cdc</guid>
-    <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    <category>Niebo nad nami</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.11.2027, 03:24 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Księżyc wchodzi w fazę nowiu w gwiazdozbiorze Skorpiona. Odległość od Ziemi: 388 429 km. Bezksiężycowe noce wokół tej daty to najlepszy moment w miesiącu na obserwacje galaktyk, mgławic i Drogi Mlecznej.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Fazy Księżyca – kalendarz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Mapa nieba na dziś (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Kalendarium – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

@@ -4,7 +4,31 @@
   <link>https://ClaudePlos.github.io/AstroAlert/?lang=en</link>
   <description>A daily updated guide to astronomical and space events: eclipses, conjunctions, meteor showers, rocket launches, aurorae and close approaches of asteroids.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 26 Nov 2026 20:31:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 01:41:32 +0000</lastBuildDate>
+  <item>
+    <title>The Moon meets Venus</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#zblizenie-ksiezyca-i-wenus-2027-12-30-7d53c33a</link>
+    <guid isPermaLink="false">zblizenie-ksiezyca-i-wenus-2027-12-30-7d53c33a</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+    <category>The sky above</category>
+    <description>&lt;p&gt;&lt;strong&gt;30.12.2027, 23:17 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon passes just 2.9° from Venus – the pair is visible in the evening, after sunset, in Capricornus. The brightest point in the sky after the Sun and the Moon. A striking naked-eye sight and a rewarding subject for a short telephoto lens.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-a9ee8337-127d-4f17-9e3a-a07999f80099</link>
+    <guid isPermaLink="false">ll2-a9ee8337-127d-4f17-9e3a-a07999f80099</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Rocket launches</category>
+    <description>&lt;p&gt;&lt;strong&gt;31.12.2026, 00:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Tracking Layer D is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/a9ee8337-127d-4f17-9e3a-a07999f80099/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Close approach of asteroid 2019 XF2</title>
+    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#neo-3906633-2026-12-04</link>
+    <guid isPermaLink="false">neo-3906633-2026-12-04</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Asteroids</category>
+    <description>&lt;p&gt;&lt;strong&gt;04.12.2026, 00:35 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An asteroid with an estimated diameter of 10–23 m will pass Earth at 1.19 million km, or 3.1 times the Earth–Moon distance, travelling at 10.2 km/s. For scale: an object this size would burn up in the atmosphere as a bright fireball. This is one of the closer approaches of the week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3906633&quot;&gt;Object record in the JPL database&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cneos.jpl.nasa.gov/ca/&quot;&gt;Upcoming close approaches – CNEOS&lt;/a&gt;&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-dca8749f-1552-485a-8061-f1ad79055b8d</link>
@@ -51,15 +75,7 @@
     <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-27-52a2751f</guid>
     <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
     <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 03:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>G1 geomagnetic storm – chance of aurora</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-26-523f7a80</link>
-    <guid isPermaLink="false">burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-26-523f7a80</guid>
-    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Space weather</category>
-    <description>&lt;p&gt;&lt;strong&gt;26.11.2026, 21:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 06:00 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/aurora-30-minute-forecast&quot;&gt;NOAA 30-minute aurora forecast&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/products/planetary-k-index&quot;&gt;Current Kp index&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.spaceweatherlive.com/en.html&quot;&gt;SpaceWeatherLive – aurora in real time&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
     <title>Falcon 9 Block 5 | Amazon Leo (LF-04)</title>
@@ -208,14 +224,6 @@ This launch will feature 3 satellites. Launch dates slip often – check the cur
     <description>&lt;p&gt;&lt;strong&gt;20.12.2027, 09:07 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches last quarter in Leo. Distance from Earth: 372,519 km.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Electron | Night Owls Never Sleep (StriX Launch 14)</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</link>
-    <guid isPermaLink="false">ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72</guid>
-    <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
-    <category>Rocket launches</category>
-    <description>&lt;p&gt;&lt;strong&gt;27.11.2026, 00:05 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Launch dates slip often – check the current status before tuning into a webcast.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thespacedevs.com/2.3.0/launches/2093e4fc-ac8c-4296-a1b5-deececee6a72/&quot;&gt;Mission details&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://spacelaunchnow.me/&quot;&gt;Launch schedule – Space Launch Now&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D</title>
     <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</link>
     <guid isPermaLink="false">ll2-71df1dd0-d658-4762-b0bc-0fca6886aea7</guid>
@@ -324,13 +332,5 @@ The constellation will eventually consists of 13000 satellites. Launch dates sli
     <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
     <category>The sky above</category>
     <description>&lt;p&gt;&lt;strong&gt;30.11.2027, 08:17 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon passes just 1.5° from Mars – the pair is visible in the evening, after sunset, in Sagittarius. A distinctly orange point of light. A striking naked-eye sight and a rewarding subject for a short telephoto lens.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>New Moon</title>
-    <link>https://ClaudePlos.github.io/AstroAlert/?lang=en#now-2027-11-28-cb433cdc</link>
-    <guid isPermaLink="false">now-2027-11-28-cb433cdc</guid>
-    <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    <category>The sky above</category>
-    <description>&lt;p&gt;&lt;strong&gt;28.11.2027, 03:24 UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Moon reaches its new phase in Scorpius. Distance from Earth: 388,429 km. The moonless nights around this date are the best time of the month to hunt for galaxies, nebulae and the Milky Way.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.timeanddate.com/moon/phases/&quot;&gt;Moon phase calendar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://stellarium-web.org/&quot;&gt;Tonight's sky map (Stellarium Web)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://in-the-sky.org/newscal.php&quot;&gt;Calendar – In-The-Sky.org&lt;/a&gt;&lt;/p&gt;</description>
   </item>
 </channel></rss>

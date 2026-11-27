@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:31:52Z",
+ "generated_at": "2026-11-27T01:41:32Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 112
+   "count": 113
   },
   {
    "id": "launchlibrary",
@@ -37,7 +37,7 @@
     "en": "Space weather (NOAA SWPC)"
    },
    "status": "ok",
-   "count": 2
+   "count": 1
   },
   {
    "id": "neows",
@@ -46,7 +46,7 @@
     "en": "Asteroids (NASA NeoWs)"
    },
    "status": "ok",
-   "count": 5
+   "count": 6
   }
  ],
  "apod": {
@@ -62,15 +62,15 @@
   "link": "https://apod.nasa.gov/apod/ap261126.html"
  },
  "stats": {
-  "total": 144,
-  "upcoming": 142,
+  "total": 145,
+  "upcoming": 143,
   "poland": 34,
-  "new_today": 2,
+  "new_today": 3,
   "by_category": {
-   "sky": 110,
+   "sky": 111,
    "launch": 25,
-   "spaceweather": 2,
-   "asteroid": 5,
+   "spaceweather": 1,
+   "asteroid": 6,
    "mission": 0
   }
  },
@@ -224,138 +224,12 @@
    }
   },
   {
-   "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-26-523f7a80",
-   "title": {
-    "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
-    "en": "G1 geomagnetic storm – chance of aurora"
-   },
-   "starts_at": "2026-11-26T21:00:00Z",
-   "category": "spaceweather",
-   "subcategory": "aurora",
-   "importance": 3,
-   "summary": {
-    "pl": "NOAA prognozuje na ten dzień indeks Kp = 5, czyli słaba burza geomagnetyczna (G1). Zorza polarna możliwa nad Skandynawią, Szkocją i Islandią; z Polski raczej nic nie zobaczymy. Prognozy pogody kosmicznej sprawdzają się na 1–3 dni do przodu i potrafią się zmienić z godziny na godzinę.",
-    "en": "NOAA forecasts a Kp index of 5 for this day – a minor geomagnetic storm (G1). Aurora is possible over Scandinavia, Scotland and Iceland; farther south there is little to see. Space weather forecasts are dependable one to three days ahead and can change from hour to hour."
-   },
-   "tags": [
-    {
-     "pl": "zorza polarna",
-     "en": "aurora"
-    },
-    {
-     "pl": "pogoda kosmiczna",
-     "en": "space weather"
-    },
-    {
-     "pl": "G1",
-     "en": "G1"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Prognoza zorzy NOAA (30 min)",
-      "en": "NOAA 30-minute aurora forecast"
-     },
-     "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"
-    },
-    {
-     "label": {
-      "pl": "Aktualny indeks Kp",
-      "en": "Current Kp index"
-     },
-     "url": "https://www.swpc.noaa.gov/products/planetary-k-index"
-    },
-    {
-     "label": {
-      "pl": "SpaceWeatherLive – zorze na żywo",
-      "en": "SpaceWeatherLive – aurora in real time"
-     },
-     "url": {
-      "pl": "https://www.spaceweatherlive.com/pl.html",
-      "en": "https://www.spaceweatherlive.com/en.html"
-     }
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "NOAA Space Weather Prediction Center",
-    "en": "NOAA Space Weather Prediction Center"
-   },
-   "source_id": "swpc",
-   "added_on": "2026-11-25",
-   "extra": {
-    "kp": 5.0
-   },
-   "ephemeral": true,
-   "poland": {
-    "visible": false
-   }
-  },
-  {
-   "id": "ll2-2093e4fc-ac8c-4296-a1b5-deececee6a72",
-   "title": {
-    "pl": "Electron | Night Owls Never Sleep (StriX Launch 14)",
-    "en": "Electron | Night Owls Never Sleep (StriX Launch 14)"
-   },
-   "starts_at": "2026-11-27T00:05:00Z",
-   "category": "launch",
-   "subcategory": "rocket",
-   "importance": 2,
-   "summary": {
-    "pl": "Start rakiety Electron – Rocket Lab. Miejsce: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Status terminu: potwierdzony. Misja: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
-    "en": "Launch of Electron, operated by Rocket Lab. Site: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand. Schedule status: confirmed. Mission: Synthetic aperture radar satellite for Japanese Earth imaging company Synspective. Launch dates slip often – check the current status before tuning into a webcast."
-   },
-   "tags": [
-    {
-     "pl": "start rakiety",
-     "en": "rocket launch"
-    },
-    {
-     "pl": "Rocket Lab",
-     "en": "Rocket Lab"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Szczegóły misji",
-      "en": "Mission details"
-     },
-     "url": "https://thespacedevs.com/2.3.0/launches/2093e4fc-ac8c-4296-a1b5-deececee6a72/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarz startów – Space Launch Now",
-      "en": "Launch schedule – Space Launch Now"
-     },
-     "url": "https://spacelaunchnow.me/"
-    }
-   ],
-   "location": {
-    "pl": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-    "en": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-   },
-   "source": {
-    "pl": "The Space Devs (Launch Library 2)",
-    "en": "The Space Devs (Launch Library 2)"
-   },
-   "source_id": "launchlibrary",
-   "added_on": "2026-11-14",
-   "extra": {
-    "status": "Go for Launch"
-   },
-   "poland": {
-    "visible": false
-   }
-  },
-  {
    "id": "burza-geomagnetyczna-g1-szansa-na-zorze-polarna-2026-11-27-52a2751f",
    "title": {
     "pl": "Burza geomagnetyczna G1 – szansa na zorzę polarną",
     "en": "G1 geomagnetic storm – chance of aurora"
    },
-   "starts_at": "2026-11-27T03:00:00Z",
+   "starts_at": "2026-11-27T06:00:00Z",
    "category": "spaceweather",
    "subcategory": "aurora",
    "importance": 3,
@@ -414,6 +288,8 @@
     "kp": 5.0
    },
    "ephemeral": true,
+   "rescheduled_from": "2026-11-27T03:00:00Z",
+   "updated_on": "2026-11-27",
    "poland": {
     "visible": false
    }
@@ -1316,6 +1192,66 @@
     "diameter_m": [
      221,
      494
+    ],
+    "hazardous": false
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "neo-3906633-2026-12-04",
+   "title": {
+    "pl": "Bliski przelot planetoidy 2019 XF2",
+    "en": "Close approach of asteroid 2019 XF2"
+   },
+   "starts_at": "2026-12-04T00:35:00Z",
+   "category": "asteroid",
+   "subcategory": "close-approach",
+   "importance": 3,
+   "summary": {
+    "pl": "Planetoida o średnicy szacowanej na 10–23 m minie Ziemię w odległości 1,19 mln km, czyli 3,1 odległości Ziemia–Księżyc, z prędkością 10,2 km/s. Dla skali: obiekt tej wielkości spłonąłby w atmosferze jako jasny bolid. To jedno z bliższych zbliżeń w tym tygodniu. Przelot jest całkowicie bezpieczny – takie zbliżenia zdarzają się regularnie i są rutynowo śledzone.",
+    "en": "An asteroid with an estimated diameter of 10–23 m will pass Earth at 1.19 million km, or 3.1 times the Earth–Moon distance, travelling at 10.2 km/s. For scale: an object this size would burn up in the atmosphere as a bright fireball. This is one of the closer approaches of the week. The pass is entirely safe – approaches like this happen regularly and are tracked as a matter of routine."
+   },
+   "tags": [
+    {
+     "pl": "planetoida",
+     "en": "asteroid"
+    },
+    {
+     "pl": "NEO",
+     "en": "NEO"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Karta obiektu w bazie JPL",
+      "en": "Object record in the JPL database"
+     },
+     "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3906633"
+    },
+    {
+     "label": {
+      "pl": "Najbliższe przeloty – CNEOS",
+      "en": "Upcoming close approaches – CNEOS"
+     },
+     "url": "https://cneos.jpl.nasa.gov/ca/"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "NASA NeoWs / CNEOS",
+    "en": "NASA NeoWs / CNEOS"
+   },
+   "source_id": "neows",
+   "added_on": "2026-11-27",
+   "extra": {
+    "miss_distance_km": 1189881,
+    "lunar_distances": 3.1,
+    "diameter_m": [
+     10,
+     23
     ],
     "hazardous": false
    },
@@ -2782,6 +2718,63 @@
    },
    "source_id": "launchlibrary",
    "added_on": "2026-11-26",
+   "extra": {
+    "status": "To Be Determined"
+   },
+   "poland": {
+    "visible": false
+   }
+  },
+  {
+   "id": "ll2-a9ee8337-127d-4f17-9e3a-a07999f80099",
+   "title": {
+    "pl": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D",
+    "en": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D"
+   },
+   "starts_at": "2026-12-31T00:00:00Z",
+   "category": "launch",
+   "subcategory": "rocket",
+   "importance": 2,
+   "summary": {
+    "pl": "Start rakiety Falcon 9 Block 5 – SpaceX. Miejsce: Vandenberg SFB, CA, USA. Status terminu: termin wstępny. Misja: Tranche 1 Tracking Layer D is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Terminy startów zmieniają się często – przed obserwacją transmisji warto sprawdzić aktualny status.",
+    "en": "Launch of Falcon 9 Block 5, operated by SpaceX. Site: Vandenberg SFB, CA, USA. Schedule status: date to be determined. Mission: Tranche 1 Tracking Layer D is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems. Launch dates slip often – check the current status before tuning into a webcast."
+   },
+   "tags": [
+    {
+     "pl": "start rakiety",
+     "en": "rocket launch"
+    },
+    {
+     "pl": "SpaceX",
+     "en": "SpaceX"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Szczegóły misji",
+      "en": "Mission details"
+     },
+     "url": "https://thespacedevs.com/2.3.0/launches/a9ee8337-127d-4f17-9e3a-a07999f80099/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarz startów – Space Launch Now",
+      "en": "Launch schedule – Space Launch Now"
+     },
+     "url": "https://spacelaunchnow.me/"
+    }
+   ],
+   "location": {
+    "pl": "Vandenberg SFB, CA, USA",
+    "en": "Vandenberg SFB, CA, USA"
+   },
+   "source": {
+    "pl": "The Space Devs (Launch Library 2)",
+    "en": "The Space Devs (Launch Library 2)"
+   },
+   "source_id": "launchlibrary",
+   "added_on": "2026-11-27",
    "extra": {
     "status": "To Be Determined"
    },
@@ -9358,6 +9351,74 @@
     },
     "max_altitude": 9.0,
     "best_time": "2027-12-29T15:20:00Z"
+   }
+  },
+  {
+   "id": "zblizenie-ksiezyca-i-wenus-2027-12-30-7d53c33a",
+   "title": {
+    "pl": "Zbliżenie Księżyca i Wenus",
+    "en": "The Moon meets Venus"
+   },
+   "starts_at": "2027-12-30T23:17:00Z",
+   "category": "sky",
+   "subcategory": "conjunction",
+   "importance": 2,
+   "summary": {
+    "pl": "Księżyc przechodzi w odległości zaledwie 2,9° od Wenus – parę widać wieczorem, po zachodzie Słońca, w gwiazdozbiorze Koziorożca. Najjaśniejszy punkt nieba po Słońcu i Księżycu. Efektowny widok gołym okiem i wdzięczny temat na zdjęcie z krótkim teleobiektywem.",
+    "en": "The Moon passes just 2.9° from Venus – the pair is visible in the evening, after sunset, in Capricornus. The brightest point in the sky after the Sun and the Moon. A striking naked-eye sight and a rewarding subject for a short telephoto lens."
+   },
+   "tags": [
+    {
+     "pl": "Księżyc",
+     "en": "Moon"
+    },
+    {
+     "pl": "Wenus",
+     "en": "Venus"
+    },
+    {
+     "pl": "koniunkcja",
+     "en": "conjunction"
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "pl": "Mapa nieba na dziś (Stellarium Web)",
+      "en": "Tonight's sky map (Stellarium Web)"
+     },
+     "url": "https://stellarium-web.org/"
+    },
+    {
+     "label": {
+      "pl": "Kalendarium – In-The-Sky.org",
+      "en": "Calendar – In-The-Sky.org"
+     },
+     "url": "https://in-the-sky.org/newscal.php"
+    }
+   ],
+   "location": null,
+   "source": {
+    "pl": "obliczenia własne (efemerydy)",
+    "en": "own ephemeris calculations"
+   },
+   "source_id": "sky",
+   "added_on": "2026-11-27",
+   "extra": {
+    "separation_deg": 2.89,
+    "bodies": [
+     "Moon",
+     "Venus"
+    ]
+   },
+   "poland": {
+    "visible": true,
+    "note": {
+     "pl": "Parę widać z Polski – maksymalnie 17° nad horyzontem.",
+     "en": "The pair is observable from Poland, up to 17° above the horizon."
+    },
+    "max_altitude": 16.7,
+    "best_time": "2027-12-30T15:20:00Z"
    }
   }
  ]
