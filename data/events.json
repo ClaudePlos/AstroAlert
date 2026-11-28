@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:18:26Z",
+ "generated_at": "2026-11-28T01:25:32Z",
  "site": {
   "title": {
    "pl": "AstroAlert – co ciekawego dzieje się w kosmosie",
@@ -19,7 +19,7 @@
     "en": "Astronomical calculations"
    },
    "status": "ok",
-   "count": 113
+   "count": 112
   },
   {
    "id": "launchlibrary",
@@ -62,10 +62,10 @@
   "link": "https://apod.nasa.gov/apod/ap261126.html"
  },
  "stats": {
-  "total": 144,
+  "total": 143,
   "upcoming": 142,
   "poland": 34,
-  "new_today": 5,
+  "new_today": 0,
   "by_category": {
    "sky": 111,
    "launch": 25,
@@ -97,71 +97,6 @@
   }
  },
  "events": [
-  {
-   "id": "pelnia-ksiezyca-2026-11-24-d0cbf7b8",
-   "title": {
-    "pl": "Pełnia Księżyca",
-    "en": "Full Moon"
-   },
-   "starts_at": "2026-11-24T15:02:00Z",
-   "category": "sky",
-   "subcategory": "moon",
-   "importance": 2,
-   "summary": {
-    "pl": "Księżyc wchodzi w fazę pełni w gwiazdozbiorze Byka. Odległość od Ziemi: 361 093 km.",
-    "en": "The Moon reaches full phase in Taurus. Distance from Earth: 361,093 km."
-   },
-   "tags": [
-    {
-     "pl": "Księżyc",
-     "en": "Moon"
-    },
-    {
-     "pl": "Pełnia Księżyca",
-     "en": "Full Moon"
-    }
-   ],
-   "links": [
-    {
-     "label": {
-      "pl": "Fazy Księżyca – kalendarz",
-      "en": "Moon phase calendar"
-     },
-     "url": "https://www.timeanddate.com/moon/phases/"
-    },
-    {
-     "label": {
-      "pl": "Mapa nieba na dziś (Stellarium Web)",
-      "en": "Tonight's sky map (Stellarium Web)"
-     },
-     "url": "https://stellarium-web.org/"
-    },
-    {
-     "label": {
-      "pl": "Kalendarium – In-The-Sky.org",
-      "en": "Calendar – In-The-Sky.org"
-     },
-     "url": "https://in-the-sky.org/newscal.php"
-    }
-   ],
-   "location": null,
-   "source": {
-    "pl": "obliczenia własne (efemerydy)",
-    "en": "own ephemeris calculations"
-   },
-   "source_id": "sky",
-   "added_on": "2026-08-31",
-   "extra": {},
-   "poland": {
-    "visible": true,
-    "note": {
-     "pl": "Księżyc wznosi się 64° nad polskim horyzontem.",
-     "en": "The Moon climbs 64° above the Polish horizon."
-    },
-    "max_altitude": 64.5,
-    "best_time": "2026-11-24T22:50:00Z"
-   }
-  },
   {
    "id": "opozycja-urana-2026-11-25-c1fcb9f8",
    "title": {
